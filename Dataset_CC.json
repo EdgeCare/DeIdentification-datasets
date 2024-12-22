@@ -1,0 +1,920 @@
+[
+    {
+        "text": "Patient: My name is Emily Clark. I've been feeling dizzy lately.\nDoctor: Emily, do you take any medications prescribed by Dr. Alan Lee at St. Mary's Hospital?",
+        "meta": {
+            "note_id": "101",
+            "patient_id": "3223456"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 20,
+                "end": 31,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 73,
+                "end": 78,
+                "label": "PATIENT"
+            },
+            {
+                "id": "2",
+                "start": 122,
+                "end": 134,
+                "label": "STAFF"
+            },
+            {
+                "id": "3",
+                "start": 138,
+                "end": 157,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I've scheduled an appointment with Dr. Sarah Brown at Mercy Clinic.",
+        "meta": {
+            "note_id": "102",
+            "patient_id": "3334567"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 44,
+                "end": 59,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 63,
+                "end": 75,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Can you confirm if your phone number is 555-987-6543?\nPatient: Yes, that's correct.",
+        "meta": {
+            "note_id": "103",
+            "patient_id": "3445678"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 48,
+                "end": 60,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My husband, Michael, had surgery at County General Hospital.",
+        "meta": {
+            "note_id": "104",
+            "patient_id": "3556789"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 21,
+                "end": 28,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 45,
+                "end": 68,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Was your trip to Paris in late June productive?\nPatient: Yes, it was a business trip.",
+        "meta": {
+            "note_id": "105",
+            "patient_id": "3667890"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 25,
+                "end": 30,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 34,
+                "end": 43,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I was born on September 12, 1990, in Los Angeles.",
+        "meta": {
+            "note_id": "106",
+            "patient_id": "3778901"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 23,
+                "end": 41,
+                "label": "DATE"
+            },
+            {
+                "id": "1",
+                "start": 46,
+                "end": 57,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Have you updated your email?\nPatient: Yes, it's emilyc@gmail.com.",
+        "meta": {
+            "note_id": "107",
+            "patient_id": "3889012"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 56,
+                "end": 72,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My medical ID is MC98765, assigned at St. Joseph's.",
+        "meta": {
+            "note_id": "108",
+            "patient_id": "3990123"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 26,
+                "end": 33,
+                "label": "ID"
+            },
+            {
+                "id": "1",
+                "start": 47,
+                "end": 59,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My daughter's school is in Boston. She's 8 years old.",
+        "meta": {
+            "note_id": "109",
+            "patient_id": "4001234"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 36,
+                "end": 42,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 50,
+                "end": 61,
+                "label": "AGE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Can you recall the date of your last flu shot?\nPatient: It was February 15, 2023.",
+        "meta": {
+            "note_id": "110",
+            "patient_id": "4112345"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 71,
+                "end": 88,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My brother, William, works at Microsoft.",
+        "meta": {
+            "note_id": "111",
+            "patient_id": "4223456"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 21,
+                "end": 28,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 39,
+                "end": 48,
+                "label": "PATORG"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I stayed in a hotel on Main Street, New York, during my trip.",
+        "meta": {
+            "note_id": "112",
+            "patient_id": "4334567"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 32,
+                "end": 53,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Did you consult Dr. Lucy Hale at Family Health Center?",
+        "meta": {
+            "note_id": "113",
+            "patient_id": "4445678"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 24,
+                "end": 37,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 41,
+                "end": 61,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I took a flu shot on March 8, 2023, at City Clinic.",
+        "meta": {
+            "note_id": "114",
+            "patient_id": "4556789"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 30,
+                "end": 43,
+                "label": "DATE"
+            },
+            {
+                "id": "1",
+                "start": 48,
+                "end": 59,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Where does your family live?\nPatient: My parents live in Texas.",
+        "meta": {
+            "note_id": "115",
+            "patient_id": "4667890"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 65,
+                "end": 70,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My boss, Daniel Green, approved my leave.",
+        "meta": {
+            "note_id": "116",
+            "patient_id": "4778901"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 18,
+                "end": 30,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Did your father visit a clinic in Houston?\nPatient: Yes, last month.",
+        "meta": {
+            "note_id": "117",
+            "patient_id": "4889012"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 17,
+                "end": 23,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 42,
+                "end": 49,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 65,
+                "end": 75,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My email is claire89@personalmail.com for contact.",
+        "meta": {
+            "note_id": "118",
+            "patient_id": "4990123"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 21,
+                "end": 46,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Patient: The surgery took place at Regional Health Center on April 10, 2022.",
+        "meta": {
+            "note_id": "119",
+            "patient_id": "5001234"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 35,
+                "end": 57,
+                "label": "HOSP"
+            },
+            {
+                "id": "1",
+                "start": 61,
+                "end": 75,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Can you confirm if you take aspirin prescribed by Dr. Taylor?",
+        "meta": {
+            "note_id": "120",
+            "patient_id": "5112345"
+        },
+        "spans": [
+            {
+                "id": "1",
+                "start": 58,
+                "end": 68,
+                "label": "STAFF"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I traveled to Canada during the summer.",
+        "meta": {
+            "note_id": "121",
+            "patient_id": "5223456"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 23,
+                "end": 29,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 41,
+                "end": 47,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Is your medical insurance through Blue Cross?",
+        "meta": {
+            "note_id": "122",
+            "patient_id": "5334567"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 42,
+                "end": 52,
+                "label": "PATORG"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I visited Dr. Karen Smith at Riverside Hospital last week.",
+        "meta": {
+            "note_id": "123",
+            "patient_id": "5445678"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 19,
+                "end": 34,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 38,
+                "end": 56,
+                "label": "HOSP"
+            },
+            {
+                "id": "2",
+                "start": 57,
+                "end": 66,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Is your address still 123 Maple Street, Springfield?",
+        "meta": {
+            "note_id": "124",
+            "patient_id": "5556789"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 30,
+                "end": 59,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My son Alex, 10 years old, has asthma.",
+        "meta": {
+            "note_id": "125",
+            "patient_id": "5667890"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 16,
+                "end": 20,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 22,
+                "end": 24,
+                "label": "AGE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Did your employer, TechCorp, provide medical insurance?",
+        "meta": {
+            "note_id": "126",
+            "patient_id": "5778901"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 27,
+                "end": 35,
+                "label": "PATORG"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I was prescribed medication by Dr. Angela Wong.",
+        "meta": {
+            "note_id": "127",
+            "patient_id": "5889012"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 40,
+                "end": 55,
+                "label": "STAFF"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Have you visited Central Medical Center for check-ups?",
+        "meta": {
+            "note_id": "128",
+            "patient_id": "5990123"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 25,
+                "end": 47,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My friend's wedding was on May 20, 2023.",
+        "meta": {
+            "note_id": "129",
+            "patient_id": "6001234"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 36,
+                "end": 48,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Did you receive your COVID-19 vaccine at Greenfield Clinic?",
+        "meta": {
+            "note_id": "130",
+            "patient_id": "6112345"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 49,
+                "end": 66,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My cousin works as a nurse at St. Anne's Hospital.",
+        "meta": {
+            "note_id": "131",
+            "patient_id": "6223456"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 39,
+                "end": 58,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Have you updated your phone number?\nPatient: Yes, it's 444-567-8901.",
+        "meta": {
+            "note_id": "132",
+            "patient_id": "6334567"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 63,
+                "end": 75,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My email address is john.doe@mail.com.",
+        "meta": {
+            "note_id": "133",
+            "patient_id": "6445678"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 29,
+                "end": 46,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I was diagnosed with diabetes in March 2018.",
+        "meta": {
+            "note_id": "134",
+            "patient_id": "6556789"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 42,
+                "end": 52,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Can you confirm your ID is A12345?",
+        "meta": {
+            "note_id": "135",
+            "patient_id": "6667890"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 35,
+                "end": 41,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I was admitted to St. Peter's Hospital on July 14th, 2022.",
+        "meta": {
+            "note_id": "136",
+            "patient_id": "6778901"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 27,
+                "end": 47,
+                "label": "HOSP"
+            },
+            {
+                "id": "1",
+                "start": 51,
+                "end": 66,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I visited my uncle in Chicago last winter.",
+        "meta": {
+            "note_id": "137",
+            "patient_id": "6889012"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 31,
+                "end": 38,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 39,
+                "end": 50,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Have you met with Dr. Nathan James at General Health?",
+        "meta": {
+            "note_id": "138",
+            "patient_id": "6990123"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 26,
+                "end": 42,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 46,
+                "end": 60,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My niece, 5 years old, was treated for a fever.",
+        "meta": {
+            "note_id": "139",
+            "patient_id": "7001234"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 19,
+                "end": 20,
+                "label": "AGE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Is this email, contact@service.com, still valid?",
+        "meta": {
+            "note_id": "140",
+            "patient_id": "7112345"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 23,
+                "end": 42,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My father was admitted to Good Samaritan Hospital in September 2021.",
+        "meta": {
+            "note_id": "141",
+            "patient_id": "7223456"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 35,
+                "end": 58,
+                "label": "HOSP"
+            },
+            {
+                "id": "1",
+                "start": 62,
+                "end": 76,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Did you move to Florida last month?",
+        "meta": {
+            "note_id": "142",
+            "patient_id": "7334567"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 24,
+                "end": 31,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 32,
+                "end": 42,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I recently consulted Dr. Samuel Brown at City Clinic.",
+        "meta": {
+            "note_id": "143",
+            "patient_id": "7445678"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 30,
+                "end": 46,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 50,
+                "end": 61,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Is your insurance provided by Sunshine Insurance Co.?",
+        "meta": {
+            "note_id": "144",
+            "patient_id": "7556789"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 38,
+                "end": 60,
+                "label": "PATORG"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I took leave from my job at Microsoft last year.",
+        "meta": {
+            "note_id": "145",
+            "patient_id": "7667890"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 37,
+                "end": 46,
+                "label": "PATORG"
+            },
+            {
+                "id": "1",
+                "start": 47,
+                "end": 56,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: When did you move to Boston?",
+        "meta": {
+            "note_id": "146",
+            "patient_id": "7778901"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 29,
+                "end": 35,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My sister Sarah, 30 years old, also suffers from migraines.",
+        "meta": {
+            "note_id": "147",
+            "patient_id": "7889012"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 19,
+                "end": 24,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 26,
+                "end": 28,
+                "label": "AGE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Can I call you at 333-456-7890 if needed?",
+        "meta": {
+            "note_id": "148",
+            "patient_id": "7990123"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 26,
+                "end": 38,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My nephew was admitted to Elmwood Medical Center last Friday.",
+        "meta": {
+            "note_id": "149",
+            "patient_id": "8001234"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 35,
+                "end": 57,
+                "label": "HOSP"
+            },
+            {
+                "id": "1",
+                "start": 58,
+                "end": 69,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: What's your ZIP code? Patient: It's 12345.",
+        "meta": {
+            "note_id": "150",
+            "patient_id": "8112345"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 44,
+                "end": 49,
+                "label": "LOC"
+            }
+        ]
+    }
+]
