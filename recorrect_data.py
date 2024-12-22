@@ -2,42 +2,7 @@ import json
 
 
 data = [
-    {
-        "text": "Doctor: James needs further evaluation to rule out any heart conditions.",
-        "meta": {
-            "note_id": "462",
-            "patient_id": "33556789"
-        },
-        "spans": [
-            {
-                "id": "0",
-                "start": 8,
-                "end": 13,
-                "label": "PATIENT"
-            }
-        ]
-    },
-    {
-        "text": "Patient: My name is Michael Davis. My email address is michael.davis@xyz.com.",
-        "meta": {
-            "note_id": "463",
-            "patient_id": "33667890"
-        },
-        "spans": [
-            {
-                "id": "0",
-                "start": 14,
-                "end": 27,
-                "label": "PATIENT"
-            },
-            {
-                "id": "1",
-                "start": 46,
-                "end": 72,
-                "label": "EMAIL"
-            }
-        ]
-    }
+    
 ]
 
 new_data = []
@@ -52,7 +17,8 @@ TOKENS = {
     "6": "ID",
     "7": "EMAIL",
     "8": "LOC",
-    "9": "HOSP"
+    "9": "HOSP",
+    "10": "PATORG"
 }
 
 for datapoint in data:
@@ -63,8 +29,10 @@ for datapoint in data:
     length = len(datapoint["text"])
     
     i = 0
+    index = 0
     while True:
         print("\n\n",len(datapoint["spans"]), "|", datapoint["text"])
+        print(' | '.join(i["label"] for i in datapoint["spans"]))
         span_text = input("Enter the span text: ")
 
         if span_text == "":
@@ -75,12 +43,14 @@ for datapoint in data:
             continue
         token = input("Enter the token: ")
 
+        index = index + datapoint["text"][index:].find(span_text)
         new_datapoint["spans"].append({
             "id": i,
-            "start": datapoint["text"].find(span_text),
-            "end": datapoint["text"].find(span_text) + len(span_text),
+            "start": index,
+            "end": index + len(span_text),
             "label": TOKENS[token]
         })
+        index += len(span_text)
 
         i += 1
 
