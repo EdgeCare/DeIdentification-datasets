@@ -33,7 +33,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m John Doe. I have a fever for the last 3 days.\nDoctor: Hello, John. I see your ID is JD12345. Do you recall when it started?\nPatient: Around December 5th, after my trip to New York.",
+        "text": "Patient: Hi, I'm John Doe. I have a fever for the last 3 days.\nDoctor: Hello, John. I see your ID is JD12345. Do you recall when it started?\nPatient: Around December 5th, after my trip to New York.",
         "meta": {
             "note_id": "2",
             "patient_id": "3456789"
@@ -78,7 +78,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, my name is Emily Parker. My email is emily.parker@example.com.\nDoctor: Thank you, Emily. Can I have your phone number for records?\nPatient: Sure, it\u00e2\u20ac\u2122s 123-456-7890.",
+        "text": "Patient: Hi, my name is Emily Parker. My email is emily.parker@example.com.\nDoctor: Thank you, Emily. Can I have your phone number for records?\nPatient: Sure, it's 123-456-7890.",
         "meta": {
             "note_id": "3",
             "patient_id": "5678910"
@@ -111,7 +111,7 @@
         ]
     },
     {
-        "text": "Patient: I am Sophia Green. I work at Google.\nDoctor: Sophia, can you confirm your date of birth?\nPatient: It\u00e2\u20ac\u2122s April 10, 1985.",
+        "text": "Patient: I am Sophia Green. I work at Google.\nDoctor: Sophia, can you confirm your date of birth?\nPatient: It's April 10, 1985.",
         "meta": {
             "note_id": "4",
             "patient_id": "6789123"
@@ -144,7 +144,7 @@
         ]
     },
     {
-        "text": "Doctor: I need your MRN.\nPatient: It\u00e2\u20ac\u2122s 987654321.\nDoctor: Got it. Please continue describing your symptoms.",
+        "text": "Doctor: I need your MRN.\nPatient: It's 987654321.\nDoctor: Got it. Please continue describing your symptoms.",
         "meta": {
             "note_id": "5",
             "patient_id": "7891234"
@@ -159,7 +159,7 @@
         ]
     },
     {
-        "text": "Patient: My son, Daniel, is having trouble breathing.\nDoctor: Daniel? What\u00e2\u20ac\u2122s his age?\nPatient: He\u00e2\u20ac\u2122s 5 years old.",
+        "text": "Patient: My son, Daniel, is having trouble breathing.\nDoctor: Daniel? What's his age?\nPatient: He's 5 years old.",
         "meta": {
             "note_id": "6",
             "patient_id": "8902345"
@@ -234,7 +234,7 @@
         ]
     },
     {
-        "text": "Doctor: Is this for your child?\nPatient: Yes, her name is Lisa, and she\u00e2\u20ac\u2122s 8.",
+        "text": "Doctor: Is this for your child?\nPatient: Yes, her name is Lisa, and she's 8.",
         "meta": {
             "note_id": "9",
             "patient_id": "2345678"
@@ -318,7 +318,7 @@
         ]
     },
     {
-        "text": "Doctor: Can you share your hospital's name?\nPatient: It\u00e2\u20ac\u2122s Mercy General Hospital.",
+        "text": "Doctor: Can you share your hospital's name?\nPatient: It's Mercy General Hospital.",
         "meta": {
             "note_id": "13",
             "patient_id": "6789012"
@@ -537,7 +537,7 @@
         ]
     },
     {
-        "text": "Doctor: What\u00e2\u20ac\u2122s the name of your insurance provider?\nPatient: It\u00e2\u20ac\u2122s Blue Cross Blue Shield.",
+        "text": "Doctor: What's the name of your insurance provider?\nPatient: It's Blue Cross Blue Shield.",
         "meta": {
             "note_id": "24",
             "patient_id": "9012346"
@@ -657,7 +657,7 @@
         ]
     },
     {
-        "text": "Doctor: Can I have your insurance ID?\nPatient: Sure, it\u00e2\u20ac\u2122s INSID-2024.",
+        "text": "Doctor: Can I have your insurance ID?\nPatient: Sure, it's INSID-2024.",
         "meta": {
             "note_id": "30",
             "patient_id": "6789013"
@@ -765,7 +765,7 @@
         ]
     },
     {
-        "text": "Doctor: Do you have an email I can contact you at?\nPatient: Yes, it\u00e2\u20ac\u2122s jane.doe@hospital.org.",
+        "text": "Doctor: Do you have an email I can contact you at?\nPatient: Yes, it's jane.doe@hospital.org.",
         "meta": {
             "note_id": "36",
             "patient_id": "3456789"
@@ -780,7 +780,7 @@
         ]
     },
     {
-        "text": "Patient: My son\u00e2\u20ac\u2122s name is Tyler, and he\u00e2\u20ac\u2122s 7 years old.",
+        "text": "Patient: My son's name is Tyler, and he's 7 years old.",
         "meta": {
             "note_id": "37",
             "patient_id": "4567890"
@@ -939,7 +939,7 @@
         ]
     },
     {
-        "text": "Doctor: What\u00e2\u20ac\u2122s the name of the pharmacy you use?\nPatient: CVS Pharmacy on Elm Street, Austin, TX.",
+        "text": "Doctor: What's the name of the pharmacy you use?\nPatient: CVS Pharmacy on Elm Street, Austin, TX.",
         "meta": {
             "note_id": "46",
             "patient_id": "4567899"
@@ -981,7 +981,7 @@
         ]
     },
     {
-        "text": "Doctor: Your ID shows as PX123456. Can you confirm it?\nPatient: Yes, that\u00e2\u20ac\u2122s correct.",
+        "text": "Doctor: Your ID shows as PX123456. Can you confirm it?\nPatient: Yes, that's correct.",
         "meta": {
             "note_id": "48",
             "patient_id": "6789011"
@@ -1017,7 +1017,7 @@
         ]
     },
     {
-        "text": "Doctor: Please confirm your ZIP code.\nPatient: It\u00e2\u20ac\u2122s 90210.",
+        "text": "Doctor: Please confirm your ZIP code.\nPatient: It's 90210.",
         "meta": {
             "note_id": "50",
             "patient_id": "8901233"
@@ -1104,7 +1104,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m working at Microsoft Corporation as a software engineer.",
+        "text": "Patient: I'm working at Microsoft Corporation as a software engineer.",
         "meta": {
             "note_id": "55",
             "patient_id": "4567898"
@@ -1119,7 +1119,7 @@
         ]
     },
     {
-        "text": "Doctor: Can you confirm your birth date?\nPatient: Yes, it\u00e2\u20ac\u2122s May 15, 1990.",
+        "text": "Doctor: Can you confirm your birth date?\nPatient: Yes, it's May 15, 1990.",
         "meta": {
             "note_id": "56",
             "patient_id": "5678909"
@@ -1155,7 +1155,7 @@
         ]
     },
     {
-        "text": "Doctor: Can I have your fax number?\nPatient: It\u00e2\u20ac\u2122s 555-987-6543.",
+        "text": "Doctor: Can I have your fax number?\nPatient: It's 555-987-6543.",
         "meta": {
             "note_id": "58",
             "patient_id": "7890121"
@@ -1221,7 +1221,7 @@
         ]
     },
     {
-        "text": "Patient: I was treated at St. Mary\u00e2\u20ac\u2122s Hospital in February.",
+        "text": "Patient: I was treated at St. Mary's Hospital in February.",
         "meta": {
             "note_id": "62",
             "patient_id": "8234567"
@@ -1284,7 +1284,7 @@
         ]
     },
     {
-        "text": "Doctor: Could you confirm your email address?\nPatient: Yes, it\u00e2\u20ac\u2122s jane.doe@healthmail.com.",
+        "text": "Doctor: Could you confirm your email address?\nPatient: Yes, it's jane.doe@healthmail.com.",
         "meta": {
             "note_id": "65",
             "patient_id": "5567890"
@@ -1299,7 +1299,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122ve been working at Tesla for the last 5 years.",
+        "text": "Patient: I've been working at Tesla for the last 5 years.",
         "meta": {
             "note_id": "66",
             "patient_id": "4678901"
@@ -1314,7 +1314,7 @@
         ]
     },
     {
-        "text": "Doctor: What is your current ZIP code?\nPatient: It\u00e2\u20ac\u2122s 10001.",
+        "text": "Doctor: What is your current ZIP code?\nPatient: It's 10001.",
         "meta": {
             "note_id": "67",
             "patient_id": "3789012"
@@ -1344,7 +1344,7 @@
         ]
     },
     {
-        "text": "Doctor: What\u00e2\u20ac\u2122s your MRN?\nPatient: It\u00e2\u20ac\u2122s MRN67890.",
+        "text": "Doctor: What's your MRN?\nPatient: It's MRN67890.",
         "meta": {
             "note_id": "69",
             "patient_id": "1901234"
@@ -1524,7 +1524,7 @@
         ]
     },
     {
-        "text": "Doctor: What\u00e2\u20ac\u2122s your driver\u00e2\u20ac\u2122s license number?\nPatient: It\u00e2\u20ac\u2122s DL902345.",
+        "text": "Doctor: What's your driver's license number?\nPatient: It's DL902345.",
         "meta": {
             "note_id": "79",
             "patient_id": "1001234"
@@ -1596,7 +1596,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m currently staying at 345 Elm Street, San Francisco.",
+        "text": "Patient: I'm currently staying at 345 Elm Street, San Francisco.",
         "meta": {
             "note_id": "83",
             "patient_id": "1445678"
@@ -1725,7 +1725,7 @@
         ]
     },
     {
-        "text": "Doctor: What\u00e2\u20ac\u2122s the name of the pharmacy you use?\nPatient: CVS Pharmacy in Chicago.",
+        "text": "Doctor: What's the name of the pharmacy you use?\nPatient: CVS Pharmacy in Chicago.",
         "meta": {
             "note_id": "90",
             "patient_id": "2112345"
@@ -1860,7 +1860,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m currently employed by IBM.",
+        "text": "Patient: I'm currently employed by IBM.",
         "meta": {
             "note_id": "97",
             "patient_id": "2889012"
@@ -1917,7 +1917,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122ve been consulting Dr. Marcus Jones for years.",
+        "text": "Patient: I've been consulting Dr. Marcus Jones for years.",
         "meta": {
             "note_id": "100",
             "patient_id": "3112345"
@@ -1932,7 +1932,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Emily Clark. I\u00e2\u20ac\u2122ve been feeling dizzy lately.\nDoctor: Emily, do you take any medications prescribed by Dr. Alan Lee at St. Mary\u00e2\u20ac\u2122s Hospital?",
+        "text": "Patient: My name is Emily Clark. I've been feeling dizzy lately.\nDoctor: Emily, do you take any medications prescribed by Dr. Alan Lee at St. Mary's Hospital?",
         "meta": {
             "note_id": "101",
             "patient_id": "3223456"
@@ -1959,7 +1959,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122ve scheduled an appointment with Dr. Sarah Brown at Mercy Clinic.",
+        "text": "Patient: I've scheduled an appointment with Dr. Sarah Brown at Mercy Clinic.",
         "meta": {
             "note_id": "102",
             "patient_id": "3334567"
@@ -1980,7 +1980,7 @@
         ]
     },
     {
-        "text": "Doctor: Can you confirm if your phone number is 555-987-6543?\nPatient: Yes, that\u00e2\u20ac\u2122s correct.",
+        "text": "Doctor: Can you confirm if your phone number is 555-987-6543?\nPatient: Yes, that's correct.",
         "meta": {
             "note_id": "103",
             "patient_id": "3445678"
@@ -2058,7 +2058,7 @@
         ]
     },
     {
-        "text": "Doctor: Have you updated your email?\nPatient: Yes, it\u00e2\u20ac\u2122s emilyc@gmail.com.",
+        "text": "Doctor: Have you updated your email?\nPatient: Yes, it's emilyc@gmail.com.",
         "meta": {
             "note_id": "107",
             "patient_id": "3889012"
@@ -2073,7 +2073,7 @@
         ]
     },
     {
-        "text": "Patient: My medical ID is MC98765, assigned at St. Joseph\u00e2\u20ac\u2122s.",
+        "text": "Patient: My medical ID is MC98765, assigned at St. Joseph's.",
         "meta": {
             "note_id": "108",
             "patient_id": "3990123"
@@ -2094,7 +2094,7 @@
         ]
     },
     {
-        "text": "Patient: My daughter\u00e2\u20ac\u2122s school is in Boston. She\u00e2\u20ac\u2122s 8 years old.",
+        "text": "Patient: My daughter's school is in Boston. She's 8 years old.",
         "meta": {
             "note_id": "109",
             "patient_id": "4001234"
@@ -2460,7 +2460,7 @@
         ]
     },
     {
-        "text": "Patient: My friend\u00e2\u20ac\u2122s wedding was on May 20, 2023.",
+        "text": "Patient: My friend's wedding was on May 20, 2023.",
         "meta": {
             "note_id": "129",
             "patient_id": "6001234"
@@ -2490,7 +2490,7 @@
         ]
     },
     {
-        "text": "Patient: My cousin works as a nurse at St. Anne\u00e2\u20ac\u2122s Hospital.",
+        "text": "Patient: My cousin works as a nurse at St. Anne's Hospital.",
         "meta": {
             "note_id": "131",
             "patient_id": "6223456"
@@ -2505,7 +2505,7 @@
         ]
     },
     {
-        "text": "Doctor: Have you updated your phone number?\nPatient: Yes, it\u00e2\u20ac\u2122s 444-567-8901.",
+        "text": "Doctor: Have you updated your phone number?\nPatient: Yes, it's 444-567-8901.",
         "meta": {
             "note_id": "132",
             "patient_id": "6334567"
@@ -2565,7 +2565,7 @@
         ]
     },
     {
-        "text": "Patient: I was admitted to St. Peter\u00e2\u20ac\u2122s Hospital on July 14th, 2022.",
+        "text": "Patient: I was admitted to St. Peter's Hospital on July 14th, 2022.",
         "meta": {
             "note_id": "136",
             "patient_id": "6778901"
@@ -2835,7 +2835,7 @@
         ]
     },
     {
-        "text": "Doctor: What\u00e2\u20ac\u2122s your ZIP code? Patient: It\u00e2\u20ac\u2122s 12345.",
+        "text": "Doctor: What's your ZIP code? Patient: It's 12345.",
         "meta": {
             "note_id": "150",
             "patient_id": "8112345"
@@ -3165,7 +3165,7 @@
         ]
     },
     {
-        "text": "Doctor: Do you recall Dr. Julia Roberts\u00e2\u20ac\u2122 diagnosis from last May?",
+        "text": "Doctor: Do you recall Dr. Julia Roberts' diagnosis from last May?",
         "meta": {
             "note_id": "168",
             "patient_id": "9990123"
@@ -3408,7 +3408,7 @@
         ]
     },
     {
-        "text": "Patient: My uncle\u00e2\u20ac\u2122s ID is UN123456, and he recently visited Redwood Hospital.",
+        "text": "Patient: My uncle's ID is UN123456, and he recently visited Redwood Hospital.",
         "meta": {
             "note_id": "181",
             "patient_id": "11223456"
@@ -3450,7 +3450,7 @@
         ]
     },
     {
-        "text": "Patient: This is Rajesh Patel. My phone number is +1-234-567-8901. Doctor: Thank you, Rajesh. Let\u00e2\u20ac\u2122s check your previous records with ID RP890123.",
+        "text": "Patient: This is Rajesh Patel. My phone number is +1-234-567-8901. Doctor: Thank you, Rajesh. Let's check your previous records with ID RP890123.",
         "meta": {
             "note_id": "183",
             "patient_id": "11445678"
@@ -3741,7 +3741,7 @@
         ]
     },
     {
-        "text": "Patient: My sister\u00e2\u20ac\u2122s phone number is +91-9876543210.",
+        "text": "Patient: My sister's phone number is +91-9876543210.",
         "meta": {
             "note_id": "196",
             "patient_id": "12778901"
@@ -4287,7 +4287,7 @@
         ]
     },
     {
-        "text": "Doctor: Thank you, Abigail. Let\u00e2\u20ac\u2122s verify your address at 456 Pine Street, Denver, CO.",
+        "text": "Doctor: Thank you, Abigail. Let's verify your address at 456 Pine Street, Denver, CO.",
         "meta": {
             "note_id": "224",
             "patient_id": "15556789"
@@ -4527,7 +4527,7 @@
         ]
     },
     {
-        "text": "Doctor: Let\u00e2\u20ac\u2122s review your test results from Lakeside Diagnostic Center dated April 2nd.",
+        "text": "Doctor: Let's review your test results from Lakeside Diagnostic Center dated April 2nd.",
         "meta": {
             "note_id": "236",
             "patient_id": "16778901"
@@ -4647,7 +4647,7 @@
         ]
     },
     {
-        "text": "Doctor: Let\u00e2\u20ac\u2122s update your record with Dr. John Smith at Midtown Health Center.",
+        "text": "Doctor: Let's update your record with Dr. John Smith at Midtown Health Center.",
         "meta": {
             "note_id": "242",
             "patient_id": "17334567"
@@ -4689,7 +4689,7 @@
         ]
     },
     {
-        "text": "Doctor: Thank you, Rajesh. Let\u00e2\u20ac\u2122s check your previous records with ID RP890123.",
+        "text": "Doctor: Thank you, Rajesh. Let's check your previous records with ID RP890123.",
         "meta": {
             "note_id": "244",
             "patient_id": "17556789"
@@ -4794,7 +4794,7 @@
         ]
     },
     {
-        "text": "Patient: My son\u00e2\u20ac\u2122s school is at 123 Maple Avenue, Springfield.",
+        "text": "Patient: My son's school is at 123 Maple Avenue, Springfield.",
         "meta": {
             "note_id": "249",
             "patient_id": "18001234"
@@ -4923,7 +4923,7 @@
         ]
     },
     {
-        "text": "Doctor: Your last visit was on July 18th. Let\u00e2\u20ac\u2122s schedule a follow-up.",
+        "text": "Doctor: Your last visit was on July 18th. Let's schedule a follow-up.",
         "meta": {
             "note_id": "256",
             "patient_id": "18778901"
@@ -4938,7 +4938,7 @@
         ]
     },
     {
-        "text": "Patient: My husband\u00e2\u20ac\u2122s name is Arjun Kumar, and he\u00e2\u20ac\u2122s in room 205.",
+        "text": "Patient: My husband's name is Arjun Kumar, and he's in room 205.",
         "meta": {
             "note_id": "257",
             "patient_id": "18889012"
@@ -5031,7 +5031,7 @@
         ]
     },
     {
-        "text": "Doctor: Let\u00e2\u20ac\u2122s review the prescription from Dr. Linda Scott at Metro Clinic.",
+        "text": "Doctor: Let's review the prescription from Dr. Linda Scott at Metro Clinic.",
         "meta": {
             "note_id": "262",
             "patient_id": "19334567"
@@ -5052,7 +5052,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122ve been working late nights at Google, and now I feel drained.",
+        "text": "Patient: I've been working late nights at Google, and now I feel drained.",
         "meta": {
             "note_id": "263",
             "patient_id": "19445678"
@@ -5082,7 +5082,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Jacob Lee. I\u00e2\u20ac\u2122ve been experiencing severe migraines lately.",
+        "text": "Patient: My name is Jacob Lee. I've been experiencing severe migraines lately.",
         "meta": {
             "note_id": "265",
             "patient_id": "19667890"
@@ -5139,7 +5139,7 @@
         ]
     },
     {
-        "text": "Doctor: Let\u00e2\u20ac\u2122s confirm your ID as JL987654 for the health records.",
+        "text": "Doctor: Let's confirm your ID as JL987654 for the health records.",
         "meta": {
             "note_id": "268",
             "patient_id": "19990123"
@@ -5322,7 +5322,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Emma Thomas. My email is emma.thomas@example.com.",
+        "text": "Patient: I'm Emma Thomas. My email is emma.thomas@example.com.",
         "meta": {
             "note_id": "277",
             "patient_id": "20889012"
@@ -5442,7 +5442,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Carlos Gomez. I was born on April 3rd, 1985, in San Juan, Puerto Rico.",
+        "text": "Patient: I'm Carlos Gomez. I was born on April 3rd, 1985, in San Juan, Puerto Rico.",
         "meta": {
             "note_id": "283",
             "patient_id": "21445678"
@@ -5490,7 +5490,7 @@
         ]
     },
     {
-        "text": "Patient: My father\u00e2\u20ac\u2122s name is James Carter, and his ID is JC112233.",
+        "text": "Patient: My father's name is James Carter, and his ID is JC112233.",
         "meta": {
             "note_id": "285",
             "patient_id": "21667890"
@@ -5511,7 +5511,7 @@
         ]
     },
     {
-        "text": "Doctor: Let\u00e2\u20ac\u2122s review the lab results from January 25th at Mercy Labs.",
+        "text": "Doctor: Let's review the lab results from January 25th at Mercy Labs.",
         "meta": {
             "note_id": "286",
             "patient_id": "21778901"
@@ -5766,7 +5766,7 @@
         ]
     },
     {
-        "text": "Patient: My child\u00e2\u20ac\u2122s doctor is Dr. Kevin Hart at Children\u00e2\u20ac\u2122s Care Hospital.",
+        "text": "Patient: My child's doctor is Dr. Kevin Hart at Children's Care Hospital.",
         "meta": {
             "note_id": "299",
             "patient_id": "23001234"
@@ -5844,7 +5844,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122ve been consulting Dr. Nathan Green at Redwood Medical Center for two months.",
+        "text": "Patient: I've been consulting Dr. Nathan Green at Redwood Medical Center for two months.",
         "meta": {
             "note_id": "303",
             "patient_id": "23445678"
@@ -5907,7 +5907,7 @@
         ]
     },
     {
-        "text": "Doctor: I\u00e2\u20ac\u2122ll refer you to Dr. Samantha Brown at St. Luke\u00e2\u20ac\u2122s Hospital for further evaluation.",
+        "text": "Doctor: I'll refer you to Dr. Samantha Brown at St. Luke's Hospital for further evaluation.",
         "meta": {
             "note_id": "306",
             "patient_id": "23778901"
@@ -6063,7 +6063,7 @@
         ]
     },
     {
-        "text": "Doctor: Let\u00e2\u20ac\u2122s schedule your surgery at Apollo Hospital for November 20th.",
+        "text": "Doctor: Let's schedule your surgery at Apollo Hospital for November 20th.",
         "meta": {
             "note_id": "314",
             "patient_id": "24556789"
@@ -6153,7 +6153,7 @@
         ]
     },
     {
-        "text": "Doctor: Your brother\u00e2\u20ac\u2122s records indicate a consultation with Dr. Emily Rose at Unity Hospital.",
+        "text": "Doctor: Your brother's records indicate a consultation with Dr. Emily Rose at Unity Hospital.",
         "meta": {
             "note_id": "318",
             "patient_id": "24990123"
@@ -6174,7 +6174,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m due for a follow-up appointment at Cleveland Clinic next week.",
+        "text": "Patient: I'm due for a follow-up appointment at Cleveland Clinic next week.",
         "meta": {
             "note_id": "319",
             "patient_id": "25001234"
@@ -6399,7 +6399,7 @@
         ]
     },
     {
-        "text": "Doctor: Let\u00e2\u20ac\u2122s review your prescription records at Central Pharmacy.",
+        "text": "Doctor: Let's review your prescription records at Central Pharmacy.",
         "meta": {
             "note_id": "330",
             "patient_id": "26112345"
@@ -6486,7 +6486,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122ve been consulting with Dr. Jennifer Adams at City Health Services.",
+        "text": "Patient: I've been consulting with Dr. Jennifer Adams at City Health Services.",
         "meta": {
             "note_id": "335",
             "patient_id": "26667890"
@@ -6600,7 +6600,7 @@
         ]
     },
     {
-        "text": "Patient: I have a question regarding Dr. Nathaniel Clarke\u00e2\u20ac\u2122s diagnosis.",
+        "text": "Patient: I have a question regarding Dr. Nathaniel Clarke's diagnosis.",
         "meta": {
             "note_id": "341",
             "patient_id": "27223456"
@@ -6630,7 +6630,7 @@
         ]
     },
     {
-        "text": "Patient: Good morning, Dr. Smith. My name is Linda Davis, and I\u00e2\u20ac\u2122m here about my blood pressure.",
+        "text": "Patient: Good morning, Dr. Smith. My name is Linda Davis, and I'm here about my blood pressure.",
         "meta": {
             "note_id": "343",
             "patient_id": "27445678"
@@ -6672,7 +6672,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, Dr. Brown. I\u00e2\u20ac\u2122m Martin Clark, and I\u00e2\u20ac\u2122m having chest pains since last week.",
+        "text": "Patient: Hello, Dr. Brown. I'm Martin Clark, and I'm having chest pains since last week.",
         "meta": {
             "note_id": "345",
             "patient_id": "27556789"
@@ -6693,7 +6693,7 @@
         ]
     },
     {
-        "text": "Doctor: Martin, let\u00e2\u20ac\u2122s review the report from City Hospital and analyze your symptoms.",
+        "text": "Doctor: Martin, let's review the report from City Hospital and analyze your symptoms.",
         "meta": {
             "note_id": "346",
             "patient_id": "27556789"
@@ -6762,7 +6762,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, Dr. Adams. I\u00e2\u20ac\u2122m John White. Can you review my last test at Central Lab?",
+        "text": "Patient: Hi, Dr. Adams. I'm John White. Can you review my last test at Central Lab?",
         "meta": {
             "note_id": "349",
             "patient_id": "27778901"
@@ -6810,7 +6810,7 @@
         ]
     },
     {
-        "text": "Patient: This is Mike Brown, and I work at Microsoft. I\u00e2\u20ac\u2122ve had migraines since December.",
+        "text": "Patient: This is Mike Brown, and I work at Microsoft. I've had migraines since December.",
         "meta": {
             "note_id": "351",
             "patient_id": "27889012"
@@ -6858,7 +6858,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Natalie King, and my phone number is 987-654-3210.",
+        "text": "Patient: Hello, I'm Natalie King, and my phone number is 987-654-3210.",
         "meta": {
             "note_id": "353",
             "patient_id": "27990123"
@@ -6879,7 +6879,7 @@
         ]
     },
     {
-        "text": "Doctor: Natalie, I\u00e2\u20ac\u2122ll send a confirmation email to natalie.king@mail.com shortly.",
+        "text": "Doctor: Natalie, I'll send a confirmation email to natalie.king@mail.com shortly.",
         "meta": {
             "note_id": "354",
             "patient_id": "27990123"
@@ -6927,7 +6927,7 @@
         ]
     },
     {
-        "text": "Doctor: Ethan, I\u00e2\u20ac\u2122ll verify his vaccine record with the Health Department.",
+        "text": "Doctor: Ethan, I'll verify his vaccine record with the Health Department.",
         "meta": {
             "note_id": "356",
             "patient_id": "28001234"
@@ -6942,7 +6942,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Olivia Roberts, and I just moved to San Diego, California.",
+        "text": "Patient: I'm Olivia Roberts, and I just moved to San Diego, California.",
         "meta": {
             "note_id": "357",
             "patient_id": "28112345"
@@ -7011,7 +7011,7 @@
         ]
     },
     {
-        "text": "Doctor: Robert\u00e2\u20ac\u2122s file shows significant recovery. Let\u00e2\u20ac\u2122s schedule a follow-up on April 5th.",
+        "text": "Doctor: Robert's file shows significant recovery. Let's schedule a follow-up on April 5th.",
         "meta": {
             "note_id": "360",
             "patient_id": "28223456"
@@ -7122,7 +7122,7 @@
         ]
     },
     {
-        "text": "Doctor: Michael\u00e2\u20ac\u2122s condition is stable. He should rest for the next two weeks.",
+        "text": "Doctor: Michael's condition is stable. He should rest for the next two weeks.",
         "meta": {
             "note_id": "365",
             "patient_id": "28556789"
@@ -7137,7 +7137,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Ryan Carter. I work as an engineer at Tesla.",
+        "text": "Patient: Hello, I'm Ryan Carter. I work as an engineer at Tesla.",
         "meta": {
             "note_id": "366",
             "patient_id": "28667890"
@@ -7194,7 +7194,7 @@
         ]
     },
     {
-        "text": "Doctor: Amanda, we can prescribe medication. Let\u00e2\u20ac\u2122s also perform a neurological exam.",
+        "text": "Doctor: Amanda, we can prescribe medication. Let's also perform a neurological exam.",
         "meta": {
             "note_id": "369",
             "patient_id": "28778901"
@@ -7230,7 +7230,7 @@
         ]
     },
     {
-        "text": "Doctor: Jason, let\u00e2\u20ac\u2122s confirm the follow-up on June 3rd at Northside Clinic.",
+        "text": "Doctor: Jason, let's confirm the follow-up on June 3rd at Northside Clinic.",
         "meta": {
             "note_id": "371",
             "patient_id": "28889012"
@@ -7257,7 +7257,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Claire Evans. My email is claire.evans@mail.com, and I need advice about my symptoms.",
+        "text": "Patient: I'm Claire Evans. My email is claire.evans@mail.com, and I need advice about my symptoms.",
         "meta": {
             "note_id": "372",
             "patient_id": "28990123"
@@ -7278,7 +7278,7 @@
         ]
     },
     {
-        "text": "Doctor: Claire, let\u00e2\u20ac\u2122s discuss the details of your condition over a call this week.",
+        "text": "Doctor: Claire, let's discuss the details of your condition over a call this week.",
         "meta": {
             "note_id": "373",
             "patient_id": "28990123"
@@ -7293,7 +7293,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m James Bond, and I recently moved from Los Angeles to San Francisco.",
+        "text": "Patient: I'm James Bond, and I recently moved from Los Angeles to San Francisco.",
         "meta": {
             "note_id": "374",
             "patient_id": "29001234"
@@ -7320,7 +7320,7 @@
         ]
     },
     {
-        "text": "Doctor: James, your relocation updates have been recorded. Let\u00e2\u20ac\u2122s focus on your health goals.",
+        "text": "Doctor: James, your relocation updates have been recorded. Let's focus on your health goals.",
         "meta": {
             "note_id": "375",
             "patient_id": "29001234"
@@ -7335,7 +7335,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Olivia Chen. I have a consultation with Dr. Parker at Hillside Clinic.",
+        "text": "Patient: Hi, I'm Olivia Chen. I have a consultation with Dr. Parker at Hillside Clinic.",
         "meta": {
             "note_id": "376",
             "patient_id": "29112345"
@@ -7404,7 +7404,7 @@
         ]
     },
     {
-        "text": "Doctor: Chris\u00e2\u20ac\u2122s condition has improved. We\u00e2\u20ac\u2122ll follow up in three weeks.",
+        "text": "Doctor: Chris's condition has improved. We'll follow up in three weeks.",
         "meta": {
             "note_id": "379",
             "patient_id": "29223456"
@@ -7434,7 +7434,7 @@
         ]
     },
     {
-        "text": "Doctor: Sarah\u00e2\u20ac\u2122s request for the medical report has been processed and emailed.",
+        "text": "Doctor: Sarah's request for the medical report has been processed and emailed.",
         "meta": {
             "note_id": "381",
             "patient_id": "29334567"
@@ -7470,7 +7470,7 @@
         ]
     },
     {
-        "text": "Doctor: William, let\u00e2\u20ac\u2122s review your test results and discuss further steps.",
+        "text": "Doctor: William, let's review your test results and discuss further steps.",
         "meta": {
             "note_id": "383",
             "patient_id": "29445678"
@@ -7500,7 +7500,7 @@
         ]
     },
     {
-        "text": "Doctor: Lily\u00e2\u20ac\u2122s case requires a thorough examination. Let\u00e2\u20ac\u2122s schedule a session.",
+        "text": "Doctor: Lily's case requires a thorough examination. Let's schedule a session.",
         "meta": {
             "note_id": "385",
             "patient_id": "29556789"
@@ -7515,7 +7515,7 @@
         ]
     },
     {
-        "text": "Patient: This is Kevin Brown. I\u00e2\u20ac\u2122ve been having trouble sleeping for a week.",
+        "text": "Patient: This is Kevin Brown. I've been having trouble sleeping for a week.",
         "meta": {
             "note_id": "386",
             "patient_id": "29667890"
@@ -7536,7 +7536,7 @@
         ]
     },
     {
-        "text": "Doctor: Kevin, we\u00e2\u20ac\u2122ll analyze your sleep patterns. Could you share a few more details?",
+        "text": "Doctor: Kevin, we'll analyze your sleep patterns. Could you share a few more details?",
         "meta": {
             "note_id": "387",
             "patient_id": "29667890"
@@ -7578,7 +7578,7 @@
         ]
     },
     {
-        "text": "Doctor: Anna\u00e2\u20ac\u2122s procedure will be handled by a specialist. Everything is set for February 22nd.",
+        "text": "Doctor: Anna's procedure will be handled by a specialist. Everything is set for February 22nd.",
         "meta": {
             "note_id": "389",
             "patient_id": "29778901"
@@ -7599,7 +7599,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Samantha Davis. I recently moved to Austin from Chicago.",
+        "text": "Patient: Hi, I'm Samantha Davis. I recently moved to Austin from Chicago.",
         "meta": {
             "note_id": "390",
             "patient_id": "29889012"
@@ -7626,7 +7626,7 @@
         ]
     },
     {
-        "text": "Doctor: Samantha, let\u00e2\u20ac\u2122s update your location in the system. Welcome to Austin!",
+        "text": "Doctor: Samantha, let's update your location in the system. Welcome to Austin!",
         "meta": {
             "note_id": "391",
             "patient_id": "29889012"
@@ -7668,7 +7668,7 @@
         ]
     },
     {
-        "text": "Doctor: Jonathan, we\u00e2\u20ac\u2122ll use this email to send you the test reports.",
+        "text": "Doctor: Jonathan, we'll use this email to send you the test reports.",
         "meta": {
             "note_id": "393",
             "patient_id": "29990123"
@@ -7683,7 +7683,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Isabella Torres. I visited Mercy Hospital on January 10th.",
+        "text": "Patient: I'm Isabella Torres. I visited Mercy Hospital on January 10th.",
         "meta": {
             "note_id": "394",
             "patient_id": "30001234"
@@ -7752,7 +7752,7 @@
         ]
     },
     {
-        "text": "Doctor: Emily, we\u00e2\u20ac\u2122ll prepare the certificate. Please wait for 10 minutes.",
+        "text": "Doctor: Emily, we'll prepare the certificate. Please wait for 10 minutes.",
         "meta": {
             "note_id": "397",
             "patient_id": "30112345"
@@ -7788,7 +7788,7 @@
         ]
     },
     {
-        "text": "Doctor: Noah\u00e2\u20ac\u2122s records show steady improvement since his admission last week.",
+        "text": "Doctor: Noah's records show steady improvement since his admission last week.",
         "meta": {
             "note_id": "399",
             "patient_id": "30223456"
@@ -7839,7 +7839,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m 45 years old and experiencing chest pain.",
+        "text": "Patient: I'm 45 years old and experiencing chest pain.",
         "meta": {
             "note_id": "402",
             "patient_id": "30556789"
@@ -7884,7 +7884,7 @@
         ]
     },
     {
-        "text": "Doctor: Let\u00e2\u20ac\u2122s monitor your vitals and take necessary tests, Robert.",
+        "text": "Doctor: Let's monitor your vitals and take necessary tests, Robert.",
         "meta": {
             "note_id": "405",
             "patient_id": "30556789"
@@ -7935,7 +7935,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m struggling to breathe and have a history of asthma.",
+        "text": "Patient: I'm struggling to breathe and have a history of asthma.",
         "meta": {
             "note_id": "408",
             "patient_id": "30889012"
@@ -7950,7 +7950,7 @@
         ]
     },
     {
-        "text": "Doctor: Let\u00e2\u20ac\u2122s conduct a thorough checkup and assess your breathing, Mr. Green.",
+        "text": "Doctor: Let's conduct a thorough checkup and assess your breathing, Mr. Green.",
         "meta": {
             "note_id": "409",
             "patient_id": "30556789"
@@ -7980,7 +7980,7 @@
         ]
     },
     {
-        "text": "Doctor: Mary\u00e2\u20ac\u2122s recovery is progressing well. Keep up with the prescribed medication.",
+        "text": "Doctor: Mary's recovery is progressing well. Keep up with the prescribed medication.",
         "meta": {
             "note_id": "411",
             "patient_id": "30990123"
@@ -7995,7 +7995,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m John Smith. My phone number is 555-1234, and I need help with my back pain.",
+        "text": "Patient: I'm John Smith. My phone number is 555-1234, and I need help with my back pain.",
         "meta": {
             "note_id": "412",
             "patient_id": "31001234"
@@ -8016,7 +8016,7 @@
         ]
     },
     {
-        "text": "Doctor: Let\u00e2\u20ac\u2122s schedule an appointment to assess your back condition, Mr. Smith.",
+        "text": "Doctor: Let's schedule an appointment to assess your back condition, Mr. Smith.",
         "meta": {
             "note_id": "413",
             "patient_id": "31001234"
@@ -8046,7 +8046,7 @@
         ]
     },
     {
-        "text": "Doctor: Let\u00e2\u20ac\u2122s explore the underlying cause of the migraines, Carla.",
+        "text": "Doctor: Let's explore the underlying cause of the migraines, Carla.",
         "meta": {
             "note_id": "415",
             "patient_id": "31112345"
@@ -8061,7 +8061,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m feeling nauseous and have been vomiting since last night.",
+        "text": "Patient: I'm feeling nauseous and have been vomiting since last night.",
         "meta": {
             "note_id": "416",
             "patient_id": "31223456"
@@ -8076,7 +8076,7 @@
         ]
     },
     {
-        "text": "Doctor: Let\u00e2\u20ac\u2122s conduct some tests to understand what\u00e2\u20ac\u2122s causing these symptoms.",
+        "text": "Doctor: Let's conduct some tests to understand what's causing these symptoms.",
         "meta": {
             "note_id": "417",
             "patient_id": "31223456"
@@ -8127,7 +8127,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122ve been having joint pain in my knees for over a month now.",
+        "text": "Patient: I've been having joint pain in my knees for over a month now.",
         "meta": {
             "note_id": "420",
             "patient_id": "31445678"
@@ -8142,7 +8142,7 @@
         ]
     },
     {
-        "text": "Doctor: Let\u00e2\u20ac\u2122s conduct an MRI scan to understand the root cause of the joint pain.",
+        "text": "Doctor: Let's conduct an MRI scan to understand the root cause of the joint pain.",
         "meta": {
             "note_id": "421",
             "patient_id": "31445678"
@@ -8238,7 +8238,7 @@
         ]
     },
     {
-        "text": "Doctor: Let\u00e2\u20ac\u2122s prescribe some physiotherapy exercises to alleviate knee pain.",
+        "text": "Doctor: Let's prescribe some physiotherapy exercises to alleviate knee pain.",
         "meta": {
             "note_id": "427",
             "patient_id": "31778901"
@@ -8339,7 +8339,7 @@
         ]
     },
     {
-        "text": "Doctor: Let\u00e2\u20ac\u2122s monitor Robert\u00e2\u20ac\u2122s blood pressure and hydration levels.",
+        "text": "Doctor: Let's monitor Robert's blood pressure and hydration levels.",
         "meta": {
             "note_id": "433",
             "patient_id": "32001234"
@@ -8354,7 +8354,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122ve been experiencing migraines since December 15th.",
+        "text": "Patient: I've been experiencing migraines since December 15th.",
         "meta": {
             "note_id": "434",
             "patient_id": "32112345"
@@ -8392,7 +8392,7 @@
         ]
     },
     {
-        "text": "Doctor: Eric made a good recommendation. Let\u00e2\u20ac\u2122s proceed with your tests.",
+        "text": "Doctor: Eric made a good recommendation. Let's proceed with your tests.",
         "meta": {
             "note_id": "437",
             "patient_id": "32223456"
@@ -8422,7 +8422,7 @@
         ]
     },
     {
-        "text": "Doctor: Emma\u00e2\u20ac\u2122s visit notes indicate that she was improving well.",
+        "text": "Doctor: Emma's visit notes indicate that she was improving well.",
         "meta": {
             "note_id": "439",
             "patient_id": "32334567"
@@ -8437,7 +8437,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m feeling a sharp pain in my lower back since November.",
+        "text": "Patient: I'm feeling a sharp pain in my lower back since November.",
         "meta": {
             "note_id": "440",
             "patient_id": "32445678"
@@ -8475,7 +8475,7 @@
         ]
     },
     {
-        "text": "Doctor: Olivia\u00e2\u20ac\u2122s condition needs further evaluation to rule out any cardiac issues.",
+        "text": "Doctor: Olivia's condition needs further evaluation to rule out any cardiac issues.",
         "meta": {
             "note_id": "443",
             "patient_id": "32556789"
@@ -8511,7 +8511,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Sarah Thompson. I\u00e2\u20ac\u2122ve been feeling fatigued for a week.",
+        "text": "Patient: Hi, I'm Sarah Thompson. I've been feeling fatigued for a week.",
         "meta": {
             "note_id": "445",
             "patient_id": "32778901"
@@ -8526,7 +8526,7 @@
         ]
     },
     {
-        "text": "Doctor: Sarah, let\u00e2\u20ac\u2122s run some blood tests to check for any deficiencies.",
+        "text": "Doctor: Sarah, let's run some blood tests to check for any deficiencies.",
         "meta": {
             "note_id": "446",
             "patient_id": "32778901"
@@ -8568,7 +8568,7 @@
         ]
     },
     {
-        "text": "Doctor: Henry\u00e2\u20ac\u2122s records show that he was treated for a respiratory condition.",
+        "text": "Doctor: Henry's records show that he was treated for a respiratory condition.",
         "meta": {
             "note_id": "448",
             "patient_id": "32889012"
@@ -8583,7 +8583,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Anna Lee, and I\u00e2\u20ac\u2122ve been experiencing severe stomach pain.",
+        "text": "Patient: I'm Anna Lee, and I've been experiencing severe stomach pain.",
         "meta": {
             "note_id": "449",
             "patient_id": "32990123"
@@ -8643,7 +8643,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Ethan Brown, and I\u00e2\u20ac\u2122m here for a routine checkup.",
+        "text": "Patient: My name is Ethan Brown, and I'm here for a routine checkup.",
         "meta": {
             "note_id": "453",
             "patient_id": "33112345"
@@ -8688,7 +8688,7 @@
         ]
     },
     {
-        "text": "Doctor: Olivia mentioned that you\u00e2\u20ac\u2122ve had persistent back pain for weeks.",
+        "text": "Doctor: Olivia mentioned that you've had persistent back pain for weeks.",
         "meta": {
             "note_id": "456",
             "patient_id": "33223456"
@@ -8724,7 +8724,7 @@
         ]
     },
     {
-        "text": "Doctor: William\u00e2\u20ac\u2122s diabetes management plan seems to be working well.",
+        "text": "Doctor: William's diabetes management plan seems to be working well.",
         "meta": {
             "note_id": "458",
             "patient_id": "33334567"
@@ -8739,7 +8739,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122ve been experiencing blurred vision since October.",
+        "text": "Patient: I've been experiencing blurred vision since October.",
         "meta": {
             "note_id": "459",
             "patient_id": "33445678"
@@ -8754,7 +8754,7 @@
         ]
     },
     {
-        "text": "Doctor: We\u00e2\u20ac\u2122ll conduct an eye exam to identify the cause of your vision issues.",
+        "text": "Doctor: We'll conduct an eye exam to identify the cause of your vision issues.",
         "meta": {
             "note_id": "460",
             "patient_id": "33445678"
@@ -8819,7 +8819,7 @@
         ]
     },
     {
-        "text": "Doctor: Michael, let\u00e2\u20ac\u2122s review your blood test results from last month.",
+        "text": "Doctor: Michael, let's review your blood test results from last month.",
         "meta": {
             "note_id": "464",
             "patient_id": "33667890"
@@ -8834,7 +8834,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Sarah Miller. I\u00e2\u20ac\u2122ve had this cough since October 12th.",
+        "text": "Patient: Hi, I'm Sarah Miller. I've had this cough since October 12th.",
         "meta": {
             "note_id": "465",
             "patient_id": "33778901"
@@ -8977,7 +8977,7 @@
         "spans": []
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Clara Lewis, and I work at Microsoft in Seattle.",
+        "text": "Patient: Hi, I'm Clara Lewis, and I work at Microsoft in Seattle.",
         "meta": {
             "note_id": "473",
             "patient_id": "34112345"
@@ -9040,7 +9040,7 @@
         ]
     },
     {
-        "text": "Doctor: Sam had a mild infection, but it\u00e2\u20ac\u2122s under control now.",
+        "text": "Doctor: Sam had a mild infection, but it's under control now.",
         "meta": {
             "note_id": "476",
             "patient_id": "34223456"
@@ -9076,7 +9076,7 @@
         ]
     },
     {
-        "text": "Doctor: Jenny\u00e2\u20ac\u2122s medical history indicates no major issues.",
+        "text": "Doctor: Jenny's medical history indicates no major issues.",
         "meta": {
             "note_id": "478",
             "patient_id": "34334567"
@@ -9091,7 +9091,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122ve been coughing persistently since last Friday.",
+        "text": "Patient: I've been coughing persistently since last Friday.",
         "meta": {
             "note_id": "479",
             "patient_id": "34445678"
@@ -9106,7 +9106,7 @@
         ]
     },
     {
-        "text": "Doctor: Let\u00e2\u20ac\u2122s do a chest X-ray to check for any lung infections.",
+        "text": "Doctor: Let's do a chest X-ray to check for any lung infections.",
         "meta": {
             "note_id": "480",
             "patient_id": "34445678"
@@ -9159,7 +9159,7 @@
         ]
     },
     {
-        "text": "Doctor: We\u00e2\u20ac\u2122ll call you at 987-654-3210 once the results are ready.",
+        "text": "Doctor: We'll call you at 987-654-3210 once the results are ready.",
         "meta": {
             "note_id": "484",
             "patient_id": "34667890"
@@ -9237,7 +9237,7 @@
         ]
     },
     {
-        "text": "Doctor: Henry\u00e2\u20ac\u2122s treatment for hypertension was effective last month.",
+        "text": "Doctor: Henry's treatment for hypertension was effective last month.",
         "meta": {
             "note_id": "488",
             "patient_id": "34889012"
@@ -9273,7 +9273,7 @@
         ]
     },
     {
-        "text": "Doctor: Traveling might have caused the symptoms. Let\u00e2\u20ac\u2122s run some tests.",
+        "text": "Doctor: Traveling might have caused the symptoms. Let's run some tests.",
         "meta": {
             "note_id": "490",
             "patient_id": "34990123"
@@ -9296,7 +9296,7 @@
         ]
     },
     {
-        "text": "Doctor: We\u00e2\u20ac\u2122ll send an update to +44-123-456-7890 as soon as we have results.",
+        "text": "Doctor: We'll send an update to +44-123-456-7890 as soon as we have results.",
         "meta": {
             "note_id": "492",
             "patient_id": "35001234"
@@ -9332,7 +9332,7 @@
         ]
     },
     {
-        "text": "Doctor: Peter\u00e2\u20ac\u2122s medical records show no history of heart conditions.",
+        "text": "Doctor: Peter's medical records show no history of heart conditions.",
         "meta": {
             "note_id": "494",
             "patient_id": "35112345"
@@ -9469,7 +9469,7 @@
         ]
     },
     {
-        "text": "Doctor: William\u00e2\u20ac\u2122s test results show improvement in his condition.",
+        "text": "Doctor: William's test results show improvement in his condition.",
         "meta": {
             "note_id": "502",
             "patient_id": "35556789"
@@ -9505,7 +9505,7 @@
         ]
     },
     {
-        "text": "Doctor: We\u00e2\u20ac\u2122ll check your progress during the appointment next Thursday.",
+        "text": "Doctor: We'll check your progress during the appointment next Thursday.",
         "meta": {
             "note_id": "504",
             "patient_id": "35667890"
@@ -9583,7 +9583,7 @@
         ]
     },
     {
-        "text": "Doctor: David\u00e2\u20ac\u2122s medical records show improvement after the treatment.",
+        "text": "Doctor: David's medical records show improvement after the treatment.",
         "meta": {
             "note_id": "508",
             "patient_id": "35889012"
@@ -9691,7 +9691,7 @@
         ]
     },
     {
-        "text": "Doctor: Clara\u00e2\u20ac\u2122s vaccination schedule includes follow-ups next month.",
+        "text": "Doctor: Clara's vaccination schedule includes follow-ups next month.",
         "meta": {
             "note_id": "514",
             "patient_id": "36112345"
@@ -9757,7 +9757,7 @@
         ]
     },
     {
-        "text": "Doctor: Michael\u00e2\u20ac\u2122s appointment at Central Hospital is set for next week.",
+        "text": "Doctor: Michael's appointment at Central Hospital is set for next week.",
         "meta": {
             "note_id": "518",
             "patient_id": "36334567"
@@ -9829,7 +9829,7 @@
         ]
     },
     {
-        "text": "Doctor: Robert\u00e2\u20ac\u2122s condition is stable after treatment at Westside Hospital.",
+        "text": "Doctor: Robert's condition is stable after treatment at Westside Hospital.",
         "meta": {
             "note_id": "522",
             "patient_id": "36556789"
@@ -9850,7 +9850,7 @@
         ]
     },
     {
-        "text": "Patient: My ID is RB987654, and I\u00e2\u20ac\u2122d like to discuss my next visit.",
+        "text": "Patient: My ID is RB987654, and I'd like to discuss my next visit.",
         "meta": {
             "note_id": "523",
             "patient_id": "36667890"
@@ -9865,7 +9865,7 @@
         ]
     },
     {
-        "text": "Doctor: Let\u00e2\u20ac\u2122s confirm your next visit based on ID RB987654.",
+        "text": "Doctor: Let's confirm your next visit based on ID RB987654.",
         "meta": {
             "note_id": "524",
             "patient_id": "36667890"
@@ -9916,7 +9916,7 @@
         ]
     },
     {
-        "text": "Patient: My sister, Emily Brown, was diagnosed at King\u00e2\u20ac\u2122s Medical Center.",
+        "text": "Patient: My sister, Emily Brown, was diagnosed at King's Medical Center.",
         "meta": {
             "note_id": "527",
             "patient_id": "36889012"
@@ -9937,7 +9937,7 @@
         ]
     },
     {
-        "text": "Doctor: Emily\u00e2\u20ac\u2122s treatment history at King\u00e2\u20ac\u2122s Medical Center shows improvement.",
+        "text": "Doctor: Emily's treatment history at King's Medical Center shows improvement.",
         "meta": {
             "note_id": "528",
             "patient_id": "36889012"
@@ -9958,7 +9958,7 @@
         ]
     },
     {
-        "text": "Patient: I work at Tesla, and I\u00e2\u20ac\u2122ve been experiencing severe migraines.",
+        "text": "Patient: I work at Tesla, and I've been experiencing severe migraines.",
         "meta": {
             "note_id": "529",
             "patient_id": "36990123"
@@ -9988,7 +9988,7 @@
         ]
     },
     {
-        "text": "Patient: My father, Dr. Steven Carter, is a patient at St. Peter\u00e2\u20ac\u2122s Hospital.",
+        "text": "Patient: My father, Dr. Steven Carter, is a patient at St. Peter's Hospital.",
         "meta": {
             "note_id": "531",
             "patient_id": "37001234"
@@ -10009,7 +10009,7 @@
         ]
     },
     {
-        "text": "Doctor: Dr. Carter\u00e2\u20ac\u2122s follow-ups at St. Peter\u00e2\u20ac\u2122s Hospital are up to date.",
+        "text": "Doctor: Dr. Carter's follow-ups at St. Peter's Hospital are up to date.",
         "meta": {
             "note_id": "532",
             "patient_id": "37001234"
@@ -10081,7 +10081,7 @@
         ]
     },
     {
-        "text": "Doctor: Ethan\u00e2\u20ac\u2122s appointment at North Clinic is confirmed for next Monday.",
+        "text": "Doctor: Ethan's appointment at North Clinic is confirmed for next Monday.",
         "meta": {
             "note_id": "536",
             "patient_id": "37223456"
@@ -10177,7 +10177,7 @@
         ]
     },
     {
-        "text": "Doctor: Your ID TW456123 is on file. Let\u00e2\u20ac\u2122s discuss your test results.",
+        "text": "Doctor: Your ID TW456123 is on file. Let's discuss your test results.",
         "meta": {
             "note_id": "542",
             "patient_id": "37556789"
@@ -10213,7 +10213,7 @@
         ]
     },
     {
-        "text": "Doctor: Olivia\u00e2\u20ac\u2122s case at Maplewood Health Center was reviewed last week.",
+        "text": "Doctor: Olivia's case at Maplewood Health Center was reviewed last week.",
         "meta": {
             "note_id": "544",
             "patient_id": "37667890"
@@ -10234,7 +10234,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Marcus Jones. I\u00e2\u20ac\u2122ve been experiencing headaches since November 3rd.",
+        "text": "Patient: Hi, I'm Marcus Jones. I've been experiencing headaches since November 3rd.",
         "meta": {
             "note_id": "545",
             "patient_id": "37778901"
@@ -10255,7 +10255,7 @@
         ]
     },
     {
-        "text": "Doctor: Marcus, I see your ID is MJ789654. Let\u00e2\u20ac\u2122s check your history.",
+        "text": "Doctor: Marcus, I see your ID is MJ789654. Let's check your history.",
         "meta": {
             "note_id": "546",
             "patient_id": "37778901"
@@ -10276,7 +10276,7 @@
         ]
     },
     {
-        "text": "Patient: I am Alice Moore, and I work at Microsoft. I\u00e2\u20ac\u2122ve been feeling stressed.",
+        "text": "Patient: I am Alice Moore, and I work at Microsoft. I've been feeling stressed.",
         "meta": {
             "note_id": "547",
             "patient_id": "37889012"
@@ -10441,7 +10441,7 @@
         ]
     },
     {
-        "text": "Doctor: Ben\u00e2\u20ac\u2122s next appointment at Maplewood Health Center is scheduled.",
+        "text": "Doctor: Ben's next appointment at Maplewood Health Center is scheduled.",
         "meta": {
             "note_id": "556",
             "patient_id": "38223456"
@@ -10543,7 +10543,7 @@
         ]
     },
     {
-        "text": "Doctor: Emily\u00e2\u20ac\u2122s recovery progress at North Clinic is impressive.",
+        "text": "Doctor: Emily's recovery progress at North Clinic is impressive.",
         "meta": {
             "note_id": "562",
             "patient_id": "38556789"
@@ -10594,7 +10594,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Jennifer Watson. I visited Seattle on December 20th.",
+        "text": "Patient: Hi, I'm Jennifer Watson. I visited Seattle on December 20th.",
         "meta": {
             "note_id": "565",
             "patient_id": "38778901"
@@ -10879,7 +10879,7 @@
         ]
     },
     {
-        "text": "Doctor: Berlin in March might have affected your health. Let\u00e2\u20ac\u2122s run tests.",
+        "text": "Doctor: Berlin in March might have affected your health. Let's run tests.",
         "meta": {
             "note_id": "580",
             "patient_id": "39445678"
@@ -10951,7 +10951,7 @@
         ]
     },
     {
-        "text": "Doctor: Hannah\u00e2\u20ac\u2122s vaccine record from City Health Center is complete.",
+        "text": "Doctor: Hannah's vaccine record from City Health Center is complete.",
         "meta": {
             "note_id": "584",
             "patient_id": "39667890"
@@ -10993,7 +10993,7 @@
         ]
     },
     {
-        "text": "Doctor: Susan\u00e2\u20ac\u2122s surgery record from Metropolitan Clinic shows recovery progress.",
+        "text": "Doctor: Susan's surgery record from Metropolitan Clinic shows recovery progress.",
         "meta": {
             "note_id": "586",
             "patient_id": "39778901"
@@ -11062,7 +11062,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122ve had a persistent cough since my visit to PrimeCare Clinic.",
+        "text": "Patient: I've had a persistent cough since my visit to PrimeCare Clinic.",
         "meta": {
             "note_id": "589",
             "patient_id": "39990123"
@@ -11113,7 +11113,7 @@
         ]
     },
     {
-        "text": "Doctor: James\u00e2\u20ac\u2122s records from Riverside Medical Center confirm his diagnosis.",
+        "text": "Doctor: James's records from Riverside Medical Center confirm his diagnosis.",
         "meta": {
             "note_id": "592",
             "patient_id": "40001234"
@@ -11134,7 +11134,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m experiencing side effects from my recent prescription by Dr. Mason.",
+        "text": "Patient: I'm experiencing side effects from my recent prescription by Dr. Mason.",
         "meta": {
             "note_id": "593",
             "patient_id": "40112345"
@@ -11149,7 +11149,7 @@
         ]
     },
     {
-        "text": "Doctor: Dr. Mason prescribed medication two weeks ago. Let\u00e2\u20ac\u2122s review its effects.",
+        "text": "Doctor: Dr. Mason prescribed medication two weeks ago. Let's review its effects.",
         "meta": {
             "note_id": "594",
             "patient_id": "40112345"
@@ -11227,7 +11227,7 @@
         ]
     },
     {
-        "text": "Doctor: Andrew\u00e2\u20ac\u2122s vaccine record from BrightHope Center shows all doses complete.",
+        "text": "Doctor: Andrew's vaccine record from BrightHope Center shows all doses complete.",
         "meta": {
             "note_id": "598",
             "patient_id": "40334567"
@@ -11248,7 +11248,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m 60 years old and have concerns about my heart health.",
+        "text": "Patient: I'm 60 years old and have concerns about my heart health.",
         "meta": {
             "note_id": "599",
             "patient_id": "40445678"
@@ -11401,7 +11401,7 @@
         ]
     },
     {
-        "text": "Doctor: Dr. Phillips\u00e2\u20ac\u2122s prescription for Robert King is still active.",
+        "text": "Doctor: Dr. Phillips's prescription for Robert King is still active.",
         "meta": {
             "note_id": "608",
             "patient_id": "40889012"
@@ -11605,7 +11605,7 @@
         ]
     },
     {
-        "text": "Doctor: Michael Ross\u00e2\u20ac\u2122s referral to Valley Care Center is in the system.",
+        "text": "Doctor: Michael Ross's referral to Valley Care Center is in the system.",
         "meta": {
             "note_id": "618",
             "patient_id": "41334567"
@@ -11626,7 +11626,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m 37 years old and concerned about high blood pressure.",
+        "text": "Patient: I'm 37 years old and concerned about high blood pressure.",
         "meta": {
             "note_id": "619",
             "patient_id": "41445678"
@@ -11641,7 +11641,7 @@
         ]
     },
     {
-        "text": "Doctor: At 37 years old, it\u00e2\u20ac\u2122s important to monitor blood pressure closely.",
+        "text": "Doctor: At 37 years old, it's important to monitor blood pressure closely.",
         "meta": {
             "note_id": "620",
             "patient_id": "41445678"
@@ -11797,7 +11797,7 @@
         ]
     },
     {
-        "text": "Doctor: Jacob White\u00e2\u20ac\u2122s fever on Monday might be due to dehydration from practice.",
+        "text": "Doctor: Jacob White's fever on Monday might be due to dehydration from practice.",
         "meta": {
             "note_id": "628",
             "patient_id": "41889012"
@@ -11860,7 +11860,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Claire Thompson, and I\u00e2\u20ac\u2122ve noticed severe headaches in the mornings.",
+        "text": "Patient: I'm Claire Thompson, and I've noticed severe headaches in the mornings.",
         "meta": {
             "note_id": "631",
             "patient_id": "42001234"
@@ -11995,7 +11995,7 @@
         ]
     },
     {
-        "text": "Doctor: Sophie Turner\u00e2\u20ac\u2122s rash could be due to allergens in Hawaii.",
+        "text": "Doctor: Sophie Turner's rash could be due to allergens in Hawaii.",
         "meta": {
             "note_id": "638",
             "patient_id": "42334567"
@@ -12037,7 +12037,7 @@
         ]
     },
     {
-        "text": "Doctor: I\u00e2\u20ac\u2122ll prepare your records for Valley View Hospital this Friday.",
+        "text": "Doctor: I'll prepare your records for Valley View Hospital this Friday.",
         "meta": {
             "note_id": "640",
             "patient_id": "42445678"
@@ -12100,7 +12100,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m preparing for surgery at Community Health Hospital next Monday.",
+        "text": "Patient: I'm preparing for surgery at Community Health Hospital next Monday.",
         "meta": {
             "note_id": "643",
             "patient_id": "42667890"
@@ -12142,7 +12142,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Mark Collins, 28 years old. My ID is MC280789.",
+        "text": "Patient: I'm Mark Collins, 28 years old. My ID is MC280789.",
         "meta": {
             "note_id": "645",
             "patient_id": "42778901"
@@ -12169,7 +12169,7 @@
         ]
     },
     {
-        "text": "Doctor: Mark, can you describe the symptoms you\u00e2\u20ac\u2122re experiencing?",
+        "text": "Doctor: Mark, can you describe the symptoms you're experiencing?",
         "meta": {
             "note_id": "646",
             "patient_id": "42778901"
@@ -12226,7 +12226,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Paul Carter, 41 years old. My ID is PC410123.",
+        "text": "Patient: I'm Paul Carter, 41 years old. My ID is PC410123.",
         "meta": {
             "note_id": "649",
             "patient_id": "42990123"
@@ -12310,7 +12310,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Ethan Brown, 38 years old. My ID is EB380876.",
+        "text": "Patient: I'm Ethan Brown, 38 years old. My ID is EB380876.",
         "meta": {
             "note_id": "653",
             "patient_id": "43112345"
@@ -12352,7 +12352,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Emily Davis, 29 years old. My ID is ED290789.",
+        "text": "Patient: I'm Emily Davis, 29 years old. My ID is ED290789.",
         "meta": {
             "note_id": "655",
             "patient_id": "43223456"
@@ -12394,7 +12394,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Laura White, 35 years old. My ID is LW350234.",
+        "text": "Patient: I'm Laura White, 35 years old. My ID is LW350234.",
         "meta": {
             "note_id": "657",
             "patient_id": "43334567"
@@ -12478,7 +12478,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Susan Hall, 44 years old. My ID is SH440123.",
+        "text": "Patient: I'm Susan Hall, 44 years old. My ID is SH440123.",
         "meta": {
             "note_id": "661",
             "patient_id": "43556789"
@@ -12520,7 +12520,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Michael Jones, 40 years old. My ID is MJ400789.",
+        "text": "Patient: I'm Michael Jones, 40 years old. My ID is MJ400789.",
         "meta": {
             "note_id": "663",
             "patient_id": "43667890"
@@ -12562,7 +12562,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Olivia Johnson, 37 years old. My ID is OJ370845.",
+        "text": "Patient: I'm Olivia Johnson, 37 years old. My ID is OJ370845.",
         "meta": {
             "note_id": "665",
             "patient_id": "43778901"
@@ -12646,7 +12646,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Ava Martinez, 29 years old. My ID is AM290876.",
+        "text": "Patient: I'm Ava Martinez, 29 years old. My ID is AM290876.",
         "meta": {
             "note_id": "669",
             "patient_id": "43990123"
@@ -12688,7 +12688,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Sophia Brown, 31 years old. My ID is SB310123.",
+        "text": "Patient: I'm Sophia Brown, 31 years old. My ID is SB310123.",
         "meta": {
             "note_id": "671",
             "patient_id": "44001234"
@@ -12772,7 +12772,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Mia Thompson, 27 years old. My ID is MT270943.",
+        "text": "Patient: I'm Mia Thompson, 27 years old. My ID is MT270943.",
         "meta": {
             "note_id": "675",
             "patient_id": "44223456"
@@ -12856,7 +12856,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Ella Walker, 34 years old. My ID is EW340845.",
+        "text": "Patient: I'm Ella Walker, 34 years old. My ID is EW340845.",
         "meta": {
             "note_id": "679",
             "patient_id": "44445678"
@@ -12898,7 +12898,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m James Roberts, 39 years old. My ID is JR390123.",
+        "text": "Patient: I'm James Roberts, 39 years old. My ID is JR390123.",
         "meta": {
             "note_id": "681",
             "patient_id": "44556789"
@@ -12940,7 +12940,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Emily Carter, 26 years old. My ID is EC260789.",
+        "text": "Patient: I'm Emily Carter, 26 years old. My ID is EC260789.",
         "meta": {
             "note_id": "683",
             "patient_id": "44667890"
@@ -13024,7 +13024,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Isabella Lopez, 30 years old. My ID is IL300567.",
+        "text": "Patient: I'm Isabella Lopez, 30 years old. My ID is IL300567.",
         "meta": {
             "note_id": "687",
             "patient_id": "44889012"
@@ -13108,7 +13108,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Chloe Martinez, 28 years old. My ID is CM280987.",
+        "text": "Patient: I'm Chloe Martinez, 28 years old. My ID is CM280987.",
         "meta": {
             "note_id": "691",
             "patient_id": "45001234"
@@ -13192,7 +13192,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Amelia Brown, 33 years old. My ID is AB330654.",
+        "text": "Patient: I'm Amelia Brown, 33 years old. My ID is AB330654.",
         "meta": {
             "note_id": "695",
             "patient_id": "45223456"
@@ -13276,7 +13276,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Emily Walker, 31 years old. My ID is EW310987.",
+        "text": "Patient: I'm Emily Walker, 31 years old. My ID is EW310987.",
         "meta": {
             "note_id": "699",
             "patient_id": "45445678"
@@ -13318,7 +13318,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Clara Johnson, and I\u00e2\u20ac\u2122ve been experiencing headaches. Doctor: Did you travel recently? Was it near Seattle or Los Angeles?",
+        "text": "Patient: My name is Clara Johnson, and I've been experiencing headaches. Doctor: Did you travel recently? Was it near Seattle or Los Angeles?",
         "meta": {
             "note_id": "701",
             "patient_id": "8901234"
@@ -13345,7 +13345,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Dr. Hannah White, I\u00e2\u20ac\u2122m feeling short of breath. Doctor: Dr. White, did you visit St. George's Hospital last month?",
+        "text": "Patient: My name is Dr. Hannah White, I'm feeling short of breath. Doctor: Dr. White, did you visit St. George's Hospital last month?",
         "meta": {
             "note_id": "702",
             "patient_id": "6789012"
@@ -13372,7 +13372,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m David Green. I recently received a prescription from St. Mary\u00e2\u20ac\u2122s Hospital. Doctor: Let me check it out.",
+        "text": "Patient: Hello, I'm David Green. I recently received a prescription from St. Mary's Hospital. Doctor: Let me check it out.",
         "meta": {
             "note_id": "703",
             "patient_id": "4567890"
@@ -13393,7 +13393,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Olivia Brown. I\u00e2\u20ac\u2122ve been diagnosed with migraines. Doctor: Olivia, your record ID OB456789 confirms it.",
+        "text": "Patient: Hi, I'm Olivia Brown. I've been diagnosed with migraines. Doctor: Olivia, your record ID OB456789 confirms it.",
         "meta": {
             "note_id": "704",
             "patient_id": "1234567"
@@ -13435,7 +13435,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Ella Watson, 45 years old. I\u00e2\u20ac\u2122ve been feeling faint lately. Doctor: Ella, did this start after your trip to Paris?",
+        "text": "Patient: I'm Ella Watson, 45 years old. I've been feeling faint lately. Doctor: Ella, did this start after your trip to Paris?",
         "meta": {
             "note_id": "706",
             "patient_id": "1234509"
@@ -13456,7 +13456,7 @@
         ]
     },
     {
-        "text": "Patient: This is George Carter. I\u00e2\u20ac\u2122ve had insomnia since December 1st. Doctor: George, I\u00e2\u20ac\u2122ll review your ID GC8901 now.",
+        "text": "Patient: This is George Carter. I've had insomnia since December 1st. Doctor: George, I'll review your ID GC8901 now.",
         "meta": {
             "note_id": "707",
             "patient_id": "7894567"
@@ -13483,7 +13483,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Sophia Turner, and I\u00e2\u20ac\u2122ve been coughing a lot. Doctor: Sophia, have you been to New York recently?",
+        "text": "Patient: My name is Sophia Turner, and I've been coughing a lot. Doctor: Sophia, have you been to New York recently?",
         "meta": {
             "note_id": "708",
             "patient_id": "6543210"
@@ -13504,7 +13504,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Jacob Evans. I\u00e2\u20ac\u2122ve been having back pain since November. Doctor: Jacob, did you call 555-678-4321 about this?",
+        "text": "Patient: Hi, I'm Jacob Evans. I've been having back pain since November. Doctor: Jacob, did you call 555-678-4321 about this?",
         "meta": {
             "note_id": "709",
             "patient_id": "9087654"
@@ -13531,7 +13531,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, my name is Lily Adams. I work at Amazon and have been feeling stressed. Doctor: Let\u00e2\u20ac\u2122s discuss your recent workload.",
+        "text": "Patient: Hello, my name is Lily Adams. I work at Amazon and have been feeling stressed. Doctor: Let's discuss your recent workload.",
         "meta": {
             "note_id": "710",
             "patient_id": "1234569"
@@ -13552,7 +13552,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Amanda Lee, and I\u00e2\u20ac\u2122ve been having severe headaches. Doctor: Amanda, let\u00e2\u20ac\u2122s check your ID AL123987 for previous records.",
+        "text": "Patient: I'm Amanda Lee, and I've been having severe headaches. Doctor: Amanda, let's check your ID AL123987 for previous records.",
         "meta": {
             "note_id": "711",
             "patient_id": "5678901"
@@ -13573,7 +13573,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Kevin Walker. My contact number is 555-321-8765. Doctor: Thanks, Kevin. Let\u00e2\u20ac\u2122s go over your records.",
+        "text": "Patient: Hello, I'm Kevin Walker. My contact number is 555-321-8765. Doctor: Thanks, Kevin. Let's go over your records.",
         "meta": {
             "note_id": "712",
             "patient_id": "2345678"
@@ -13594,7 +13594,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Rachel Green. I recently visited Los Angeles and fell sick. Doctor: Rachel, we\u00e2\u20ac\u2122ll need to run some tests.",
+        "text": "Patient: My name is Rachel Green. I recently visited Los Angeles and fell sick. Doctor: Rachel, we'll need to run some tests.",
         "meta": {
             "note_id": "713",
             "patient_id": "6789012"
@@ -13615,7 +13615,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Mark Taylor, 39 years old. I\u00e2\u20ac\u2122ve been feeling fatigued lately. Doctor: Mark, have you changed your diet recently?",
+        "text": "Patient: Hi, I'm Mark Taylor, 39 years old. I've been feeling fatigued lately. Doctor: Mark, have you changed your diet recently?",
         "meta": {
             "note_id": "714",
             "patient_id": "8901234"
@@ -13630,7 +13630,7 @@
         ]
     },
     {
-        "text": "Patient: This is Jane Hall. My email is jane.hall@example.com. Doctor: Thank you, Jane. Let\u00e2\u20ac\u2122s discuss your symptoms now.",
+        "text": "Patient: This is Jane Hall. My email is jane.hall@example.com. Doctor: Thank you, Jane. Let's discuss your symptoms now.",
         "meta": {
             "note_id": "715",
             "patient_id": "4567890"
@@ -13651,7 +13651,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Emma Watson. I work as a software engineer at Google. Doctor: Emma, let\u00e2\u20ac\u2122s review your stress levels and symptoms.",
+        "text": "Patient: I'm Emma Watson. I work as a software engineer at Google. Doctor: Emma, let's review your stress levels and symptoms.",
         "meta": {
             "note_id": "716",
             "patient_id": "7890123"
@@ -13672,7 +13672,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, my name is Samuel Johnson. I\u00e2\u20ac\u2122ve been experiencing back pain. Doctor: Samuel, when did you last visit St. Luke\u00e2\u20ac\u2122s Hospital?",
+        "text": "Patient: Hello, my name is Samuel Johnson. I've been experiencing back pain. Doctor: Samuel, when did you last visit St. Luke's Hospital?",
         "meta": {
             "note_id": "717",
             "patient_id": "1234567"
@@ -13693,7 +13693,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Laura King. My ID is LK897654, and I\u00e2\u20ac\u2122ve had flu-like symptoms. Doctor: Thanks, Laura. We\u00e2\u20ac\u2122ll proceed with the necessary tests.",
+        "text": "Patient: I'm Laura King. My ID is LK897654, and I've had flu-like symptoms. Doctor: Thanks, Laura. We'll proceed with the necessary tests.",
         "meta": {
             "note_id": "718",
             "patient_id": "8901234"
@@ -13714,7 +13714,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Michael Brown. I\u00e2\u20ac\u2122ve been living in Boston and feel exhausted. Doctor: Michael, let\u00e2\u20ac\u2122s check your medical records.",
+        "text": "Patient: My name is Michael Brown. I've been living in Boston and feel exhausted. Doctor: Michael, let's check your medical records.",
         "meta": {
             "note_id": "719",
             "patient_id": "4567890"
@@ -13735,7 +13735,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Olivia Green. My phone number is +1-234-567-8901. Doctor: Olivia, let\u00e2\u20ac\u2122s review your health history.",
+        "text": "Patient: I'm Olivia Green. My phone number is +1-234-567-8901. Doctor: Olivia, let's review your health history.",
         "meta": {
             "note_id": "720",
             "patient_id": "5678901"
@@ -13756,7 +13756,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Andrew White, and I\u00e2\u20ac\u2122ve been experiencing joint pain. Doctor: Andrew, do you have a family history of arthritis?",
+        "text": "Patient: My name is Andrew White, and I've been experiencing joint pain. Doctor: Andrew, do you have a family history of arthritis?",
         "meta": {
             "note_id": "721",
             "patient_id": "3456789"
@@ -13771,7 +13771,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Sophia Adams. My email is sophia.adams@email.com. Doctor: Sophia, let\u00e2\u20ac\u2122s go over your lab results.",
+        "text": "Patient: I'm Sophia Adams. My email is sophia.adams@email.com. Doctor: Sophia, let's go over your lab results.",
         "meta": {
             "note_id": "722",
             "patient_id": "6789012"
@@ -13792,7 +13792,7 @@
         ]
     },
     {
-        "text": "Patient: This is Ethan Carter. I\u00e2\u20ac\u2122ve been working at Microsoft and feeling stressed. Doctor: Ethan, have you consulted a therapist before?",
+        "text": "Patient: This is Ethan Carter. I've been working at Microsoft and feeling stressed. Doctor: Ethan, have you consulted a therapist before?",
         "meta": {
             "note_id": "723",
             "patient_id": "2345678"
@@ -13813,7 +13813,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Chloe Johnson. I\u00e2\u20ac\u2122ve recently moved to Chicago and developed a cough. Doctor: Chloe, when did you notice the symptoms first?",
+        "text": "Patient: I'm Chloe Johnson. I've recently moved to Chicago and developed a cough. Doctor: Chloe, when did you notice the symptoms first?",
         "meta": {
             "note_id": "724",
             "patient_id": "8901234"
@@ -13834,7 +13834,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, my name is Jack Lee. My contact number is 555-987-6543. Doctor: Thanks, Jack. Let\u00e2\u20ac\u2122s start with your medical history.",
+        "text": "Patient: Hello, my name is Jack Lee. My contact number is 555-987-6543. Doctor: Thanks, Jack. Let's start with your medical history.",
         "meta": {
             "note_id": "725",
             "patient_id": "1234567"
@@ -13855,7 +13855,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Emma Wilson. My ID is EW567890. I\u00e2\u20ac\u2122ve had persistent back pain. Doctor: Emma, let\u00e2\u20ac\u2122s perform some diagnostic tests.",
+        "text": "Patient: I'm Emma Wilson. My ID is EW567890. I've had persistent back pain. Doctor: Emma, let's perform some diagnostic tests.",
         "meta": {
             "note_id": "726",
             "patient_id": "3456789"
@@ -13876,7 +13876,7 @@
         ]
     },
     {
-        "text": "Patient: This is Benjamin Clark. I was recently admitted to General Hospital for pneumonia. Doctor: Benjamin, let\u00e2\u20ac\u2122s review your treatment plan.",
+        "text": "Patient: This is Benjamin Clark. I was recently admitted to General Hospital for pneumonia. Doctor: Benjamin, let's review your treatment plan.",
         "meta": {
             "note_id": "727",
             "patient_id": "5678901"
@@ -13897,7 +13897,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Mia Roberts. I work as a nurse at CityHealth Clinic. Doctor: Mia, how long have you been feeling unwell?",
+        "text": "Patient: Hi, I'm Mia Roberts. I work as a nurse at CityHealth Clinic. Doctor: Mia, how long have you been feeling unwell?",
         "meta": {
             "note_id": "728",
             "patient_id": "7890123"
@@ -13918,7 +13918,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Lucas Adams. I\u00e2\u20ac\u2122ve been experiencing frequent headaches. Doctor: Lucas, do you spend extended hours in front of screens?",
+        "text": "Patient: My name is Lucas Adams. I've been experiencing frequent headaches. Doctor: Lucas, do you spend extended hours in front of screens?",
         "meta": {
             "note_id": "729",
             "patient_id": "6789012"
@@ -13933,7 +13933,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Olivia Brown. My phone is 987-654-3210. Doctor: Olivia, let\u00e2\u20ac\u2122s review your latest blood test results.",
+        "text": "Patient: Hello, I'm Olivia Brown. My phone is 987-654-3210. Doctor: Olivia, let's review your latest blood test results.",
         "meta": {
             "note_id": "730",
             "patient_id": "2345678"
@@ -13954,7 +13954,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Noah Thompson, 28 years old. I\u00e2\u20ac\u2122ve been feeling very fatigued. Doctor: Noah, have you been consuming enough iron-rich foods?",
+        "text": "Patient: I'm Noah Thompson, 28 years old. I've been feeling very fatigued. Doctor: Noah, have you been consuming enough iron-rich foods?",
         "meta": {
             "note_id": "731",
             "patient_id": "3456789"
@@ -13969,7 +13969,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Ava Taylor. I was admitted to St. Mark\u00e2\u20ac\u2122s Hospital last month. Doctor: Ava, do you recall the exact admission date?",
+        "text": "Patient: My name is Ava Taylor. I was admitted to St. Mark's Hospital last month. Doctor: Ava, do you recall the exact admission date?",
         "meta": {
             "note_id": "732",
             "patient_id": "8901234"
@@ -13990,7 +13990,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Ethan Davis. My email is ethan.davis@example.org. Doctor: Ethan, let\u00e2\u20ac\u2122s discuss the progress of your treatment.",
+        "text": "Patient: Hi, I'm Ethan Davis. My email is ethan.davis@example.org. Doctor: Ethan, let's discuss the progress of your treatment.",
         "meta": {
             "note_id": "733",
             "patient_id": "5678901"
@@ -14011,7 +14011,7 @@
         ]
     },
     {
-        "text": "Patient: This is Isabella Evans. I\u00e2\u20ac\u2122ve recently returned from Miami and feel ill. Doctor: Isabella, let\u00e2\u20ac\u2122s schedule some blood tests for tomorrow.",
+        "text": "Patient: This is Isabella Evans. I've recently returned from Miami and feel ill. Doctor: Isabella, let's schedule some blood tests for tomorrow.",
         "meta": {
             "note_id": "734",
             "patient_id": "6789012"
@@ -14032,7 +14032,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Liam Anderson. My ID is LA876543. I\u00e2\u20ac\u2122ve had constant migraines. Doctor: Liam, let\u00e2\u20ac\u2122s try some new medications to manage them.",
+        "text": "Patient: I'm Liam Anderson. My ID is LA876543. I've had constant migraines. Doctor: Liam, let's try some new medications to manage them.",
         "meta": {
             "note_id": "735",
             "patient_id": "4567890"
@@ -14053,7 +14053,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Abigail White. I recently started working at Stanford University. Doctor: Abigail, are you experiencing stress from your new job?",
+        "text": "Patient: Hi, I'm Abigail White. I recently started working at Stanford University. Doctor: Abigail, are you experiencing stress from your new job?",
         "meta": {
             "note_id": "736",
             "patient_id": "2345678"
@@ -14074,7 +14074,7 @@
         ]
     },
     {
-        "text": "Patient: My name is James Carter. I\u00e2\u20ac\u2122ve been living in Austin and feel fatigued. Doctor: James, let\u00e2\u20ac\u2122s check for possible nutritional deficiencies.",
+        "text": "Patient: My name is James Carter. I've been living in Austin and feel fatigued. Doctor: James, let's check for possible nutritional deficiencies.",
         "meta": {
             "note_id": "737",
             "patient_id": "1234567"
@@ -14095,7 +14095,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Charlotte Miller. My phone is +1-987-654-4321. Doctor: Charlotte, let\u00e2\u20ac\u2122s look into your family history.",
+        "text": "Patient: Hello, I'm Charlotte Miller. My phone is +1-987-654-4321. Doctor: Charlotte, let's look into your family history.",
         "meta": {
             "note_id": "738",
             "patient_id": "8901234"
@@ -14116,7 +14116,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Emily Brown. My email is emily.brown@gmail.com. Doctor: Emily, let\u00e2\u20ac\u2122s go over your previous examination results.",
+        "text": "Patient: I'm Emily Brown. My email is emily.brown@gmail.com. Doctor: Emily, let's go over your previous examination results.",
         "meta": {
             "note_id": "739",
             "patient_id": "4567890"
@@ -14137,7 +14137,7 @@
         ]
     },
     {
-        "text": "Patient: My name is William Johnson. I\u00e2\u20ac\u2122ve been experiencing dizziness for a week. Doctor: William, when did you last visit St. Anne\u00e2\u20ac\u2122s Clinic?",
+        "text": "Patient: My name is William Johnson. I've been experiencing dizziness for a week. Doctor: William, when did you last visit St. Anne's Clinic?",
         "meta": {
             "note_id": "740",
             "patient_id": "5678901"
@@ -14158,7 +14158,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Henry Green. I\u00e2\u20ac\u2122ve been experiencing occasional memory loss. Doctor: Henry, have you been under any significant stress recently?",
+        "text": "Patient: I'm Henry Green. I've been experiencing occasional memory loss. Doctor: Henry, have you been under any significant stress recently?",
         "meta": {
             "note_id": "741",
             "patient_id": "2345678"
@@ -14173,7 +14173,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Lily Scott. I\u00e2\u20ac\u2122ve had a sore throat since I returned from New York. Doctor: Lily, let\u00e2\u20ac\u2122s examine your throat and run a strep test.",
+        "text": "Patient: My name is Lily Scott. I've had a sore throat since I returned from New York. Doctor: Lily, let's examine your throat and run a strep test.",
         "meta": {
             "note_id": "742",
             "patient_id": "3456789"
@@ -14194,7 +14194,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Mason Wright. My ID is MW123456. I\u00e2\u20ac\u2122ve had recurring chest pain. Doctor: Mason, we\u00e2\u20ac\u2122ll conduct some cardiac tests to investigate further.",
+        "text": "Patient: Hello, I'm Mason Wright. My ID is MW123456. I've had recurring chest pain. Doctor: Mason, we'll conduct some cardiac tests to investigate further.",
         "meta": {
             "note_id": "743",
             "patient_id": "4567890"
@@ -14215,7 +14215,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Ella Parker, 34 years old. I\u00e2\u20ac\u2122ve had persistent migraines for weeks. Doctor: Ella, have you recently changed your diet or lifestyle?",
+        "text": "Patient: I'm Ella Parker, 34 years old. I've had persistent migraines for weeks. Doctor: Ella, have you recently changed your diet or lifestyle?",
         "meta": {
             "note_id": "744",
             "patient_id": "5678901"
@@ -14230,7 +14230,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Oliver Reed. I recently visited San Francisco and now feel dizzy. Doctor: Oliver, let\u00e2\u20ac\u2122s rule out any travel-related conditions.",
+        "text": "Patient: My name is Oliver Reed. I recently visited San Francisco and now feel dizzy. Doctor: Oliver, let's rule out any travel-related conditions.",
         "meta": {
             "note_id": "745",
             "patient_id": "6789012"
@@ -14251,7 +14251,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Sophia Taylor. My phone number is 555-234-5678. I\u00e2\u20ac\u2122ve had severe fatigue. Doctor: Sophia, let\u00e2\u20ac\u2122s run some blood tests to check your iron levels.",
+        "text": "Patient: I'm Sophia Taylor. My phone number is 555-234-5678. I've had severe fatigue. Doctor: Sophia, let's run some blood tests to check your iron levels.",
         "meta": {
             "note_id": "746",
             "patient_id": "7890123"
@@ -14272,7 +14272,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Amelia King. I\u00e2\u20ac\u2122ve been experiencing abdominal pain for two days. Doctor: Amelia, have you eaten anything unusual recently?",
+        "text": "Patient: My name is Amelia King. I've been experiencing abdominal pain for two days. Doctor: Amelia, have you eaten anything unusual recently?",
         "meta": {
             "note_id": "747",
             "patient_id": "8901234"
@@ -14287,7 +14287,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Jacob Moore. My email is jacob.moore@domain.com. Doctor: Jacob, let\u00e2\u20ac\u2122s review your recent imaging results.",
+        "text": "Patient: Hello, I'm Jacob Moore. My email is jacob.moore@domain.com. Doctor: Jacob, let's review your recent imaging results.",
         "meta": {
             "note_id": "748",
             "patient_id": "1234567"
@@ -14308,7 +14308,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Isabella Gray. I\u00e2\u20ac\u2122ve had insomnia since my trip to Denver. Doctor: Isabella, let\u00e2\u20ac\u2122s discuss your sleep schedule and habits.",
+        "text": "Patient: I'm Isabella Gray. I've had insomnia since my trip to Denver. Doctor: Isabella, let's discuss your sleep schedule and habits.",
         "meta": {
             "note_id": "749",
             "patient_id": "2345678"
@@ -14329,7 +14329,7 @@
         ]
     },
     {
-        "text": "Patient: My name is James Brooks. My ID is JB987654. I\u00e2\u20ac\u2122ve had severe allergies. Doctor: James, let\u00e2\u20ac\u2122s determine the specific allergens triggering your reaction.",
+        "text": "Patient: My name is James Brooks. My ID is JB987654. I've had severe allergies. Doctor: James, let's determine the specific allergens triggering your reaction.",
         "meta": {
             "note_id": "750",
             "patient_id": "3456789"
@@ -14350,7 +14350,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Charlotte Cooper. I\u00e2\u20ac\u2122ve recently moved to Houston and have back pain. Doctor: Charlotte, let\u00e2\u20ac\u2122s perform an evaluation to determine the cause.",
+        "text": "Patient: Hi, I'm Charlotte Cooper. I've recently moved to Houston and have back pain. Doctor: Charlotte, let's perform an evaluation to determine the cause.",
         "meta": {
             "note_id": "751",
             "patient_id": "4567890"
@@ -14371,7 +14371,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Liam Turner. My phone number is +1-888-456-7890. I\u00e2\u20ac\u2122ve had shortness of breath. Doctor: Liam, let\u00e2\u20ac\u2122s perform a pulmonary function test.",
+        "text": "Patient: I'm Liam Turner. My phone number is +1-888-456-7890. I've had shortness of breath. Doctor: Liam, let's perform a pulmonary function test.",
         "meta": {
             "note_id": "752",
             "patient_id": "5678901"
@@ -14392,7 +14392,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Mia Stewart. My email is mia.stewart@sample.net. I\u00e2\u20ac\u2122ve had a persistent fever. Doctor: Mia, let\u00e2\u20ac\u2122s start with some routine blood work.",
+        "text": "Patient: My name is Mia Stewart. My email is mia.stewart@sample.net. I've had a persistent fever. Doctor: Mia, let's start with some routine blood work.",
         "meta": {
             "note_id": "753",
             "patient_id": "6789012"
@@ -14413,7 +14413,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Ethan Hall. I recently traveled to Orlando and have a rash. Doctor: Ethan, let\u00e2\u20ac\u2122s determine if it\u00e2\u20ac\u2122s related to your travel.",
+        "text": "Patient: Hello, I'm Ethan Hall. I recently traveled to Orlando and have a rash. Doctor: Ethan, let's determine if it's related to your travel.",
         "meta": {
             "note_id": "754",
             "patient_id": "7890123"
@@ -14434,7 +14434,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Ava Lee. I was admitted to Riverside Medical Center for surgery. Doctor: Ava, let\u00e2\u20ac\u2122s review your recovery progress so far.",
+        "text": "Patient: I'm Ava Lee. I was admitted to Riverside Medical Center for surgery. Doctor: Ava, let's review your recovery progress so far.",
         "meta": {
             "note_id": "755",
             "patient_id": "8901234"
@@ -14455,7 +14455,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Noah Adams. I\u00e2\u20ac\u2122ve had a persistent cough since last week. Doctor: Noah, let\u00e2\u20ac\u2122s get a chest X-ray to rule out any concerns.",
+        "text": "Patient: My name is Noah Adams. I've had a persistent cough since last week. Doctor: Noah, let's get a chest X-ray to rule out any concerns.",
         "meta": {
             "note_id": "756",
             "patient_id": "1234567"
@@ -14470,7 +14470,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Emily Scott. My ID is ES543210. I\u00e2\u20ac\u2122ve been experiencing nausea. Doctor: Emily, we\u00e2\u20ac\u2122ll run some gastrointestinal tests to investigate.",
+        "text": "Patient: Hi, I'm Emily Scott. My ID is ES543210. I've been experiencing nausea. Doctor: Emily, we'll run some gastrointestinal tests to investigate.",
         "meta": {
             "note_id": "757",
             "patient_id": "2345678"
@@ -14491,7 +14491,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Oliver Brooks. My email is oliver.brooks@domain.com. I\u00e2\u20ac\u2122ve been feeling tired. Doctor: Oliver, let\u00e2\u20ac\u2122s evaluate your thyroid function.",
+        "text": "Patient: I'm Oliver Brooks. My email is oliver.brooks@domain.com. I've been feeling tired. Doctor: Oliver, let's evaluate your thyroid function.",
         "meta": {
             "note_id": "758",
             "patient_id": "3456789"
@@ -14512,7 +14512,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Harper Collins. I\u00e2\u20ac\u2122ve been experiencing muscle cramps. Doctor: Harper, have you recently changed your exercise routine?",
+        "text": "Patient: My name is Harper Collins. I've been experiencing muscle cramps. Doctor: Harper, have you recently changed your exercise routine?",
         "meta": {
             "note_id": "759",
             "patient_id": "4567890"
@@ -14527,7 +14527,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Alexander Murphy. My phone number is 555-678-1234. I\u00e2\u20ac\u2122ve been having chest tightness. Doctor: Alexander, let\u00e2\u20ac\u2122s check your heart and lung function.",
+        "text": "Patient: I'm Alexander Murphy. My phone number is 555-678-1234. I've been having chest tightness. Doctor: Alexander, let's check your heart and lung function.",
         "meta": {
             "note_id": "760",
             "patient_id": "5678901"
@@ -14548,7 +14548,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Alice Carter. I\u00e2\u20ac\u2122ve been having migraines since my trip to Chicago on November 20th.",
+        "text": "Patient: Hi, I'm Alice Carter. I've been having migraines since my trip to Chicago on November 20th.",
         "meta": {
             "note_id": "761",
             "patient_id": "10001"
@@ -14701,7 +14701,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Jason Taylor, and I\u00e2\u20ac\u2122ve been feeling very weak since December 10th. Doctor: Jason, are you still working at Amazon? I also see your last visit was at St. Luke\u00e2\u20ac\u2122s Hospital. Is your contact number +1-789-123-4567?",
+        "text": "Patient: My name is Jason Taylor, and I've been feeling very weak since December 10th. Doctor: Jason, are you still working at Amazon? I also see your last visit was at St. Luke's Hospital. Is your contact number +1-789-123-4567?",
         "meta": {
             "note_id": "766",
             "patient_id": "10014"
@@ -14740,7 +14740,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Emily Brown. I\u00e2\u20ac\u2122ve been experiencing dizziness since my trip to New York on January 15th, 2023. Doctor: Emily, I see your ID is EB123456, and your email is emily.brown@mail.com. Can you confirm?",
+        "text": "Patient: Hi, I'm Emily Brown. I've been experiencing dizziness since my trip to New York on January 15th, 2023. Doctor: Emily, I see your ID is EB123456, and your email is emily.brown@mail.com. Can you confirm?",
         "meta": {
             "note_id": "767",
             "patient_id": "10015"
@@ -14890,7 +14890,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Laura Evans, 28 years old. I visited Boston Memorial Hospital last year on February 14th. My email is laura.evans@gmail.com.",
+        "text": "Patient: I'm Laura Evans, 28 years old. I visited Boston Memorial Hospital last year on February 14th. My email is laura.evans@gmail.com.",
         "meta": {
             "note_id": "771",
             "patient_id": "10019"
@@ -15028,7 +15028,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Grace Wilson. My surgery was at Parkside Hospital on May 10th, 2024. Contact me at grace.wilson@domain.com.",
+        "text": "Patient: I'm Grace Wilson. My surgery was at Parkside Hospital on May 10th, 2024. Contact me at grace.wilson@domain.com.",
         "meta": {
             "note_id": "775",
             "patient_id": "10023"
@@ -15061,7 +15061,7 @@
         ]
     },
     {
-        "text": "Patient: My name is David Jones. I\u00e2\u20ac\u2122ve had back pain since my last visit to Pacific Health Center on March 5th, 2023. My phone number is 321-654-0987.",
+        "text": "Patient: My name is David Jones. I've had back pain since my last visit to Pacific Health Center on March 5th, 2023. My phone number is 321-654-0987.",
         "meta": {
             "note_id": "776",
             "patient_id": "10024"
@@ -15154,7 +15154,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Victoria Green. I visited Mercy Hospital on June 2nd for a check-up. My email is victoria.green@mail.net.",
+        "text": "Patient: I'm Victoria Green. I visited Mercy Hospital on June 2nd for a check-up. My email is victoria.green@mail.net.",
         "meta": {
             "note_id": "779",
             "patient_id": "10027"
@@ -15352,7 +15352,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Lucas Parker. I\u00e2\u20ac\u2122ve been having chest pain since July 4th. My email is lucas.parker@email.com, and my ID is LP56789.",
+        "text": "Patient: I'm Lucas Parker. I've been having chest pain since July 4th. My email is lucas.parker@email.com, and my ID is LP56789.",
         "meta": {
             "note_id": "785",
             "patient_id": "10033"
@@ -15385,7 +15385,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Steven Brown. I\u00e2\u20ac\u2122ve been having trouble sleeping since moving to 456 Park Avenue.",
+        "text": "Patient: Hello, I'm Steven Brown. I've been having trouble sleeping since moving to 456 Park Avenue.",
         "meta": {
             "note_id": "786",
             "patient_id": "10034"
@@ -15433,7 +15433,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Sarah Miller. I\u00e2\u20ac\u2122ve had frequent headaches since March 12th. I recently moved to 78 Willow Street, Portland.",
+        "text": "Patient: I'm Sarah Miller. I've had frequent headaches since March 12th. I recently moved to 78 Willow Street, Portland.",
         "meta": {
             "note_id": "788",
             "patient_id": "10035"
@@ -15493,7 +15493,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, my name is Anthony Garcia. I\u00e2\u20ac\u2122ve had chronic knee pain since last year. My email is anthony.garcia@mail.com.",
+        "text": "Patient: Hello, my name is Anthony Garcia. I've had chronic knee pain since last year. My email is anthony.garcia@mail.com.",
         "meta": {
             "note_id": "790",
             "patient_id": "10036"
@@ -15514,7 +15514,7 @@
         ]
     },
     {
-        "text": "Doctor: Anthony, your ID is AG456789. I\u00e2\u20ac\u2122ve noted your previous appointment at River Valley Clinic on June 10th, 2023.",
+        "text": "Doctor: Anthony, your ID is AG456789. I've noted your previous appointment at River Valley Clinic on June 10th, 2023.",
         "meta": {
             "note_id": "791",
             "patient_id": "10036"
@@ -15634,7 +15634,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Jacob Harris. I\u00e2\u20ac\u2122ve been experiencing dizziness since May 22nd. My ID is JH78901, and my contact is 555-666-7777.",
+        "text": "Patient: Hi, I'm Jacob Harris. I've been experiencing dizziness since May 22nd. My ID is JH78901, and my contact is 555-666-7777.",
         "meta": {
             "note_id": "795",
             "patient_id": "10039"
@@ -15700,7 +15700,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Emily Davis. I\u00e2\u20ac\u2122ve had severe allergies since last summer. I work at BlueSky Technologies.",
+        "text": "Patient: Hi, I'm Emily Davis. I've had severe allergies since last summer. I work at BlueSky Technologies.",
         "meta": {
             "note_id": "797",
             "patient_id": "10040"
@@ -15748,7 +15748,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Lucas Miller. I\u00e2\u20ac\u2122ve been feeling tired since moving to 123 Pine Lane, Seattle. My phone is 444-555-6666.",
+        "text": "Patient: I'm Lucas Miller. I've been feeling tired since moving to 123 Pine Lane, Seattle. My phone is 444-555-6666.",
         "meta": {
             "note_id": "799",
             "patient_id": "10041"
@@ -15808,7 +15808,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Natalie Moore. I\u00e2\u20ac\u2122ve been feeling dizzy since my visit to 89 Elm Street, Boston on July 14th.",
+        "text": "Patient: Hello, I'm Natalie Moore. I've been feeling dizzy since my visit to 89 Elm Street, Boston on July 14th.",
         "meta": {
             "note_id": "801",
             "patient_id": "10042"
@@ -15868,7 +15868,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Ethan Clark. I\u00e2\u20ac\u2122ve been dealing with back pain since my accident on November 9th.",
+        "text": "Patient: My name is Ethan Clark. I've been dealing with back pain since my accident on November 9th.",
         "meta": {
             "note_id": "803",
             "patient_id": "10043"
@@ -15916,7 +15916,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Ava Martinez. I\u00e2\u20ac\u2122ve been experiencing frequent colds since relocating to 67 Maple Avenue, Denver.",
+        "text": "Patient: Hi, I'm Ava Martinez. I've been experiencing frequent colds since relocating to 67 Maple Avenue, Denver.",
         "meta": {
             "note_id": "805",
             "patient_id": "10044"
@@ -15970,7 +15970,7 @@
         ]
     },
     {
-        "text": "Patient: I\u00e2\u20ac\u2122m Noah Evans. I\u00e2\u20ac\u2122ve had persistent coughing since March 3rd. My ID is NE12345, and my phone is 999-444-3333.",
+        "text": "Patient: I'm Noah Evans. I've had persistent coughing since March 3rd. My ID is NE12345, and my phone is 999-444-3333.",
         "meta": {
             "note_id": "807",
             "patient_id": "10045"
@@ -16003,7 +16003,7 @@
         ]
     },
     {
-        "text": "Doctor: Noah, I\u00e2\u20ac\u2122ve reviewed your file. Your last appointment at Harmony Clinic on February 14th, 2024, shows improvement.",
+        "text": "Doctor: Noah, I've reviewed your file. Your last appointment at Harmony Clinic on February 14th, 2024, shows improvement.",
         "meta": {
             "note_id": "808",
             "patient_id": "10045"
@@ -16030,7 +16030,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Sophia Wilson. I\u00e2\u20ac\u2122ve been facing severe fatigue since my trip to 120 Birch Road, Miami on January 18th.",
+        "text": "Patient: Hi, I'm Sophia Wilson. I've been facing severe fatigue since my trip to 120 Birch Road, Miami on January 18th.",
         "meta": {
             "note_id": "809",
             "patient_id": "10046"
@@ -16084,7 +16084,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, my name is Lucas Brown. I\u00e2\u20ac\u2122ve been experiencing shortness of breath since my visit to 33 Cedar Lane, Austin.",
+        "text": "Patient: Hello, my name is Lucas Brown. I've been experiencing shortness of breath since my visit to 33 Cedar Lane, Austin.",
         "meta": {
             "note_id": "811",
             "patient_id": "10047"
@@ -16138,7 +16138,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Isabella Scott. I\u00e2\u20ac\u2122ve been feeling unusually tired since May 19th, following my move to 12 Pine Avenue, Chicago.",
+        "text": "Patient: Hi, I'm Isabella Scott. I've been feeling unusually tired since May 19th, following my move to 12 Pine Avenue, Chicago.",
         "meta": {
             "note_id": "813",
             "patient_id": "10048"
@@ -16192,7 +16192,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Michael Ramirez. I\u00e2\u20ac\u2122ve had frequent nosebleeds since September 10th. My ID is MR45678.",
+        "text": "Patient: Hello, I'm Michael Ramirez. I've had frequent nosebleeds since September 10th. My ID is MR45678.",
         "meta": {
             "note_id": "815",
             "patient_id": "10049"
@@ -16246,7 +16246,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Emma Lee. I\u00e2\u20ac\u2122ve been experiencing blurred vision since visiting 54 Oak Street, Seattle on October 29th.",
+        "text": "Patient: Hi, I'm Emma Lee. I've been experiencing blurred vision since visiting 54 Oak Street, Seattle on October 29th.",
         "meta": {
             "note_id": "817",
             "patient_id": "10050"
@@ -16300,7 +16300,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m David Miller. I\u00e2\u20ac\u2122ve been having headaches since December 1st after moving to 78 Walnut Street, San Francisco.",
+        "text": "Patient: Hello, I'm David Miller. I've been having headaches since December 1st after moving to 78 Walnut Street, San Francisco.",
         "meta": {
             "note_id": "819",
             "patient_id": "10051"
@@ -16354,7 +16354,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Olivia Smith. I\u00e2\u20ac\u2122ve been experiencing joint pain since February 14th after a fall at 32 Willow Lane, Portland.",
+        "text": "Patient: Hi, I'm Olivia Smith. I've been experiencing joint pain since February 14th after a fall at 32 Willow Lane, Portland.",
         "meta": {
             "note_id": "821",
             "patient_id": "10052"
@@ -16408,7 +16408,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Daniel Jackson. I\u00e2\u20ac\u2122ve had breathing difficulties since my visit to 27 Birchwood Drive, Chicago on June 8th.",
+        "text": "Patient: Hello, I'm Daniel Jackson. I've had breathing difficulties since my visit to 27 Birchwood Drive, Chicago on June 8th.",
         "meta": {
             "note_id": "823",
             "patient_id": "10053"
@@ -16462,7 +16462,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Emily Davis. I\u00e2\u20ac\u2122ve been experiencing skin irritation since April 20th after exposure to 45 Maple Grove, Dallas.",
+        "text": "Patient: Hi, I'm Emily Davis. I've been experiencing skin irritation since April 20th after exposure to 45 Maple Grove, Dallas.",
         "meta": {
             "note_id": "825",
             "patient_id": "10054"
@@ -16516,7 +16516,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Lucas Anderson. I\u00e2\u20ac\u2122ve had chest discomfort since September 12th after moving to 78 Oak Lane, Phoenix.",
+        "text": "Patient: Hello, I'm Lucas Anderson. I've had chest discomfort since September 12th after moving to 78 Oak Lane, Phoenix.",
         "meta": {
             "note_id": "827",
             "patient_id": "10055"
@@ -16543,7 +16543,7 @@
         ]
     },
     {
-        "text": "Doctor: Lucas, I see you\u00e2\u20ac\u2122ve been to Valley Heart Center on August 18th, 2023, for a similar issue.",
+        "text": "Doctor: Lucas, I see you've been to Valley Heart Center on August 18th, 2023, for a similar issue.",
         "meta": {
             "note_id": "828",
             "patient_id": "10055"
@@ -16570,7 +16570,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Sarah Martinez. I\u00e2\u20ac\u2122ve been experiencing migraines since July 4th after attending a concert at 34 Pine Street, Los Angeles.",
+        "text": "Patient: Hi, I'm Sarah Martinez. I've been experiencing migraines since July 4th after attending a concert at 34 Pine Street, Los Angeles.",
         "meta": {
             "note_id": "829",
             "patient_id": "10056"
@@ -16624,7 +16624,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m James Wilson. I\u00e2\u20ac\u2122ve had recurring dizziness since August 10th after visiting 10 Elm Court, Houston.",
+        "text": "Patient: Hello, I'm James Wilson. I've had recurring dizziness since August 10th after visiting 10 Elm Court, Houston.",
         "meta": {
             "note_id": "831",
             "patient_id": "10057"
@@ -16678,7 +16678,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Mia Johnson. I\u00e2\u20ac\u2122ve been feeling weak since September 30th after my trip to 67 Aspen Road, Miami.",
+        "text": "Patient: Hi, I'm Mia Johnson. I've been feeling weak since September 30th after my trip to 67 Aspen Road, Miami.",
         "meta": {
             "note_id": "833",
             "patient_id": "10058"
@@ -16732,7 +16732,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, my name is William Davis. I\u00e2\u20ac\u2122ve had difficulty sleeping since July 18th after relocating to 23 Sycamore Lane, Boston.",
+        "text": "Patient: Hello, my name is William Davis. I've had difficulty sleeping since July 18th after relocating to 23 Sycamore Lane, Boston.",
         "meta": {
             "note_id": "835",
             "patient_id": "10059"
@@ -16786,7 +16786,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Jonathan Reed, aged 45. I\u00e2\u20ac\u2122ve had persistent back pain since moving to 120 Sunset Boulevard, Los Angeles, on May 20th. My contact number is +1-310-555-7890.",
+        "text": "Patient: Hello, I'm Jonathan Reed, aged 45. I've had persistent back pain since moving to 120 Sunset Boulevard, Los Angeles, on May 20th. My contact number is +1-310-555-7890.",
         "meta": {
             "note_id": "837",
             "patient_id": "10060"
@@ -16825,7 +16825,7 @@
         ]
     },
     {
-        "text": "Doctor: Jonathan, your last check-up was at Beverly Spine Center on June 10th, 2023. I also see you\u00e2\u20ac\u2122re employed at Google.",
+        "text": "Doctor: Jonathan, your last check-up was at Beverly Spine Center on June 10th, 2023. I also see you're employed at Google.",
         "meta": {
             "note_id": "838",
             "patient_id": "10060"
@@ -16858,7 +16858,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Isabella Clark. I\u00e2\u20ac\u2122m 34 years old and have had severe migraines since my visit to 50 Maple Street, Austin, on April 5th, 2024.",
+        "text": "Patient: Hi, I'm Isabella Clark. I'm 34 years old and have had severe migraines since my visit to 50 Maple Street, Austin, on April 5th, 2024.",
         "meta": {
             "note_id": "839",
             "patient_id": "10061"
@@ -16924,7 +16924,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Sophia Lee, 28 years old. I\u00e2\u20ac\u2122ve been dealing with allergies since June 12th after staying at 19 Cypress Lane, Miami. My email is sophia.lee@example.com.",
+        "text": "Patient: Hello, I'm Sophia Lee, 28 years old. I've been dealing with allergies since June 12th after staying at 19 Cypress Lane, Miami. My email is sophia.lee@example.com.",
         "meta": {
             "note_id": "841",
             "patient_id": "10062"
@@ -16996,7 +16996,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, my name is James Walker. I\u00e2\u20ac\u2122m 40 years old and have been having breathing issues since visiting 22 Oakwood Drive, Chicago, on August 18th.",
+        "text": "Patient: Hi, my name is James Walker. I'm 40 years old and have been having breathing issues since visiting 22 Oakwood Drive, Chicago, on August 18th.",
         "meta": {
             "note_id": "843",
             "patient_id": "10063"
@@ -17062,7 +17062,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, my name is Emma Johnson. I\u00e2\u20ac\u2122m 32 and have been experiencing dizziness since April 14th after my trip to 43 Elm Street, San Diego. My contact email is emma.j@example.com.",
+        "text": "Patient: Hello, my name is Emma Johnson. I'm 32 and have been experiencing dizziness since April 14th after my trip to 43 Elm Street, San Diego. My contact email is emma.j@example.com.",
         "meta": {
             "note_id": "845",
             "patient_id": "10064"
@@ -17134,7 +17134,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Rachel Green. I\u00e2\u20ac\u2122ve been having constant headaches since March 1st, after moving to 34 Pine Avenue, Boston. My contact number is 987-654-3210.",
+        "text": "Patient: Hi, I'm Rachel Green. I've been having constant headaches since March 1st, after moving to 34 Pine Avenue, Boston. My contact number is 987-654-3210.",
         "meta": {
             "note_id": "847",
             "patient_id": "10065"
@@ -17200,7 +17200,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Michael Scott, aged 52. I\u00e2\u20ac\u2122ve been feeling fatigued since January 15th after visiting 78 Birch Street, Scranton. My email is michael.scott@dundermifflin.com.",
+        "text": "Patient: Hello, I'm Michael Scott, aged 52. I've been feeling fatigued since January 15th after visiting 78 Birch Street, Scranton. My email is michael.scott@dundermifflin.com.",
         "meta": {
             "note_id": "849",
             "patient_id": "10066"
@@ -17272,7 +17272,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, my name is Olivia Brown. I\u00e2\u20ac\u2122m 29 years old and have been experiencing joint pain since November 3rd. My contact number is 321-456-7890, and I work at Apple.",
+        "text": "Patient: Hi, my name is Olivia Brown. I'm 29 years old and have been experiencing joint pain since November 3rd. My contact number is 321-456-7890, and I work at Apple.",
         "meta": {
             "note_id": "851",
             "patient_id": "10067"
@@ -17344,7 +17344,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m William King, aged 44. I\u00e2\u20ac\u2122ve been having stomach issues since May 30th after my trip to 23 King\u00e2\u20ac\u2122s Road, London. My email is william.king@kings.co.uk.",
+        "text": "Patient: Hello, I'm William King, aged 44. I've been having stomach issues since May 30th after my trip to 23 King's Road, London. My email is william.king@kings.co.uk.",
         "meta": {
             "note_id": "853",
             "patient_id": "10068"
@@ -17383,7 +17383,7 @@
         ]
     },
     {
-        "text": "Doctor: William, your last consultation was at Royal Gastro Clinic on April 20th, 2023. Are you still residing at King\u00e2\u20ac\u2122s Road?",
+        "text": "Doctor: William, your last consultation was at Royal Gastro Clinic on April 20th, 2023. Are you still residing at King's Road?",
         "meta": {
             "note_id": "854",
             "patient_id": "10068"
@@ -17416,7 +17416,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, my name is David Hall. I\u00e2\u20ac\u2122m 38 years old and have had recurring chest pain since June 14th, after relocating to 15 Cypress Street, Orlando.",
+        "text": "Patient: Hi, my name is David Hall. I'm 38 years old and have had recurring chest pain since June 14th, after relocating to 15 Cypress Street, Orlando.",
         "meta": {
             "note_id": "855",
             "patient_id": "10069"
@@ -17482,7 +17482,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Sarah Connor, and I\u00e2\u20ac\u2122ve been experiencing back pain since January 5th. I live at 45 Elm Street, Seattle, and my phone number is 789-555-1234.",
+        "text": "Patient: My name is Sarah Connor, and I've been experiencing back pain since January 5th. I live at 45 Elm Street, Seattle, and my phone number is 789-555-1234.",
         "meta": {
             "note_id": "857",
             "patient_id": "10070"
@@ -17548,7 +17548,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m John Doe, and my email is john.doe@example.com. I\u00e2\u20ac\u2122ve been dealing with anxiety since October 20th.",
+        "text": "Patient: Hi, I'm John Doe, and my email is john.doe@example.com. I've been dealing with anxiety since October 20th.",
         "meta": {
             "note_id": "859",
             "patient_id": "10071"
@@ -17608,7 +17608,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, my name is Laura Palmer. I\u00e2\u20ac\u2122m 36 years old and live at 12 Maple Avenue, Twin Peaks. My contact number is 555-987-6543.",
+        "text": "Patient: Hello, my name is Laura Palmer. I'm 36 years old and live at 12 Maple Avenue, Twin Peaks. My contact number is 555-987-6543.",
         "meta": {
             "note_id": "861",
             "patient_id": "10072"
@@ -17674,7 +17674,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Mark Spencer. I\u00e2\u20ac\u2122ve been feeling unwell since September 10th after relocating to 78 Willow Drive, New York.",
+        "text": "Patient: Hi, I'm Mark Spencer. I've been feeling unwell since September 10th after relocating to 78 Willow Drive, New York.",
         "meta": {
             "note_id": "863",
             "patient_id": "10073"
@@ -17734,7 +17734,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Emma Watson. I\u00e2\u20ac\u2122m 31 years old and have been suffering from insomnia since April 15th. My contact number is 123-456-7890.",
+        "text": "Patient: My name is Emma Watson. I'm 31 years old and have been suffering from insomnia since April 15th. My contact number is 123-456-7890.",
         "meta": {
             "note_id": "865",
             "patient_id": "10074"
@@ -17800,7 +17800,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Paul Harris. I recently moved to 123 Main Street, Boston. My phone number is 456-789-1234.",
+        "text": "Patient: Hi, I'm Paul Harris. I recently moved to 123 Main Street, Boston. My phone number is 456-789-1234.",
         "meta": {
             "note_id": "867",
             "patient_id": "10075"
@@ -17860,7 +17860,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Olivia Brown. I\u00e2\u20ac\u2122m 29 years old and have been experiencing fatigue since May 15th. My contact number is 789-555-1234.",
+        "text": "Patient: My name is Olivia Brown. I'm 29 years old and have been experiencing fatigue since May 15th. My contact number is 789-555-1234.",
         "meta": {
             "note_id": "869",
             "patient_id": "10076"
@@ -17926,7 +17926,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Liam Johnson. My email is liam.johnson@email.com. I\u00e2\u20ac\u2122ve been feeling stressed since moving to 345 Oak Avenue, Denver.",
+        "text": "Patient: Hi, I'm Liam Johnson. My email is liam.johnson@email.com. I've been feeling stressed since moving to 345 Oak Avenue, Denver.",
         "meta": {
             "note_id": "871",
             "patient_id": "10077"
@@ -17986,7 +17986,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Mia Clark. I\u00e2\u20ac\u2122m 40 years old and have been experiencing migraines since January 2nd. My phone number is 123-456-7890.",
+        "text": "Patient: Hello, I'm Mia Clark. I'm 40 years old and have been experiencing migraines since January 2nd. My phone number is 123-456-7890.",
         "meta": {
             "note_id": "873",
             "patient_id": "10078"
@@ -18052,7 +18052,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, my name is Ethan Wright. I\u00e2\u20ac\u2122ve been feeling tired since March 8th, and my phone number is +1-987-654-3210.",
+        "text": "Patient: Hi, my name is Ethan Wright. I've been feeling tired since March 8th, and my phone number is +1-987-654-3210.",
         "meta": {
             "note_id": "875",
             "patient_id": "10079"
@@ -18112,7 +18112,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Sophia Davis. My email is sophia.davis@email.com. I\u00e2\u20ac\u2122ve been feeling lightheaded since December 5th, 2024. My address is 12 Elm Street, Seattle.",
+        "text": "Patient: Hi, I'm Sophia Davis. My email is sophia.davis@email.com. I've been feeling lightheaded since December 5th, 2024. My address is 12 Elm Street, Seattle.",
         "meta": {
             "note_id": "877",
             "patient_id": "10080"
@@ -18178,7 +18178,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Benjamin Moore. I recently started working for Google and moved to 78 Pine Avenue, Austin. My contact number is 321-654-9870.",
+        "text": "Patient: Hello, I'm Benjamin Moore. I recently started working for Google and moved to 78 Pine Avenue, Austin. My contact number is 321-654-9870.",
         "meta": {
             "note_id": "879",
             "patient_id": "10081"
@@ -18244,7 +18244,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Emily Johnson. I\u00e2\u20ac\u2122ve been having severe headaches since January 10th. My phone number is 456-789-0123.",
+        "text": "Patient: Hi, I'm Emily Johnson. I've been having severe headaches since January 10th. My phone number is 456-789-0123.",
         "meta": {
             "note_id": "881",
             "patient_id": "10082"
@@ -18304,7 +18304,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Noah Wilson. I\u00e2\u20ac\u2122m 35 years old and recently moved to 90 Cedar Road, San Francisco. My email is noah.wilson@mail.com.",
+        "text": "Patient: My name is Noah Wilson. I'm 35 years old and recently moved to 90 Cedar Road, San Francisco. My email is noah.wilson@mail.com.",
         "meta": {
             "note_id": "883",
             "patient_id": "10083"
@@ -18370,7 +18370,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Amelia Evans. I\u00e2\u20ac\u2122ve been feeling anxious since June 5th, 2024. My address is 345 Willow Lane, Portland.",
+        "text": "Patient: Hi, I'm Amelia Evans. I've been feeling anxious since June 5th, 2024. My address is 345 Willow Lane, Portland.",
         "meta": {
             "note_id": "885",
             "patient_id": "10084"
@@ -18430,7 +18430,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Daniel Robinson. I\u00e2\u20ac\u2122ve been experiencing nausea since June 10th. My phone number is 123-456-7890, and I live at 78 Oak Street, Denver.",
+        "text": "Patient: My name is Daniel Robinson. I've been experiencing nausea since June 10th. My phone number is 123-456-7890, and I live at 78 Oak Street, Denver.",
         "meta": {
             "note_id": "887",
             "patient_id": "10085"
@@ -18496,7 +18496,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Laura Collins. I\u00e2\u20ac\u2122ve been having back pain since my trip to Paris on October 12th, 2024. My ID is LC876543.",
+        "text": "Patient: Hi, I'm Laura Collins. I've been having back pain since my trip to Paris on October 12th, 2024. My ID is LC876543.",
         "meta": {
             "note_id": "889",
             "patient_id": "10086"
@@ -18529,7 +18529,7 @@
         ]
     },
     {
-        "text": "Doctor: Laura, your last check-up was at St. Mary\u00e2\u20ac\u2122s Hospital on January 20th, 2024. Is your phone number 789-123-4560?",
+        "text": "Doctor: Laura, your last check-up was at St. Mary's Hospital on January 20th, 2024. Is your phone number 789-123-4560?",
         "meta": {
             "note_id": "890",
             "patient_id": "10086"
@@ -18562,7 +18562,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Michael Smith. I\u00e2\u20ac\u2122ve been feeling fatigued since May 2nd, 2023. My contact email is michael.smith@mail.com.",
+        "text": "Patient: Hello, I'm Michael Smith. I've been feeling fatigued since May 2nd, 2023. My contact email is michael.smith@mail.com.",
         "meta": {
             "note_id": "891",
             "patient_id": "10087"
@@ -18622,7 +18622,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Jessica Taylor. I\u00e2\u20ac\u2122ve been having chest pain since March 8th. My phone number is 234-567-8901.",
+        "text": "Patient: Hi, I'm Jessica Taylor. I've been having chest pain since March 8th. My phone number is 234-567-8901.",
         "meta": {
             "note_id": "893",
             "patient_id": "10088"
@@ -18682,7 +18682,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Olivia Adams. I\u00e2\u20ac\u2122ve been experiencing headaches since my vacation to Boston on July 15th, 2024.",
+        "text": "Patient: My name is Olivia Adams. I've been experiencing headaches since my vacation to Boston on July 15th, 2024.",
         "meta": {
             "note_id": "895",
             "patient_id": "10089"
@@ -18742,7 +18742,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Ryan Cooper. I\u00e2\u20ac\u2122ve been experiencing blurred vision since April 22nd, 2024. My phone number is 987-123-4560.",
+        "text": "Patient: Hi, I'm Ryan Cooper. I've been experiencing blurred vision since April 22nd, 2024. My phone number is 987-123-4560.",
         "meta": {
             "note_id": "897",
             "patient_id": "10090"
@@ -18802,7 +18802,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Sarah Johnson. I\u00e2\u20ac\u2122ve been experiencing severe headaches since March 15th, 2024. My email is sarah.johnson@mail.com.",
+        "text": "Patient: Hello, I'm Sarah Johnson. I've been experiencing severe headaches since March 15th, 2024. My email is sarah.johnson@mail.com.",
         "meta": {
             "note_id": "899",
             "patient_id": "10091"
@@ -18862,7 +18862,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m David Lee. I\u00e2\u20ac\u2122ve been feeling fatigued since my move to 567 Elm Street, New York, on June 20th, 2024.",
+        "text": "Patient: Hi, I'm David Lee. I've been feeling fatigued since my move to 567 Elm Street, New York, on June 20th, 2024.",
         "meta": {
             "note_id": "901",
             "patient_id": "10092"
@@ -18922,7 +18922,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, my name is Emma Davis. I\u00e2\u20ac\u2122ve been experiencing nausea since March 10th, 2024. My phone number is 456-789-1234.",
+        "text": "Patient: Hello, my name is Emma Davis. I've been experiencing nausea since March 10th, 2024. My phone number is 456-789-1234.",
         "meta": {
             "note_id": "903",
             "patient_id": "10093"
@@ -18982,7 +18982,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Ethan Brown. I\u00e2\u20ac\u2122ve been having severe chest pain since my visit to Miami on May 5th, 2024.",
+        "text": "Patient: Hi, I'm Ethan Brown. I've been having severe chest pain since my visit to Miami on May 5th, 2024.",
         "meta": {
             "note_id": "905",
             "patient_id": "10094"
@@ -19042,7 +19042,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Sophia Wilson. I\u00e2\u20ac\u2122ve been experiencing dizziness since February 12th, 2023. My contact number is 654-321-9870.",
+        "text": "Patient: My name is Sophia Wilson. I've been experiencing dizziness since February 12th, 2023. My contact number is 654-321-9870.",
         "meta": {
             "note_id": "907",
             "patient_id": "10095"
@@ -19102,7 +19102,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Matthew Taylor. I\u00e2\u20ac\u2122ve been having muscle pain since January 18th, 2024. My ID is MT123456.",
+        "text": "Patient: Hello, I'm Matthew Taylor. I've been having muscle pain since January 18th, 2024. My ID is MT123456.",
         "meta": {
             "note_id": "909",
             "patient_id": "10096"
@@ -19162,7 +19162,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Olivia Green. I\u00e2\u20ac\u2122ve been feeling unwell since March 30th, 2024. My contact number is 987-654-3210.",
+        "text": "Patient: Hi, I'm Olivia Green. I've been feeling unwell since March 30th, 2024. My contact number is 987-654-3210.",
         "meta": {
             "note_id": "911",
             "patient_id": "10097"
@@ -19222,7 +19222,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Noah Walker. I\u00e2\u20ac\u2122ve been feeling dizzy since April 5th, 2024. My ID is NW987654.",
+        "text": "Patient: Hello, I'm Noah Walker. I've been feeling dizzy since April 5th, 2024. My ID is NW987654.",
         "meta": {
             "note_id": "913",
             "patient_id": "10098"
@@ -19282,7 +19282,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Ava Harris. I\u00e2\u20ac\u2122ve been feeling exhausted since June 12th, 2024. I work at Google.",
+        "text": "Patient: Hi, I'm Ava Harris. I've been feeling exhausted since June 12th, 2024. I work at Google.",
         "meta": {
             "note_id": "915",
             "patient_id": "10099"
@@ -19342,7 +19342,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Elijah Scott. I\u00e2\u20ac\u2122ve been having chest pain since December 25th, 2023. My phone number is 555-678-1234.",
+        "text": "Patient: My name is Elijah Scott. I've been having chest pain since December 25th, 2023. My phone number is 555-678-1234.",
         "meta": {
             "note_id": "917",
             "patient_id": "10100"
@@ -19402,7 +19402,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Mia Robinson. I\u00e2\u20ac\u2122ve been having back pain since my trip to 123 Maple Avenue, Los Angeles.",
+        "text": "Patient: Hi, I'm Mia Robinson. I've been having back pain since my trip to 123 Maple Avenue, Los Angeles.",
         "meta": {
             "note_id": "919",
             "patient_id": "10101"
@@ -19456,7 +19456,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Isabella Lee. I\u00e2\u20ac\u2122ve been having headaches since February 14th, 2024. My phone number is 555-432-7654.",
+        "text": "Patient: My name is Isabella Lee. I've been having headaches since February 14th, 2024. My phone number is 555-432-7654.",
         "meta": {
             "note_id": "921",
             "patient_id": "10102"
@@ -19483,7 +19483,7 @@
         ]
     },
     {
-        "text": "Doctor: Isabella, your last check-up was at St. Peter\u00e2\u20ac\u2122s Hospital on January 30th, 2024. Is your email isabella.lee@mail.com?",
+        "text": "Doctor: Isabella, your last check-up was at St. Peter's Hospital on January 30th, 2024. Is your email isabella.lee@mail.com?",
         "meta": {
             "note_id": "922",
             "patient_id": "10102"
@@ -19516,7 +19516,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Ethan Miller. I\u00e2\u20ac\u2122ve been having joint pain since July 20th, 2024. My ID is EM984321.",
+        "text": "Patient: Hi, I'm Ethan Miller. I've been having joint pain since July 20th, 2024. My ID is EM984321.",
         "meta": {
             "note_id": "923",
             "patient_id": "10103"
@@ -19576,7 +19576,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Harper Davis. I\u00e2\u20ac\u2122ve been feeling fatigued since March 2nd, 2024. I work at IBM.",
+        "text": "Patient: Hello, I'm Harper Davis. I've been feeling fatigued since March 2nd, 2024. I work at IBM.",
         "meta": {
             "note_id": "925",
             "patient_id": "10104"
@@ -19636,7 +19636,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Lucas Carter. I\u00e2\u20ac\u2122ve been having nausea since October 18th, 2024. My ID is LC123456.",
+        "text": "Patient: My name is Lucas Carter. I've been having nausea since October 18th, 2024. My ID is LC123456.",
         "meta": {
             "note_id": "927",
             "patient_id": "10105"
@@ -19696,7 +19696,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Zoe Evans. I\u00e2\u20ac\u2122ve been having dizziness since my trip to 789 Oak Street, San Francisco.",
+        "text": "Patient: Hi, I'm Zoe Evans. I've been having dizziness since my trip to 789 Oak Street, San Francisco.",
         "meta": {
             "note_id": "929",
             "patient_id": "10106"
@@ -19750,7 +19750,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Emily Wright. I\u00e2\u20ac\u2122ve been feeling feverish since March 5th, 2024. My phone number is 555-987-6543.",
+        "text": "Patient: My name is Emily Wright. I've been feeling feverish since March 5th, 2024. My phone number is 555-987-6543.",
         "meta": {
             "note_id": "931",
             "patient_id": "10107"
@@ -19810,7 +19810,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Jack Wilson. I\u00e2\u20ac\u2122ve been feeling weak since May 2nd, 2024. I work at Microsoft.",
+        "text": "Patient: Hi, I'm Jack Wilson. I've been feeling weak since May 2nd, 2024. I work at Microsoft.",
         "meta": {
             "note_id": "933",
             "patient_id": "10108"
@@ -19870,7 +19870,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Ava Morgan. I\u00e2\u20ac\u2122ve been feeling fatigued since January 18th, 2024. My ID is AM123456.",
+        "text": "Patient: My name is Ava Morgan. I've been feeling fatigued since January 18th, 2024. My ID is AM123456.",
         "meta": {
             "note_id": "935",
             "patient_id": "10109"
@@ -19930,7 +19930,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Riley Johnson. I\u00e2\u20ac\u2122ve been feeling dizzy since September 20th, 2024. My email is riley.johnson@mail.com.",
+        "text": "Patient: Hello, I'm Riley Johnson. I've been feeling dizzy since September 20th, 2024. My email is riley.johnson@mail.com.",
         "meta": {
             "note_id": "937",
             "patient_id": "10110"
@@ -19957,7 +19957,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Oliver Garcia. I\u00e2\u20ac\u2122ve been feeling shortness of breath since August 12th, 2024. My ID is OG456789.",
+        "text": "Patient: My name is Oliver Garcia. I've been feeling shortness of breath since August 12th, 2024. My ID is OG456789.",
         "meta": {
             "note_id": "938",
             "patient_id": "10111"
@@ -20017,7 +20017,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Natalie Perez. I\u00e2\u20ac\u2122ve been feeling nauseous since June 25th, 2024. My contact number is 555-654-3210.",
+        "text": "Patient: Hi, I'm Natalie Perez. I've been feeling nauseous since June 25th, 2024. My contact number is 555-654-3210.",
         "meta": {
             "note_id": "940",
             "patient_id": "10112"
@@ -20077,7 +20077,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Samuel Martinez. I\u00e2\u20ac\u2122ve been having chest pain since April 5th, 2024. My ID is SM98321.",
+        "text": "Patient: My name is Samuel Martinez. I've been having chest pain since April 5th, 2024. My ID is SM98321.",
         "meta": {
             "note_id": "942",
             "patient_id": "10113"
@@ -20137,7 +20137,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Mia Thompson. I\u00e2\u20ac\u2122ve been feeling tired since September 30th, 2024. My email is mia.thompson@mail.com.",
+        "text": "Patient: Hi, I'm Mia Thompson. I've been feeling tired since September 30th, 2024. My email is mia.thompson@mail.com.",
         "meta": {
             "note_id": "944",
             "patient_id": "10114"
@@ -20197,7 +20197,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Jacob Brooks. I\u00e2\u20ac\u2122ve been experiencing back pain since November 10th, 2024. My ID is JB745963.",
+        "text": "Patient: My name is Jacob Brooks. I've been experiencing back pain since November 10th, 2024. My ID is JB745963.",
         "meta": {
             "note_id": "946",
             "patient_id": "10115"
@@ -20257,7 +20257,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Grace Evans. I\u00e2\u20ac\u2122ve been having joint pain since July 22nd, 2024. My phone number is 555-321-4321.",
+        "text": "Patient: Hi, I'm Grace Evans. I've been having joint pain since July 22nd, 2024. My phone number is 555-321-4321.",
         "meta": {
             "note_id": "948",
             "patient_id": "10116"
@@ -20317,7 +20317,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Victoria Harris. I\u00e2\u20ac\u2122ve been feeling dizzy since December 3rd, 2024. My ID is VH675432.",
+        "text": "Patient: My name is Victoria Harris. I've been feeling dizzy since December 3rd, 2024. My ID is VH675432.",
         "meta": {
             "note_id": "950",
             "patient_id": "10117"
@@ -20377,7 +20377,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Benjamin Clark. I\u00e2\u20ac\u2122ve been having stomach pain since May 16th, 2024. My contact number is 555-345-6789.",
+        "text": "Patient: Hi, I'm Benjamin Clark. I've been having stomach pain since May 16th, 2024. My contact number is 555-345-6789.",
         "meta": {
             "note_id": "952",
             "patient_id": "10118"
@@ -20437,7 +20437,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Naomi Scott. I\u00e2\u20ac\u2122ve been experiencing headache since October 11th, 2024. My ID is NS555789.",
+        "text": "Patient: My name is Naomi Scott. I've been experiencing headache since October 11th, 2024. My ID is NS555789.",
         "meta": {
             "note_id": "954",
             "patient_id": "10119"
@@ -20497,7 +20497,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Ethan Miller. I\u00e2\u20ac\u2122ve been feeling fatigued since January 18th, 2024. My email is ethan.miller@mail.com.",
+        "text": "Patient: My name is Ethan Miller. I've been feeling fatigued since January 18th, 2024. My email is ethan.miller@mail.com.",
         "meta": {
             "note_id": "956",
             "patient_id": "10120"
@@ -20557,7 +20557,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Audrey Davis. I\u00e2\u20ac\u2122ve been experiencing nausea since February 22nd, 2024. My contact number is 555-654-9870.",
+        "text": "Patient: Hi, I'm Audrey Davis. I've been experiencing nausea since February 22nd, 2024. My contact number is 555-654-9870.",
         "meta": {
             "note_id": "958",
             "patient_id": "10121"
@@ -20617,7 +20617,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Isaac Walker. I\u00e2\u20ac\u2122ve been having dizziness since March 3rd, 2024. My ID is IW456123.",
+        "text": "Patient: My name is Isaac Walker. I've been having dizziness since March 3rd, 2024. My ID is IW456123.",
         "meta": {
             "note_id": "960",
             "patient_id": "10122"
@@ -20677,7 +20677,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Olivia Green. I\u00e2\u20ac\u2122ve been feeling weak since October 17th, 2024. My email is olivia.green@mail.com.",
+        "text": "Patient: Hi, I'm Olivia Green. I've been feeling weak since October 17th, 2024. My email is olivia.green@mail.com.",
         "meta": {
             "note_id": "962",
             "patient_id": "10123"
@@ -20737,7 +20737,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Henry Adams. I\u00e2\u20ac\u2122ve been having joint pain since July 7th, 2024. My contact number is 555-432-5678.",
+        "text": "Patient: My name is Henry Adams. I've been having joint pain since July 7th, 2024. My contact number is 555-432-5678.",
         "meta": {
             "note_id": "964",
             "patient_id": "10124"
@@ -20797,7 +20797,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Lucas Harris. I\u00e2\u20ac\u2122ve been feeling nauseous since November 30th, 2024. My ID is LH998231.",
+        "text": "Patient: Hi, I'm Lucas Harris. I've been feeling nauseous since November 30th, 2024. My ID is LH998231.",
         "meta": {
             "note_id": "966",
             "patient_id": "10125"
@@ -20857,7 +20857,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Aiden Clark. I\u00e2\u20ac\u2122ve been experiencing back pain since December 10th, 2024. My ID is AC321654.",
+        "text": "Patient: My name is Aiden Clark. I've been experiencing back pain since December 10th, 2024. My ID is AC321654.",
         "meta": {
             "note_id": "968",
             "patient_id": "10126"
@@ -20917,7 +20917,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Ruby Jackson. I\u00e2\u20ac\u2122ve been having headaches since August 25th, 2024. My email is ruby.jackson@mail.com.",
+        "text": "Patient: Hi, I'm Ruby Jackson. I've been having headaches since August 25th, 2024. My email is ruby.jackson@mail.com.",
         "meta": {
             "note_id": "970",
             "patient_id": "10127"
@@ -20977,7 +20977,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Amelia Taylor. I\u00e2\u20ac\u2122ve been feeling short of breath since January 5th, 2024. My contact number is 555-432-1098.",
+        "text": "Patient: My name is Amelia Taylor. I've been feeling short of breath since January 5th, 2024. My contact number is 555-432-1098.",
         "meta": {
             "note_id": "972",
             "patient_id": "10128"
@@ -21037,7 +21037,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Jackson Lee. I\u00e2\u20ac\u2122ve been experiencing back pain since March 8th, 2024. My ID is JL654987.",
+        "text": "Patient: Hi, I'm Jackson Lee. I've been experiencing back pain since March 8th, 2024. My ID is JL654987.",
         "meta": {
             "note_id": "974",
             "patient_id": "10129"
@@ -21097,7 +21097,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Grace Nelson. I\u00e2\u20ac\u2122ve been feeling fatigued since December 15th, 2024. My email is grace.nelson@mail.com.",
+        "text": "Patient: My name is Grace Nelson. I've been feeling fatigued since December 15th, 2024. My email is grace.nelson@mail.com.",
         "meta": {
             "note_id": "976",
             "patient_id": "10130"
@@ -21157,7 +21157,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Liam Scott. I\u00e2\u20ac\u2122ve been having chest pain since November 18th, 2024. My ID is LS998472.",
+        "text": "Patient: Hi, I'm Liam Scott. I've been having chest pain since November 18th, 2024. My ID is LS998472.",
         "meta": {
             "note_id": "978",
             "patient_id": "10131"
@@ -21217,7 +21217,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Maya Roberts. I\u00e2\u20ac\u2122ve been feeling dizzy since March 3rd, 2024. My contact number is 555-876-5432.",
+        "text": "Patient: My name is Maya Roberts. I've been feeling dizzy since March 3rd, 2024. My contact number is 555-876-5432.",
         "meta": {
             "note_id": "980",
             "patient_id": "10132"
@@ -21277,7 +21277,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Olivia Adams. I\u00e2\u20ac\u2122ve been feeling nauseous since February 25th, 2024. My ID is OA123789.",
+        "text": "Patient: Hi, I'm Olivia Adams. I've been feeling nauseous since February 25th, 2024. My ID is OA123789.",
         "meta": {
             "note_id": "982",
             "patient_id": "10133"
@@ -21337,7 +21337,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Ethan Johnson. I\u00e2\u20ac\u2122ve been feeling weak since September 4th, 2024. My email is ethan.johnson@mail.com.",
+        "text": "Patient: My name is Ethan Johnson. I've been feeling weak since September 4th, 2024. My email is ethan.johnson@mail.com.",
         "meta": {
             "note_id": "984",
             "patient_id": "10134"
@@ -21397,7 +21397,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Sarah Carter. I\u00e2\u20ac\u2122ve been feeling nauseous since July 13th, 2024. My ID is SC987654.",
+        "text": "Patient: Hi, I'm Sarah Carter. I've been feeling nauseous since July 13th, 2024. My ID is SC987654.",
         "meta": {
             "note_id": "986",
             "patient_id": "10135"
@@ -21457,7 +21457,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Jacob Hall. I\u00e2\u20ac\u2122ve been feeling dizzy since October 22nd, 2024. My email is jacob.hall@mail.com.",
+        "text": "Patient: My name is Jacob Hall. I've been feeling dizzy since October 22nd, 2024. My email is jacob.hall@mail.com.",
         "meta": {
             "note_id": "988",
             "patient_id": "10136"
@@ -21517,7 +21517,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Natalie Baker. I\u00e2\u20ac\u2122ve been having chest pain since April 5th, 2024. My contact number is 555-654-9876.",
+        "text": "Patient: Hi, I'm Natalie Baker. I've been having chest pain since April 5th, 2024. My contact number is 555-654-9876.",
         "meta": {
             "note_id": "990",
             "patient_id": "10137"
@@ -21577,7 +21577,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Ava Green. I\u00e2\u20ac\u2122ve been feeling tired since February 18th, 2024. My ID is AG654321.",
+        "text": "Patient: My name is Ava Green. I've been feeling tired since February 18th, 2024. My ID is AG654321.",
         "meta": {
             "note_id": "992",
             "patient_id": "10138"
@@ -21637,7 +21637,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Ryan Taylor. I\u00e2\u20ac\u2122ve been feeling weak since December 4th, 2024. My contact number is 555-987-6543.",
+        "text": "Patient: Hi, I'm Ryan Taylor. I've been feeling weak since December 4th, 2024. My contact number is 555-987-6543.",
         "meta": {
             "note_id": "994",
             "patient_id": "10139"
@@ -21664,7 +21664,7 @@
         ]
     },
     {
-        "text": "Doctor: Ryan, your last visit was at St. Mary\u00e2\u20ac\u2122s Clinic on October 18th, 2024. Is your email ryan.taylor@mail.com?",
+        "text": "Doctor: Ryan, your last visit was at St. Mary's Clinic on October 18th, 2024. Is your email ryan.taylor@mail.com?",
         "meta": {
             "note_id": "995",
             "patient_id": "10139"
@@ -21697,7 +21697,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Ava Collins. I\u00e2\u20ac\u2122ve been experiencing shortness of breath since September 10th, 2024. My ID is AC342178.",
+        "text": "Patient: My name is Ava Collins. I've been experiencing shortness of breath since September 10th, 2024. My ID is AC342178.",
         "meta": {
             "note_id": "996",
             "patient_id": "10140"
@@ -21757,7 +21757,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Charlie Edwards. I\u00e2\u20ac\u2122ve been having headaches since November 30th, 2024. My email is charlie.edwards@mail.com.",
+        "text": "Patient: Hi, I'm Charlie Edwards. I've been having headaches since November 30th, 2024. My email is charlie.edwards@mail.com.",
         "meta": {
             "note_id": "998",
             "patient_id": "10141"
@@ -21817,7 +21817,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Olivia Johnson. I\u00e2\u20ac\u2122ve been feeling fatigued since October 11th, 2024. My contact number is 555-654-3210.",
+        "text": "Patient: My name is Olivia Johnson. I've been feeling fatigued since October 11th, 2024. My contact number is 555-654-3210.",
         "meta": {
             "note_id": "1000",
             "patient_id": "10142"
@@ -21877,7 +21877,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Daniel Williams. I\u00e2\u20ac\u2122ve been experiencing dizziness since August 19th, 2024. My ID is DW214365.",
+        "text": "Patient: Hi, I'm Daniel Williams. I've been experiencing dizziness since August 19th, 2024. My ID is DW214365.",
         "meta": {
             "note_id": "1002",
             "patient_id": "10143"
@@ -21937,7 +21937,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Zoe Davis. I\u00e2\u20ac\u2122ve been feeling sick since January 10th, 2024. My contact number is 555-876-2345.",
+        "text": "Patient: My name is Zoe Davis. I've been feeling sick since January 10th, 2024. My contact number is 555-876-2345.",
         "meta": {
             "note_id": "1004",
             "patient_id": "10144"
@@ -21997,7 +21997,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Jack Moore. I\u00e2\u20ac\u2122ve been having trouble sleeping since February 1st, 2024. My ID is JM561234.",
+        "text": "Patient: Hi, I'm Jack Moore. I've been having trouble sleeping since February 1st, 2024. My ID is JM561234.",
         "meta": {
             "note_id": "1006",
             "patient_id": "10145"
@@ -22057,7 +22057,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Olivia Martin. I\u00e2\u20ac\u2122ve been feeling dizzy since March 20th, 2024. My email is olivia.martin@mail.com.",
+        "text": "Patient: My name is Olivia Martin. I've been feeling dizzy since March 20th, 2024. My email is olivia.martin@mail.com.",
         "meta": {
             "note_id": "1008",
             "patient_id": "10146"
@@ -22117,7 +22117,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Ethan Scott. I\u00e2\u20ac\u2122ve been experiencing fatigue since December 1st, 2024. My contact number is 555-112-2334.",
+        "text": "Patient: Hi, I'm Ethan Scott. I've been experiencing fatigue since December 1st, 2024. My contact number is 555-112-2334.",
         "meta": {
             "note_id": "1010",
             "patient_id": "10147"
@@ -22177,7 +22177,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Mia Johnson. I\u00e2\u20ac\u2122ve been feeling anxious since November 15th, 2024. My ID is MJ789456.",
+        "text": "Patient: My name is Mia Johnson. I've been feeling anxious since November 15th, 2024. My ID is MJ789456.",
         "meta": {
             "note_id": "1012",
             "patient_id": "10148"
@@ -22237,7 +22237,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m James Harris. I\u00e2\u20ac\u2122ve been experiencing headaches since January 12th, 2024. My contact number is 555-321-6540.",
+        "text": "Patient: Hello, I'm James Harris. I've been experiencing headaches since January 12th, 2024. My contact number is 555-321-6540.",
         "meta": {
             "note_id": "1014",
             "patient_id": "10149"
@@ -22297,7 +22297,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Lucas Reed. I\u00e2\u20ac\u2122ve been feeling dizziness since October 8th, 2024. My phone number is 555-432-1098.",
+        "text": "Patient: My name is Lucas Reed. I've been feeling dizziness since October 8th, 2024. My phone number is 555-432-1098.",
         "meta": {
             "note_id": "1016",
             "patient_id": "10150"
@@ -22357,7 +22357,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Sophia Lewis. I\u00e2\u20ac\u2122ve been having trouble sleeping since February 5th, 2024. My ID is SL124578.",
+        "text": "Patient: Hello, I'm Sophia Lewis. I've been having trouble sleeping since February 5th, 2024. My ID is SL124578.",
         "meta": {
             "note_id": "1018",
             "patient_id": "10151"
@@ -22417,7 +22417,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Ethan Walker. I\u00e2\u20ac\u2122ve been feeling sick since March 25th, 2024. My contact number is 555-654-0987.",
+        "text": "Patient: Hi, I'm Ethan Walker. I've been feeling sick since March 25th, 2024. My contact number is 555-654-0987.",
         "meta": {
             "note_id": "1020",
             "patient_id": "10152"
@@ -22477,7 +22477,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Lily Harris. I\u00e2\u20ac\u2122ve been feeling faint since October 28th, 2024. My phone number is 555-987-6543.",
+        "text": "Patient: My name is Lily Harris. I've been feeling faint since October 28th, 2024. My phone number is 555-987-6543.",
         "meta": {
             "note_id": "1022",
             "patient_id": "10153"
@@ -22537,7 +22537,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Isabella Clark. I\u00e2\u20ac\u2122ve been feeling nauseous since April 20th, 2024. My ID is IC123456.",
+        "text": "Patient: Hello, I'm Isabella Clark. I've been feeling nauseous since April 20th, 2024. My ID is IC123456.",
         "meta": {
             "note_id": "1024",
             "patient_id": "10154"
@@ -22597,7 +22597,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Benjamin Carter. I\u00e2\u20ac\u2122ve been experiencing dizziness since June 25th, 2024. My contact number is 555-210-9876.",
+        "text": "Patient: Hi, I'm Benjamin Carter. I've been experiencing dizziness since June 25th, 2024. My contact number is 555-210-9876.",
         "meta": {
             "note_id": "1026",
             "patient_id": "10155"
@@ -22657,7 +22657,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Mia Taylor. I\u00e2\u20ac\u2122ve been feeling weak since September 15th, 2024. My contact number is 555-321-9876.",
+        "text": "Patient: Hi, I'm Mia Taylor. I've been feeling weak since September 15th, 2024. My contact number is 555-321-9876.",
         "meta": {
             "note_id": "1028",
             "patient_id": "10156"
@@ -22717,7 +22717,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Noah Miller. I\u00e2\u20ac\u2122ve been having trouble breathing since January 22nd, 2024. My phone number is 555-876-2109.",
+        "text": "Patient: My name is Noah Miller. I've been having trouble breathing since January 22nd, 2024. My phone number is 555-876-2109.",
         "meta": {
             "note_id": "1030",
             "patient_id": "10157"
@@ -22777,7 +22777,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Emma White. I\u00e2\u20ac\u2122ve been feeling nauseous since March 9th, 2024. My ID is EW345678.",
+        "text": "Patient: Hi, I'm Emma White. I've been feeling nauseous since March 9th, 2024. My ID is EW345678.",
         "meta": {
             "note_id": "1032",
             "patient_id": "10158"
@@ -22837,7 +22837,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Grace Adams. I\u00e2\u20ac\u2122ve been feeling fatigued since July 10th, 2024. My email is grace.adams@mail.com.",
+        "text": "Patient: My name is Grace Adams. I've been feeling fatigued since July 10th, 2024. My email is grace.adams@mail.com.",
         "meta": {
             "note_id": "1034",
             "patient_id": "10159"
@@ -22897,7 +22897,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Jack Davis. I\u00e2\u20ac\u2122ve been feeling lightheaded since October 14th, 2024. My contact number is 555-432-1098.",
+        "text": "Patient: Hi, I'm Jack Davis. I've been feeling lightheaded since October 14th, 2024. My contact number is 555-432-1098.",
         "meta": {
             "note_id": "1036",
             "patient_id": "10160"
@@ -22957,7 +22957,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Olivia Wilson. I\u00e2\u20ac\u2122ve been feeling faint since February 12th, 2024. My ID is OW987654.",
+        "text": "Patient: My name is Olivia Wilson. I've been feeling faint since February 12th, 2024. My ID is OW987654.",
         "meta": {
             "note_id": "1038",
             "patient_id": "10161"
@@ -23017,7 +23017,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Noah Green. I\u00e2\u20ac\u2122ve been feeling stressed since May 10th, 2024. My email is noah.green@mail.com.",
+        "text": "Patient: Hello, I'm Noah Green. I've been feeling stressed since May 10th, 2024. My email is noah.green@mail.com.",
         "meta": {
             "note_id": "1040",
             "patient_id": "10162"
@@ -23077,7 +23077,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Charlotte Carter. I\u00e2\u20ac\u2122ve been feeling nauseous since August 18th, 2024. My ID is CC234567.",
+        "text": "Patient: Hi, I'm Charlotte Carter. I've been feeling nauseous since August 18th, 2024. My ID is CC234567.",
         "meta": {
             "note_id": "1042",
             "patient_id": "10163"
@@ -23137,7 +23137,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Ava Johnson. I\u00e2\u20ac\u2122ve been feeling dizzy since November 5th, 2024. My email is ava.johnson@mail.com.",
+        "text": "Patient: My name is Ava Johnson. I've been feeling dizzy since November 5th, 2024. My email is ava.johnson@mail.com.",
         "meta": {
             "note_id": "1044",
             "patient_id": "10164"
@@ -23197,7 +23197,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Ethan Lee. I\u00e2\u20ac\u2122ve been feeling fatigued since March 8th, 2024. My ID is EL567890.",
+        "text": "Patient: Hello, I'm Ethan Lee. I've been feeling fatigued since March 8th, 2024. My ID is EL567890.",
         "meta": {
             "note_id": "1046",
             "patient_id": "10165"
@@ -23257,7 +23257,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Isabella King. I\u00e2\u20ac\u2122ve been having headaches since August 25th, 2024. My phone number is 555-678-9012.",
+        "text": "Patient: My name is Isabella King. I've been having headaches since August 25th, 2024. My phone number is 555-678-9012.",
         "meta": {
             "note_id": "1048",
             "patient_id": "10166"
@@ -23317,7 +23317,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Oliver Harris. I\u00e2\u20ac\u2122ve been feeling short of breath since December 5th, 2024. My email is oliver.harris@mail.com.",
+        "text": "Patient: Hi, I'm Oliver Harris. I've been feeling short of breath since December 5th, 2024. My email is oliver.harris@mail.com.",
         "meta": {
             "note_id": "1050",
             "patient_id": "10167"
@@ -23377,7 +23377,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Lily Scott. I\u00e2\u20ac\u2122ve been experiencing fatigue since September 3rd, 2024. My ID is LS123456.",
+        "text": "Patient: Hello, I'm Lily Scott. I've been experiencing fatigue since September 3rd, 2024. My ID is LS123456.",
         "meta": {
             "note_id": "1052",
             "patient_id": "10168"
@@ -23437,7 +23437,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Samuel Thomas. I\u00e2\u20ac\u2122ve been feeling anxious since June 2nd, 2024. My contact number is 555-654-3210.",
+        "text": "Patient: Hi, I'm Samuel Thomas. I've been feeling anxious since June 2nd, 2024. My contact number is 555-654-3210.",
         "meta": {
             "note_id": "1054",
             "patient_id": "10169"
@@ -23497,7 +23497,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Scarlett Miller. I\u00e2\u20ac\u2122ve been having trouble sleeping since April 14th, 2024. My ID is SM765432.",
+        "text": "Patient: My name is Scarlett Miller. I've been having trouble sleeping since April 14th, 2024. My ID is SM765432.",
         "meta": {
             "note_id": "1056",
             "patient_id": "10170"
@@ -23557,7 +23557,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m James Clark. I\u00e2\u20ac\u2122ve been feeling lightheaded since January 20th, 2024. My email is james.clark@mail.com.",
+        "text": "Patient: Hi, I'm James Clark. I've been feeling lightheaded since January 20th, 2024. My email is james.clark@mail.com.",
         "meta": {
             "note_id": "1058",
             "patient_id": "10171"
@@ -23617,7 +23617,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Benjamin Lee. I\u00e2\u20ac\u2122ve been feeling anxious since October 10th, 2024. My ID is BL345678.",
+        "text": "Patient: Hello, I'm Benjamin Lee. I've been feeling anxious since October 10th, 2024. My ID is BL345678.",
         "meta": {
             "note_id": "1060",
             "patient_id": "10172"
@@ -23644,7 +23644,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Grace Taylor. I\u00e2\u20ac\u2122ve had migraines since July 15th, 2024. My email is grace.taylor@mail.com.",
+        "text": "Patient: Hi, I'm Grace Taylor. I've had migraines since July 15th, 2024. My email is grace.taylor@mail.com.",
         "meta": {
             "note_id": "1061",
             "patient_id": "10173"
@@ -23704,7 +23704,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m David Wilson. My ID is DW234567. I\u00e2\u20ac\u2122ve had chest pain since May 10th, 2024.",
+        "text": "Patient: Hello, I'm David Wilson. My ID is DW234567. I've had chest pain since May 10th, 2024.",
         "meta": {
             "note_id": "1063",
             "patient_id": "10174"
@@ -23731,7 +23731,7 @@
         ]
     },
     {
-        "text": "Doctor: David, your last visit was at St. Mary\u00e2\u20ac\u2122s Hospital on April 8th, 2024. Is your email david.wilson@mail.com?",
+        "text": "Doctor: David, your last visit was at St. Mary's Hospital on April 8th, 2024. Is your email david.wilson@mail.com?",
         "meta": {
             "note_id": "1064",
             "patient_id": "10174"
@@ -23764,7 +23764,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Sophia Martinez. I\u00e2\u20ac\u2122ve been feeling weak since February 2nd, 2024. My phone number is 555-987-6543.",
+        "text": "Patient: My name is Sophia Martinez. I've been feeling weak since February 2nd, 2024. My phone number is 555-987-6543.",
         "meta": {
             "note_id": "1065",
             "patient_id": "10175"
@@ -23824,7 +23824,7 @@
         ]
     },
     {
-        "text": "Patient: Hi, I\u00e2\u20ac\u2122m Noah Brown. I\u00e2\u20ac\u2122ve been experiencing chest pain since March 14th, 2024. My email is noah.brown@mail.com.",
+        "text": "Patient: Hi, I'm Noah Brown. I've been experiencing chest pain since March 14th, 2024. My email is noah.brown@mail.com.",
         "meta": {
             "note_id": "1067",
             "patient_id": "10176"
@@ -23884,7 +23884,7 @@
         ]
     },
     {
-        "text": "Patient: Hello, I\u00e2\u20ac\u2122m Mia Davis. I\u00e2\u20ac\u2122ve had frequent headaches since October 5th, 2024. My phone number is 555-654-3211.",
+        "text": "Patient: Hello, I'm Mia Davis. I've had frequent headaches since October 5th, 2024. My phone number is 555-654-3211.",
         "meta": {
             "note_id": "1069",
             "patient_id": "10177"
@@ -23944,7 +23944,7 @@
         ]
     },
     {
-        "text": "Patient: My name is Emily White. I\u00e2\u20ac\u2122ve been experiencing back pain since June 18th, 2024. My email is emily.white@mail.com.",
+        "text": "Patient: My name is Emily White. I've been experiencing back pain since June 18th, 2024. My email is emily.white@mail.com.",
         "meta": {
             "note_id": "1071",
             "patient_id": "10178"
@@ -25327,7 +25327,7 @@
         ]
     },
     {
-        "text": "Lucas Johnson, a 50-year-old physician at Kaiser Permanente, visited Dr. Rebecca Turner at St. Mary\u00e2\u20ac\u2122s Hospital on March 1st. He complained of chest pain after jogging in San Francisco. He provided his phone number (+1-415-567-8901) and email (lucas.johnson@kp.org).",
+        "text": "Lucas Johnson, a 50-year-old physician at Kaiser Permanente, visited Dr. Rebecca Turner at St. Mary's Hospital on March 1st. He complained of chest pain after jogging in San Francisco. He provided his phone number (+1-415-567-8901) and email (lucas.johnson@kp.org).",
         "meta": {
             "note_id": "1094",
             "patient_id": "10201"
@@ -25516,7 +25516,7 @@
         ]
     },
     {
-        "text": "Ava Patel, a 38-year-old pediatrician at Children\u00e2\u20ac\u2122s Health, visited Dr. Brian Foster at Boston Medical Center on May 22nd. She experienced migraines after traveling to New York. She gave her phone number (+1-646-345-6789) and email (ava.patel@childrenshealth.org).",
+        "text": "Ava Patel, a 38-year-old pediatrician at Children's Health, visited Dr. Brian Foster at Boston Medical Center on May 22nd. She experienced migraines after traveling to New York. She gave her phone number (+1-646-345-6789) and email (ava.patel@childrenshealth.org).",
         "meta": {
             "note_id": "1097",
             "patient_id": "10204"
@@ -26242,7 +26242,7 @@
         ]
     },
     {
-        "text": "Dr. Emily Carter at Sunrise Health Clinic treated Mark Benson, a 28-year-old teacher, for flu symptoms on November 21st, 2023. Contact details: (345) 902-7564. Patient\u00e2\u20ac\u2122s insurance ID: 456-987-234.",
+        "text": "Dr. Emily Carter at Sunrise Health Clinic treated Mark Benson, a 28-year-old teacher, for flu symptoms on November 21st, 2023. Contact details: (345) 902-7564. Patient's insurance ID: 456-987-234.",
         "meta": {
             "note_id": "1115",
             "patient_id": "10222"
@@ -26422,7 +26422,7 @@
         ]
     },
     {
-        "text": "Anna Lee, 32, visited Dr. Timothy Ross at St. Mary\u00e2\u20ac\u2122s Clinic on June 10th, 2023. Emergency contact: 617-555-4321. Insurance ID: 345-9876.",
+        "text": "Anna Lee, 32, visited Dr. Timothy Ross at St. Mary's Clinic on June 10th, 2023. Emergency contact: 617-555-4321. Insurance ID: 345-9876.",
         "meta": {
             "note_id": "1119",
             "patient_id": "10226"
@@ -26467,7 +26467,7 @@
         ]
     },
     {
-        "text": "James Carter, 47, from Seattle, WA, was admitted to Evergreen Hospital on March 3rd, 2023. Contact: 425-555-0921. Patient\u00e2\u20ac\u2122s health ID: 5678-9012.",
+        "text": "James Carter, 47, from Seattle, WA, was admitted to Evergreen Hospital on March 3rd, 2023. Contact: 425-555-0921. Patient's health ID: 5678-9012.",
         "meta": {
             "note_id": "1120",
             "patient_id": "10227"
@@ -26647,7 +26647,7 @@
         ]
     },
     {
-        "text": "Michael Johnson, 39, from New York, was admitted to Bellevue Hospital on April 20th, 2023. Emergency contact: 646-555-3456. Patient\u00e2\u20ac\u2122s SSN: 123-45-6789.",
+        "text": "Michael Johnson, 39, from New York, was admitted to Bellevue Hospital on April 20th, 2023. Emergency contact: 646-555-3456. Patient's SSN: 123-45-6789.",
         "meta": {
             "note_id": "1124",
             "patient_id": "10231"
@@ -26749,7 +26749,7 @@
         ]
     },
     {
-        "text": "Christopher Moore, 45, an engineer, was treated at St. Patrick\u00e2\u20ac\u2122s Clinic on June 15th, 2023. Contact: 917-555-1234. Patient\u00e2\u20ac\u2122s SSN: 987-65-4321.",
+        "text": "Christopher Moore, 45, an engineer, was treated at St. Patrick's Clinic on June 15th, 2023. Contact: 917-555-1234. Patient's SSN: 987-65-4321.",
         "meta": {
             "note_id": "1126",
             "patient_id": "10233"
@@ -54175,7 +54175,7 @@
         ]
     },
     {
-        "text": "Hospital discharge summary for Samuel Adams, aged 41, discharged on 06/29/2021. His ID: D1234. The hospital was St. Mary\u00e2\u20ac\u2122s Hospital.",
+        "text": "Hospital discharge summary for Samuel Adams, aged 41, discharged on 06/29/2021. His ID: D1234. The hospital was St. Mary's Hospital.",
         "meta": {
             "note_id": "1740",
             "patient_id": "57"
@@ -54445,7 +54445,7 @@
         ]
     },
     {
-        "text": "Anna Richardson, aged 43, was admitted to St. Joseph\u00e2\u20ac\u2122s Hospital on 02/22/2021. ID: H3456.",
+        "text": "Anna Richardson, aged 43, was admitted to St. Joseph's Hospital on 02/22/2021. ID: H3456.",
         "meta": {
             "note_id": "1748",
             "patient_id": "65"
@@ -54721,7 +54721,7 @@
         ]
     },
     {
-        "text": "Samuel Long, age 53, was discharged from St. Mary\u00e2\u20ac\u2122s Hospital on 01/11/2023.",
+        "text": "Samuel Long, age 53, was discharged from St. Mary's Hospital on 01/11/2023.",
         "meta": {
             "note_id": "1756",
             "patient_id": "73"
@@ -55303,7 +55303,7 @@
         ]
     },
     {
-        "text": "Dr. Lisa Park reviewed Noah Hill\u00e2\u20ac\u2122s records on 02/13/2021 at Silver Lake Clinic.",
+        "text": "Dr. Lisa Park reviewed Noah Hill's records on 02/13/2021 at Silver Lake Clinic.",
         "meta": {
             "note_id": "1774",
             "patient_id": "91"
@@ -55441,7 +55441,7 @@
         ]
     },
     {
-        "text": "Samuel Harris\u00e2\u20ac\u2122s appointment at Redwood Health Center is scheduled for 10/02/2023.",
+        "text": "Samuel Harris's appointment at Redwood Health Center is scheduled for 10/02/2023.",
         "meta": {
             "note_id": "1778",
             "patient_id": "95"
@@ -55468,7 +55468,7 @@
         ]
     },
     {
-        "text": "Contact: +1-555-777-1234 for details on Ms. Nina Patel\u00e2\u20ac\u2122s case reviewed on 11/12/2021.",
+        "text": "Contact: +1-555-777-1234 for details on Ms. Nina Patel's case reviewed on 11/12/2021.",
         "meta": {
             "note_id": "1779",
             "patient_id": "96"
@@ -55687,7 +55687,7 @@
         ]
     },
     {
-        "text": "Review of Sarah Kane\u00e2\u20ac\u2122s report from Lakeside Clinic dated 10/05/2022.",
+        "text": "Review of Sarah Kane's report from Lakeside Clinic dated 10/05/2022.",
         "meta": {
             "note_id": "1786",
             "patient_id": "103"
@@ -56125,7 +56125,7 @@
         ]
     },
     {
-        "text": "Mr. Walter Young\u00e2\u20ac\u2122s check-up at Hillside Clinic was on 07/18/2022, age: 59.",
+        "text": "Mr. Walter Young's check-up at Hillside Clinic was on 07/18/2022, age: 59.",
         "meta": {
             "note_id": "1800",
             "patient_id": "117"
@@ -56158,7 +56158,7 @@
         ]
     },
     {
-        "text": "Dr. Emily Harper discussed Mr. Henry Evans\u00e2\u20ac\u2122 case on 05/13/2023.",
+        "text": "Dr. Emily Harper discussed Mr. Henry Evans' case on 05/13/2023.",
         "meta": {
             "note_id": "1801",
             "patient_id": "118"
@@ -56185,7 +56185,7 @@
         ]
     },
     {
-        "text": "Oliver Grant\u00e2\u20ac\u2122s case was admitted at Redwood Hospital on 06/15/2021.",
+        "text": "Oliver Grant's case was admitted at Redwood Hospital on 06/15/2021.",
         "meta": {
             "note_id": "1802",
             "patient_id": "119"
@@ -59413,7 +59413,7 @@
         ]
     },
     {
-        "text": "James Wood, 58, admitted to St. Mary\u00e2\u20ac\u2122s Health on 02/01/2025 for observation.",
+        "text": "James Wood, 58, admitted to St. Mary's Health on 02/01/2025 for observation.",
         "meta": {
             "note_id": "1900",
             "patient_id": "217"
