@@ -4,4 +4,6 @@
 
 201-300 -> Oshan
 
-501-600 -> Chinthani
+401-500 -> Chinthani
+501-600 -> Chinthani - Done
+
