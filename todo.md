@@ -12,3 +12,4 @@
 
 - 1024-1717 -> Thejan
 - 1718-1800 -> Chinthani
+- 1801-1900 -> Chinthani
