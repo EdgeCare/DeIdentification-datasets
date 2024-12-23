@@ -1,0 +1,752 @@
+[
+    {
+        "text": "Emergency admission: Helen Troy, DOB 07/07/1980, admitted 12/01/2024 due to severe asthma. Contact number 555-0234.",
+        "meta": {
+            "note_id": "1",
+            "patient_id": "2345604"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 21,
+                "end": 31,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 37,
+                "end": 47,
+                "label": "DATE"
+            },
+            {
+                "id": 2,
+                "start": 58,
+                "end": 68,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 106,
+                "end": 114,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Patient: Hi, I'm John Doe. I have a fever for the last 3 days.\nDoctor: Hello, John. I see your ID is JD12345. Do you recall when it started?\nPatient: Around December 5th, after my trip to New York.",
+        "meta": {
+            "note_id": "2",
+            "patient_id": "3456789"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 17,
+                "end": 25,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 78,
+                "end": 82,
+                "label": "PATIENT"
+            },
+            {
+                "id": 2,
+                "start": 101,
+                "end": 108,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 157,
+                "end": 169,
+                "label": "DATE"
+            },
+            {
+                "id": 4,
+                "start": 188,
+                "end": 196,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Patient: Hi, my name is Emily Parker. My email is emily.parker@example.com.\nDoctor: Thank you, Emily. Can I have your phone number for records?\nPatient: Sure, it's 123-456-7890.",
+        "meta": {
+            "note_id": "3",
+            "patient_id": "5678910"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 24,
+                "end": 36,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 50,
+                "end": 74,
+                "label": "EMAIL"
+            },
+            {
+                "id": 2,
+                "start": 95,
+                "end": 100,
+                "label": "PATIENT"
+            },
+            {
+                "id": 3,
+                "start": 164,
+                "end": 176,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I am Sophia Green. I work at Google.\nDoctor: Sophia, can you confirm your date of birth?\nPatient: It's April 10, 1985.",
+        "meta": {
+            "note_id": "4",
+            "patient_id": "6789123"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 14,
+                "end": 26,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 38,
+                "end": 44,
+                "label": "PATORG"
+            },
+            {
+                "id": 2,
+                "start": 54,
+                "end": 60,
+                "label": "PATIENT"
+            },
+            {
+                "id": 3,
+                "start": 112,
+                "end": 126,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: I need your MRN.\nPatient: It's 987654321.\nDoctor: Got it. Please continue describing your symptoms.",
+        "meta": {
+            "note_id": "5",
+            "patient_id": "7891234"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 39,
+                "end": 48,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My son, Daniel, is having trouble breathing.\nDoctor: Daniel? What's his age?\nPatient: He's 5 years old.",
+        "meta": {
+            "note_id": "6",
+            "patient_id": "8902345"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 17,
+                "end": 23,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 62,
+                "end": 68,
+                "label": "PATIENT"
+            },
+            {
+                "id": 2,
+                "start": 100,
+                "end": 101,
+                "label": "AGE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: When did the symptoms begin?\nPatient: Around June 15th, when I was in Los Angeles.",
+        "meta": {
+            "note_id": "7",
+            "patient_id": "9013456"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 53,
+                "end": 62,
+                "label": "DATE"
+            },
+            {
+                "id": 1,
+                "start": 78,
+                "end": 89,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I am here on behalf of my father, Jack. He is 72 years old and lives in Chicago.",
+        "meta": {
+            "note_id": "8",
+            "patient_id": "1234567"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 43,
+                "end": 47,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 55,
+                "end": 57,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 81,
+                "end": 88,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Is this for your child?\nPatient: Yes, her name is Lisa, and she's 8.",
+        "meta": {
+            "note_id": "9",
+            "patient_id": "2345678"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 58,
+                "end": 62,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 74,
+                "end": 75,
+                "label": "AGE"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I was prescribed medication by Dr. Susan Brown.\nDoctor: Dr. Brown? When did she see you?\nPatient: On October 11th.",
+        "meta": {
+            "note_id": "10",
+            "patient_id": "3456789"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 40,
+                "end": 55,
+                "label": "STAFF"
+            },
+            {
+                "id": 1,
+                "start": 65,
+                "end": 74,
+                "label": "STAFF"
+            },
+            {
+                "id": 2,
+                "start": 110,
+                "end": 122,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Please confirm your contact information.\nPatient: My number is 999-123-4567, and my email is test@domain.com.",
+        "meta": {
+            "note_id": "11",
+            "patient_id": "4567890"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 71,
+                "end": 83,
+                "label": "PHONE"
+            },
+            {
+                "id": 1,
+                "start": 101,
+                "end": 116,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My DOB is 01/23/1990.\nDoctor: Thank you, Mr. Tom.",
+        "meta": {
+            "note_id": "12",
+            "patient_id": "5678901"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 19,
+                "end": 29,
+                "label": "DATE"
+            },
+            {
+                "id": 1,
+                "start": 50,
+                "end": 57,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Can you share your hospital's name?\nPatient: It's Mercy General Hospital.",
+        "meta": {
+            "note_id": "13",
+            "patient_id": "6789012"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 58,
+                "end": 80,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I visited San Francisco General last month.\nDoctor: Was this for your annual checkup?",
+        "meta": {
+            "note_id": "14",
+            "patient_id": "7890123"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 19,
+                "end": 40,
+                "label": "HOSP"
+            },
+            {
+                "id": 1,
+                "start": 41,
+                "end": 51,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Can you share your ZIP code?\nPatient: 94107.",
+        "meta": {
+            "note_id": "15",
+            "patient_id": "8901234"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 46,
+                "end": 51,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My wife, Alice, is also a patient here.\nDoctor: Alice? How old is she?\nPatient: She is 35.",
+        "meta": {
+            "note_id": "16",
+            "patient_id": "9012345"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 18,
+                "end": 23,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 57,
+                "end": 62,
+                "label": "PATIENT"
+            },
+            {
+                "id": 2,
+                "start": 96,
+                "end": 98,
+                "label": "AGE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: What is your license number?\nPatient: AB12345.",
+        "meta": {
+            "note_id": "17",
+            "patient_id": "2345678"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 46,
+                "end": 53,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My friend, Charlie, referred me. He works at Microsoft.",
+        "meta": {
+            "note_id": "18",
+            "patient_id": "3456789"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 20,
+                "end": 27,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 54,
+                "end": 63,
+                "label": "PATORG"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Did you travel recently?\nPatient: Yes, to Paris in November.",
+        "meta": {
+            "note_id": "19",
+            "patient_id": "4567890"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 50,
+                "end": 55,
+                "label": "LOC"
+            },
+            {
+                "id": 1,
+                "start": 59,
+                "end": 67,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Who performed the surgery?\nPatient: Dr. Michael Smith from Mercy General Hospital.",
+        "meta": {
+            "note_id": "20",
+            "patient_id": "5678901"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 44,
+                "end": 61,
+                "label": "STAFF"
+            },
+            {
+                "id": 1,
+                "start": 67,
+                "end": 89,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I need a refill for the medication prescribed by Dr. Jane Adams.\nDoctor: Sure. I also need your MRN.\nPatient: It's 87654321.",
+        "meta": {
+            "note_id": "21"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 58,
+                "end": 72,
+                "label": "STAFF"
+            },
+            {
+                "id": 1,
+                "start": 124,
+                "end": 132,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Have you been to any hospital recently?\nPatient: Yes, I visited Mount Sinai Hospital two weeks ago.",
+        "meta": {
+            "note_id": "22"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 72,
+                "end": 92,
+                "label": "HOSP"
+            },
+            {
+                "id": 1,
+                "start": 93,
+                "end": 106,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My email is chathura123@example.com. Please update your records.\nDoctor: Done. Do you have an emergency contact?\nPatient: Yes, you can reach my wife at +92776543210.",
+        "meta": {
+            "note_id": "23"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 21,
+                "end": 44,
+                "label": "EMAIL"
+            },
+            {
+                "id": 1,
+                "start": 161,
+                "end": 173,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: What's the name of your insurance provider?\nPatient: It's Blue Cross Blue Shield.",
+        "meta": {
+            "note_id": "24"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 66,
+                "end": 88,
+                "label": "PATORG"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My father is 65 years old. He has been experiencing chest pain for a week.\nDoctor: Can you confirm his ID?\nPatient: Yes, it's FG56789.",
+        "meta": {
+            "note_id": "25"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 22,
+                "end": 24,
+                "label": "AGE"
+            },
+            {
+                "id": 1,
+                "start": 76,
+                "end": 82,
+                "label": "DATE"
+            },
+            {
+                "id": 2,
+                "start": 135,
+                "end": 142,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I was born on January 15, 1975.\nDoctor: Thank you, Sarah.",
+        "meta": {
+            "note_id": "26"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 23,
+                "end": 39,
+                "label": "DATE"
+            },
+            {
+                "id": 1,
+                "start": 60,
+                "end": 65,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: When did you visit Mayo Clinic?\nPatient: Around March this year.",
+        "meta": {
+            "note_id": "27"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 27,
+                "end": 38,
+                "label": "HOSP"
+            },
+            {
+                "id": 1,
+                "start": 56,
+                "end": 71,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I traveled to London last summer.\nDoctor: Were you on vacation?",
+        "meta": {
+            "note_id": "28"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 23,
+                "end": 29,
+                "label": "LOC"
+            },
+            {
+                "id": 1,
+                "start": 30,
+                "end": 41,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "My contact number is 800-555-0199. Please update your records.",
+        "meta": {
+            "note_id": "29"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 21,
+                "end": 33,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Can I have your insurance ID?\nPatient: Sure, it's INSID-2024.",
+        "meta": {
+            "note_id": "30"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 58,
+                "end": 68,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "I attended Harvard Medical School in 1995.",
+        "meta": {
+            "note_id": "31"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 11,
+                "end": 33,
+                "label": "PATORG"
+            },
+            {
+                "id": 1,
+                "start": 37,
+                "end": 41,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Nathan from City Hospital treated me for pneumonia.",
+        "meta": {
+            "note_id": "32"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 0,
+                "end": 10,
+                "label": "STAFF"
+            },
+            {
+                "id": 1,
+                "start": 16,
+                "end": 29,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Please confirm your address.\nPatient: 123 Main St, Springfield, IL, USA.",
+        "meta": {
+            "note_id": "33"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 46,
+                "end": 79,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "I was born on April 12, 1988, in Chicago.",
+        "meta": {
+            "note_id": "34"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 14,
+                "end": 28,
+                "label": "DATE"
+            },
+            {
+                "id": 1,
+                "start": 33,
+                "end": 40,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "My cousin, Rachel Green, is also a patient here.",
+        "meta": {
+            "note_id": "35"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 11,
+                "end": 23,
+                "label": "PATIENT"
+            }
+        ]
+    }
+]
