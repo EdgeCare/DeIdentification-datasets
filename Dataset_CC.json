@@ -1902,6 +1902,1638 @@
         ]
     },
     {
+        "text": "David seems familiar. Let me check his previous visits to our clinic.",
+        "meta": {
+            "note_id": "401",
+            "patient_id": "30334567"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 5,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "I'm 45 years old and experiencing chest pain.",
+        "meta": {
+            "note_id": "402",
+            "patient_id": "30556789"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 4,
+                "end": 6,
+                "label": "AGE"
+            }
+        ]
+    },
+    {
+        "text": "When did this start, Mr. Robert Green?",
+        "meta": {
+            "note_id": "403",
+            "patient_id": "30556789"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 21,
+                "end": 37,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "My wife, Jennifer Lee, is worried about my condition.",
+        "meta": {
+            "note_id": "404",
+            "patient_id": "30667890"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 9,
+                "end": 21,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Let's monitor your vitals and take necessary tests, Robert.",
+        "meta": {
+            "note_id": "405",
+            "patient_id": "30556789"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 52,
+                "end": 58,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "I have an appointment with Dr. James White at City Hospital tomorrow.",
+        "meta": {
+            "note_id": "406",
+            "patient_id": "30778901"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 27,
+                "end": 42,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 46,
+                "end": 59,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "How is your progress with the treatment, Mr. Green?",
+        "meta": {
+            "note_id": "407",
+            "patient_id": "30556789"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 41,
+                "end": 50,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "I'm struggling to breathe and have a history of asthma.",
+        "meta": {
+            "note_id": "408",
+            "patient_id": "30889012"
+        },
+        "spans": []
+    },
+    {
+        "text": "Let's conduct a thorough checkup and assess your breathing, Mr. Green.",
+        "meta": {
+            "note_id": "409",
+            "patient_id": "30556789"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 60,
+                "end": 69,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "My mother, Mary Clark, had surgery last week and is recovering.",
+        "meta": {
+            "note_id": "410",
+            "patient_id": "30990123"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 11,
+                "end": 21,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 35,
+                "end": 44,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Mary's recovery is progressing well. Keep up with the prescribed medication.",
+        "meta": {
+            "note_id": "411",
+            "patient_id": "30990123"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 4,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "I'm John Smith. My phone number is 555-1234, and I need help with my back pain.",
+        "meta": {
+            "note_id": "412",
+            "patient_id": "31001234"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 4,
+                "end": 14,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 35,
+                "end": 43,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Let's schedule an appointment to assess your back condition, Mr. Smith.",
+        "meta": {
+            "note_id": "413",
+            "patient_id": "31001234"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 61,
+                "end": 70,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "My wife, Carla Green, has been suffering from migraines recently.",
+        "meta": {
+            "note_id": "414",
+            "patient_id": "31112345"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 9,
+                "end": 20,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Let's explore the underlying cause of the migraines, Carla.",
+        "meta": {
+            "note_id": "415",
+            "patient_id": "31112345"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 53,
+                "end": 58,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "I'm feeling nauseous and have been vomiting since last night.",
+        "meta": {
+            "note_id": "416",
+            "patient_id": "31223456"
+        },
+        "spans": []
+    },
+    {
+        "text": "Let's conduct some tests to understand what's causing these symptoms.",
+        "meta": {
+            "note_id": "417",
+            "patient_id": "31223456"
+        },
+        "spans": []
+    },
+    {
+        "text": "My son, Jack Brown, was born in December last year.",
+        "meta": {
+            "note_id": "418",
+            "patient_id": "31334567"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 18,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 32,
+                "end": 50,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Jack is doing well. Keep up with his routine checkups every three months.",
+        "meta": {
+            "note_id": "419",
+            "patient_id": "31334567"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 4,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "I've been having joint pain in my knees for over a month now.",
+        "meta": {
+            "note_id": "420",
+            "patient_id": "31445678"
+        },
+        "spans": []
+    },
+    {
+        "text": "Let's conduct an MRI scan to understand the root cause of the joint pain.",
+        "meta": {
+            "note_id": "421",
+            "patient_id": "31445678"
+        },
+        "spans": []
+    },
+    {
+        "text": "My name is Sarah Davis. My email is sarah.davis@outlook.com.",
+        "meta": {
+            "note_id": "422",
+            "patient_id": "31556789"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 11,
+                "end": 22,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 36,
+                "end": 59,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "We will contact you via email for your follow-up appointment, Sarah.",
+        "meta": {
+            "note_id": "423",
+            "patient_id": "31556789"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 62,
+                "end": 67,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "My brother, Daniel White, has been experiencing severe headaches.",
+        "meta": {
+            "note_id": "424",
+            "patient_id": "31667890"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 12,
+                "end": 24,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Daniel should undergo a CT scan to rule out any major issues.",
+        "meta": {
+            "note_id": "425",
+            "patient_id": "31667890"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 6,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "I work at Microsoft, and my knees hurt after long hours of sitting.",
+        "meta": {
+            "note_id": "426",
+            "patient_id": "31778901"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 10,
+                "end": 19,
+                "label": "PATORG"
+            }
+        ]
+    },
+    {
+        "text": "Let's prescribe some physiotherapy exercises to alleviate knee pain.",
+        "meta": {
+            "note_id": "427",
+            "patient_id": "31778901"
+        },
+        "spans": []
+    },
+    {
+        "text": "My son, Liam Carter, is 4 years old and has a fever.",
+        "meta": {
+            "note_id": "428",
+            "patient_id": "31889012"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 19,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 24,
+                "end": 25,
+                "label": "AGE"
+            }
+        ]
+    },
+    {
+        "text": "Liam should stay hydrated and take the prescribed fever medication.",
+        "meta": {
+            "note_id": "429",
+            "patient_id": "31889012"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 4,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "My name is Megan Walker, and my contact number is 123-456-7890.",
+        "meta": {
+            "note_id": "430",
+            "patient_id": "31990123"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 11,
+                "end": 23,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 50,
+                "end": 62,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Megan, please confirm your ID for record-keeping purposes.",
+        "meta": {
+            "note_id": "431",
+            "patient_id": "31990123"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 5,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "My father, Robert King, is 72 and has been feeling dizzy.",
+        "meta": {
+            "note_id": "432",
+            "patient_id": "32001234"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 11,
+                "end": 22,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 27,
+                "end": 29,
+                "label": "AGE"
+            }
+        ]
+    },
+    {
+        "text": "Let's monitor Robert's blood pressure and hydration levels.",
+        "meta": {
+            "note_id": "433",
+            "patient_id": "32001234"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 14,
+                "end": 20,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "I've been experiencing migraines since December 15th.",
+        "meta": {
+            "note_id": "434",
+            "patient_id": "32112345"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 39,
+                "end": 52,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "We will evaluate the frequency and triggers of these migraines.",
+        "meta": {
+            "note_id": "435",
+            "patient_id": "32112345"
+        },
+        "spans": []
+    },
+    {
+        "text": "My colleague, Eric Brown, suggested this hospital for my checkup.",
+        "meta": {
+            "note_id": "436",
+            "patient_id": "32223456"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 14,
+                "end": 24,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Eric made a good recommendation. Let's proceed with your tests.",
+        "meta": {
+            "note_id": "437",
+            "patient_id": "32223456"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 4,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "My sister, Emma White, visited this clinic last summer.",
+        "meta": {
+            "note_id": "438",
+            "patient_id": "32334567"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 11,
+                "end": 21,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 43,
+                "end": 54,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Emma's visit notes indicate that she was improving well.",
+        "meta": {
+            "note_id": "439",
+            "patient_id": "32334567"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 4,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "I'm feeling a sharp pain in my lower back since November.",
+        "meta": {
+            "note_id": "440",
+            "patient_id": "32445678"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 48,
+                "end": 56,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "We will conduct an X-ray to determine the cause of your pain.",
+        "meta": {
+            "note_id": "441",
+            "patient_id": "32445678"
+        },
+        "spans": []
+    },
+    {
+        "text": "My mother, Olivia Green, has been complaining about chest pain.",
+        "meta": {
+            "note_id": "442",
+            "patient_id": "32556789"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 11,
+                "end": 23,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Olivia's condition needs further evaluation to rule out any cardiac issues.",
+        "meta": {
+            "note_id": "443",
+            "patient_id": "32556789"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 6,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "My name is David Miller. My contact email is david.miller@example.com.",
+        "meta": {
+            "note_id": "444",
+            "patient_id": "32667890"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 11,
+                "end": 23,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 45,
+                "end": 69,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Hi, I'm Sarah Thompson. I've been feeling fatigued for a week.",
+        "meta": {
+            "note_id": "445",
+            "patient_id": "32778901"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 22,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Sarah, let's run some blood tests to check for any deficiencies.",
+        "meta": {
+            "note_id": "446",
+            "patient_id": "32778901"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 5,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "My uncle, Henry Scott, was admitted to Mercy Hospital last month.",
+        "meta": {
+            "note_id": "447",
+            "patient_id": "32889012"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 10,
+                "end": 21,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 39,
+                "end": 53,
+                "label": "HOSP"
+            },
+            {
+                "id": "2",
+                "start": 54,
+                "end": 64,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Henry's records show that he was treated for a respiratory condition.",
+        "meta": {
+            "note_id": "448",
+            "patient_id": "32889012"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 5,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "I'm Anna Lee, and I've been experiencing severe stomach pain.",
+        "meta": {
+            "note_id": "449",
+            "patient_id": "32990123"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 4,
+                "end": 12,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Anna, have you consumed any food that might have caused this?",
+        "meta": {
+            "note_id": "450",
+            "patient_id": "32990123"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 4,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "My daughter, Isabella Green, is running a high fever of 102\u00c2\u00b0F.",
+        "meta": {
+            "note_id": "451",
+            "patient_id": "33001234"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 13,
+                "end": 27,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Isabella should stay hydrated and take the prescribed fever reducer.",
+        "meta": {
+            "note_id": "452",
+            "patient_id": "33001234"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 8,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "My name is Ethan Brown, and I'm here for a routine checkup.",
+        "meta": {
+            "note_id": "453",
+            "patient_id": "33112345"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 11,
+                "end": 22,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Ethan, do you have any specific concerns to address today?",
+        "meta": {
+            "note_id": "454",
+            "patient_id": "33112345"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 5,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "My coworker, Olivia Brown, recommended this clinic for my back pain.",
+        "meta": {
+            "note_id": "455",
+            "patient_id": "33223456"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 13,
+                "end": 25,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Olivia mentioned that you've had persistent back pain for weeks.",
+        "meta": {
+            "note_id": "456",
+            "patient_id": "33223456"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 6,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "My husband, William Gray, is 55 years old and has diabetes.",
+        "meta": {
+            "note_id": "457",
+            "patient_id": "33334567"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 12,
+                "end": 24,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 29,
+                "end": 31,
+                "label": "AGE"
+            }
+        ]
+    },
+    {
+        "text": "William's diabetes management plan seems to be working well.",
+        "meta": {
+            "note_id": "458",
+            "patient_id": "33334567"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 7,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "I've been experiencing blurred vision since October.",
+        "meta": {
+            "note_id": "459",
+            "patient_id": "33445678"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 44,
+                "end": 51,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "We'll conduct an eye exam to identify the cause of your vision issues.",
+        "meta": {
+            "note_id": "460",
+            "patient_id": "33445678"
+        },
+        "spans": []
+    },
+    {
+        "text": "My son, James White, complained about chest pain yesterday.",
+        "meta": {
+            "note_id": "461",
+            "patient_id": "33556789"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 19,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 49,
+                "end": 58,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "James needs further evaluation to rule out any heart conditions.",
+        "meta": {
+            "note_id": "462",
+            "patient_id": "33556789"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 5,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "My name is Michael Davis. My email address is michael.davis@xyz.com.",
+        "meta": {
+            "note_id": "463",
+            "patient_id": "33667890"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 11,
+                "end": 24,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 46,
+                "end": 67,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Michael, let's review your blood test results from last month.",
+        "meta": {
+            "note_id": "464",
+            "patient_id": "33667890"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 7,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 51,
+                "end": 61,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Hi, I'm Sarah Miller. I've had this cough since October 12th.",
+        "meta": {
+            "note_id": "465",
+            "patient_id": "33778901"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 20,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 48,
+                "end": 60,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Sarah, are you employed at Harvard or a different firm?",
+        "meta": {
+            "note_id": "466",
+            "patient_id": "33778901"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 5,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 27,
+                "end": 34,
+                "label": "PATORG"
+            }
+        ]
+    },
+    {
+        "text": "My name is Raj Malhotra, and my email is raj.malhotra@abc.com.",
+        "meta": {
+            "note_id": "467",
+            "patient_id": "33889012"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 11,
+                "end": 23,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 41,
+                "end": 61,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Raj, I will send your test results to your email by tomorrow.",
+        "meta": {
+            "note_id": "468",
+            "patient_id": "33889012"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 3,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 52,
+                "end": 60,
+                "label": "DATE"
+            }
+
+        ]
+    },
+    {
+        "text": "My son, Kevin Brown, is feeling unwell after a trip to Paris.",
+        "meta": {
+            "note_id": "469",
+            "patient_id": "33990123"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 19,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 55,
+                "end": 60,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Kevin might have picked up something during his travel.",
+        "meta": {
+            "note_id": "470",
+            "patient_id": "33990123"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 5,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "My ID is KBR1234, and I am scheduled for surgery on December 20th.",
+        "meta": {
+            "note_id": "471",
+            "patient_id": "34001234"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 9,
+                "end": 16,
+                "label": "ID"
+            },
+            {
+                "id": "1",
+                "start": 52,
+                "end": 65,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Ensure you arrive early on the day of surgery for pre-op procedures.",
+        "meta": {
+            "note_id": "472",
+            "patient_id": "34001234"
+        },
+        "spans": []
+    },
+    {
+        "text": "Hi, I'm Clara Lewis, and I work at Microsoft in Seattle.",
+        "meta": {
+            "note_id": "473",
+            "patient_id": "34112345"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 19,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 35,
+                "end": 44,
+                "label": "PATORG"
+            },
+            {
+                "id": "2",
+                "start": 48,
+                "end": 55,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Clara, your blood pressure readings are higher than last month.",
+        "meta": {
+            "note_id": "474",
+            "patient_id": "34112345"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 5,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 52,
+                "end": 62,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "My brother, Sam Wilson, was treated at City Medical Center.",
+        "meta": {
+            "note_id": "475",
+            "patient_id": "34223456"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 12,
+                "end": 22,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 39,
+                "end": 58,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Sam had a mild infection, but it's under control now.",
+        "meta": {
+            "note_id": "476",
+            "patient_id": "34223456"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 3,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "My sister, Jenny Parker, was born on July 15th, 1990.",
+        "meta": {
+            "note_id": "477",
+            "patient_id": "34334567"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 11,
+                "end": 23,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 37,
+                "end": 52,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Jenny's medical history indicates no major issues.",
+        "meta": {
+            "note_id": "478",
+            "patient_id": "34334567"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 5,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "I've been coughing persistently since last Friday.",
+        "meta": {
+            "note_id": "479",
+            "patient_id": "34445678"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 38,
+                "end": 49,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Let's do a chest X-ray to check for any lung infections.",
+        "meta": {
+            "note_id": "480",
+            "patient_id": "34445678"
+        },
+        "spans": []
+    },
+    {
+        "text": "My father, Edward King, has high blood pressure and diabetes.",
+        "meta": {
+            "note_id": "481",
+            "patient_id": "34556789"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 11,
+                "end": 22,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Edward should monitor his blood sugar levels regularly.",
+        "meta": {
+            "note_id": "482",
+            "patient_id": "34556789"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 6,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "My contact number is 987-654-3210 for any updates.",
+        "meta": {
+            "note_id": "483",
+            "patient_id": "34667890"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 21,
+                "end": 33,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "We'll call you at 987-654-3210 once the results are ready.",
+        "meta": {
+            "note_id": "484",
+            "patient_id": "34667890"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 18,
+                "end": 30,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "My name is Jessica Brown, and my email is jessica.brown@xyz.com.",
+        "meta": {
+            "note_id": "485",
+            "patient_id": "34778901"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 11,
+                "end": 24,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 42,
+                "end": 63,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Jessica, your appointment is scheduled for December 18th.",
+        "meta": {
+            "note_id": "486",
+            "patient_id": "34778901"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 7,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 43,
+                "end": 56,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "My father, Henry Miller, was treated at Boston General Hospital.",
+        "meta": {
+            "note_id": "487",
+            "patient_id": "34889012"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 11,
+                "end": 23,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 40,
+                "end": 63,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Henry's treatment for hypertension was effective last month.",
+        "meta": {
+            "note_id": "488",
+            "patient_id": "34889012"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 5,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 49,
+                "end": 59,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "I visited New York City last month and started feeling unwell.",
+        "meta": {
+            "note_id": "489",
+            "patient_id": "34990123"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 10,
+                "end": 23,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 24,
+                "end": 34,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Traveling might have caused the symptoms. Let's run some tests.",
+        "meta": {
+            "note_id": "490",
+            "patient_id": "34990123"
+        },
+        "spans": []
+    },
+    {
+        "text": "My contact number is +44-123-456-7890. Please inform me about updates.",
+        "meta": {
+            "note_id": "491",
+            "patient_id": "35001234"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 21,
+                "end": 37,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "We'll send an update to +44-123-456-7890 as soon as we have results.",
+        "meta": {
+            "note_id": "492",
+            "patient_id": "35001234"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 24,
+                "end": 40,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "My husband, Peter Johnson, has an appointment on January 10th.",
+        "meta": {
+            "note_id": "493",
+            "patient_id": "35112345"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 12,
+                "end": 25,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 49,
+                "end": 61,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Peter's medical records show no history of heart conditions.",
+        "meta": {
+            "note_id": "494",
+            "patient_id": "35112345"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 5,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "I work at IBM in Chicago and have been feeling stressed recently.",
+        "meta": {
+            "note_id": "495",
+            "patient_id": "35223456"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 10,
+                "end": 13,
+                "label": "PATORG"
+            },
+            {
+                "id": "1",
+                "start": 17,
+                "end": 24,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Stress can impact overall health. Consider taking some time off.",
+        "meta": {
+            "note_id": "496",
+            "patient_id": "35223456"
+        },
+        "spans": []
+    },
+    {
+        "text": "My son, Mark Taylor, was born on March 3rd, 2010.",
+        "meta": {
+            "note_id": "497",
+            "patient_id": "35334567"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 19,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 33,
+                "end": 48,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Mark is scheduled for a follow-up appointment next week.",
+        "meta": {
+            "note_id": "498",
+            "patient_id": "35334567"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 4,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 46,
+                "end": 55,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "My email is alex.jones@domain.com. Please send me the prescription.",
+        "meta": {
+            "note_id": "499",
+            "patient_id": "35445678"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 12,
+                "end": 33,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Alex, the prescription will be sent to alex.jones@domain.com.",
+        "meta": {
+            "note_id": "500",
+            "patient_id": "35445678"
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 4,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 39,
+                "end": 60,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
         "text": "Patient: My father, William White, was admitted to Lakeview Hospital.",
         "meta": {
             "note_id": "501",
