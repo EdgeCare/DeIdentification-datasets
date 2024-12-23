@@ -748,5 +748,257 @@
                 "label": "PATIENT"
             }
         ]
+    },
+    {
+        "text": "Doctor: Do you have an email I can contact you at?\nPatient: Yes, it's aanyamai@hospital.org.",
+        "meta": {
+            "note_id": "36"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 70,
+                "end": 91,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My son's name is Tyler, and he's 7 years old.",
+        "meta": {
+            "note_id": "37"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 26,
+                "end": 31,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 42,
+                "end": 43,
+                "label": "AGE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Do you recall the date of your accident?\nPatient: Yes, it was on September 14, 2024.",
+        "meta": {
+            "note_id": "38"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 73,
+                "end": 91,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I live in Seattle, WA.",
+        "meta": {
+            "note_id": "39"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 19,
+                "end": 30,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Can you verify your pharmacy details?\nPatient: Walgreens Pharmacy, 1234 Oak St, Boston, MA.",
+        "meta": {
+            "note_id": "40"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 55,
+                "end": 73,
+                "label": "HOSP"
+            },
+            {
+                "id": 1,
+                "start": 75,
+                "end": 98,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Can I have the date of your last checkup?\nPatient: It was on July 3, 2023.",
+        "meta": {
+            "note_id": "41"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 69,
+                "end": 81,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "My contact email is ishanathamudi@yahoo.com.",
+        "meta": {
+            "note_id": "42"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 20,
+                "end": 43,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "I was admitted to Bellevue Hospital last winter.",
+        "meta": {
+            "note_id": "43"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 18,
+                "end": 35,
+                "label": "HOSP"
+            },
+            {
+                "id": 1,
+                "start": 36,
+                "end": 47,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: When did you visit Dr. Emily Watson?\nPatient: Around November 12th.",
+        "meta": {
+            "note_id": "44"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 27,
+                "end": 43,
+                "label": "STAFF"
+            },
+            {
+                "id": 1,
+                "start": 61,
+                "end": 74,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "I live in San Francisco, California, 94123.",
+        "meta": {
+            "note_id": "45"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 10,
+                "end": 42,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: What's the name of the pharmacy you use?\nPatient: CVS Pharmacy on Elm Street, Austin, TX.",
+        "meta": {
+            "note_id": "46"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 58,
+                "end": 70,
+                "label": "HOSP"
+            },
+            {
+                "id": 1,
+                "start": 74,
+                "end": 96,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "My son, Eric, is 15 years old and has allergies.",
+        "meta": {
+            "note_id": "47"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 8,
+                "end": 12,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 17,
+                "end": 19,
+                "label": "AGE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Your ID shows as PX123456. Can you confirm it?\nPatient: Yes, that's correct.",
+        "meta": {
+            "note_id": "48"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 25,
+                "end": 33,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "My daughter, Lucy, is starting treatment tomorrow, December 15th.",
+        "meta": {
+            "note_id": "49"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 13,
+                "end": 17,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 41,
+                "end": 64,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Doctor: Please confirm your ZIP code.\nPatient: It's 90210.",
+        "meta": {
+            "note_id": "50"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 52,
+                "end": 57,
+                "label": "LOC"
+            }
+        ]
     }
 ]
