@@ -5,7 +5,8 @@
 - 401-500 -> Chinthani - Done
 - 501-600 -> Chinthani - Done
 - 601-700 -> Osh - Done (removed 658 to 700)
-- 701- 1000 -> Osh
+- 701- 800 -> Osh - Done (omitted some)
+- 801 - 1000 -> Osh
 - 1124-1717 -> Done - selected only 5
 - 1718-1800 -> Chinthani
 - 1801-1900 -> Chinthani
