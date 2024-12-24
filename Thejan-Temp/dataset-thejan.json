@@ -2481,5 +2481,97 @@
                 "label": "DATE"
             }
         ]
+    },
+    {
+        "text": "Discharge Summary\nPatient Name: chaminda weerasinghe\nPatient ID: 182\nDate of Birth: May 15, 1990\nReport ID: DS78901\nAdmitting Physician: Dr. Sunil Mahinda \nConsulting Physician(s): Dr. Maheesh Ekanayake\nDate of Admission: 2021 December 15\nDate of Discharge: 2022 January 20\n\nAdmission Diagnosis\nAcute appendicitis\n\nDischarge Diagnosis\nAcute appendicitis treated with laparoscopic appendectomy\nProcedures Performed\n\nLaparoscopic appendectomy performed on 2021-12-16, \nHospital Course\nThe patient was admitted on 2021-12-15, with complaints of abdominal pain, nausea, and fever. A physical examination and imaging confirmed acute appendicitis. A laparoscopic appendectomy was successfully performed on 2021-12-16. The patient recovered well postoperatively with no complications. Pain was managed with oral analgesics, and the patient was mobilized within 24 hours. Routine labs, including a complete blood count, showed improvement. No infections or other complications were noted during the hospital stay.\n\nDischarge Medications\nAcetaminophen 500 mg: Take one tablet every 6 hours as needed for pain\nAmoxicillin 500 mg: Take one capsule every 8 hours for 7 days\n\nFollow-Up Instructions\nSchedule a follow-up appointment with Dr. Sunil Mahinda  in 2 weeks.\nMaintain a soft diet for the next few days and gradually return to a normal diet.\nKeep the surgical site clean and dry; remove dressing as instructed.\nMonitor for signs of infection, such as redness, swelling, or fever, and contact the physician if symptoms occur.\nCondition at Discharge\nThe patient is in stable condition, ambulatory, and tolerating oral intake well.\n\nDischarging Physician:\nDr. Sunil Mahinda \n\nFacility: Rathgama Hospital\nContact: 0112 395 378",
+        "meta": {
+            "note_id": "3014"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 32,
+                "end": 52,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 65,
+                "end": 68,
+                "label": "ID"
+            },
+            {
+                "id": 2,
+                "start": 84,
+                "end": 96,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 108,
+                "end": 115,
+                "label": "ID"
+            },
+            {
+                "id": 4,
+                "start": 137,
+                "end": 155,
+                "label": "STAFF"
+            },
+            {
+                "id": 5,
+                "start": 181,
+                "end": 202,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 222,
+                "end": 238,
+                "label": "DATE"
+            },
+            {
+                "id": 7,
+                "start": 258,
+                "end": 273,
+                "label": "DATE"
+            },
+            {
+                "id": 8,
+                "start": 454,
+                "end": 464,
+                "label": "DATE"
+            },
+            {
+                "id": 9,
+                "start": 511,
+                "end": 521,
+                "label": "DATE"
+            },
+            {
+                "id": 10,
+                "start": 700,
+                "end": 710,
+                "label": "DATE"
+            },
+            {
+                "id": 11,
+                "start": 1224,
+                "end": 1241,
+                "label": "STAFF"
+            },
+            {
+                "id": 12,
+                "start": 1678,
+                "end": 1695,
+                "label": "HOSP"
+            },
+            {
+                "id": 13,
+                "start": 1705,
+                "end": 1717,
+                "label": "PHONE"
+            }
+        ]
     }
 ]
