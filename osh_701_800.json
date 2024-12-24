@@ -1,0 +1,1967 @@
+[
+    {
+        "text": "Patient: My name is Clara Johnson, and I've been experiencing headaches. Doctor: Did you travel recently? Was it near Seattle or Los Angeles?",
+        "meta": {
+            "note_id": "701",
+            "patient_id": "8901234"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 20,
+                "end": 33,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 118,
+                "end": 125,
+                "label": "LOC"
+            },
+            {
+                "id": 2,
+                "start": 129,
+                "end": 140,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Patient: Hello, I'm David Green. I recently received a prescription from St. Mary's Hospital. Doctor: Let me check it out.",
+        "meta": {
+            "note_id": "703",
+            "patient_id": "4567890"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 20,
+                "end": 31,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 73,
+                "end": 92,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Patient: Hi, I'm Olivia Brown. I've been diagnosed with migraines. Doctor: Olivia, your record ID OB456789 confirms it.",
+        "meta": {
+            "note_id": "704",
+            "patient_id": "1234567"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 17,
+                "end": 29,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 98,
+                "end": 106,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My name is Robert Hill. My phone number is 555-890-1234. Doctor: Thanks, Robert. Let me note that down.",
+        "meta": {
+            "note_id": "705",
+            "patient_id": "8903456"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 20,
+                "end": 31,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 52,
+                "end": 64,
+                "label": "PHONE"
+            },
+            {
+                "id": 2,
+                "start": 82,
+                "end": 88,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I'm Ella Watson, 45 years old. I've been feeling faint lately. Doctor: Ella, did this start after your trip to Paris?",
+        "meta": {
+            "note_id": "706",
+            "patient_id": "1234509"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 13,
+                "end": 24,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 26,
+                "end": 28,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 80,
+                "end": 84,
+                "label": "PATIENT"
+            },
+            {
+                "id": 3,
+                "start": 120,
+                "end": 125,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Patient: This is George Carter. I've had insomnia since December 1st. Doctor: George, I'll review your ID GC8901 now.",
+        "meta": {
+            "note_id": "707",
+            "patient_id": "7894567"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 17,
+                "end": 30,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 56,
+                "end": 68,
+                "label": "DATE"
+            },
+            {
+                "id": 2,
+                "start": 78,
+                "end": 84,
+                "label": "PATIENT"
+            },
+            {
+                "id": 3,
+                "start": 106,
+                "end": 112,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My name is Sophia Turner, and I've been coughing a lot. Doctor: Sophia, have you been to New York recently?",
+        "meta": {
+            "note_id": "708",
+            "patient_id": "6543210"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 20,
+                "end": 33,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 73,
+                "end": 79,
+                "label": "PATIENT"
+            },
+            {
+                "id": 2,
+                "start": 98,
+                "end": 106,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Patient: Hi, I'm Jacob Evans. I've been having back pain since November. Doctor: Jacob, did you call 555-678-4321 about this?",
+        "meta": {
+            "note_id": "709",
+            "patient_id": "9087654"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 17,
+                "end": 28,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 63,
+                "end": 71,
+                "label": "DATE"
+            },
+            {
+                "id": 2,
+                "start": 81,
+                "end": 86,
+                "label": "PATIENT"
+            },
+            {
+                "id": 3,
+                "start": 101,
+                "end": 113,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Patient: Hello, my name is Lily Adams. I work at Amazon and have been feeling stressed. Doctor: Let's discuss your recent workload.",
+        "meta": {
+            "note_id": "710",
+            "patient_id": "1234569"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 27,
+                "end": 37,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 49,
+                "end": 55,
+                "label": "PATORG"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I'm Amanda Lee, and I've been having severe headaches. Doctor: Amanda, let's check your ID AL123987 for previous records.",
+        "meta": {
+            "note_id": "711",
+            "patient_id": "5678901"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 13,
+                "end": 23,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 72,
+                "end": 78,
+                "label": "PATIENT"
+            },
+            {
+                "id": 2,
+                "start": 100,
+                "end": 108,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "Patient: Hello, I'm Kevin Walker. My contact number is 555-321-8765. Doctor: Thanks, Kevin. Let's go over your records.",
+        "meta": {
+            "note_id": "712",
+            "patient_id": "2345678"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 20,
+                "end": 32,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 55,
+                "end": 67,
+                "label": "PHONE"
+            },
+            {
+                "id": 2,
+                "start": 85,
+                "end": 90,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My name is Rachel Green. I recently visited Los Angeles and fell sick. Doctor: Rachel, we'll need to run some tests.",
+        "meta": {
+            "note_id": "713",
+            "patient_id": "6789012"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 20,
+                "end": 32,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 53,
+                "end": 64,
+                "label": "LOC"
+            },
+            {
+                "id": 2,
+                "start": 88,
+                "end": 94,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Patient: Hi, I'm Mark Taylor, 39 years old. I've been feeling fatigued lately. Doctor: Mark, have you changed your diet recently?",
+        "meta": {
+            "note_id": "714",
+            "patient_id": "8901234"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 17,
+                "end": 28,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 30,
+                "end": 32,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 87,
+                "end": 91,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Patient: This is Jane Hall. My email is jane.hall@example.com. Doctor: Thank you, Jane. Let's discuss your symptoms now.",
+        "meta": {
+            "note_id": "715",
+            "patient_id": "4567890"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 17,
+                "end": 26,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 40,
+                "end": 61,
+                "label": "EMAIL"
+            },
+            {
+                "id": 2,
+                "start": 82,
+                "end": 86,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I'm Emma Watson. I work as a software engineer at Google. Doctor: Emma, let's review your stress levels and symptoms.",
+        "meta": {
+            "note_id": "716",
+            "patient_id": "7890123"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 13,
+                "end": 24,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 59,
+                "end": 65,
+                "label": "PATORG"
+            },
+            {
+                "id": 2,
+                "start": 75,
+                "end": 79,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Patient: Hello, my name is Samuel Johnson. I've been experiencing back pain. Doctor: Samuel, when did you last visit St. Luke's Hospital?",
+        "meta": {
+            "note_id": "717",
+            "patient_id": "1234567"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 27,
+                "end": 41,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 85,
+                "end": 91,
+                "label": "PATIENT"
+            },
+            {
+                "id": 2,
+                "start": 117,
+                "end": 136,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I'm Laura King. My ID is LK897654, and I've had flu-like symptoms. Doctor: Thanks, We'll proceed with the necessary tests.",
+        "meta": {
+            "note_id": "718",
+            "patient_id": "8901234"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 13,
+                "end": 23,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 34,
+                "end": 42,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My name is Michael Brown. I've been living in Boston and feel exhausted. Doctor: let's check your medical records.",
+        "meta": {
+            "note_id": "719",
+            "patient_id": "4567890"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 20,
+                "end": 33,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 55,
+                "end": 61,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I'm Olivia Green. My phone number is +1-234-567-8901. Doctor: let's review your health history.",
+        "meta": {
+            "note_id": "720",
+            "patient_id": "5678901"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 13,
+                "end": 25,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 46,
+                "end": 61,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My name is Andrew White, and I've been experiencing joint pain. Doctor: do you have a family history of arthritis?",
+        "meta": {
+            "note_id": "721",
+            "patient_id": "3456789"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 20,
+                "end": 32,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I'm Sophia Adams. My email is sophia.adams@email.com. Doctor: let's go over your lab results.",
+        "meta": {
+            "note_id": "722",
+            "patient_id": "6789012"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 13,
+                "end": 25,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 39,
+                "end": 61,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Patient: This is Ethan Carter. I've been working at Microsoft and feeling stressed. Doctor: have you consulted a therapist before?",
+        "meta": {
+            "note_id": "723",
+            "patient_id": "2345678"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 17,
+                "end": 29,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 52,
+                "end": 61,
+                "label": "PATORG"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I'm Chloe Johnson. I've recently moved to Chicago and developed a cough. Doctor: when did you notice the symptoms first?",
+        "meta": {
+            "note_id": "724",
+            "patient_id": "8901234"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 13,
+                "end": 26,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 51,
+                "end": 58,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Patient: Hello, my name is Jack Lee. My contact number is 555-987-6543. Doctor: Thanks. Let's start with your medical history.",
+        "meta": {
+            "note_id": "725",
+            "patient_id": "1234567"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 27,
+                "end": 35,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 58,
+                "end": 70,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Patient: I'm Emma Wilson. My ID is EW567890. I've had persistent back pain. Doctor: let's perform some diagnostic tests.",
+        "meta": {
+            "note_id": "726",
+            "patient_id": "3456789"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 13,
+                "end": 24,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 35,
+                "end": 43,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "Patient: This is Benjamin Clark. I was recently admitted to General Hospital for pneumonia. Doctor: let's review your treatment plan.",
+        "meta": {
+            "note_id": "727",
+            "patient_id": "5678901"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 17,
+                "end": 31,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 60,
+                "end": 76,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Patient: Hi, I'm Mia Roberts. I work as a nurse at CityHealth Clinic. Doctor: how long have you been feeling unwell?",
+        "meta": {
+            "note_id": "728",
+            "patient_id": "7890123"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 17,
+                "end": 28,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 51,
+                "end": 68,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Patient: My name is Lucas Adams. I've been experiencing frequent headaches. Doctor: do you spend extended hours in front of screens?",
+        "meta": {
+            "note_id": "729",
+            "patient_id": "6789012"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 20,
+                "end": 31,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Patient: Hello, I'm Olivia Brown. My phone is 987-654-3210. Doctor: let's review your latest blood test results.",
+        "meta": {
+            "note_id": "730",
+            "patient_id": "2345678"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 20,
+                "end": 32,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 46,
+                "end": 58,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Hi, I'm Alice Carter. I've been having migraines since my trip to Chicago on November 20th.",
+        "meta": {
+            "note_id": "761",
+            "patient_id": "10001"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 8,
+                "end": 20,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 66,
+                "end": 73,
+                "label": "LOC"
+            },
+            {
+                "id": 2,
+                "start": 77,
+                "end": 90,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Hi, Alice. Let me pull up your file. Your ID is AC98765, and your email is alice.carter@mail.com, right?",
+        "meta": {
+            "note_id": "762",
+            "patient_id": "10001"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 4,
+                "end": 9,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 48,
+                "end": 55,
+                "label": "ID"
+            },
+            {
+                "id": 2,
+                "start": 75,
+                "end": 96,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Yes, and my phone number is +1-312-456-7890. I was also treated at Mercy Hospital in New York last year.",
+        "meta": {
+            "note_id": "763",
+            "patient_id": "10001"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 28,
+                "end": 43,
+                "label": "PHONE"
+            },
+            {
+                "id": 1,
+                "start": 67,
+                "end": 81,
+                "label": "HOSP"
+            },
+            {
+                "id": 2,
+                "start": 85,
+                "end": 93,
+                "label": "LOC"
+            },
+            {
+                "id": 3,
+                "start": 94,
+                "end": 103,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Nurse: Please confirm your details: DOB 08/14/1986, ID MP456321, and phone 123-456-7890. You worked at Google, right?",
+        "meta": {
+            "note_id": "764",
+            "patient_id": "10002"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 40,
+                "end": 50,
+                "label": "DATE"
+            },
+            {
+                "id": 1,
+                "start": 55,
+                "end": 63,
+                "label": "ID"
+            },
+            {
+                "id": 2,
+                "start": 75,
+                "end": 87,
+                "label": "PHONE"
+            },
+            {
+                "id": 3,
+                "start": 103,
+                "end": 109,
+                "label": "PATORG"
+            }
+        ]
+    },
+    {
+        "text": "Receptionist: Mr. John Smith, your appointment on 05/20/2024 at St. Mary's Hospital is confirmed. Contact us at 555-9876 for any changes.",
+        "meta": {
+            "note_id": "765",
+            "patient_id": "10003"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 14,
+                "end": 28,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 50,
+                "end": 60,
+                "label": "DATE"
+            },
+            {
+                "id": 2,
+                "start": 64,
+                "end": 83,
+                "label": "HOSP"
+            },
+            {
+                "id": 3,
+                "start": 112,
+                "end": 120,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "My name is Amal Perera, and I've been feeling very weak since December 10th.  Jason, are you still working at Amazon? I also see your last visit was at St. Luke's Hospital. Is your contact number +94891234572?",
+        "meta": {
+            "note_id": "766",
+            "patient_id": "10014"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 11,
+                "end": 22,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 62,
+                "end": 75,
+                "label": "DATE"
+            },
+            {
+                "id": 2,
+                "start": 78,
+                "end": 83,
+                "label": "PATIENT"
+            },
+            {
+                "id": 3,
+                "start": 110,
+                "end": 116,
+                "label": "PATORG"
+            },
+            {
+                "id": 4,
+                "start": 152,
+                "end": 171,
+                "label": "HOSP"
+            },
+            {
+                "id": 5,
+                "start": 196,
+                "end": 208,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Hi, I'm Yasiru Gimhan. I've been experiencing dizziness since my trip to Colombo on January 15th, 2023.  Emily, I see your ID is 200048569360, and your email is emily.brown@mail.com. Can you confirm?",
+        "meta": {
+            "note_id": "767",
+            "patient_id": "10015"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 8,
+                "end": 21,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 73,
+                "end": 80,
+                "label": "LOC"
+            },
+            {
+                "id": 2,
+                "start": 84,
+                "end": 102,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 105,
+                "end": 110,
+                "label": "PATIENT"
+            },
+            {
+                "id": 4,
+                "start": 129,
+                "end": 141,
+                "label": "ID"
+            },
+            {
+                "id": 5,
+                "start": 161,
+                "end": 181,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "My son Kumudu Prabash is 12 years old. We were at Kalubowila Hospital on March 8th for his check-up. Contact us at 0112 566 992.",
+        "meta": {
+            "note_id": "768",
+            "patient_id": "10016"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 7,
+                "end": 21,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 25,
+                "end": 27,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 50,
+                "end": 69,
+                "label": "HOSP"
+            },
+            {
+                "id": 3,
+                "start": 73,
+                "end": 82,
+                "label": "DATE"
+            },
+            {
+                "id": 4,
+                "start": 115,
+                "end": 127,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Hi, Mr. Kamal De Soysa. Your file shows DOB 04/12/1980, ID 458362158v, and your address is 78 Darmapala Mw. Colombo 3.",
+        "meta": {
+            "note_id": "769",
+            "patient_id": "10017"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 4,
+                "end": 22,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 44,
+                "end": 54,
+                "label": "DATE"
+            },
+            {
+                "id": 2,
+                "start": 59,
+                "end": 69,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 91,
+                "end": 117,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Nurse: Hello, Nilmini Perera. Please confirm your ID 445896325v and phone number 0112569365 before the appointment at Asiri Health PVT Ltd on June 20th.",
+        "meta": {
+            "note_id": "770",
+            "patient_id": "10018"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 14,
+                "end": 28,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 53,
+                "end": 63,
+                "label": "ID"
+            },
+            {
+                "id": 2,
+                "start": 81,
+                "end": 91,
+                "label": "PHONE"
+            },
+            {
+                "id": 3,
+                "start": 118,
+                "end": 138,
+                "label": "HOSP"
+            },
+            {
+                "id": 4,
+                "start": 142,
+                "end": 151,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "I'm Dimuthu Wijenayake, 28 years old. I visited Richway Lady Children's Hospital last year on February 14th. My email is laura.evans@gmail.com.",
+        "meta": {
+            "note_id": "771",
+            "patient_id": "10019"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 4,
+                "end": 22,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 24,
+                "end": 26,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 48,
+                "end": 80,
+                "label": "HOSP"
+            },
+            {
+                "id": 3,
+                "start": 94,
+                "end": 107,
+                "label": "DATE"
+            },
+            {
+                "id": 4,
+                "start": 121,
+                "end": 142,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Receptionist: Mr. Akila Kariyawasam, your follow-up at Asiri Hospitals on 08/25/2024 is scheduled. For any questions, call t.p. 0714589635.",
+        "meta": {
+            "note_id": "772",
+            "patient_id": "10020"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 13,
+                "end": 35,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 55,
+                "end": 70,
+                "label": "HOSP"
+            },
+            {
+                "id": 2,
+                "start": 74,
+                "end": 84,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 128,
+                "end": 138,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Kamal Gunarathne, you will meet Dr. Samantha Hayes at Sri Jayawaradanapura Hospital on September 15th. Your ID is OP12345.",
+        "meta": {
+            "note_id": "773",
+            "patient_id": "10021"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 0,
+                "end": 16,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 32,
+                "end": 50,
+                "label": "STAFF"
+            },
+            {
+                "id": 2,
+                "start": 54,
+                "end": 83,
+                "label": "HOSP"
+            },
+            {
+                "id": 3,
+                "start": 87,
+                "end": 101,
+                "label": "DATE"
+            },
+            {
+                "id": 4,
+                "start": 114,
+                "end": 121,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "Nurse: Dinusha Gamage, please verify your address, 23/2, Katubedda, Moratuwa, and phone number 047-2254476.",
+        "meta": {
+            "note_id": "774",
+            "patient_id": "10022"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 7,
+                "end": 21,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 50,
+                "end": 76,
+                "label": "LOC"
+            },
+            {
+                "id": 2,
+                "start": 95,
+                "end": 106,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "I'm Isuru Kaveesh. My surgery was at Karapitiya National Hospital on May 10th, 2024. Contact me at grace.wilson@domain.com.",
+        "meta": {
+            "note_id": "775",
+            "patient_id": "10023"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 4,
+                "end": 17,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 37,
+                "end": 65,
+                "label": "HOSP"
+            },
+            {
+                "id": 2,
+                "start": 69,
+                "end": 83,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 99,
+                "end": 122,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "My name is Amali Perera. I've had back pain since my last visit to Durdance Health Center on March 5th, 2023. My phone number is +9476478361.",
+        "meta": {
+            "note_id": "776",
+            "patient_id": "10024"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 11,
+                "end": 23,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 67,
+                "end": 89,
+                "label": "HOSP"
+            },
+            {
+                "id": 2,
+                "start": 93,
+                "end": 108,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 129,
+                "end": 140,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Hi, Susan White. Your ID is 200446932547, and your follow-up at Hilltop Clinic is scheduled for July 15th.",
+        "meta": {
+            "note_id": "777",
+            "patient_id": "10025"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 4,
+                "end": 15,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 28,
+                "end": 40,
+                "label": "ID"
+            },
+            {
+                "id": 2,
+                "start": 64,
+                "end": 78,
+                "label": "HOSP"
+            },
+            {
+                "id": 3,
+                "start": 96,
+                "end": 105,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Receptionist: Hello, Mr. Charitha Attalage. Your address, 45 Elm Street, Gampaga, Sri Lanka, and phone 0112-523694 have been updated.",
+        "meta": {
+            "note_id": "778",
+            "patient_id": "10026"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 21,
+                "end": 42,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 58,
+                "end": 91,
+                "label": "LOC"
+            },
+            {
+                "id": 2,
+                "start": 103,
+                "end": 114,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "I'm Imashi Kawya. I visited Asiri Laboratories on June 2nd for a check-up. My email is victoria.green@mail.net.",
+        "meta": {
+            "note_id": "779",
+            "patient_id": "10027"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 4,
+                "end": 16,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 28,
+                "end": 46,
+                "label": "HOSP"
+            },
+            {
+                "id": 2,
+                "start": 50,
+                "end": 58,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 87,
+                "end": 110,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Mr. Amaya Gunathilake, your MRI is scheduled at Durdance Diagnostics on August 8th, 2024. Please confirm your ID EB987654.",
+        "meta": {
+            "note_id": "780",
+            "patient_id": "10028"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 0,
+                "end": 21,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 48,
+                "end": 68,
+                "label": "HOSP"
+            },
+            {
+                "id": 2,
+                "start": 72,
+                "end": 88,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 113,
+                "end": 121,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "Nurse: Hello, Ms. Bimali Jayasuriya. Your appointment at Walasmulla Hospital Clinic is on October 10th. Contact number is +94 774596238.",
+        "meta": {
+            "note_id": "781",
+            "patient_id": "10029"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 14,
+                "end": 35,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 57,
+                "end": 76,
+                "label": "HOSP"
+            },
+            {
+                "id": 2,
+                "start": 90,
+                "end": 102,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 122,
+                "end": 135,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "My daughter, Charuni Himaya, is 5 years old. We were at Richway Lady Children's Hospital last week on July 20th. Contact us at 047 22 45689.",
+        "meta": {
+            "note_id": "782",
+            "patient_id": "10030"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 13,
+                "end": 27,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 32,
+                "end": 33,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 56,
+                "end": 88,
+                "label": "HOSP"
+            },
+            {
+                "id": 3,
+                "start": 102,
+                "end": 111,
+                "label": "DATE"
+            },
+            {
+                "id": 4,
+                "start": 127,
+                "end": 139,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Samadhi Vimansa, your records show DOB 06/15/1975, ID ME54321, and you last visited Navaloka Medical Center.",
+        "meta": {
+            "note_id": "783",
+            "patient_id": "10031"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 0,
+                "end": 15,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 39,
+                "end": 49,
+                "label": "DATE"
+            },
+            {
+                "id": 2,
+                "start": 54,
+                "end": 61,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 84,
+                "end": 107,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Receptionist: Good afternoon, Rishu Kokila. Please confirm your address, 12 Middeniya rd, Matara, and phone number 0765968749.",
+        "meta": {
+            "note_id": "784",
+            "patient_id": "10032"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 30,
+                "end": 42,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 73,
+                "end": 96,
+                "label": "LOC"
+            },
+            {
+                "id": 2,
+                "start": 115,
+                "end": 125,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "I'm Nipun Kosala. I've been having chest pain since July 4th. My email is lucas.parker@email.com, and my ID is LP56789.",
+        "meta": {
+            "note_id": "785",
+            "patient_id": "10033"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 4,
+                "end": 16,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 52,
+                "end": 60,
+                "label": "DATE"
+            },
+            {
+                "id": 2,
+                "start": 74,
+                "end": 96,
+                "label": "EMAIL"
+            },
+            {
+                "id": 3,
+                "start": 111,
+                "end": 118,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "Hello, I'm Sandaru Sathsara. I've been having trouble sleeping since moving to 456 Park Avenue.",
+        "meta": {
+            "note_id": "786",
+            "patient_id": "10034"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 11,
+                "end": 27,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 79,
+                "end": 94,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Sathsara, is this related to stress from your job at CodeGen? Also, when you last visited County General Hospital, you mentioned chest discomfort.",
+        "meta": {
+            "note_id": "787",
+            "patient_id": "10034"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 0,
+                "end": 8,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 53,
+                "end": 60,
+                "label": "PATORG"
+            },
+            {
+                "id": 2,
+                "start": 90,
+                "end": 113,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "I'm Fathima Nasruk. I've had frequent headaches since March 12th. I recently moved to 78 Willow Street, Portland.",
+        "meta": {
+            "note_id": "788",
+            "patient_id": "10035"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 4,
+                "end": 18,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 54,
+                "end": 64,
+                "label": "DATE"
+            },
+            {
+                "id": 2,
+                "start": 86,
+                "end": 112,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Fathima, do you still work at GTN? I see your last visit was at Memorial Hospital on April 15th.",
+        "meta": {
+            "note_id": "789",
+            "patient_id": "10035"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 0,
+                "end": 7,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 30,
+                "end": 33,
+                "label": "PATORG"
+            },
+            {
+                "id": 2,
+                "start": 64,
+                "end": 81,
+                "label": "HOSP"
+            },
+            {
+                "id": 3,
+                "start": 85,
+                "end": 95,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Hello, my name is Sajitha Anthony. I've had chronic knee pain since last year. My email is anthony.garcia@mail.com.",
+        "meta": {
+            "note_id": "790",
+            "patient_id": "10036"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 18,
+                "end": 33,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 91,
+                "end": 114,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Anthony, your ID is AG456789. I've noted your previous appointment at Private Hospital Clinic on June 10th, 2023.",
+        "meta": {
+            "note_id": "791",
+            "patient_id": "10036"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 0,
+                "end": 7,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 20,
+                "end": 28,
+                "label": "ID"
+            },
+            {
+                "id": 2,
+                "start": 70,
+                "end": 93,
+                "label": "HOSP"
+            },
+            {
+                "id": 3,
+                "start": 97,
+                "end": 112,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "My son, Kevin Lee, has been unwell since visiting Lincoln Pediatric Center on May 5th. Contact +999-888-7777.",
+        "meta": {
+            "note_id": "792",
+            "patient_id": "10037"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 8,
+                "end": 17,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 50,
+                "end": 74,
+                "label": "LOC"
+            },
+            {
+                "id": 2,
+                "start": 78,
+                "end": 85,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 95,
+                "end": 108,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Kevin, your records indicate an emergency admission to Medihouse Medical Centre on September 18th, 2024.",
+        "meta": {
+            "note_id": "793",
+            "patient_id": "10037"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 0,
+                "end": 5,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 55,
+                "end": 79,
+                "label": "HOSP"
+            },
+            {
+                "id": 2,
+                "start": 83,
+                "end": 103,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Receptionist: Hi, Chamara Abeykoon. Please confirm your address, 90 Oak Street, Tangalle, and email olivia.green@mail.com.",
+        "meta": {
+            "note_id": "794",
+            "patient_id": "10038"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 18,
+                "end": 34,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 64,
+                "end": 88,
+                "label": "LOC"
+            },
+            {
+                "id": 2,
+                "start": 100,
+                "end": 121,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Hi, I'm Kamali. I've been experiencing dizziness since May 22nd. My ID is JH78901, and my contact is 071 5689479.",
+        "meta": {
+            "note_id": "795",
+            "patient_id": "10039"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 8,
+                "end": 14,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 55,
+                "end": 63,
+                "label": "DATE"
+            },
+            {
+                "id": 2,
+                "start": 74,
+                "end": 81,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 101,
+                "end": 112,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Nirmani, are you still working at Cargils? Your last check-up was at CityCare Hospital on August 3rd, 2024.",
+        "meta": {
+            "note_id": "796",
+            "patient_id": "10039"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 0,
+                "end": 7,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 34,
+                "end": 41,
+                "label": "PATORG"
+            },
+            {
+                "id": 2,
+                "start": 69,
+                "end": 86,
+                "label": "HOSP"
+            },
+            {
+                "id": 3,
+                "start": 90,
+                "end": 106,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Hi, I'm Sapumal Kumara. I've had severe allergies since last summer. I work at Keels warehouse.",
+        "meta": {
+            "note_id": "797",
+            "patient_id": "10040"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 8,
+                "end": 22,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 79,
+                "end": 94,
+                "label": "PATORG"
+            }
+        ]
+    },
+    {
+        "text": "Kumari, I see you last visited Jaffna Basic Hospital on June 15th, 2023, for treatment.",
+        "meta": {
+            "note_id": "798",
+            "patient_id": "10040"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 0,
+                "end": 6,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 31,
+                "end": 52,
+                "label": "HOSP"
+            },
+            {
+                "id": 2,
+                "start": 56,
+                "end": 71,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "I'm Kalindu Karunarthne. I've been feeling tired since moving to 556 , Mola para, Katubedda. My phone is 076 789 4523.",
+        "meta": {
+            "note_id": "799",
+            "patient_id": "10041"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 4,
+                "end": 23,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 65,
+                "end": 91,
+                "label": "LOC"
+            },
+            {
+                "id": 2,
+                "start": 105,
+                "end": 117,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Supun, your last appointment at Asiri Health was on March 30th. Is your ID still 789145632v?",
+        "meta": {
+            "note_id": "800",
+            "patient_id": "10041"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 0,
+                "end": 5,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 32,
+                "end": 44,
+                "label": "HOSP"
+            },
+            {
+                "id": 2,
+                "start": 52,
+                "end": 62,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 81,
+                "end": 91,
+                "label": "ID"
+            }
+        ]
+    }
+]
