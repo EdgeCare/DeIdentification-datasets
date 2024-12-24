@@ -1824,5 +1824,754 @@
                 "label": "STAFF"
             }
         ]
+    },
+    {
+        "text": "Michael Johnson, 39, from New York, was admitted to Bellevue Hospital on April 20th, 2023. Emergency contact: 0575553456. Patient's SSN: 123-6789.",
+        "meta": {
+            "note_id": "1124"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 0,
+                "end": 15,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 17,
+                "end": 19,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 26,
+                "end": 34,
+                "label": "LOC"
+            },
+            {
+                "id": 3,
+                "start": 52,
+                "end": 69,
+                "label": "HOSP"
+            },
+            {
+                "id": 4,
+                "start": 73,
+                "end": 89,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 110,
+                "end": 120,
+                "label": "PHONE"
+            },
+            {
+                "id": 6,
+                "start": 137,
+                "end": 145,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "Samantha Clark, 31, consulted Dr. Alicia Ford at Northern Medical Center on March 18th, 2023. Email: samantha.clark@designs.net.",
+        "meta": {
+            "note_id": "1127"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 0,
+                "end": 14,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 16,
+                "end": 18,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 30,
+                "end": 45,
+                "label": "STAFF"
+            },
+            {
+                "id": 3,
+                "start": 49,
+                "end": 72,
+                "label": "HOSP"
+            },
+            {
+                "id": 4,
+                "start": 76,
+                "end": 92,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 101,
+                "end": 127,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Evelyn Walker met with Robert Carter, a 50-year-old architect, at Blue Mountain Medical on May 14th, 2023. His health ID: BM-1234-5678.",
+        "meta": {
+            "note_id": "1129"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 0,
+                "end": 17,
+                "label": "STAFF"
+            },
+            {
+                "id": 1,
+                "start": 27,
+                "end": 40,
+                "label": "PATIENT"
+            },
+            {
+                "id": 2,
+                "start": 44,
+                "end": 46,
+                "label": "AGE"
+            },
+            {
+                "id": 3,
+                "start": 70,
+                "end": 91,
+                "label": "HOSP"
+            },
+            {
+                "id": 4,
+                "start": 95,
+                "end": 109,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 126,
+                "end": 138,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "Henry Green was examined at Parkside Medical on March 30th, 2023. Phone: 0766318625. Patient ID: PM-4971.",
+        "meta": {
+            "note_id": "1227"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 0,
+                "end": 11,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 28,
+                "end": 44,
+                "label": "HOSP"
+            },
+            {
+                "id": 2,
+                "start": 48,
+                "end": 64,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 73,
+                "end": 83,
+                "label": "PHONE"
+            },
+            {
+                "id": 4,
+                "start": 97,
+                "end": 104,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "William Scott, 50, visited Redwood Clinic on September 11th, 2025. Patient ID: RC-1938. Phone number: 0715121936.",
+        "meta": {
+            "note_id": "1604"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 0,
+                "end": 13,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 15,
+                "end": 17,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 27,
+                "end": 41,
+                "label": "HOSP"
+            },
+            {
+                "id": 3,
+                "start": 45,
+                "end": 65,
+                "label": "DATE"
+            },
+            {
+                "id": 4,
+                "start": 79,
+                "end": 86,
+                "label": "ID"
+            },
+            {
+                "id": 5,
+                "start": 102,
+                "end": 112,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Thimila Dilshan was treated at Maplewood Medical Center on February 26th, 2035. phone number: 0573227685. Patient ID: M-2385.",
+        "meta": {
+            "note_id": "1716"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 0,
+                "end": 15,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 31,
+                "end": 55,
+                "label": "HOSP"
+            },
+            {
+                "id": 2,
+                "start": 59,
+                "end": 78,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 94,
+                "end": 104,
+                "label": "PHONE"
+            },
+            {
+                "id": 4,
+                "start": 118,
+                "end": 124,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "   BLOOD TEST REPORT\n\nPatient Details:\nName:           John Doe\nAge:            45 years\nGender:         Male\nPatient ID:     P-894\nDOB:            January 1, 1978\nTest Date:      December 7, 2024\n\nConsulting Physician: Dr. Jane Smith\nLab Technician:      Emily White\n\n---------------------------------------------------------\nTEST RESULTS\n---------------------------------------------------------\nComplete Blood Count (CBC)\n---------------------------------------------------------\n- White Blood Cells (WBC):           6.1 K/uL   (Normal: 4.5-11.0 K/uL)\n- Red Blood Cells (RBC):             4.85 M/uL  (Normal: 4.7-6.1 M/uL)\n- Hemoglobin (Hgb):                  13.8 g/dL  (Normal: 13.8-17.2 g/dL)\n- Hematocrit (Hct):                  41.8%      (Normal: 40.7-50.3%)\n- Platelets:                         298 K/uL   (Normal: 150-450 K/uL)\n\nLipid Profile\n---------------------------------------------------------\n- Total Cholesterol:                 188 mg/dL  (Desirable: <200 mg/dL)\n- HDL (High-Density Lipoprotein):    60 mg/dL   (Normal: >40 mg/dL)\n- LDL (Low-Density Lipoprotein):     110 mg/dL  (Optimal: <100 mg/dL)\n- Triglycerides:                     140 mg/dL  (Normal: <150 mg/dL)\n\nLiver Function Tests\n---------------------------------------------------------\n- Alanine Aminotransferase (ALT):    29 U/L     (Normal: 7-56 U/L)\n- Aspartate Aminotransferase (AST):  35 U/L     (Normal: 10-40 U/L)\n- Alkaline Phosphatase (ALP):        90 U/L     (Normal: 40-129 U/L)\n- Bilirubin, Total:                  1.2 mg/dL  (Normal: 0.1-1.2 mg/dL)\n\nComments:\n\nAll values are within the normal range. No abnormalities detected.",
+        "meta": {
+            "note_id": "3001"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 55,
+                "end": 63,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 80,
+                "end": 82,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 126,
+                "end": 131,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 148,
+                "end": 163,
+                "label": "DATE"
+            },
+            {
+                "id": 4,
+                "start": 180,
+                "end": 196,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 220,
+                "end": 234,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 256,
+                "end": 267,
+                "label": "STAFF"
+            }
+        ]
+    },
+    {
+        "text": "Blood sugar levels above 16.7 mmol/L (300 mg/dL) can cause fatal reactions. Ketones will be very high (a magnitude higher than when eating a very low carbohydrate diet) initiating ketoacidosis. The American Diabetes Association recommends seeing a doctor if blood glucose reaches 13.3 mmol/L (240 mg/dL), and it is recommended to seek emergency treatment at 15 mmol/L (270 mg/dL) blood glucose if Ketones are present. The most common cause of hyperglycemia is diabetes. When diabetes is the cause, physicians typically recommend an anti-diabetic medication as treatment. From the perspective of the majority of patients, treatment with an old, well-understood diabetes drug such as metformin will be the safest, most effective, least expensive, and most comfortable route to managing the condition. Treatment will vary for the distinct forms of Diabetes and can differ from person to person based on how they are reacting to treatment. Diet changes and exercise implementation may also be part of a treatment plan for diabetes.",
+        "meta": {
+            "note_id": "3002"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 198,
+                "end": 227,
+                "label": "PATORG"
+            }
+        ]
+    },
+    {
+        "text": "Fasting blood sugar\nA level below 5.6 mmol/L (100 mg/dL) 10\u201316 hours without eating is normal. 5.6\u20136 mmol/L (100\u2013109 mg/dL) may indicate prediabetes and oral glucose tolerance test (OGTT) should be offered to high-risk individuals (old people, those with high blood pressure etc.). 6.1\u20136.9 mmol/L (110\u2013125 mg/dL) means OGTT should be offered even if other indicators of diabetes are not present. 7 mmol/L (126 mg/dL) and above indicates diabetes and the fasting test should be repeated.",
+        "meta": {
+            "note_id": "3003"
+        },
+        "spans": []
+    },
+    {
+        "text": "A headache, also known as cephalalgia, is the symptom of pain in the face, head, or neck. It can occur as a migraine, tension-type headache, or cluster headache. There is an increased risk of depression in those with severe headaches.",
+        "meta": {
+            "note_id": "3004"
+        },
+        "spans": []
+    },
+    {
+        "text": "Cardiac Cephalgia in Heart Attack\nCardiac cephalgia is a rare type of headache occurring during myocardial infarction, characterized by sudden, severe head pain that typically develops during or immediately following a heart attack. The pain is usually located in the occipital or frontal regions and can be accompanied by other cardiac symptoms like chest pain, shortness of breath, or radiating arm pain. This specific headache type is considered a potential warning sign of cardiac distress and requires immediate medical attention to prevent potentially life-threatening complications.",
+        "meta": {
+            "note_id": "3005"
+        },
+        "spans": []
+    },
+    {
+        "text": "Laboratory Report\nPatient Name: Thilina Gamage\nPatient ID: 24\nDate of Birth: January 15, 1980\nReport ID: LAB6789\nPhysician Name: Dr. Supun Kulathunga\nDate of Collection: March 20, 2024\nDate of Report: March 22, 2024\n\nTest Results\nTest\tResult\tReference Range\tUnits\tComments\nComplete Blood Count (CBC)\t\t\t\t\nWhite Blood Cell (WBC)\t7.2\t4.0 - 11.0\tx10^9/L\tNormal\nRed Blood Cell (RBC)\t4.8\t4.5 - 5.9\tx10^12/L\tNormal\nHemoglobin (Hgb)\t14.5\t13.0 - 17.0\tg/dL\tNormal\nPlatelet Count\t250\t150 - 400\tx10^9/L\tNormal\nBasic Metabolic Panel (BMP)\t\t\t\t\nGlucose\t98\t70 - 99\tmg/dL\tNormal fasting glucose\nSodium (Na)\t140\t135 - 145\tmmol/L\tNormal\nPotassium (K)\t4.0\t3.5 - 5.0\tmmol/L\tNormal\nCalcium (Ca)\t9.2\t8.5 - 10.5\tmg/dL\tNormal\nLipid Profile\t\t\t\t\nTotal Cholesterol\t190\t<200\tmg/dL\tDesirable level\nHDL Cholesterol\t55\t>40\tmg/dL\tGood\nLDL Cholesterol\t120\t<130\tmg/dL\tBorderline high\nTriglycerides\t150\t<150\tmg/dL\tNormal",
+        "meta": {
+            "note_id": "3006"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 32,
+                "end": 46,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 59,
+                "end": 61,
+                "label": "ID"
+            },
+            {
+                "id": 2,
+                "start": 77,
+                "end": 93,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 105,
+                "end": 112,
+                "label": "ID"
+            },
+            {
+                "id": 4,
+                "start": 129,
+                "end": 149,
+                "label": "STAFF"
+            },
+            {
+                "id": 5,
+                "start": 170,
+                "end": 184,
+                "label": "DATE"
+            },
+            {
+                "id": 6,
+                "start": 201,
+                "end": 215,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Prescription Report\nPatient Name: Sanjay Fernando\nPatient ID: 35\nDate of Birth: February 10, 1975\nReport ID: RX12345\nPhysician Name: Dr. Saman Perera\nDate of Prescription: Feb 17, 2022\n\nPrescription Details\nMedication Name\tDosage\tFrequency\tDuration\tInstructions\nMetformin\t500 mg\tTwice daily (BID)\t30 days\tTake with meals\nAtorvastatin\t10 mg\tOnce daily at bedtime\t60 days\tSwallow whole; do not crush or chew\nLisinopril\t20 mg\tOnce daily (AM)\t30 days\tTake at the same time each morning\nParacetamol\t500 mg\tEvery 6 hours as needed\tAs required\tDo not exceed 4 doses in 24 hours\nAdditional Notes\nFollow-up Appointment: Schedule a follow-up visit in 30 days.\nAllergies: No known allergies reported.\nRefills: Metformin - 1 refill, Atorvastatin - No refills, Lisinopril - 1 refill, Paracetamol - As needed.\nContact Information\nPrescribing Physician:\nDr. Michael Johnson\nHealthCare Clinic\nContact: (+94) 706543210",
+        "meta": {
+            "note_id": "3007"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 34,
+                "end": 49,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 62,
+                "end": 64,
+                "label": "ID"
+            },
+            {
+                "id": 2,
+                "start": 80,
+                "end": 97,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 109,
+                "end": 116,
+                "label": "ID"
+            },
+            {
+                "id": 4,
+                "start": 133,
+                "end": 149,
+                "label": "STAFF"
+            },
+            {
+                "id": 5,
+                "start": 172,
+                "end": 184,
+                "label": "DATE"
+            },
+            {
+                "id": 6,
+                "start": 859,
+                "end": 876,
+                "label": "HOSP"
+            },
+            {
+                "id": 7,
+                "start": 886,
+                "end": 901,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Immunization Report\nPatient Name: Sandamali Herath\nPatient ID: 6269540V\nDate of Birth: March 15, 2010\nReport ID: IMMU7890\nPhysician Name: Dr.Hemal Senanayake\nDate of Report: April 10, 2024\n\nImmunization Record\nVaccine Name\tDate Administered\tDose\tSite of Administration\tAdministered By\nHepatitis B\tJanuary 20, 2021\t0.5 mL\tLeft Deltoid\tNurse Kamala Selvaraj\nInfluenza (Flu)\tOctober 5, 2023\t0.5 mL\tRight Arm\tNurse Nuthara Pathirana\nMeasles-Mumps-Rubella\tApril 15, 2021\t0.5 mL\tLeft Thigh\tDr.Hemal Senanayake\nTetanus (Tdap)\tJune 10, 2022\t0.5 mL\tLeft Deltoid\tNurse Kamala Selvaraj\nCOVID-19 (Pfizer)\tMay 12, 2023\t0.3 mL\tRight Deltoid\tNurse Nuthara Pathirana\nNotes\nUpcoming Vaccines: HPV vaccine scheduled for June 2024.\nAdverse Reactions: None reported for any administered vaccines.\nClinic Information:\nKalubowila Main Hospital\nNo 1, Kalubowila Hospital, Kalubowila, Colombo\nContact: (+94)6281110123",
+        "meta": {
+            "note_id": "3008"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 34,
+                "end": 50,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 63,
+                "end": 71,
+                "label": "ID"
+            },
+            {
+                "id": 2,
+                "start": 87,
+                "end": 101,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 113,
+                "end": 121,
+                "label": "ID"
+            },
+            {
+                "id": 4,
+                "start": 138,
+                "end": 157,
+                "label": "STAFF"
+            },
+            {
+                "id": 5,
+                "start": 174,
+                "end": 188,
+                "label": "DATE"
+            },
+            {
+                "id": 6,
+                "start": 297,
+                "end": 313,
+                "label": "DATE"
+            },
+            {
+                "id": 7,
+                "start": 334,
+                "end": 355,
+                "label": "STAFF"
+            },
+            {
+                "id": 8,
+                "start": 372,
+                "end": 387,
+                "label": "DATE"
+            },
+            {
+                "id": 9,
+                "start": 405,
+                "end": 428,
+                "label": "STAFF"
+            },
+            {
+                "id": 10,
+                "start": 451,
+                "end": 465,
+                "label": "DATE"
+            },
+            {
+                "id": 11,
+                "start": 484,
+                "end": 503,
+                "label": "STAFF"
+            },
+            {
+                "id": 12,
+                "start": 519,
+                "end": 532,
+                "label": "DATE"
+            },
+            {
+                "id": 13,
+                "start": 553,
+                "end": 574,
+                "label": "STAFF"
+            },
+            {
+                "id": 14,
+                "start": 593,
+                "end": 605,
+                "label": "DATE"
+            },
+            {
+                "id": 15,
+                "start": 627,
+                "end": 650,
+                "label": "STAFF"
+            },
+            {
+                "id": 16,
+                "start": 702,
+                "end": 711,
+                "label": "DATE"
+            },
+            {
+                "id": 17,
+                "start": 797,
+                "end": 821,
+                "label": "HOSP"
+            },
+            {
+                "id": 18,
+                "start": 822,
+                "end": 868,
+                "label": "LOC"
+            },
+            {
+                "id": 19,
+                "start": 878,
+                "end": 893,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Assessment and Plan\n1.Chest Pain: Likely angina; scheduled for a stress test and referred to a cardiologist.\n2.Hypertension: Suboptimal control; increase Lisinopril to 40 mg daily.\n3.Hyperlipidemia: Continue Atorvastatin and recheck lipid panel in 4 weeks.\n4.Smoking Cessation: Counseling and nicotine patch prescribed.\n5.Lifestyle Changes: Recommend a low-sodium, low-fat diet and regular exercise.",
+        "meta": {
+            "note_id": "3009"
+        },
+        "spans": []
+    },
+    {
+        "text": "Physical Examination\nVital Signs:\n\nBlood Pressure: 150/90 mmHg\nHeart Rate: 92 bpm\nRespiratory Rate: 20/min\nTemperature: 98.6\u00b0F\nGeneral Appearance:\n\nAlert, cooperative, mildly obese\nCardiovascular:\n\nRegular rhythm, no murmurs, S1 and S2 audible\nPeripheral pulses intact\nRespiratory:\n\nClear breath sounds bilaterally, no wheezes or crackles\nAbdomen:\n\nSoft, non-tender, no masses\nNeurological:\n\nCranial nerves intact, normal reflexes",
+        "meta": {
+            "note_id": "3010"
+        },
+        "spans": []
+    },
+    {
+        "text": "A number of vitamins have distinct vitamers of distinct biological potencies. Like the biological international unit, the IU for vitamins is also an arbitrary number that cannot be interconverted among different types of activities. By 1934, the World Health Organization had already defined the international units for vitamins A, B1, C, and D.\n\nUnlike biologic preparations, small molecules like vitamins can be very easily purified to yield products that are equivalent in potency. As a result, a simple mass conversion (as opposed to an assay) suffices to obtain the IU:\n\n1 IU Vitamin A = 0.3 \u03bcg retinol (~0.1 nmol) = 0.6 \u03bcg beta-carotene\n1 IU Vitamin D = 0.025 \u03bcg D2/D3 \u2248 0.65 pmol\n1 IU Vitamin E = 2\u20443 mg d-alpha-tocopherol = 0.90 mg of dl-alpha-tocopherol",
+        "meta": {
+            "note_id": "3011"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 236,
+                "end": 240,
+                "label": "DATE"
+            },
+            {
+                "id": 1,
+                "start": 246,
+                "end": 271,
+                "label": "PATORG"
+            }
+        ]
+    },
+    {
+        "text": "Modern drug discovery involves the identification of screening hits, medicinal chemistry, and optimization of those hits to increase the affinity, selectivity (to reduce the potential of side effects), efficacy/potency, metabolic stability (to increase the half-life), and oral bioavailability. Once a compound that fulfills all of these requirements has been identified, the process of drug development can continue. If successful, clinical trials are developed.\n\nModern drug discovery is thus usually a capital-intensive process that involves large investments by pharmaceutical industry corporations. Despite advances in technology and understanding of biological systems, drug discovery is still a lengthy, \"expensive, difficult, and inefficient process\" with low rate of new therapeutic discovery. In 2010, the research and development cost of each new molecular entity was about US$1.8 billion.",
+        "meta": {
+            "note_id": "3012"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 566,
+                "end": 602,
+                "label": "PATORG"
+            },
+            {
+                "id": 1,
+                "start": 806,
+                "end": 810,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Despite the rise of combinatorial chemistry as an integral part of lead discovery process, natural products still play a major role as starting material for drug discovery.A 2007 report found that of the 974 small molecule new chemical entities developed between 1981 and 2006, 63% were natural derived or semisynthetic derivatives of natural products. For certain therapy areas, such as antimicrobials, antineoplastics, antihypertensive and anti-inflammatory drugs, the numbers were higher.",
+        "meta": {
+            "note_id": "3013"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 174,
+                "end": 178,
+                "label": "DATE"
+            },
+            {
+                "id": 1,
+                "start": 263,
+                "end": 267,
+                "label": "DATE"
+            },
+            {
+                "id": 2,
+                "start": 272,
+                "end": 276,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Discharge Summary\nPatient Name: chaminda weerasinghe\nPatient ID: 182\nDate of Birth: May 15, 1990\nReport ID: DS78901\nAdmitting Physician: Dr. Sunil Mahinda \nConsulting Physician(s): Dr. Maheesh Ekanayake\nDate of Admission: 2021 December 15\nDate of Discharge: 2022 January 20\n\nAdmission Diagnosis\nAcute appendicitis\n\nDischarge Diagnosis\nAcute appendicitis treated with laparoscopic appendectomy\nProcedures Performed\n\nLaparoscopic appendectomy performed on 2021-12-16, \nHospital Course\nThe patient was admitted on 2021-12-15, with complaints of abdominal pain, nausea, and fever. A physical examination and imaging confirmed acute appendicitis. A laparoscopic appendectomy was successfully performed on 2021-12-16. The patient recovered well postoperatively with no complications. Pain was managed with oral analgesics, and the patient was mobilized within 24 hours. Routine labs, including a complete blood count, showed improvement. No infections or other complications were noted during the hospital stay.\n\nDischarge Medications\nAcetaminophen 500 mg: Take one tablet every 6 hours as needed for pain\nAmoxicillin 500 mg: Take one capsule every 8 hours for 7 days\n\nFollow-Up Instructions\nSchedule a follow-up appointment with Dr. Sunil Mahinda  in 2 weeks.\nMaintain a soft diet for the next few days and gradually return to a normal diet.\nKeep the surgical site clean and dry; remove dressing as instructed.\nMonitor for signs of infection, such as redness, swelling, or fever, and contact the physician if symptoms occur.\nCondition at Discharge\nThe patient is in stable condition, ambulatory, and tolerating oral intake well.\n\nDischarging Physician:\nDr. Sunil Mahinda \n\nFacility: Rathgama Hospital\nContact: 0112 395 378",
+        "meta": {
+            "note_id": "3014"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 32,
+                "end": 52,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 65,
+                "end": 68,
+                "label": "ID"
+            },
+            {
+                "id": 2,
+                "start": 84,
+                "end": 96,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 108,
+                "end": 115,
+                "label": "ID"
+            },
+            {
+                "id": 4,
+                "start": 137,
+                "end": 155,
+                "label": "STAFF"
+            },
+            {
+                "id": 5,
+                "start": 181,
+                "end": 202,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 222,
+                "end": 238,
+                "label": "DATE"
+            },
+            {
+                "id": 7,
+                "start": 258,
+                "end": 273,
+                "label": "DATE"
+            },
+            {
+                "id": 8,
+                "start": 454,
+                "end": 464,
+                "label": "DATE"
+            },
+            {
+                "id": 9,
+                "start": 511,
+                "end": 521,
+                "label": "DATE"
+            },
+            {
+                "id": 10,
+                "start": 700,
+                "end": 710,
+                "label": "DATE"
+            },
+            {
+                "id": 11,
+                "start": 1224,
+                "end": 1241,
+                "label": "STAFF"
+            },
+            {
+                "id": 12,
+                "start": 1678,
+                "end": 1695,
+                "label": "HOSP"
+            },
+            {
+                "id": 13,
+                "start": 1705,
+                "end": 1717,
+                "label": "PHONE"
+            }
+        ]
     }
 ]
