@@ -2401,5 +2401,85 @@
                 "label": "PHONE"
             }
         ]
+    },
+    {
+        "text": "Assessment and Plan\n1.Chest Pain: Likely angina; scheduled for a stress test and referred to a cardiologist.\n2.Hypertension: Suboptimal control; increase Lisinopril to 40 mg daily.\n3.Hyperlipidemia: Continue Atorvastatin and recheck lipid panel in 4 weeks.\n4.Smoking Cessation: Counseling and nicotine patch prescribed.\n5.Lifestyle Changes: Recommend a low-sodium, low-fat diet and regular exercise.",
+        "meta": {
+            "note_id": "3009"
+        },
+        "spans": []
+    },
+    {
+        "text": "Physical Examination\nVital Signs:\n\nBlood Pressure: 150/90 mmHg\nHeart Rate: 92 bpm\nRespiratory Rate: 20/min\nTemperature: 98.6\u00b0F\nGeneral Appearance:\n\nAlert, cooperative, mildly obese\nCardiovascular:\n\nRegular rhythm, no murmurs, S1 and S2 audible\nPeripheral pulses intact\nRespiratory:\n\nClear breath sounds bilaterally, no wheezes or crackles\nAbdomen:\n\nSoft, non-tender, no masses\nNeurological:\n\nCranial nerves intact, normal reflexes",
+        "meta": {
+            "note_id": "3010"
+        },
+        "spans": []
+    },
+    {
+        "text": "A number of vitamins have distinct vitamers of distinct biological potencies. Like the biological international unit, the IU for vitamins is also an arbitrary number that cannot be interconverted among different types of activities. By 1934, the World Health Organization had already defined the international units for vitamins A, B1, C, and D.\n\nUnlike biologic preparations, small molecules like vitamins can be very easily purified to yield products that are equivalent in potency. As a result, a simple mass conversion (as opposed to an assay) suffices to obtain the IU:\n\n1 IU Vitamin A = 0.3 \u03bcg retinol (~0.1 nmol) = 0.6 \u03bcg beta-carotene\n1 IU Vitamin D = 0.025 \u03bcg D2/D3 \u2248 0.65 pmol\n1 IU Vitamin E = 2\u20443 mg d-alpha-tocopherol = 0.90 mg of dl-alpha-tocopherol",
+        "meta": {
+            "note_id": "3011"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 236,
+                "end": 240,
+                "label": "DATE"
+            },
+            {
+                "id": 1,
+                "start": 246,
+                "end": 271,
+                "label": "PATORG"
+            }
+        ]
+    },
+    {
+        "text": "Modern drug discovery involves the identification of screening hits, medicinal chemistry, and optimization of those hits to increase the affinity, selectivity (to reduce the potential of side effects), efficacy/potency, metabolic stability (to increase the half-life), and oral bioavailability. Once a compound that fulfills all of these requirements has been identified, the process of drug development can continue. If successful, clinical trials are developed.\n\nModern drug discovery is thus usually a capital-intensive process that involves large investments by pharmaceutical industry corporations. Despite advances in technology and understanding of biological systems, drug discovery is still a lengthy, \"expensive, difficult, and inefficient process\" with low rate of new therapeutic discovery. In 2010, the research and development cost of each new molecular entity was about US$1.8 billion.",
+        "meta": {
+            "note_id": "3012"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 566,
+                "end": 602,
+                "label": "PATORG"
+            },
+            {
+                "id": 1,
+                "start": 806,
+                "end": 810,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Despite the rise of combinatorial chemistry as an integral part of lead discovery process, natural products still play a major role as starting material for drug discovery.A 2007 report found that of the 974 small molecule new chemical entities developed between 1981 and 2006, 63% were natural derived or semisynthetic derivatives of natural products. For certain therapy areas, such as antimicrobials, antineoplastics, antihypertensive and anti-inflammatory drugs, the numbers were higher.",
+        "meta": {
+            "note_id": "3013"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 174,
+                "end": 178,
+                "label": "DATE"
+            },
+            {
+                "id": 1,
+                "start": 263,
+                "end": 267,
+                "label": "DATE"
+            },
+            {
+                "id": 2,
+                "start": 272,
+                "end": 276,
+                "label": "DATE"
+            }
+        ]
     }
 ]
