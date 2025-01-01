@@ -1,0 +1,50 @@
+{
+        "text": "   BLOOD TEST REPORT\n\nPatient Details:\nName:           John Doe\nAge:            45 years\nGender:         Male\nPatient ID:     P-894\nDOB:            January 1, 1978\nTest Date:      December 7, 2024\n\nConsulting Physician: Dr. Jane Smith\nLab Technician:      Emily White\n\n---------------------------------------------------------\nTEST RESULTS\n---------------------------------------------------------\nComplete Blood Count (CBC)\n---------------------------------------------------------\n- White Blood Cells (WBC):           6.1 K/uL   (Normal: 4.5-11.0 K/uL)\n- Red Blood Cells (RBC):             4.85 M/uL  (Normal: 4.7-6.1 M/uL)\n- Hemoglobin (Hgb):                  13.8 g/dL  (Normal: 13.8-17.2 g/dL)\n- Hematocrit (Hct):                  41.8%      (Normal: 40.7-50.3%)\n- Platelets:                         298 K/uL   (Normal: 150-450 K/uL)\n\nLipid Profile\n---------------------------------------------------------\n- Total Cholesterol:                 188 mg/dL  (Desirable: <200 mg/dL)\n- HDL (High-Density Lipoprotein):    60 mg/dL   (Normal: >40 mg/dL)\n- LDL (Low-Density Lipoprotein):     110 mg/dL  (Optimal: <100 mg/dL)\n- Triglycerides:                     140 mg/dL  (Normal: <150 mg/dL)\n\nLiver Function Tests\n---------------------------------------------------------\n- Alanine Aminotransferase (ALT):    29 U/L     (Normal: 7-56 U/L)\n- Aspartate Aminotransferase (AST):  35 U/L     (Normal: 10-40 U/L)\n- Alkaline Phosphatase (ALP):        90 U/L     (Normal: 40-129 U/L)\n- Bilirubin, Total:                  1.2 mg/dL  (Normal: 0.1-1.2 mg/dL)\n\nComments:\n\nAll values are within the normal range. No abnormalities detected.",
+        "meta": {
+            "note_id": "3001"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 55,
+                "end": 63,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 80,
+                "end": 82,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 126,
+                "end": 131,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 148,
+                "end": 163,
+                "label": "DATE"
+            },
+            {
+                "id": 4,
+                "start": 180,
+                "end": 196,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 220,
+                "end": 234,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 256,
+                "end": 267,
+                "label": "STAFF"
+            }
+        ]
+    }

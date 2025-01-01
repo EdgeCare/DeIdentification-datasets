@@ -121,7 +121,7 @@
                 "id": 1,
                 "start": 38,
                 "end": 44,
-                "label": "PATORG"
+                "label": "ORG"
             },
             {
                 "id": 2,
@@ -427,7 +427,7 @@
                 "id": 1,
                 "start": 54,
                 "end": 63,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ]
     },
@@ -543,7 +543,7 @@
                 "id": 0,
                 "start": 66,
                 "end": 88,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ]
     },
@@ -671,7 +671,7 @@
                 "id": 0,
                 "start": 11,
                 "end": 33,
-                "label": "PATORG"
+                "label": "ORG"
             },
             {
                 "id": 1,
@@ -1079,7 +1079,7 @@
                 "id": 0,
                 "start": 15,
                 "end": 36,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ]
     },
@@ -1263,7 +1263,7 @@
                 "id": 0,
                 "start": 21,
                 "end": 26,
-                "label": "PATORG"
+                "label": "ORG"
             },
             {
                 "id": 1,
@@ -1773,7 +1773,7 @@
                 "id": 0,
                 "start": 26,
                 "end": 29,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ]
     },
@@ -2143,7 +2143,7 @@
                 "id": 0,
                 "start": 198,
                 "end": 227,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ]
     },
@@ -2432,7 +2432,7 @@
                 "id": 1,
                 "start": 246,
                 "end": 271,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ]
     },
@@ -2446,7 +2446,7 @@
                 "id": 0,
                 "start": 566,
                 "end": 602,
-                "label": "PATORG"
+                "label": "ORG"
             },
             {
                 "id": 1,
