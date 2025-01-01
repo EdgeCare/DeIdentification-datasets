@@ -238,7 +238,7 @@
                 "id": 1,
                 "start": 49,
                 "end": 55,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ]
     },
@@ -394,7 +394,7 @@
                 "id": 1,
                 "start": 59,
                 "end": 65,
-                "label": "PATORG"
+                "label": "ORG"
             },
             {
                 "id": 2,
@@ -547,7 +547,7 @@
                 "id": 1,
                 "start": 52,
                 "end": 61,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ]
     },
@@ -808,7 +808,7 @@
                 "id": 3,
                 "start": 103,
                 "end": 109,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ]
     },
@@ -874,7 +874,7 @@
                 "id": 3,
                 "start": 110,
                 "end": 116,
-                "label": "PATORG"
+                "label": "ORG"
             },
             {
                 "id": 4,
@@ -1579,7 +1579,7 @@
                 "id": 1,
                 "start": 53,
                 "end": 60,
-                "label": "PATORG"
+                "label": "ORG"
             },
             {
                 "id": 2,
@@ -1633,7 +1633,7 @@
                 "id": 1,
                 "start": 30,
                 "end": 33,
-                "label": "PATORG"
+                "label": "ORG"
             },
             {
                 "id": 2,
@@ -1840,7 +1840,7 @@
                 "id": 1,
                 "start": 34,
                 "end": 41,
-                "label": "PATORG"
+                "label": "ORG"
             },
             {
                 "id": 2,
@@ -1873,7 +1873,7 @@
                 "id": 1,
                 "start": 79,
                 "end": 94,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ]
     },

@@ -112,10 +112,10 @@ output_file = "processed_texts.json"
 labeled_data_map = {
     "151": [
         ("Dr. Alice Green", "STAFF"),
-        ("neurology", "PATORG")
+        ("neurology", "ORG")
     ],
     "152": [
-        ("Global Tech Solutions", "PATORG")
+        ("Global Tech Solutions", "ORG")
     ],
     "153": [
         ("John Smith", "PATIENT"),
@@ -137,15 +137,15 @@ labeled_data_map = {
         ("April 2022", "DATE")
     ],
     "158": [
-        ("City Labs", "PATORG")
+        ("City Labs", "ORG")
     ],
     "159": [
         ("Mary Davis", "PATIENT"),
-        ("National Health Solutions", "PATORG")
+        ("National Health Solutions", "ORG")
     ],
     "160": [
         ("Dr. Henry Adams", "STAFF"),
-        ("back pain", "PATORG")
+        ("back pain", "ORG")
     ],
     "161": [
         ("mother", "PATIENT"),
@@ -166,10 +166,10 @@ labeled_data_map = {
     "165": [
         ("Hannah Smith", "PATIENT"),
         ("15 years old", "AGE"),
-        ("asthma", "PATORG")
+        ("asthma", "ORG")
     ],
     "166": [
-        ("Healthy Life Pharmacy", "PATORG")
+        ("Healthy Life Pharmacy", "ORG")
     ],
     "167": [
         ("San Francisco", "LOC"),
@@ -184,7 +184,7 @@ labeled_data_map = {
         ("123 Elm Street", "LOC")
     ],
     "170": [
-        ("Baker Solutions", "PATORG")
+        ("Baker Solutions", "ORG")
     ],
     "171": [
         ("Dr. Edward Clark", "STAFF"),
@@ -194,7 +194,7 @@ labeled_data_map = {
         ("dr.jane.doe@example.com", "EMAIL")
     ],
     "173": [
-        ("Stanford University", "PATORG"),
+        ("Stanford University", "ORG"),
         ("California", "LOC")
     ],
     "174": [
@@ -211,7 +211,7 @@ labeled_data_map = {
     "177": [
         ("Robert Lee", "PATIENT"),
         ("45 years old", "AGE"),
-        ("hypertension", "PATORG")
+        ("hypertension", "ORG")
     ],
     "178": [
         ("Dr. Michael Wilson", "STAFF"),
@@ -229,7 +229,7 @@ labeled_data_map = {
         ("Redwood Hospital", "HOSP")
     ],
     "182": [
-        ("Tech Innovations Inc.", "PATORG"),
+        ("Tech Innovations Inc.", "ORG"),
         ("last November", "DATE")
     ],
     "183": [
@@ -239,7 +239,7 @@ labeled_data_map = {
     ],
     "184": [
         ("Anita Sharma", "PATIENT"),
-        ("Blue Ridge Pharmacy", "PATORG")
+        ("Blue Ridge Pharmacy", "ORG")
     ],
     "185": [
         ("789 Pine Street", "LOC"),
@@ -255,7 +255,7 @@ labeled_data_map = {
     ],
     "188": [
         ("John Smith", "PATIENT"),
-        ("hypertension", "PATORG"),
+        ("hypertension", "ORG"),
         ("Dr. Alice Cooper", "STAFF")
     ],
     "189": [
@@ -280,7 +280,7 @@ labeled_data_map = {
         ("September 20th", "DATE")
     ],
     "194": [
-        ("Bright Solutions Pvt Ltd.", "PATORG"),
+        ("Bright Solutions Pvt Ltd.", "ORG"),
         ("Mumbai", "LOC")
     ],
     "195": [
