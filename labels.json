@@ -3,11 +3,12 @@
     "1": "PATIENT",
     "2": "STAFF",
     "3": "AGE",
-    "4": "DATE",
-    "5": "PHONE",
-    "6": "ID",
-    "7": "EMAIL",
-    "8": "LOC",
-    "9": "HOSP",
-    "10": "ORG"
+    "4": "BIRTHDATE",
+    "5": "DATE",
+    "6": "PHONE",
+    "7": "ID",
+    "8": "EMAIL",
+    "9": "LOC",
+    "10": "HOSP",
+    "11": "ORG"
 }
