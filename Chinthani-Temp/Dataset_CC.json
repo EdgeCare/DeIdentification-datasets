@@ -8173,5 +8173,1341 @@
                 "label": "AGE"
             }
         ]
+    },
+    {
+        "text": "Dr. Emily Carter, a neurologist at Mercy Hospital, treated Jane Doe, 45, for migraines on January 15, 2023. Contact: (123) 456-7890.",
+        "meta": {
+            "note_id": 4000
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 16,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 35,
+                "end": 49,
+                "label": "HOSP"
+            },
+            {
+                "id": "2",
+                "start": 59,
+                "end": 67,
+                "label": "PATIENT"
+            },
+            {
+                "id": "3",
+                "start": 69,
+                "end": 71,
+                "label": "AGE"
+            },
+            {
+                "id": "4",
+                "start": 90,
+                "end": 106,
+                "label": "DATE"
+            },
+            {
+                "id": "5",
+                "start": 117,
+                "end": 131,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "The prescription for John Smith, Patient ID 56789, was emailed to him at john.smith@gmail.com after his visit to St. Mary's Medical Center.",
+        "meta": {
+            "note_id": 4001
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 21,
+                "end": 31,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 44,
+                "end": 49,
+                "label": "ID"
+            },
+            {
+                "id": "2",
+                "start": 73,
+                "end": 93,
+                "label": "EMAIL"
+            },
+            {
+                "id": "3",
+                "start": 113,
+                "end": 138,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "At 12:30 p.m., Dr. Lisa Brown performed surgery on Michael Johnson, aged 60, at City General Hospital on March 3, 2021.",
+        "meta": {
+            "note_id": 4002
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 15,
+                "end": 29,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 51,
+                "end": 66,
+                "label": "PATIENT"
+            },
+            {
+                "id": "2",
+                "start": 73,
+                "end": 75,
+                "label": "AGE"
+            },
+            {
+                "id": "3",
+                "start": 80,
+                "end": 101,
+                "label": "HOSP"
+            },
+            {
+                "id": "4",
+                "start": 105,
+                "end": 118,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The lab results of patient Emma Wilson, ID MRN789123, were sent to her on April 25, 2022. She resides in Boston, Massachusetts.",
+        "meta": {
+            "note_id": 4003
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 27,
+                "end": 38,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 43,
+                "end": 52,
+                "label": "ID"
+            },
+            {
+                "id": "2",
+                "start": 74,
+                "end": 88,
+                "label": "DATE"
+            },
+            {
+                "id": "3",
+                "start": 105,
+                "end": 126,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Contact Dr. Sarah White at support@hospital.org to discuss the 2024 health seminar for patients recovering from orthopedic surgery.",
+        "meta": {
+            "note_id": 4004
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 23,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 27,
+                "end": 47,
+                "label": "EMAIL"
+            },
+            {
+                "id": "2",
+                "start": 63,
+                "end": 67,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Nurse James Anderson called (555) 789-1234 to schedule an appointment for patient Alice Green, DOB 10/05/1987, at Riverside Hospital.",
+        "meta": {
+            "note_id": 4005
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 20,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 28,
+                "end": 42,
+                "label": "PHONE"
+            },
+            {
+                "id": "2",
+                "start": 82,
+                "end": 93,
+                "label": "PATIENT"
+            },
+            {
+                "id": "3",
+                "start": 99,
+                "end": 109,
+                "label": "BIRTHDATE"
+            },
+            {
+                "id": "4",
+                "start": 114,
+                "end": 132,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "The patient was discharged from Mercy Hospital on 12/15/2022 with instructions emailed to them at alice.green@mail.com.",
+        "meta": {
+            "note_id": 4006
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 32,
+                "end": 46,
+                "label": "HOSP"
+            },
+            {
+                "id": "1",
+                "start": 50,
+                "end": 60,
+                "label": "DATE"
+            },
+            {
+                "id": "2",
+                "start": 98,
+                "end": 118,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Michael King examined patient ID 987654 at Hope Medical Center and recommended further tests to be completed by March 15, 2023.",
+        "meta": {
+            "note_id": 4007
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 16,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 37,
+                "end": 43,
+                "label": "ID"
+            },
+            {
+                "id": "2",
+                "start": 47,
+                "end": 66,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 116,
+                "end": 130,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The emergency contact for Jane Doe is (800) 555-4321. She is being monitored for high blood pressure at St. Luke's Medical Center.",
+        "meta": {
+            "note_id": 4008
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 26,
+                "end": 34,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 38,
+                "end": 52,
+                "label": "PHONE"
+            },
+            {
+                "id": "2",
+                "start": 104,
+                "end": 129,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "A 55-year-old male presented with chest pain at City Hospital. His follow-up with Dr. Emily Scott is on January 30, 2023.",
+        "meta": {
+            "note_id": 4009
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 48,
+                "end": 61,
+                "label": "HOSP"
+            },
+            {
+                "id": "1",
+                "start": 2,
+                "end": 4,
+                "label": "AGE"
+            },
+            {
+                "id": "2",
+                "start": 82,
+                "end": 97,
+                "label": "STAFF"
+            },
+            {
+                "id": "3",
+                "start": 104,
+                "end": 120,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Emma Johnson, a member of the Diabetes Support Network, visited Dr. Alan Smith at General Hospital on February 15, 2023.",
+        "meta": {
+            "note_id": 4010
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 12,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 30,
+                "end": 54,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 64,
+                "end": 78,
+                "label": "STAFF"
+            },
+            {
+                "id": "3",
+                "start": 82,
+                "end": 98,
+                "label": "HOSP"
+            },
+            {
+                "id": "4",
+                "start": 102,
+                "end": 119,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The patient with ID MRN567890 requested an appointment with Dr. Wilson at Springfield Clinic, located at 123 Elm Street.",
+        "meta": {
+            "note_id": 4011
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 20,
+                "end": 29,
+                "label": "ID"
+            },
+            {
+                "id": "1",
+                "start": 60,
+                "end": 70,
+                "label": "STAFF"
+            },
+            {
+                "id": "2",
+                "start": 74,
+                "end": 92,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 105,
+                "end": 119,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "David Brown, born on 01/20/1980, reported persistent headaches. His medical ID is 123456, and he was seen by Dr. Emily Carter.",
+        "meta": {
+            "note_id": 4012
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 11,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 21,
+                "end": 31,
+                "label": "BIRTHDATE"
+            },
+            {
+                "id": "2",
+                "start": 82,
+                "end": 88,
+                "label": "ID"
+            },
+            {
+                "id": "3",
+                "start": 109,
+                "end": 125,
+                "label": "STAFF"
+            }
+        ]
+    },
+    {
+        "text": "Sarah Lee received treatment at Hope Clinic, 456 Oak Avenue, for her condition on 11/22/2022. Contact: sarah.lee@mail.com.",
+        "meta": {
+            "note_id": 4013
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 9,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 32,
+                "end": 43,
+                "label": "HOSP"
+            },
+            {
+                "id": "2",
+                "start": 45,
+                "end": 59,
+                "label": "LOC"
+            },
+            {
+                "id": "3",
+                "start": 82,
+                "end": 92,
+                "label": "DATE"
+            },
+            {
+                "id": "4",
+                "start": 103,
+                "end": 121,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Patient Amy White contacted the Heart Health Support Group after her discharge from Central Hospital on 10/30/2023.",
+        "meta": {
+            "note_id": 4014
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 17,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 32,
+                "end": 58,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 84,
+                "end": 100,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 104,
+                "end": 114,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The staff at Massachusetts General Hospital called (789) 456-1230 to inform Emily Green about her test results from 01/12/2023.",
+        "meta": {
+            "note_id": 4015
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 13,
+                "end": 43,
+                "label": "HOSP"
+            },
+            {
+                "id": "1",
+                "start": 51,
+                "end": 65,
+                "label": "PHONE"
+            },
+            {
+                "id": "2",
+                "start": 76,
+                "end": 87,
+                "label": "PATIENT"
+            },
+            {
+                "id": "3",
+                "start": 116,
+                "end": 126,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Call Dr. James Anderson at (987) 654-3210 regarding Michael Johnson's appointment scheduled for February 28, 2024.",
+        "meta": {
+            "note_id": 4016
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 5,
+                "end": 23,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 27,
+                "end": 41,
+                "label": "PHONE"
+            },
+            {
+                "id": "2",
+                "start": 52,
+                "end": 67,
+                "label": "PATIENT"
+            },
+            {
+                "id": "3",
+                "start": 96,
+                "end": 113,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Patient record MRN456789 includes an email to alex.smith@gmail.com about his visit to St. Luke's Medical Center on 09/15/2022.",
+        "meta": {
+            "note_id": 4017
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 15,
+                "end": 24,
+                "label": "ID"
+            },
+            {
+                "id": "1",
+                "start": 46,
+                "end": 66,
+                "label": "EMAIL"
+            },
+            {
+                "id": "2",
+                "start": 86,
+                "end": 111,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 115,
+                "end": 125,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Sarah Brown attended a seminar organized by the Heart Health Initiative on April 5, 2023, to discuss patient care strategies.",
+        "meta": {
+            "note_id": 4018
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 15,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 52,
+                "end": 75,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 79,
+                "end": 92,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Emma Carter, aged 38, was treated for asthma at Mercy Clinic. Her follow-up with Dr. Lisa Brown is set for February 20, 2024.",
+        "meta": {
+            "note_id": 4019
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 11,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 18,
+                "end": 20,
+                "label": "AGE"
+            },
+            {
+                "id": "2",
+                "start": 48,
+                "end": 60,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 81,
+                "end": 95,
+                "label": "STAFF"
+            },
+            {
+                "id": "4",
+                "start": 107,
+                "end": 124,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Mark Wilson at General Hospital performed a critical surgery on Mary Lee, 52, on November 2, 2023. Contact her at mary.lee@example.com.",
+        "meta": {
+            "note_id": 4020
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 15,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 19,
+                "end": 35,
+                "label": "HOSP"
+            },
+            {
+                "id": "2",
+                "start": 68,
+                "end": 76,
+                "label": "PATIENT"
+            },
+            {
+                "id": "3",
+                "start": 78,
+                "end": 80,
+                "label": "AGE"
+            },
+            {
+                "id": "4",
+                "start": 85,
+                "end": 101,
+                "label": "DATE"
+            },
+            {
+                "id": "5",
+                "start": 118,
+                "end": 138,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "A 47-year-old male, Alex Green, visited City Clinic for a persistent cough. His medical ID is MRN123987.",
+        "meta": {
+            "note_id": 4021
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 2,
+                "end": 4,
+                "label": "AGE"
+            },
+            {
+                "id": "1",
+                "start": 20,
+                "end": 30,
+                "label": "PATIENT"
+            },
+            {
+                "id": "2",
+                "start": 40,
+                "end": 51,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 94,
+                "end": 103,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "Call Nurse Jessica White at (555) 678-9123 to confirm the details of Emma Carter's discharge from Mercy Hospital on 03/22/2023.",
+        "meta": {
+            "note_id": 4022
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 5,
+                "end": 24,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 28,
+                "end": 42,
+                "label": "PHONE"
+            },
+            {
+                "id": "2",
+                "start": 69,
+                "end": 80,
+                "label": "PATIENT"
+            },
+            {
+                "id": "3",
+                "start": 98,
+                "end": 112,
+                "label": "HOSP"
+            },
+            {
+                "id": "4",
+                "start": 116,
+                "end": 126,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The test results for Michael Brown were sent to mike.brown@gmail.com after his consultation at Hope Medical Center.",
+        "meta": {
+            "note_id": 4023
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 21,
+                "end": 34,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 48,
+                "end": 68,
+                "label": "EMAIL"
+            },
+            {
+                "id": "2",
+                "start": 95,
+                "end": 114,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Susan Miller will attend the Heart Health Awareness event organized by Red Cross on February 14, 2024, in Springfield.",
+        "meta": {
+            "note_id": 4024
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 16,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 75,
+                "end": 84,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 88,
+                "end": 105,
+                "label": "DATE"
+            },
+            {
+                "id": "3",
+                "start": 110,
+                "end": 121,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Patient ID 123456789, David Smith, is scheduled for a follow-up on April 15, 2024, at Springfield Hospital.",
+        "meta": {
+            "note_id": 4025
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 11,
+                "end": 20,
+                "label": "ID"
+            },
+            {
+                "id": "1",
+                "start": 22,
+                "end": 33,
+                "label": "PATIENT"
+            },
+            {
+                "id": "2",
+                "start": 67,
+                "end": 81,
+                "label": "DATE"
+            },
+            {
+                "id": "3",
+                "start": 86,
+                "end": 106,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Emma Johnson contacted the Cancer Survivors Network after being discharged from Massachusetts General Hospital on 09/30/2023.",
+        "meta": {
+            "note_id": 4026
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 12,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 27,
+                "end": 51,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 80,
+                "end": 110,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 114,
+                "end": 124,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The prescription for Jane Doe was sent to her email, jane.doe@healthmail.com, on December 10, 2023, from Riverside Clinic.",
+        "meta": {
+            "note_id": 4027
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 21,
+                "end": 29,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 53,
+                "end": 76,
+                "label": "EMAIL"
+            },
+            {
+                "id": "2",
+                "start": 81,
+                "end": 98,
+                "label": "DATE"
+            },
+            {
+                "id": "3",
+                "start": 105,
+                "end": 121,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Contact Dr. Michael Brown at michael.brown@hospital.org regarding the upcoming seminar for patients recovering from surgeries.",
+        "meta": {
+            "note_id": 4028
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 25,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 29,
+                "end": 55,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Alex Carter, aged 65, reported dizziness and visited Dr. Emily Scott at Mercy Hospital on January 12, 2023.",
+        "meta": {
+            "note_id": 4029
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 11,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 18,
+                "end": 20,
+                "label": "AGE"
+            },
+            {
+                "id": "2",
+                "start": 53,
+                "end": 68,
+                "label": "STAFF"
+            },
+            {
+                "id": "3",
+                "start": 72,
+                "end": 86,
+                "label": "HOSP"
+            },
+            {
+                "id": "4",
+                "start": 90,
+                "end": 106,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The medical staff at Hope Clinic emailed test results to sarah.jones@example.com after her visit on February 20, 2024.",
+        "meta": {
+            "note_id": 4030
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 21,
+                "end": 32,
+                "label": "HOSP"
+            },
+            {
+                "id": "1",
+                "start": 57,
+                "end": 80,
+                "label": "EMAIL"
+            },
+            {
+                "id": "2",
+                "start": 100,
+                "end": 117,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Nurse Rachel Adams contacted patient John Green at (789) 555-6789 to confirm his appointment at St. Mary's Medical Center.",
+        "meta": {
+            "note_id": 4031
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 18,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 37,
+                "end": 47,
+                "label": "PATIENT"
+            },
+            {
+                "id": "2",
+                "start": 51,
+                "end": 65,
+                "label": "PHONE"
+            },
+            {
+                "id": "3",
+                "start": 96,
+                "end": 121,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Alan White performed a routine check-up for patient ID 987456 at City Clinic on May 18, 2023.",
+        "meta": {
+            "note_id": 4032
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 14,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 59,
+                "end": 65,
+                "label": "ID"
+            },
+            {
+                "id": "2",
+                "start": 69,
+                "end": 80,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 84,
+                "end": 96,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Emma White, a 50-year-old, was referred to the Diabetes Support Group after her visit to Riverside Hospital in March 2024.",
+        "meta": {
+            "note_id": 4033
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 10,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 14,
+                "end": 16,
+                "label": "AGE"
+            },
+            {
+                "id": "2",
+                "start": 47,
+                "end": 69,
+                "label": "ORG"
+            },
+            {
+                "id": "3",
+                "start": 89,
+                "end": 107,
+                "label": "HOSP"
+            },
+            {
+                "id": "4",
+                "start": 111,
+                "end": 121,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The appointment for Mary Lee is confirmed for 10:00 AM, 03/15/2024, at Springfield General Hospital. Contact: mary.lee@example.com.",
+        "meta": {
+            "note_id": 4034
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 20,
+                "end": 28,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 56,
+                "end": 66,
+                "label": "DATE"
+            },
+            {
+                "id": "2",
+                "start": 71,
+                "end": 99,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 110,
+                "end": 130,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Patient Alex Green, aged 40, visited City Hospital for chest pain. His medical ID is MRN654321, and his follow-up is in April 2024.",
+        "meta": {
+            "note_id": 4035
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 18,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 25,
+                "end": 27,
+                "label": "AGE"
+            },
+            {
+                "id": "2",
+                "start": 37,
+                "end": 50,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 85,
+                "end": 94,
+                "label": "ID"
+            },
+            {
+                "id": "4",
+                "start": 120,
+                "end": 130,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Sarah Johnson is scheduled to discuss patient recovery strategies at the Health and Wellness Conference on 10/25/2024.",
+        "meta": {
+            "note_id": 4036
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 17,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 111,
+                "end": 121,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The staff at Mercy Clinic emailed David Wilson's test results to david.wilson@mail.com after his visit on 07/15/2023.",
+        "meta": {
+            "note_id": 4037
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 13,
+                "end": 25,
+                "label": "HOSP"
+            },
+            {
+                "id": "1",
+                "start": 34,
+                "end": 46,
+                "label": "PATIENT"
+            },
+            {
+                "id": "2",
+                "start": 65,
+                "end": 86,
+                "label": "EMAIL"
+            },
+            {
+                "id": "3",
+                "start": 106,
+                "end": 116,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Patient record MRN345678 includes a follow-up for Emma Green on March 10, 2024, at City Medical Center.",
+        "meta": {
+            "note_id": 4038
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 15,
+                "end": 24,
+                "label": "ID"
+            },
+            {
+                "id": "1",
+                "start": 50,
+                "end": 60,
+                "label": "PATIENT"
+            },
+            {
+                "id": "2",
+                "start": 64,
+                "end": 78,
+                "label": "DATE"
+            },
+            {
+                "id": "3",
+                "start": 83,
+                "end": 102,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Call Dr. Rachel Brown at (987) 654-3210 to confirm the appointment for Michael Johnson, aged 60, at General Hospital.",
+        "meta": {
+            "note_id": 4039
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 5,
+                "end": 21,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 25,
+                "end": 39,
+                "label": "PHONE"
+            },
+            {
+                "id": "2",
+                "start": 71,
+                "end": 86,
+                "label": "PATIENT"
+            },
+            {
+                "id": "3",
+                "start": 93,
+                "end": 95,
+                "label": "AGE"
+            },
+            {
+                "id": "4",
+                "start": 100,
+                "end": 116,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Isabella Johnson, an 8-year-old girl, was admitted to Green Valley Pediatrics on March 3, 2023, for a routine health check.",
+        "meta": {
+            "note_id": 4040
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 16,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 21,
+                "end": 22,
+                "label": "AGE"
+            },
+            {
+                "id": "2",
+                "start": 54,
+                "end": 77,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 81,
+                "end": 94,
+                "label": "DATE"
+            }
+        ]
     }
 ]
