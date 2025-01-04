@@ -9509,5 +9509,4488 @@
                 "label": "DATE"
             }
         ]
+    },
+    {
+        "text": "The cardiologist Dr. Andrew Stone at Clearview Heart Clinic reviewed the case of 56-year-old John Thompson on February 5, 2024.",
+        "meta": {
+            "note_id": 4041
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 17,
+                "end": 33,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 37,
+                "end": 59,
+                "label": "HOSP"
+            },
+            {
+                "id": "2",
+                "start": 81,
+                "end": 83,
+                "label": "AGE"
+            },
+            {
+                "id": "3",
+                "start": 93,
+                "end": 106,
+                "label": "PATIENT"
+            },
+            {
+                "id": "4",
+                "start": 110,
+                "end": 126,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Emergency contact for Alice Brown, patient ID 890765, is her husband, reachable at (555) 123-4567.",
+        "meta": {
+            "note_id": 4042
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 22,
+                "end": 33,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 46,
+                "end": 52,
+                "label": "ID"
+            },
+            {
+                "id": "2",
+                "start": 83,
+                "end": 97,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Lily Harris emailed test results to sam.wilson@healthmail.org for a consultation conducted on April 20, 2023.",
+        "meta": {
+            "note_id": 4043
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 15,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 40,
+                "end": 65,
+                "label": "EMAIL"
+            },
+            {
+                "id": "2",
+                "start": 98,
+                "end": 112,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Jane Doe's file, MRN678901, indicates that she had a follow-up with Dr. Smith at Ridgewood Healthcare on 06/25/2023.",
+        "meta": {
+            "note_id": 4044
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 8,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 17,
+                "end": 26,
+                "label": "ID"
+            },
+            {
+                "id": "2",
+                "start": 68,
+                "end": 77,
+                "label": "STAFF"
+            },
+            {
+                "id": "3",
+                "start": 81,
+                "end": 101,
+                "label": "HOSP"
+            },
+            {
+                "id": "4",
+                "start": 105,
+                "end": 115,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The patient at Hilltop General Hospital on March 1, 2024, had been suffering from chronic pain and was seen by Dr. Emily Brooks.",
+        "meta": {
+            "note_id": 4045
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 15,
+                "end": 39,
+                "label": "HOSP"
+            },
+            {
+                "id": "1",
+                "start": 43,
+                "end": 56,
+                "label": "DATE"
+            },
+            {
+                "id": "2",
+                "start": 111,
+                "end": 127,
+                "label": "STAFF"
+            }
+        ]
+    },
+    {
+        "text": "Contact the front desk of Blossom Health Clinic for updates regarding Emma Gray's scheduled surgery on May 10, 2024.",
+        "meta": {
+            "note_id": 4046
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 26,
+                "end": 47,
+                "label": "HOSP"
+            },
+            {
+                "id": "1",
+                "start": 70,
+                "end": 79,
+                "label": "PATIENT"
+            },
+            {
+                "id": "2",
+                "start": 103,
+                "end": 115,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Email records confirm that Dr. Marcus Adams sent instructions to michael.brown@hospitalmail.com for his recovery plan.",
+        "meta": {
+            "note_id": 4047
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 27,
+                "end": 43,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 65,
+                "end": 95,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Andrew Parker, aged 67, visited Sunrise Medical Center on October 5, 2023, for symptoms of fatigue and chest discomfort.",
+        "meta": {
+            "note_id": 4048
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 13,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 20,
+                "end": 22,
+                "label": "AGE"
+            },
+            {
+                "id": "2",
+                "start": 32,
+                "end": 54,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 58,
+                "end": 73,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The test reports for Lucy Carter were generated on 07/15/2023 at Blue Ridge Diagnostics. Email: lucy.carter@example.com.",
+        "meta": {
+            "note_id": 4049
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 21,
+                "end": 32,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 51,
+                "end": 61,
+                "label": "DATE"
+            },
+            {
+                "id": "2",
+                "start": 65,
+                "end": 87,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 96,
+                "end": 119,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Clara James performed a complex procedure on Sarah Davis at North Hills Surgery Center on March 22, 2023.",
+        "meta": {
+            "note_id": 4050
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 15,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 49,
+                "end": 60,
+                "label": "PATIENT"
+            },
+            {
+                "id": "2",
+                "start": 64,
+                "end": 90,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 94,
+                "end": 108,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "A 33-year-old male, David Scott, was treated for respiratory issues at Valley View Hospital on September 14, 2023.",
+        "meta": {
+            "note_id": 4051
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 2,
+                "end": 4,
+                "label": "AGE"
+            },
+            {
+                "id": "1",
+                "start": 20,
+                "end": 31,
+                "label": "PATIENT"
+            },
+            {
+                "id": "2",
+                "start": 71,
+                "end": 91,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 95,
+                "end": 113,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Patient Jane Adams was discharged from Lakeview Hospital with a follow-up scheduled at her request for 04/01/2024.",
+        "meta": {
+            "note_id": 4052
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 18,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 39,
+                "end": 56,
+                "label": "HOSP"
+            },
+            {
+                "id": "2",
+                "start": 103,
+                "end": 113,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "During her appointment, Emma Wilson expressed concerns about the side effects of her medication. The visit occurred on March 12, 2023.",
+        "meta": {
+            "note_id": 4053
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 24,
+                "end": 35,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 119,
+                "end": 133,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Please call (800) 654-3210 to reach Dr. Alex White regarding the MRI scan results for patient Lisa Green.",
+        "meta": {
+            "note_id": 4054
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 12,
+                "end": 26,
+                "label": "PHONE"
+            },
+            {
+                "id": "1",
+                "start": 36,
+                "end": 50,
+                "label": "STAFF"
+            },
+            {
+                "id": "2",
+                "start": 94,
+                "end": 104,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "The pharmacist emailed instructions to john.taylor@healthmail.org for medications prescribed by Dr. Brown at Evergreen Clinic.",
+        "meta": {
+            "note_id": 4055
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 39,
+                "end": 65,
+                "label": "EMAIL"
+            },
+            {
+                "id": "1",
+                "start": 96,
+                "end": 105,
+                "label": "STAFF"
+            },
+            {
+                "id": "2",
+                "start": 109,
+                "end": 125,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Peter Roberts presented on best practices for post-surgery care at the National Health Conference on May 5, 2024.",
+        "meta": {
+            "note_id": 4056
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 17,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 75,
+                "end": 101,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 105,
+                "end": 116,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Sarah Brown's medical records, ID 567123, were transferred from Meadow Health Clinic to Central City Hospital on July 3, 2023.",
+        "meta": {
+            "note_id": 4057
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 11,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 34,
+                "end": 40,
+                "label": "ID"
+            },
+            {
+                "id": "2",
+                "start": 64,
+                "end": 84,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 88,
+                "end": 109,
+                "label": "HOSP"
+            },
+            {
+                "id": "4",
+                "start": 113,
+                "end": 125,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "At Sunnyvale Pediatrics, Dr. Laura Hill examined a 2-year-old patient for a routine vaccination on October 15, 2023.",
+        "meta": {
+            "note_id": 4058
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 3,
+                "end": 23,
+                "label": "HOSP"
+            },
+            {
+                "id": "1",
+                "start": 25,
+                "end": 39,
+                "label": "STAFF"
+            },
+            {
+                "id": "2",
+                "start": 51,
+                "end": 52,
+                "label": "AGE"
+            },
+            {
+                "id": "3",
+                "start": 99,
+                "end": 115,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Clara Stone was contacted via email (clara.stone@hospitalmail.org) to discuss diagnostic imaging results for Alex Hughes.",
+        "meta": {
+            "note_id": 4059
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 15,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 41,
+                "end": 69,
+                "label": "EMAIL"
+            },
+            {
+                "id": "2",
+                "start": 113,
+                "end": 124,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "The patient exhibited signs of tachycardia and was referred to Dr. Sophia White at Mountainview Cardiology on March 8, 2024.",
+        "meta": {
+            "note_id": 4060
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 63,
+                "end": 79,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 83,
+                "end": 106,
+                "label": "HOSP"
+            },
+            {
+                "id": "2",
+                "start": 110,
+                "end": 123,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Diagnostic imaging indicated a potential fracture in the left femur; Dr. Emily Green reviewed the case on June 12, 2023.",
+        "meta": {
+            "note_id": 4061
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 69,
+                "end": 84,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 106,
+                "end": 119,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "John Adams, MRN567890, was diagnosed with type 2 diabetes during his visit to Springfield Health Clinic on February 14, 2024.",
+        "meta": {
+            "note_id": 4062
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 10,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 12,
+                "end": 21,
+                "label": "ID"
+            },
+            {
+                "id": "2",
+                "start": 78,
+                "end": 103,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 107,
+                "end": 124,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The biopsy results for Sarah Taylor were emailed to her at sarah.taylor@health.com after her consultation on October 23, 2023.",
+        "meta": {
+            "note_id": 4063
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 23,
+                "end": 35,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 59,
+                "end": 82,
+                "label": "EMAIL"
+            },
+            {
+                "id": "2",
+                "start": 109,
+                "end": 125,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Emma Brown underwent a successful laparoscopic cholecystectomy at Lakeside Surgery Center on July 30, 2023.",
+        "meta": {
+            "note_id": 4064
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 10,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 66,
+                "end": 89,
+                "label": "HOSP"
+            },
+            {
+                "id": "2",
+                "start": 93,
+                "end": 106,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Michael Roberts prescribed an ACE inhibitor for hypertension management during David Green's visit on April 17, 2023.",
+        "meta": {
+            "note_id": 4065
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 19,
+                "label": "STAFF"
+            },
+            {
+                "id": "2",
+                "start": 83,
+                "end": 94,
+                "label": "PATIENT"
+            },
+            {
+                "id": "3",
+                "start": 106,
+                "end": 120,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The radiology report noted bilateral pleural effusions, and the patient was admitted to Northwood General Hospital for further care.",
+        "meta": {
+            "note_id": 4066
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 88,
+                "end": 114,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Lucy Parker, aged 45, presented with chronic lower back pain and underwent MRI imaging at Cedarwood Diagnostic Center.",
+        "meta": {
+            "note_id": 4067
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 11,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 18,
+                "end": 20,
+                "label": "AGE"
+            },
+            {
+                "id": "2",
+                "start": 90,
+                "end": 117,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Patient Emma White was treated for bacterial pneumonia at Maplewood Medical Center on December 5, 2023.",
+        "meta": {
+            "note_id": 4068
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 18,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 58,
+                "end": 82,
+                "label": "HOSP"
+            },
+            {
+                "id": "2",
+                "start": 86,
+                "end": 102,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The laboratory findings indicated elevated CRP levels, suggesting acute inflammation. The report was reviewed on November 1, 2023.",
+        "meta": {
+            "note_id": 4069
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 113,
+                "end": 129,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Alan Hughes requested an echocardiogram for patient Lisa Carter to assess left ventricular function on March 20, 2024.",
+        "meta": {
+            "note_id": 4070
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 15,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 56,
+                "end": 67,
+                "label": "PATIENT"
+            },
+            {
+                "id": "2",
+                "start": 107,
+                "end": 121,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The surgical notes for Mary Adams indicated no complications during her appendectomy performed on February 10, 2024.",
+        "meta": {
+            "note_id": 4071
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 23,
+                "end": 33,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 98,
+                "end": 115,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Patient John Taylor was advised to undergo spirometry testing at Ridgefield Pulmonary Clinic for suspected COPD.",
+        "meta": {
+            "note_id": 4072
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 19,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 65,
+                "end": 92,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Emma Brown's pathology report confirmed a benign tumor, and the results were sent to emma.brown@hospitalmail.com.",
+        "meta": {
+            "note_id": 4073
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 10,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 85,
+                "end": 112,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "The discharge summary for Michael Lewis included instructions for wound care following his knee replacement surgery.",
+        "meta": {
+            "note_id": 4074
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 26,
+                "end": 39,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "A 72-year-old male presented with atrial fibrillation and was started on anticoagulant therapy by Dr. Lisa Martin.",
+        "meta": {
+            "note_id": 4075
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 2,
+                "end": 4,
+                "label": "AGE"
+            },
+            {
+                "id": "1",
+                "start": 98,
+                "end": 113,
+                "label": "STAFF"
+            }
+        ]
+    },
+    {
+        "text": "Dr. James Harris performed a coronary angiography to evaluate atherosclerotic plaque in a patient aged 60.",
+        "meta": {
+            "note_id": 4076
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 16,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 103,
+                "end": 105,
+                "label": "AGE"
+            }
+        ]
+    },
+    {
+        "text": "The patient Sarah Green experienced post-operative nausea following her laparotomy at Woodland Surgery Center.",
+        "meta": {
+            "note_id": 4077
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 12,
+                "end": 23,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 86,
+                "end": 109,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Lisa White's blood tests showed elevated ALT and AST levels, indicative of possible hepatic dysfunction.",
+        "meta": {
+            "note_id": 4078
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 10,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Rachel Adams recommended an oral glucose tolerance test for David Parker to confirm a prediabetes diagnosis.",
+        "meta": {
+            "note_id": 4079
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 16,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 64,
+                "end": 76,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Patient Laura Hughes, ID MRN234567, was admitted to Brightwood Hospital for severe abdominal pain on July 15, 2023.",
+        "meta": {
+            "note_id": 4080
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 20,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 25,
+                "end": 34,
+                "label": "ID"
+            },
+            {
+                "id": "2",
+                "start": 52,
+                "end": 71,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 101,
+                "end": 114,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Andrew Brown prescribed a beta-blocker to manage hypertension during Sarah White's consultation on March 12, 2024.",
+        "meta": {
+            "note_id": 4081
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 16,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 73,
+                "end": 84,
+                "label": "PATIENT"
+            },
+            {
+                "id": "2",
+                "start": 103,
+                "end": 117,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The patient's histology report confirmed malignant cells, and follow-up chemotherapy was scheduled at Pinecrest Oncology Center.",
+        "meta": {
+            "note_id": 4082
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 102,
+                "end": 127,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Michael Taylor, aged 40, presented with acute appendicitis and underwent emergency surgery at Oakview Medical Center.",
+        "meta": {
+            "note_id": 4083
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 14,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 21,
+                "end": 23,
+                "label": "AGE"
+            },
+            {
+                "id": "2",
+                "start": 94,
+                "end": 116,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "The discharge summary for Emma Green highlighted the need for physiotherapy following her shoulder arthroscopy on May 1, 2023.",
+        "meta": {
+            "note_id": 4084
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 26,
+                "end": 36,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 114,
+                "end": 125,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "A CT scan revealed a pulmonary embolism, and the patient was referred to Dr. Lisa Carter at Valley Chest Clinic.",
+        "meta": {
+            "note_id": 4085
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 73,
+                "end": 88,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 92,
+                "end": 111,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Diagnostic imaging at Redwood Imaging Center showed degenerative changes in the lumbar spine of patient John Davis, 62.",
+        "meta": {
+            "note_id": 4086
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 22,
+                "end": 44,
+                "label": "HOSP"
+            },
+            {
+                "id": "1",
+                "start": 104,
+                "end": 114,
+                "label": "PATIENT"
+            },
+            {
+                "id": "2",
+                "start": 116,
+                "end": 118,
+                "label": "AGE"
+            }
+        ]
+    },
+    {
+        "text": "Lucy White, MRN678902, received intravenous antibiotics for a kidney infection at Clearwater Health Center on February 20, 2024.",
+        "meta": {
+            "note_id": 4087
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 10,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 12,
+                "end": 21,
+                "label": "ID"
+            },
+            {
+                "id": "2",
+                "start": 82,
+                "end": 106,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 110,
+                "end": 127,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The patient's blood tests revealed elevated HbA1c levels, suggesting poorly controlled diabetes. Results reviewed on June 14, 2023.",
+        "meta": {
+            "note_id": 4088
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 117,
+                "end": 130,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Peter Adams recommended a colonoscopy for Lisa Johnson to screen for polyps at Maple Hill Diagnostic Center.",
+        "meta": {
+            "note_id": 4089
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 15,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 46,
+                "end": 58,
+                "label": "PATIENT"
+            },
+            {
+                "id": "2",
+                "start": 83,
+                "end": 111,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Patient Emma Parker, 33, underwent an ultrasound-guided biopsy at Sunrise Diagnostic Clinic on April 30, 2023.",
+        "meta": {
+            "note_id": 4090
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 19,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 21,
+                "end": 23,
+                "label": "AGE"
+            },
+            {
+                "id": "2",
+                "start": 66,
+                "end": 91,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 95,
+                "end": 109,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The medical file for Alex Brown, ID MRN890321, included a referral to Dr. Sarah Miller at Woodland Endocrinology.",
+        "meta": {
+            "note_id": 4091
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 21,
+                "end": 31,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 36,
+                "end": 45,
+                "label": "ID"
+            },
+            {
+                "id": "2",
+                "start": 70,
+                "end": 86,
+                "label": "STAFF"
+            },
+            {
+                "id": "3",
+                "start": 90,
+                "end": 112,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Laura Green's electrocardiogram showed ST-segment elevation, and she was transferred to Ridgefield Cardiology on May 3, 2024.",
+        "meta": {
+            "note_id": 4092
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 11,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 88,
+                "end": 109,
+                "label": "HOSP"
+            },
+            {
+                "id": "2",
+                "start": 113,
+                "end": 124,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The patient's echocardiogram revealed moderate mitral regurgitation, prompting further evaluation by Dr. Michael Roberts.",
+        "meta": {
+            "note_id": 4093
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 101,
+                "end": 120,
+                "label": "STAFF"
+            }
+        ]
+    },
+    {
+        "text": "Emma Hughes's post-operative care notes emphasized the importance of anticoagulant therapy after her hip replacement surgery.",
+        "meta": {
+            "note_id": 4094
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 11,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "The radiologist reported a suspicious mass in the left breast on Lisa White's mammogram, taken on December 10, 2023.",
+        "meta": {
+            "note_id": 4095
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 65,
+                "end": 75,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 98,
+                "end": 115,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Alex Carter performed a thoracentesis to relieve pleural effusion in patient John Green at Pine Valley Clinic.",
+        "meta": {
+            "note_id": 4096
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 15,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 81,
+                "end": 91,
+                "label": "PATIENT"
+            },
+            {
+                "id": "2",
+                "start": 95,
+                "end": 113,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "A 45-year-old male presented with transient ischemic attack symptoms and was evaluated by Dr. Laura Adams at Blue Lake Hospital.",
+        "meta": {
+            "note_id": 4097
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 2,
+                "end": 4,
+                "label": "AGE"
+            },
+            {
+                "id": "1",
+                "start": 90,
+                "end": 105,
+                "label": "STAFF"
+            },
+            {
+                "id": "2",
+                "start": 109,
+                "end": 127,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Patient record MRN543219 indicated a positive ANA test for Sarah Parker, suggesting possible autoimmune disease.",
+        "meta": {
+            "note_id": 4098
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 15,
+                "end": 24,
+                "label": "ID"
+            },
+            {
+                "id": "1",
+                "start": 59,
+                "end": 71,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Michael Johnson underwent spirometry testing for asthma at the Fresh Air Pulmonary Center on March 21, 2024.",
+        "meta": {
+            "note_id": 4099
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 15,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 63,
+                "end": 89,
+                "label": "HOSP"
+            },
+            {
+                "id": "2",
+                "start": 93,
+                "end": 107,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "John Taylor booked a flight to Paris on March 10, 2024, using his email address john.taylor@mail.com.",
+        "meta": {
+            "note_id": 4100
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 11,
+                "label": "PATIENT"
+            },
+            { 
+                "id": "1",
+                "start": 31,
+                "end": 36,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 80,
+                "end": 100,
+                "label": "EMAIL"
+            },
+            {
+                "id": "3",
+                "start": 40,
+                "end": 54,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The customer service team at BlueTech Solutions can be reached at (123) 456-7890 for technical support.",
+        "meta": {
+            "note_id": 4101
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 29,
+                "end": 47,
+                "label": "ORG"
+            },
+            {
+                "id": "1",
+                "start": 66,
+                "end": 80,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Sarah Parker ordered a new laptop from TechWorld, with the delivery address 456 Elm Street, Springfield, IL.",
+        "meta": {
+            "note_id": 4102
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 12,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 39,
+                "end": 48,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 76,
+                "end": 107,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "The team meeting is scheduled for April 15, 2024, at 10:00 AM in the Oakwood Conference Room.",
+        "meta": {
+            "note_id": 4103
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 34,
+                "end": 48,
+                "label": "DATE"
+            },
+            {
+                "id": "1",
+                "start": 69,
+                "end": 92,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Michael Brown applied for a loan at Green Valley Bank using his customer ID 890765 and submitted required documents.",
+        "meta": {
+            "note_id": 4104
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 13,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 36,
+                "end": 53,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 76,
+                "end": 82,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "The event will take place at Central Park, New York City, on June 20, 2024, and is open to the public.",
+        "meta": {
+            "note_id": 4105
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 29,
+                "end": 56,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 61,
+                "end": 74,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Lisa Adams received an email confirmation for her subscription at lisa.adams@example.com on February 5, 2024.",
+        "meta": {
+            "note_id": 4106
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 10,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 66,
+                "end": 88,
+                "label": "EMAIL"
+            },
+            {
+                "id": "2",
+                "start": 92,
+                "end": 108,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The package tracking number 1234567890 indicates delivery to Alex White at 789 Pine Avenue, Seattle, WA.",
+        "meta": {
+            "note_id": 4107
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 61,
+                "end": 71,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 75,
+                "end": 103,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 28,
+                "end": 38,
+                "label": "ID"
+            }
+        ]
+    },
+    {
+        "text": "David Johnson uploaded his resume to CareerBuilder for a position in project management at Horizon Tech.",
+        "meta": {
+            "note_id": 4108
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 13,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 37,
+                "end": 50,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 91,
+                "end": 103,
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "The movie premiere of 'Stars of Tomorrow' will be held on July 15, 2024, at the Grand Opera House.",
+        "meta": {
+            "note_id": 4109
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 80,
+                "end": 97,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 58,
+                "end": 71,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Laura Brown's recent purchase at MegaMart includes order ID 543219, placed on March 12, 2024.",
+        "meta": {
+            "note_id": 4110
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 11,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 33,
+                "end": 41,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 60,
+                "end": 66,
+                "label": "ID"
+            },
+            {
+                "id": "3",
+                "start": 78,
+                "end": 92,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The concert tickets for Emma Green were purchased online and sent to emma.green@mail.com.",
+        "meta": {
+            "note_id": 4111
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 24,
+                "end": 34,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 69,
+                "end": 88,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "The software update is scheduled to roll out to all users by February 28, 2024, with improved security features.",
+        "meta": {
+            "note_id": 4112
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 61,
+                "end": 78,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Alex Carter reported a bug in the app using the support email support@techapp.com on January 10, 2024.",
+        "meta": {
+            "note_id": 4113
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 11,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 62,
+                "end": 81,
+                "label": "EMAIL"
+            },
+            {
+                "id": "2",
+                "start": 85,
+                "end": 101,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The company's quarterly earnings report will be published on May 3, 2024, by FinancePro Analysts.",
+        "meta": {
+            "note_id": 4114
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 77,
+                "end": 96,
+                "label": "ORG"
+            },
+            {
+                "id": "1",
+                "start": 61,
+                "end": 72,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Lucy Taylor reserved a table for two at the OceanView Restaurant for April 20, 2024, at 7:00 PM.",
+        "meta": {
+            "note_id": 4115
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 11,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 44,
+                "end": 64,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 69,
+                "end": 83,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The library membership for Sarah Davis, ID 345678, was renewed on June 1, 2023, via online payment.",
+        "meta": {
+            "note_id": 4116
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 27,
+                "end": 38,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 43,
+                "end": 49,
+                "label": "ID"
+            },
+            {
+                "id": "2",
+                "start": 66,
+                "end": 78,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Michael Roberts attended a workshop on digital marketing hosted by Creative Minds Academy on March 1, 2024.",
+        "meta": {
+            "note_id": 4117
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 15,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 67,
+                "end": 89,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 93,
+                "end": 106,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The new store location at 123 River Road, Boston, MA, will open on November 15, 2023.",
+        "meta": {
+            "note_id": 4118
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 26,
+                "end": 52,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 67,
+                "end": 84,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "James Anderson received a notification about his package delivery at james.anderson@example.com on January 25, 2024.",
+        "meta": {
+            "note_id": 4119
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 14,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 69,
+                "end": 95,
+                "label": "EMAIL"
+            },
+            {
+                "id": "2",
+                "start": 99,
+                "end": 115,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Sophia Harris purchased a new car from AutoMax Showroom and registered it at her address 678 Oak Lane, Denver, CO.",
+        "meta": {
+            "note_id": 4120
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 13,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 39,
+                "end": 55,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 89,
+                "end": 113,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "The annual tech conference will be held at the Innovation Center, 123 Tech Street, San Francisco, on August 12, 2024.",
+        "meta": {
+            "note_id": 4121
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 47,
+                "end": 64,
+                "label": "ORG"
+            },
+            {
+                "id": "1",
+                "start": 66,
+                "end": 96,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 101,
+                "end": 116,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "William Davis uploaded his portfolio to GraphicDesignPro on May 5, 2023, using his email william.davis@designpro.com.",
+        "meta": {
+            "note_id": 4122
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 13,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 40,
+                "end": 56,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 89,
+                "end": 116,
+                "label": "EMAIL"
+            },
+            {
+                "id": "3",
+                "start": 60,
+                "end": 71,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The new art exhibit, featuring local artists, opens at the City Gallery on April 15, 2024.",
+        "meta": {
+            "note_id": 4123
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 59,
+                "end": 71,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 75,
+                "end": 89,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Emma Wilson placed an online order for a kitchen appliance, with tracking ID 987654321, on February 14, 2024.",
+        "meta": {
+            "note_id": 4124
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 11,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 77,
+                "end": 86,
+                "label": "ID"
+            },
+            {
+                "id": "2",
+                "start": 91,
+                "end": 108,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The user survey for BrightApp was sent to users at support@brightapp.org on March 1, 2024.",
+        "meta": {
+            "note_id": 4125
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 20,
+                "end": 29,
+                "label": "ORG"
+            },
+            {
+                "id": "1",
+                "start": 51,
+                "end": 72,
+                "label": "EMAIL"
+            },
+            {
+                "id": "2",
+                "start": 76,
+                "end": 89,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "David Lee attended a seminar on personal finance at the Financial Education Center on June 20, 2024.",
+        "meta": {
+            "note_id": 4126
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 9,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 56,
+                "end": 82,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 86,
+                "end": 99,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Sophia Green's package was delivered to 789 Birchwood Road, Atlanta, GA, on July 10, 2023.",
+        "meta": {
+            "note_id": 4127
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 12,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 40,
+                "end": 71,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 76,
+                "end": 89,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The new community park at Riverbank Avenue will open to the public on May 22, 2024.",
+        "meta": {
+            "note_id": 4128
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 26,
+                "end": 42,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 70,
+                "end": 82,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "A notification was sent to olivia.white@mail.com regarding her upcoming subscription renewal on January 15, 2024.",
+        "meta": {
+            "note_id": 4129
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 27,
+                "end": 48,
+                "label": "EMAIL"
+            },
+            {
+                "id": "1",
+                "start": 96,
+                "end": 112,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Michael Adams's membership ID 456789 was renewed for another year at Club Fit on March 18, 2023.",
+        "meta": {
+            "note_id": 4130
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 13,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 30,
+                "end": 36,
+                "label": "ID"
+            },
+            {
+                "id": "2",
+                "start": 69,
+                "end": 77,
+                "label": "ORG"
+            },
+            {
+                "id": "3",
+                "start": 81,
+                "end": 95,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The latest book by Alex Carter, titled 'Journey Beyond', will be released on October 3, 2023.",
+        "meta": {
+            "note_id": 4131
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 19,
+                "end": 30,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 77,
+                "end": 92,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The IT support team resolved the issue reported by user James Parker at support@techresolve.com on April 5, 2024.",
+        "meta": {
+            "note_id": 4132
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 56,
+                "end": 68,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 72,
+                "end": 95,
+                "label": "EMAIL"
+            },
+            {
+                "id": "2",
+                "start": 99,
+                "end": 112,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Emma Taylor's reservation for a weekend getaway at Lakeside Resort is confirmed for May 10, 2024.",
+        "meta": {
+            "note_id": 4133
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 11,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 51,
+                "end": 66,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 84,
+                "end": 96,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "William Brown's new software license key 1234-5678-9012 was emailed to him on February 8, 2024.",
+        "meta": {
+            "note_id": 4134
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 13,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 41,
+                "end": 55,
+                "label": "ID"
+            },
+            {
+                "id": "2",
+                "start": 78,
+                "end": 94,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The charity fundraiser will take place at the Grand Ballroom, 456 Elm Street, Miami, FL, on June 30, 2024.",
+        "meta": {
+            "note_id": 4135
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 46,
+                "end": 87,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 92,
+                "end": 105,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Sophia Johnson signed up for a creative writing workshop at WriteRight Academy on September 12, 2023.",
+        "meta": {
+            "note_id": 4136
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 14,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 60,
+                "end": 78,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 82,
+                "end": 100,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The invoice for order ID 7890123 was sent to David Brown at david.brown@shopmail.com on March 25, 2023.",
+        "meta": {
+            "note_id": 4137
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 25,
+                "end": 32,
+                "label": "ID"
+            },
+            {
+                "id": "1",
+                "start": 45,
+                "end": 56,
+                "label": "PATIENT"
+            },
+            {
+                "id": "2",
+                "start": 60,
+                "end": 84,
+                "label": "EMAIL"
+            },
+            {
+                "id": "3",
+                "start": 88,
+                "end": 102,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The latest gadget from Tech Innovations will be available for pre-order on May 1, 2024.",
+        "meta": {
+            "note_id": 4138
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 23,
+                "end": 39,
+                "label": "ORG"
+            },
+            {
+                "id": "1",
+                "start": 75,
+                "end": 86,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Isabella Adams scheduled a meeting with her team at BrightWork Solutions for January 10, 2024, at 11:00 AM.",
+        "meta": {
+            "note_id": 4139
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 14,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 52,
+                "end": 72,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 77,
+                "end": 93,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Kamal Wickramasinghe registered his vehicle at 12 Temple Road, Colombo 07, and provided his contact number as +94 71 234 5678.",
+        "meta": {
+            "note_id": 4140
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 20,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 47,
+                "end": 73,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 110,
+                "end": 125,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Nirosha Jayawardene performed a cardiac surgery at Lanka General Hospital for a 65-year-old male patient on March 25, 2024.",
+        "meta": {
+            "note_id": 4141
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 23,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 55,
+                "end": 77,
+                "label": "HOSP"
+            },
+            {
+                "id": "2",
+                "start": 84,
+                "end": 86,
+                "label": "AGE"
+            },
+            {
+                "id": "3",
+                "start": 112,
+                "end": 126,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Amara Perera received a package at 45 Galle Road, Galle, and the delivery confirmation was sent to amara.perera@gmail.com.",
+        "meta": {
+            "note_id": 4142
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 12,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 35,
+                "end": 55,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 99,
+                "end": 121,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "The annual Buddhist ceremony at Kelaniya Temple is scheduled for April 14, 2024, with over 5,000 devotees expected to attend.",
+        "meta": {
+            "note_id": 4143
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 32,
+                "end": 47,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 65,
+                "end": 79,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Sanduni Weerasinghe booked her train tickets to Kandy via an online portal and received the details at +94 77 890 1234.",
+        "meta": {
+            "note_id": 4144
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 19,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 103,
+                "end": 118,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Arjun Balasubramaniam is hosting a health seminar at Jaffna Teaching Hospital on May 15, 2024, for cancer awareness.",
+        "meta": {
+            "note_id": 4145
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 25,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 57,
+                "end": 81,
+                "label": "HOSP"
+            },
+            {
+                "id": "2",
+                "start": 85,
+                "end": 97,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Tharushi Fernando's online order, ID 34567, was shipped to 78 Church Lane, Negombo, on February 12, 2024.",
+        "meta": {
+            "note_id": 4146
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 17,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 37,
+                "end": 42,
+                "label": "ID"
+            },
+            {
+                "id": "2",
+                "start": 59,
+                "end": 82,
+                "label": "LOC"
+            },
+            {
+                "id": "3",
+                "start": 87,
+                "end": 104,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Mohamed Rafiq attended a workshop on digital marketing at the Colombo Business Hub on January 20, 2024.",
+        "meta": {
+            "note_id": 4147
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 13,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 62,
+                "end": 82,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 86,
+                "end": 102,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The patient ID MRN12345 belongs to Anjali Kumar, who visited Matara District Hospital for a routine check-up on June 10, 2023.",
+        "meta": {
+            "note_id": 4148
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 15,
+                "end": 23,
+                "label": "ID"
+            },
+            {
+                "id": "1",
+                "start": 35,
+                "end": 47,
+                "label": "PATIENT"
+            },
+            {
+                "id": "2",
+                "start": 61,
+                "end": 85,
+                "label": "HOSP"
+            },
+            {
+                "id": "3",
+                "start": 112,
+                "end": 125,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Yasodhara Senanayake, aged 55, renewed her passport at the Department of Immigration in Battaramulla on February 8, 2024.",
+        "meta": {
+            "note_id": 4149
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 20,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 27,
+                "end": 29,
+                "label": "AGE"
+            },
+            {
+                "id": "2",
+                "start": 59,
+                "end": 84,
+                "label": "ORG"
+            },
+            {
+                "id": "3",
+                "start": 88,
+                "end": 100,
+                "label": "LOC"
+            },
+            {
+                "id": "4",
+                "start": 104,
+                "end": 120,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The blood donation drive will be held at Ratnapura General Hospital on July 5, 2024, organized by the Lions Club.",
+        "meta": {
+            "note_id": 4150
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 41,
+                "end": 67,
+                "label": "HOSP"
+            },
+            {
+                "id": "1",
+                "start": 71,
+                "end": 83,
+                "label": "DATE"
+            },
+            {
+                "id": "2",
+                "start": 102,
+                "end": 112,
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Dhananjaya Silva's house construction project in Nuwara Eliya was completed, and he received the final invoice at dhananjaya.silva@mail.com.",
+        "meta": {
+            "note_id": 4151
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 16,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 49,
+                "end": 61,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 114,
+                "end": 139,
+                "label": "EMAIL"
+            }
+        ]
+    },
+    {
+        "text": "Priya Arulanantham's wedding invitations were printed at Jaffna Print Solutions and delivered to 24 Station Road, Jaffna.",
+        "meta": {
+            "note_id": 4152
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 18,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 57,
+                "end": 79,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 97,
+                "end": 120,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "The new maternity ward at Kalutara Base Hospital will open to the public on March 18, 2024, offering modern facilities.",
+        "meta": {
+            "note_id": 4153
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 26,
+                "end": 48,
+                "label": "HOSP"
+            },
+            {
+                "id": "1",
+                "start": 76,
+                "end": 90,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Ahmed Rizwan booked a stay at the Cinnamon Grand Colombo for his vacation starting April 1, 2024, with family.",
+        "meta": {
+            "note_id": 4154
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 12,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 34,
+                "end": 56,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 83,
+                "end": 96,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Lakshitha Rodrigo purchased a smartphone online and had it delivered to 101 Main Street, Kurunegala, on February 28, 2024.",
+        "meta": {
+            "note_id": 4155
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 17,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 72,
+                "end": 99,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 104,
+                "end": 121,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Kavitha Rajasekar hosted a lecture at Trincomalee General Hospital on the topic of pediatric care and nutrition.",
+        "meta": {
+            "note_id": 4156
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 21,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 42,
+                "end": 70,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "The cricket match between Colombo Kings and Kandy Warriors is scheduled for July 22, 2024, at Pallekele International Stadium.",
+        "meta": {
+            "note_id": 4157
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 26,
+                "end": 39,
+                "label": "ORG"
+            },
+            {
+                "id": "1",
+                "start": 44,
+                "end": 58,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 94,
+                "end": 125,
+                "label": "LOC"
+            },
+            {
+                "id": "3",
+                "start": 76,
+                "end": 89,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Sameera Fernando received her university admission letter at 32 Lake Road, Anuradhapura, confirming her enrollment for August 2024.",
+        "meta": {
+            "note_id": 4158
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 16,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 61,
+                "end": 87,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 119,
+                "end": 130,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The customer service team at Lanka Telecom can be reached at +94 11 234 5678 for inquiries about broadband plans.",
+        "meta": {
+            "note_id": 4159
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 29,
+                "end": 42,
+                "label": "ORG"
+            },
+            {
+                "id": "1",
+                "start": 61,
+                "end": 76,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Tharindu Perera organized a charity event at 12 Queen's Road, Kandy, and provided his contact number as +94 71 678 9012.",
+        "meta": {
+            "note_id": 4160
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 15,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 45,
+                "end": 67,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 104,
+                "end": 119,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "The new library at Galle Fort is open to the public from 9:00 AM to 5:00 PM, managed by Nuwan Jayasuriya.",
+        "meta": {
+            "note_id": 4161
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 19,
+                "end": 29,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 88,
+                "end": 104,
+                "label": "STAFF"
+            }
+        ]
+    },
+    {
+        "text": "Janaki De Silva purchased a new house at 45 Ocean View Avenue, Trincomalee, and celebrated her move on May 5, 2024.",
+        "meta": {
+            "note_id": 4162
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 15,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 41,
+                "end": 74,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 103,
+                "end": 114,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Kavindu Fernando received a notification for his courier delivery at +94 77 123 4567, sent from Colombo Logistics.",
+        "meta": {
+            "note_id": 4163
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 16,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 69,
+                "end": 84,
+                "label": "PHONE"
+            },
+            {
+                "id": "2",
+                "start": 96,
+                "end": 113,
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "The annual Vesak festival will be held at the Gangaramaya Temple, with thousands of lanterns adorning the streets of Colombo.",
+        "meta": {
+            "note_id": 4164
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 46,
+                "end": 64,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 117,
+                "end": 124,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Anjali Rajapaksha submitted her application for the Colombo Marathon 2024 and listed her emergency contact as +94 76 543 2109.",
+        "meta": {
+            "note_id": 4165
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 17,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 110,
+                "end": 125,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Rajith Weerasinghe's parcel was delivered to 78 Forest Lane, Batticaloa, as per his request on January 20, 2024.",
+        "meta": {
+            "note_id": 4166
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 18,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 45,
+                "end": 71,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 95,
+                "end": 111,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Dr. Ruwan Dissanayake will host a lecture on historical architecture at the Jaffna Heritage Museum next month.",
+        "meta": {
+            "note_id": 4167
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 21,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 76,
+                "end": 98,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "The bakery at 23 Lake Road, Nuwara Eliya, received a bulk order from Chathurika Gunawardene for her shop opening.",
+        "meta": {
+            "note_id": 4168
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 14,
+                "end": 40,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 69,
+                "end": 91,
+                "label": "PATIENT"
+            }
+        ]
+    },
+    {
+        "text": "Pradeep Jayawardene renewed his vehicle registration at the Department of Motor Traffic in Werahera on February 18, 2024.",
+        "meta": {
+            "note_id": 4169
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 19,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 60,
+                "end": 87,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 91,
+                "end": 99,
+                "label": "LOC"
+            },
+            {
+                "id": "3",
+                "start": 103,
+                "end": 120,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The IT workshop by Dinusha Abeysinghe will be held at Tech Park Colombo on April 25, 2024, for aspiring coders.",
+        "meta": {
+            "note_id": 4170
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 19,
+                "end": 37,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 54,
+                "end": 63,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 64,
+                "end": 71,
+                "label": "LOC"
+            },
+            {
+                "id": "3",
+                "start": 75,
+                "end": 89,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Samith Kariyawasam rented an apartment at 34 Hilltop Drive, Kurunegala, and signed the lease on March 3, 2024.",
+        "meta": {
+            "note_id": 4171
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 18,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 42,
+                "end": 70,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 96,
+                "end": 109,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Harshini Cooray hosted a book reading session at the Colombo Public Library on February 15, 2024.",
+        "meta": {
+            "note_id": 4172
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 15,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 53,
+                "end": 75,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 79,
+                "end": 96,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The cricket tournament in Galle is being organized by Suranga Wickremaratne, reachable at +94 72 456 7890.",
+        "meta": {
+            "note_id": 4173
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 26,
+                "end": 31,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 54,
+                "end": 75,
+                "label": "STAFF"
+            },
+            {
+                "id": "2",
+                "start": 90,
+                "end": 105,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Nirmala Rodrigo signed up for a pottery workshop at the Arts and Crafts Center in Matara for May 2024.",
+        "meta": {
+            "note_id": 4174
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 15,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 56,
+                "end": 78,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 82,
+                "end": 88,
+                "label": "LOC"
+            },
+            {
+                "id": "3",
+                "start": 93,
+                "end": 101,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The hiking group led by Sandun Ratnayake departed from 89 Mountain Trail, Ratnapura, at 6:00 AM on July 12, 2024.",
+        "meta": {
+            "note_id": 4175
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 24,
+                "end": 40,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 55,
+                "end": 83,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 99,
+                "end": 112,
+                "label": "DATE"
+            }
+        ]
+    },{
+        "text": "The new customer service center at 50 Seaside Avenue, Kalutara, is managed by Amila Karunaratne.",
+        "meta": {
+            "note_id": 4176
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 35,
+                "end": 62,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 78,
+                "end": 95,
+                "label": "STAFF"
+            }
+        ]
+    },
+    {
+        "text": "Yasmin Abeykoon completed her thesis on marine biology at the University of Ruhuna in Matara.",
+        "meta": {
+            "note_id": 4177
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 15,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 62,
+                "end": 82,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 86,
+                "end": 92,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Contact Shalini Samarasinghe at +94 78 890 1234 for inquiries about her handmade jewelry collection.",
+        "meta": {
+            "note_id": 4178
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 28,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 32,
+                "end": 47,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "The concert by Lakshan Herath will be held at 67 Royal Avenue, Anuradhapura, on December 10, 2024.",
+        "meta": {
+            "note_id": 4179
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 15,
+                "end": 29,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 46,
+                "end": 75,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 80,
+                "end": 97,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Dinesh Kumarasinghe coordinated a beach cleanup event at 12 Paradise Lane, Hikkaduwa, and provided his number as +94 77 890 5678.",
+        "meta": {
+            "note_id": 4180
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 19,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 57,
+                "end": 84,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 113,
+                "end": 128,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Thilini Perera's art exhibition opens on June 15, 2024, at the National Art Gallery, Colombo.",
+        "meta": {
+            "note_id": 4181
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 14,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 41,
+                "end": 54,
+                "label": "DATE"
+            },
+            {
+                "id": "2",
+                "start": 63,
+                "end": 92,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Sajith Fernando received his loan approval notification at sajith.fernando@bankmail.lk for a property in Galle.",
+        "meta": {
+            "note_id": 4182
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 15,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 59,
+                "end": 86,
+                "label": "EMAIL"
+            },
+            {
+                "id": "2",
+                "start": 105,
+                "end": 110,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "The annual book fair will be held at BMICH Colombo, with entries organized by Damith Jayawardena.",
+        "meta": {
+            "note_id": 4183
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 37,
+                "end": 50,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 78,
+                "end": 96,
+                "label": "STAFF"
+            }
+        ]
+    },
+    {
+        "text": "Lakmali Wijesinghe placed an online order for gardening tools and requested delivery to 123 Flower Road, Matale.",
+        "meta": {
+            "note_id": 4184
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 18,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 88,
+                "end": 111,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Contact Dinuka Samarasinghe at +94 71 678 4321 for details about the fitness boot camp starting in July 2024.",
+        "meta": {
+            "note_id": 4185
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 27,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 31,
+                "end": 46,
+                "label": "PHONE"
+            },
+            {
+                "id": "2",
+                "start": 99,
+                "end": 108,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The wildlife photography workshop in Yala National Park will be hosted by Amara Gunasekara on February 20, 2024.",
+        "meta": {
+            "note_id": 4186
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 37,
+                "end": 55,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 74,
+                "end": 90,
+                "label": "STAFF"
+            },
+            {
+                "id": "2",
+                "start": 94,
+                "end": 111,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Isuru Rajapaksha moved into his new home at 34 Sunrise Avenue, Kandy, and informed utilities at +94 72 456 7890.",
+        "meta": {
+            "note_id": 4187
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 16,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 44,
+                "end": 68,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 96,
+                "end": 111,
+                "label": "PHONE"
+            }
+        ]
+    },
+    {
+        "text": "Nadeesha Karunaratne registered her business, Silk Threads Boutique, at 56 Lakeview Drive, Colombo.",
+        "meta": {
+            "note_id": 4188
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 20,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 46,
+                "end": 67,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 72,
+                "end": 98,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "The cultural festival in Jaffna is scheduled for December 5, 2024, with event coordination by Ramesh Subramaniam.",
+        "meta": {
+            "note_id": 4189
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 25,
+                "end": 31,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 49,
+                "end": 65,
+                "label": "DATE"
+            },
+            {
+                "id": "2",
+                "start": 94,
+                "end": 112,
+                "label": "STAFF"
+            }
+        ]
+    },
+    {
+        "text": "Anjali Wickremasinghe booked a photography session for her family at Mount Lavinia Beach on March 18, 2024.",
+        "meta": {
+            "note_id": 4190
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 21,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 69,
+                "end": 88,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 92,
+                "end": 106,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Contact Rajith Abeysekara at rajith.abeysekara@logistics.lk for shipping inquiries to Trincomalee.",
+        "meta": {
+            "note_id": 4191
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 8,
+                "end": 25,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 29,
+                "end": 59,
+                "label": "EMAIL"
+            },
+            {
+                "id": "2",
+                "start": 86,
+                "end": 97,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Samantha Perera's travel blog featured hidden gems in Ella and gained 5,000 followers in one week.",
+        "meta": {
+            "note_id": 4192
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 15,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 54,
+                "end": 58,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "The cricket team led by Kasun Weerasekara played their final match at Galle International Stadium on April 30, 2024.",
+        "meta": {
+            "note_id": 4193
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 24,
+                "end": 41,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 70,
+                "end": 97,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 101,
+                "end": 115,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Shanika Rodrigo ordered a custom-made cake for her birthday party and listed 89 Jasmine Lane, Negombo, for delivery.",
+        "meta": {
+            "note_id": 4194
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 15,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 77,
+                "end": 101,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "The hiking expedition organized by Harsha Cooray will explore Horton Plains on July 2, 2024.",
+        "meta": {
+            "note_id": 4195
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 35,
+                "end": 48,
+                "label": "STAFF"
+            },
+            {
+                "id": "1",
+                "start": 62,
+                "end": 75,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 79,
+                "end": 91,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Yohan Dias celebrated his promotion with a dinner at Ocean View Restaurant, Dehiwala, on May 10, 2024.",
+        "meta": {
+            "note_id": 4196
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 10,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 53,
+                "end": 84,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 89,
+                "end": 101,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Thushari Gunaratne received her college acceptance letter from Peradeniya University on March 1, 2024.",
+        "meta": {
+            "note_id": 4197
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 18,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 63,
+                "end": 84,
+                "label": "ORG"
+            },
+            {
+                "id": "2",
+                "start": 88,
+                "end": 101,
+                "label": "DATE"
+            }
+        ]
+    },{
+        "text": "The library membership for Tharanga De Silva at the Kandy Public Library was renewed on June 10, 2023.",
+        "meta": {
+            "note_id": 4198
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 27,
+                "end": 44,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 52,
+                "end": 72,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 88,
+                "end": 101,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Lakshman Ekanayake rented a car for his trip to Sigiriya and confirmed pickup at 12 Heritage Road, Dambulla.",
+        "meta": {
+            "note_id": 4199
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 18,
+                "label": "PATIENT"
+            },
+            {
+                "id": "1",
+                "start": 48,
+                "end": 56,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 81,
+                "end": 107,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Colombo General Hospital, established in 1864, is one of the largest healthcare institutions in Sri Lanka, catering to thousands of patients daily.",
+        "meta": {
+            "note_id": 4200
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 24,
+                "label": "HOSP"
+            },
+            {
+                "id": "1",
+                "start": 41,
+                "end": 45,
+                "label": "DATE"
+            },
+            {
+                "id": "2",
+                "start": 96,
+                "end": 105,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Investing in preventative healthcare programs is not just beneficial for individuals; it's a cost-effective strategy for reducing the nation's medical expenses.",
+        "meta": {
+            "note_id": 4201
+        },
+        "spans": []
+    },
+    {
+        "text": "An analysis of hospital readmission rates reveals that implementing telemedicine follow-ups significantly reduces unnecessary patient returns.",
+        "meta": {
+            "note_id": 4202
+        },
+        "spans": []
+    },
+    {
+        "text": "The flu vaccine is updated annually to combat the most prevalent strains, ensuring maximum efficacy during the flu season.",
+        "meta": {
+            "note_id": 4203
+        },
+        "spans": []
+    },
+    {
+        "text": "Did you know that you can now book a doctor's appointment online at most major hospitals? It's super easy and saves a lot of time!",
+        "meta": {
+            "note_id": 4204
+        },
+        "spans": []
+    },
+    {
+        "text": "Walking through the pediatric ward, I couldn't help but think about the resilience of children and their capacity to smile through adversity.",
+        "meta": {
+            "note_id": 4205
+        },
+        "spans": []
+    },
+    {
+        "text": "To prepare for your MRI scan, remove all metal objects, wear loose clothing, and follow the fasting instructions provided by your doctor.",
+        "meta": {
+            "note_id": 4206
+        },
+        "spans": []
+    },
+    {
+        "text": "In the sterile light of the operating room, hands work with precision, crafting miracles unseen yet deeply felt.",
+        "meta": {
+            "note_id": 4207
+        },
+        "spans": []
+    },
+    {
+        "text": "Every day, healthcare workers prove that compassion and dedication can truly change lives, one patient at a time.",
+        "meta": {
+            "note_id": 4208
+        },
+        "spans": []
+    },
+    {
+        "text": "If laughter is the best medicine, then hospital cafeterias definitely need to start selling jokes along with sandwiches!",
+        "meta": {
+            "note_id": 4209
+        },
+        "spans": []
+    },
+    {
+        "text": "The CT scan operates by combining multiple X-ray images to create cross-sectional views of bones, blood vessels, and soft tissues.",
+        "meta": {
+            "note_id": 4210
+        },
+        "spans": []
+    },
+    {
+        "text": "In the mid-20th century, the introduction of antibiotics revolutionized medicine, dramatically reducing mortality from bacterial infections.",
+        "meta": {
+            "note_id": 4211
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 7,
+                "end": 23,
+                "label": "DATE"
+            }]
+    },
+    {
+        "text": "Unlike traditional X-rays, MRIs use magnetic fields and radio waves to produce detailed images of soft tissues and organs.",
+        "meta": {
+            "note_id": 4212
+        },
+        "spans": []
+    },
+    {
+        "text": "My grandmother once told me how she helped deliver babies as a midwife in a rural village, long before modern medical equipment was available.",
+        "meta": {
+            "note_id": 4213
+        },
+        "spans": []
+    },
+    {
+        "text": "What does it mean to heal? Is it the restoration of the body, or perhaps, the renewal of hope within the soul?",
+        "meta": {
+            "note_id": 4214
+        },
+        "spans": []
+    },
+    {
+        "text": "Recent studies indicate that the use of immunotherapy in oncology can enhance the efficacy of traditional chemotherapy protocols.",
+        "meta": {
+            "note_id": 4215
+        },
+        "spans": []
+    },
+    {
+        "text": "Imagine a world where nano-robots repair damaged tissues from within the body, eliminating the need for invasive surgeries.",
+        "meta": {
+            "note_id": 4216
+        },
+        "spans": []
+    },
+    {
+        "text": "The over-reliance on antibiotics in outpatient settings is a significant contributor to the alarming rise of antimicrobial resistance.",
+        "meta": {
+            "note_id": 4217
+        },
+        "spans": []
+    },
+    {
+        "text": "To calculate BMI for a person weighing 70 kg and standing 1.75 meters tall, use the formula: BMI = Weight \u00f7 (Height * Height). Here, BMI = 70 \u00f7 (1.75 * 1.75) = 22.86.",
+        "meta": {
+            "note_id": 4218
+        },
+        "spans": []
+    },
+    {
+        "text": "In a study of 500 participants, 200 were vaccinated, and 300 were not. If 60 vaccinated individuals fell ill and 150 unvaccinated individuals did, the illness rate is (60 \u00f7 200) * 100 = 30% for vaccinated and (150 \u00f7 300) * 100 = 50% for unvaccinated.",
+        "meta": {
+            "note_id": 4219
+        },
+        "spans": []
+    },
+    {
+        "text": "If a pharmacy receives 1,200 pills and distributes them equally among 300 patients, each receives 1,200 \u00f7 300 = 4 pills. If 50 pills are reserved for emergencies, the remaining stock is 1,200 - 50 = 1,150 pills",
+        "meta": {
+            "note_id": 4220
+        },
+        "spans": []
+    },
+    {
+        "text": "To calculate the correct dosage for a 50 kg patient, use the formula: Dose (mg) = Weight (kg) * 5 mg/kg, which equals 250 mg.",
+        "meta": {
+            "note_id": 4221
+        },
+        "spans": []
+    },
+    {
+        "text": "To optimize resources, the lab reduced the daily test processing time from 8 hours to 6 hours, achieving a 25% efficiency gain.",
+        "meta": {
+            "note_id": 4222
+        },
+        "spans": []
+    },
+    {
+        "text": "Sri Lanka has eight UNESCO World Heritage Sites, including the Ancient City of Polonnaruwa and the Central Highlands of Sri Lanka. ",
+        "meta": {
+            "note_id": 4223
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 9,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 79,
+                "end": 90,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 0,
+                "end": 9,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Parliamentary elections were held in Sri Lanka on 14 November 2024 to elect 225 members to the new parliament.",
+        "meta": {
+            "note_id": 4224
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 37,
+                "end": 46,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 50,
+                "end": 66,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "The sunlit waiting area, with its soft beige walls and a row of neatly arranged chairs, exuded a sense of calm amidst the chaos of the emergency ward.",
+        "meta": {
+            "note_id": 4225
+        },
+        "spans": []
+    },
+    {
+        "text": "The hospital managed to raise USD 15,000 for new equipment, which accounts for only 25% of their USD 60,000 target.",
+        "meta": {
+            "note_id": 4226
+        },
+        "spans": []
+    },
+    {
+        "text": "Colombo General Hospital performs over 2,000 surgeries annually, which averages about 5.5 surgeries per day.",
+        "meta": {
+            "note_id": 4227
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 24,
+                "label": "HOSP"
+            }
+        ]
+    },
+    {
+        "text": "Donating $10 per month could save 12 lives a year through vaccination programs costing only $1 per dose.",
+        "meta": {
+            "note_id": 4228
+        },
+        "spans": []
+    },
+    {
+        "text": "The readmission rate dropped from 18% to 12% after implementing a $20,000 telemedicine system.",
+        "meta": {
+            "note_id": 4229
+        },
+        "spans": []
+    },
+    {
+        "text": "The cost of the flu vaccine is LKR25 per dose, and it requires only 2 doses to provide complete immunity.",
+        "meta": {
+            "note_id": 4230
+        },
+        "spans": []
+    },
+    {
+        "text": "Did you know a single CT scan costs around $250, but early detection can save thousands of dollars in treatment?",
+        "meta": {
+            "note_id": 4231
+        },
+        "spans": []
+    },
+    {
+        "text": "For an accurate reading, ensure you fast for at least 8 hours before your blood glucose test and arrive 15 minutes early.",
+        "meta": {
+            "note_id": 4232
+        },
+        "spans": []
+    },
+    {
+        "text": "Every $100 donated to the hospital translates to nearly 40 meals for recovering patients and their caregivers.",
+        "meta": {
+            "note_id": 4233
+        },
+        "spans": []
+    },
+    {
+        "text": "If laughter is the best medicine, then we need 10 jokes per hour to ensure our daily dose of humor is met!",
+        "meta": {
+            "note_id": 4234
+        },
+        "spans": []
+    },
+    {
+        "text": "The CT scanner emits 120 kVp and requires 2 millisieverts per scan to produce high-resolution images.",
+        "meta": {
+            "note_id": 4235
+        },
+        "spans": []
+    },
+    {
+        "text": "In the 1950s, penicillin cost only LKR0.25 per dose, compared to today's prices, which can reach LKR 20 per dose.",
+        "meta": {
+            "note_id": 4236
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 7,
+                "end": 12,
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "MRIs use magnetic fields to produce images in less than 30 minutes, while CT scans take about 5 to 10 minutes.",
+        "meta": {
+            "note_id": 4237
+        },
+        "spans": []
+    },
+    {
+        "text": "To heal is to balance the equation of body, mind, and soul, where x + y + z equals the harmony of life.",
+        "meta": {
+            "note_id": 4238
+        },
+        "spans": []
+    },
+    {
+        "text": "Imagine a nano-robot costing $500 performing 10,000 repairs inside the human body in just 30 seconds.",
+        "meta": {
+            "note_id": 4239
+        },
+        "spans": []
+    },
+    {
+        "text": "Spending $50,000 annually on antibiotics for preventable conditions underscores the need for better hygiene education.",
+        "meta": {
+            "note_id": 4240
+        },
+        "spans": []
+    },
+    {
+        "text": "The new MRI machine costs \u20ac1,200,000 in Germany, but importing it to Sri Lanka adds an additional $150,000 in shipping and taxes.",
+        "meta": {
+            "note_id": 4241
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 40,
+                "end": 47,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 69,
+                "end": 78,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "A dose of the latest antibiotic costs ?500 in India, which is significantly lower compared to $15 per dose in the United States.",
+        "meta": {
+            "note_id": 4242
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 46,
+                "end": 51,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 114,
+                "end": 127,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "The global health research project received funding of \u00a32,000,000 from the UK government and an additional \u00a5300,000,000 from Japan.",
+        "meta": {
+            "note_id": 4243
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 75,
+                "end": 88,
+                "label": "ORG"
+            },
+            {
+                "id": "1",
+                "start": 125,
+                "end": 130,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "A general practitioner in Sri Lanka earns an average monthly salary of LKR 150,000, while their counterparts in Australia earn AUD 10,000 per month.",
+        "meta": {
+            "note_id": 4244
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 26,
+                "end": 35,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 112,
+                "end": 121,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "The hospital's charity drive collected \u20ac20,000 from European donors, $10,000 from the US, and \u00a52,000,000 from Japanese contributors.",
+        "meta": {
+            "note_id": 4245
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 86,
+                "end": 88,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Sri Lanka is an island country in South Asia, located in the Indian Ocean, southwest of the Bay of Bengal, separated from the Indian peninsula by the Gulf of Mannar and the Palk Strait. ",
+        "meta": {
+            "note_id": 4246
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 0,
+                "end": 9,
+                "label": "LOC"
+            },
+            {
+                "id": "1",
+                "start": 34,
+                "end": 44,
+                "label": "LOC"
+            },
+            {
+                "id": "2",
+                "start": 61,
+                "end": 73,
+                "label": "LOC"
+            },
+            {
+                "id": "3",
+                "start": 92,
+                "end": 105,
+                "label": "LOC"
+            },
+            {
+                "id": "4",
+                "start": 126,
+                "end": 142,
+                "label": "LOC"
+            },
+            {
+                "id": "5",
+                "start": 150,
+                "end": 164,
+                "label": "LOC"
+            },
+            {
+                "id": "6",
+                "start": 173,
+                "end": 184,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "The early human remains found on the island of Sri Lanka date back to about 38,000 years ago (Balangoda Man).",
+        "meta": {
+            "note_id": 4247
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 47,
+                "end": 56,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Currently, Sri Lanka is divided into 9 provinces, each further divided into districts, which are further divided into divisional secretariats.",
+        "meta": {
+            "note_id": 4248
+        },
+        "spans": [
+            {
+                "id": "0",
+                "start": 11,
+                "end": 20,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "The hospital's corridors echoed with the hurried footsteps of doctors and nurses, each rushing to save a life or ease a patient's pain.",
+        "meta": {
+            "note_id": 4249
+        },
+        "spans": []
     }
 ]
