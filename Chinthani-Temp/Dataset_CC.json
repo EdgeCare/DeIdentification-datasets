@@ -2668,7 +2668,7 @@
         ]
     },
     {
-        "text": "My daughter, Isabella Green, is running a high fever of 102\u00c2\u00b0F.",
+        "text": "My daughter, Isabella Green, is running a high fever of 102 °F.",
         "meta": {
             "note_id": "451",
             "patient_id": "33001234"
@@ -4917,7 +4917,7 @@
             {
                 "id": "0",
                 "start": 5,
-                "end": 17,
+                "end": 7,
                 "label": "AGE"
             },
             {
@@ -6443,7 +6443,7 @@
         "spans": [
             {
                 "id": "0",
-                "start": 16,
+                "start": 12,
                 "end": 34,
                 "label": "PATIENT"
             },
