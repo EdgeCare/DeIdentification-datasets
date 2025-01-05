@@ -7,6 +7,7 @@ def change_id_to_int(file_path):
         f.close()
 
     for d in data1:
+        d['meta']["note_id"] = str(d['meta']["note_id"])
         for s in d['spans']:
             s["id"] = int(s["id"])
 
@@ -19,5 +20,7 @@ def change_id_to_int(file_path):
 if __name__ == "__main__":
     change_id_to_int('train.json')
     change_id_to_int('validation.json')
+
+    print("Pre process done!")
 
 
