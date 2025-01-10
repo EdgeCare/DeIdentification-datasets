@@ -991,7 +991,7 @@
                 "id": 1,
                 "start": 44,
                 "end": 54,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": 2,
@@ -1465,7 +1465,7 @@
                 "id": 1,
                 "start": 39,
                 "end": 49,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": 2,
