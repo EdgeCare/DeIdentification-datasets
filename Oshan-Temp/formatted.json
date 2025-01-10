@@ -1,0 +1,1667 @@
+[
+    {
+        "text": "Consult Note\nPt: Olivia Harper MC #4321098\nDate: 03/15/23 Harmony Medical Center OSCAR, SARAH Miami, FL 33101\n\nHISTORY OF PRESENT ILLNESS: The patient is a 62-year-old female with a history of hypertension and hyperlipidemia. She presented with complaints of dizziness and mild chest discomfort experienced intermittently over the past week. Denies nausea or shortness of breath.\n\nMEDICATIONS: The patient is currently on Lisinopril 20 mg q.d. and Atorvastatin 40 mg q.d. Aspirin 81 mg daily was added during the visit. She was advised to discontinue over-the-counter ibuprofen for headache management.\n\nHOSPITAL COURSE: Electrocardiogram (ECG) revealed normal sinus rhythm with occasional premature ventricular contractions (PVCs). Blood pressure on arrival was 168/94 mmHg. Patient was started on Amlodipine 5 mg q.d. for better hypertension control and advised to return for follow-up in 10 days.\n\nSOCIAL HISTORY: Retired school teacher, lives with her husband. Non-smoker, no alcohol use.\n",
+        "meta": {
+            "note_id": "5000",
+            "patient_id": "43210"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 17,
+                "end": 30,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 35,
+                "end": 42,
+                "label": "ID"
+            },
+            {
+                "id": 2,
+                "start": 49,
+                "end": 57,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 58,
+                "end": 80,
+                "label": "HOSP"
+            },
+            {
+                "id": 4,
+                "start": 81,
+                "end": 93,
+                "label": "STAFF"
+            },
+            {
+                "id": 5,
+                "start": 156,
+                "end": 158,
+                "label": "AGE"
+            },
+            {
+                "id": 6,
+                "start": 94,
+                "end": 109,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Consult Note\nPt: Ethan Clark MC #9843217\nDate: 11/12/23 Sunshine Medical Center DR. JONES, EMILY Los Angeles, CA 90001\n\nHISTORY OF PRESENT ILLNESS: The patient is a 45-year-old male with Type 2 diabetes mellitus presenting with poorly controlled blood sugar levels over the past three months. Complains of fatigue and episodes of blurred vision, primarily in the evenings. No reports of dizziness or chest pain.\n\nMEDICATIONS: The patient has been on Metformin 500 mg b.i.d. and Glipizide 10 mg q.d. for diabetes management. Additionally, Vitamin D 1000 IU daily was recommended during the consultation.\n\nHOSPITAL COURSE: Fasting blood glucose was noted at 198 mg/dL, and HbA1c was 8.9%. Patient was started on Insulin Glargine 10 units subcutaneous injection nightly. Follow-up scheduled in 2 weeks for glucose monitoring and adjustment of the insulin dosage.\n\nSOCIAL HISTORY: Works as a software engineer, married with two children. Occasionally consumes alcohol, denies smoking.\n",
+        "meta": {
+            "note_id": "5001",
+            "patient_id": "98432"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 17,
+                "end": 28,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 33,
+                "end": 40,
+                "label": "ID"
+            },
+            {
+                "id": 2,
+                "start": 47,
+                "end": 55,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 56,
+                "end": 79,
+                "label": "HOSP"
+            },
+            {
+                "id": 4,
+                "start": 80,
+                "end": 96,
+                "label": "STAFF"
+            },
+            {
+                "id": 5,
+                "start": 165,
+                "end": 167,
+                "label": "AGE"
+            },
+            {
+                "id": 6,
+                "start": 97,
+                "end": 118,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Consult Note\nPt: Sophia Martinez MC #5678903\nDate: 07/09/22 Green Valley Clinic DR. LEE, ALEX New York, NY 10012\n\nHISTORY OF PRESENT ILLNESS: The patient is a 33-year-old female presenting with recurrent migraines over the past six months. Episodes are associated with photophobia and nausea but no focal neurological deficits.\n\nMEDICATIONS: Currently using Sumatriptan 50 mg PRN for migraines and Ibuprofen 400 mg PRN for mild pain relief. Prescribed Propranolol 20 mg b.i.d. as a preventive measure.\n\nHOSPITAL COURSE: MRI of the brain was performed, which was unremarkable. Patient was advised on lifestyle modifications, including better sleep hygiene and regular exercise. A follow-up is scheduled in one month.\n\nSOCIAL HISTORY: Works as a graphic designer, lives alone. Non-smoker, consumes alcohol socially.\n",
+        "meta": {
+            "note_id": "5002",
+            "patient_id": "56789"
+        },
+        "spans": [
+            {
+                "id": 0,
+                "start": 17,
+                "end": 32,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 37,
+                "end": 44,
+                "label": "ID"
+            },
+            {
+                "id": 2,
+                "start": 51,
+                "end": 59,
+                "label": "DATE"
+            },
+            {
+                "id": 3,
+                "start": 60,
+                "end": 79,
+                "label": "HOSP"
+            },
+            {
+                "id": 4,
+                "start": 80,
+                "end": 93,
+                "label": "STAFF"
+            },
+            {
+                "id": 5,
+                "start": 159,
+                "end": 161,
+                "label": "AGE"
+            },
+            {
+                "id": 6,
+                "start": 94,
+                "end": 112,
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "------\n                      BLOOD TEST REPORT\n------\nPatient Details:\nName:           Kalpa Gimhan\nAge:            45 years\nGender:         Male\nPatient ID:     123456789\nDate of nativity:            January 1, 1978\nTest Date:      December 7, 2024\n\nConsulting Physician: Dr. Nipul Jaysekara\nLab Technician:      Chathurika Keshini\n\n------\nTEST RESULTS\n------\nComplete Blood Count (CBC)\n------\n- White Blood Cells (WBC):           6.1 K/uL   (Normal: 4.5-11.0 K/uL)\n- Red Blood Cells (RBC):             4.85 M/uL  (Normal: 4.7-6.1 M/uL)\n- Hemoglobin (Hgb):                  13.8 g/dL  (Normal: 13.8-17.2 g/dL)\n- Hematocrit (Hct):                  41.8%      (Normal: 40.7-50.3%)\n- Platelets:                         298 K/uL   (Normal: 150-450 K/uL)\n\nLipid Profile\n------\n- Total Cholesterol:                 188 mg/dL  (Desirable: <200 mg/dL)\n- HDL (High-Density Lipoprotein):    60 mg/dL   (Normal: >40 mg/dL)\n- LDL (Low-Density Lipoprotein):     110 mg/dL  (Optimal: <100 mg/dL)\n- Triglycerides:                     140 mg/dL  (Normal: <150 mg/dL)\n\nLiver Function Tests\n------\n- Alanine Aminotransferase (ALT):    29 U/L     (Normal: 7-56 U/L)\n- Aspartate Aminotransferase (AST):  35 U/L     (Normal: 10-40 U/L)\n- Alkaline Phosphatase (ALP):        90 U/L     (Normal: 40-129 U/L)\n- Bilirubin, Total:                  1.2 mg/dL  (Normal: 0.1-1.2 mg/dL)\n\nComments:\n------\nAll values are within the normal range. No abnormalities detected.\n\n------\n                        END OF REPORT\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 87,
+                "end": 99,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 116,
+                "end": 118,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 162,
+                "end": 171,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 201,
+                "end": 216,
+                "label": "BIRTHDATE"
+            },
+            {
+                "id": 4,
+                "start": 233,
+                "end": 249,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 273,
+                "end": 292,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 314,
+                "end": 332,
+                "label": "STAFF"
+            }
+        ],
+        "meta": {
+            "note_id": "5003",
+            "patient_id": "001"
+        }
+    },
+    {
+        "text": "------\n                      BLOOD TEST REPORT\n------\nPatient Details:\nName:           Kalani Yapa\nAge:            34 years\nGender:         Female\nPatient ID:     987654321\nDOB:            March 14, 1990\nTest Date:      December 22, 2024\n\nConsulting Physician: Dr. Wijith Kumara\nLab Technician:      Nipuni Ayodya\n\n------\nTEST RESULTS\n------\nComplete Blood Count (CBC)\n------\n- White Blood Cells (WBC):           7.8 K/uL   (Normal: 4.5-11.0 K/uL)\n- Red Blood Cells (RBC):             5.1 M/uL   (Normal: 4.7-6.1 M/uL)\n- Hemoglobin (Hgb):                  14.2 g/dL  (Normal: 13.8-17.2 g/dL)\n- Hematocrit (Hct):                  42.5%      (Normal: 40.7-50.3%)\n- Platelets:                         310 K/uL   (Normal: 150-450 K/uL)\n\nThyroid Function Tests\n------\n- TSH (Thyroid Stimulating Hormone): 1.8 uIU/mL (Normal: 0.5-4.5 uIU/mL)\n- T3 (Triiodothyronine):             120 ng/dL  (Normal: 80-200 ng/dL)\n- T4 (Thyroxine):                    7.5 ug/dL  (Normal: 4.5-12.0 ug/dL)\n\nLiver Function Tests\n------\n- Alanine Aminotransferase (ALT):    25 U/L     (Normal: 7-56 U/L)\n- Aspartate Aminotransferase (AST):  30 U/L     (Normal: 10-40 U/L)\n- Alkaline Phosphatase (ALP):        85 U/L     (Normal: 40-129 U/L)\n- Bilirubin, Total:                  0.8 mg/dL  (Normal: 0.1-1.2 mg/dL)\n\nComments:\n------\nAll tested parameters are within normal limits. No further action required.\n\n------\n                        END OF REPORT\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 87,
+                "end": 98,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 115,
+                "end": 117,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 163,
+                "end": 172,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 189,
+                "end": 203,
+                "label": "BIRTHDATE"
+            },
+            {
+                "id": 4,
+                "start": 220,
+                "end": 237,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 261,
+                "end": 278,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 300,
+                "end": 313,
+                "label": "STAFF"
+            }
+        ],
+        "meta": {
+            "note_id": "5004",
+            "patient_id": "001"
+        }
+    },
+    {
+        "text": "------\n                      BLOOD TEST REPORT\n------\nPatient Details:\nName:           Prasad Kalana\nAge:            50 years\nGender:         Male\nPatient ID:     567890123v\nDOB:            October 10, 1974\nTest Date:      December 22, 2024\n\nConsulting Physician: Dr. Emily Carter\nLab Technician:      Kawya Nirmani\n\n------\nTEST RESULTS\n------\nComplete Blood Count (CBC)\n------\n- White Blood Cells (WBC):           6.5 K/uL   (Normal: 4.5-11.0 K/uL)\n- Red Blood Cells (RBC):             4.9 M/uL   (Normal: 4.7-6.1 M/uL)\n- Hemoglobin (Hgb):                  14.0 g/dL  (Normal: 13.8-17.2 g/dL)\n- Hematocrit (Hct):                  42.0%      (Normal: 40.7-50.3%)\n- Platelets:                         275 K/uL   (Normal: 150-450 K/uL)\n\nRenal Function Tests\n------\n- Blood Urea Nitrogen (BUN):         18 mg/dL   (Normal: 7-20 mg/dL)\n- Creatinine:                        0.9 mg/dL  (Normal: 0.6-1.2 mg/dL)\n- Estimated GFR:                     90 mL/min  (Normal: >60 mL/min)\n\nLipid Profile\n------\n- Total Cholesterol:                 190 mg/dL  (Desirable: <200 mg/dL)\n- HDL (High-Density Lipoprotein):    55 mg/dL   (Normal: >40 mg/dL)\n- LDL (Low-Density Lipoprotein):     115 mg/dL  (Optimal: <100 mg/dL)\n- Triglycerides:                     130 mg/dL  (Normal: <150 mg/dL)\n\nComments:\n------\nSlightly elevated LDL levels; dietary modifications recommended. All other parameters are normal.\n\n------\n                        END OF REPORT\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 87,
+                "end": 100,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 117,
+                "end": 119,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 163,
+                "end": 173,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 190,
+                "end": 206,
+                "label": "BIRTHDATE"
+            },
+            {
+                "id": 4,
+                "start": 223,
+                "end": 240,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 264,
+                "end": 280,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 302,
+                "end": 315,
+                "label": "STAFF"
+            }
+        ],
+        "meta": {
+            "note_id": "5005",
+            "patient_id": "001"
+        }
+    },
+    {
+        "text": "------\n                      DIAGNOSTIC LAB REPORT\n------\nPatient Information:\nFull Name:      Chathurika Perera\nAge:            37\nGender:         Female\nPatient ID:     987654321\nDate of Birth:  March 15, 1987\nDate of Report: December 22, 2024\n\nAttending Physician: Dr. Robert Hayes\nLab Supervisor:      Gimhani\n\n------\nTEST SUMMARY\n------\nHematology Panel\n------\n- WBC Count:                    5.4 K/uL      (Normal: 4.5-11.0 K/uL)\n- RBC Count:                    4.7 M/uL      (Normal: 4.2-5.9 M/uL)\n- Hemoglobin Level:             13.5 g/dL     (Normal: 12.0-15.5 g/dL)\n- Hematocrit:                   39.8%         (Normal: 37.0-47.0%)\n- Platelet Count:               310 K/uL      (Normal: 150-450 K/uL)\n\nElectrolyte Panel\n------\n- Sodium (Na):                  140 mmol/L    (Normal: 135-145 mmol/L)\n- Potassium (K):                4.2 mmol/L    (Normal: 3.5-5.1 mmol/L)\n- Chloride (Cl):                101 mmol/L    (Normal: 98-107 mmol/L)\n- Bicarbonate (HCO3):           24 mmol/L     (Normal: 22-29 mmol/L)\n\nThyroid Function Tests\n------\n- TSH (Thyroid-Stimulating Hormone):   2.1 uIU/mL   (Normal: 0.5-5.0 uIU/mL)\n- Free T4 (Thyroxine):                 1.2 ng/dL    (Normal: 0.8-1.8 ng/dL)\n- Free T3 (Triiodothyronine):          3.1 pg/mL    (Normal: 2.3-4.1 pg/mL)\n\nRemarks:\n------\nThyroid panel indicates normal function. Electrolyte balance is within optimal ranges. Continue monitoring hematology levels annually.\n\n------\n                        END OF REPORT\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 95,
+                "end": 112,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 129,
+                "end": 131,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 171,
+                "end": 180,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 197,
+                "end": 211,
+                "label": "BIRTHDATE"
+            },
+            {
+                "id": 4,
+                "start": 228,
+                "end": 245,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 268,
+                "end": 284,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 306,
+                "end": 313,
+                "label": "STAFF"
+            }
+        ],
+        "meta": {
+            "note_id": "5006",
+            "patient_id": "001"
+        }
+    },
+    {
+        "text": "------\n                      CLINICAL LAB REPORT\n------\nPatient Profile:\nName:            Anura Kumara\nAge:             52 years\nGender:          Male\nPatient ID:      MT20231234\nDate of Birth:   August 25, 1972\nDate of Report:  December 22, 2024\n\nReferring Doctor: Dr. Chathuranga\nLab Analyst:      Kavindya\n\n------\nTEST RESULTS\n------\nKidney Function Tests\n------\n- Blood Urea Nitrogen (BUN):         18 mg/dL   (Normal: 7-20 mg/dL)\n- Serum Creatinine:                  1.1 mg/dL  (Normal: 0.6-1.2 mg/dL)\n- Estimated GFR (eGFR):              90 mL/min  (Normal: >90 mL/min)\n\nBlood Sugar Levels\n------\n- Fasting Blood Sugar:               95 mg/dL   (Normal: 70-100 mg/dL)\n- HbA1c:                             5.4%       (Normal: <5.7%)\n\nCardiac Panel\n------\n- Troponin-I:                        <0.01 ng/mL (Normal: <0.04 ng/mL)\n- CK-MB (Creatine Kinase-MB):        15 U/L     (Normal: 0-25 U/L)\n\nComments:\n------\nKidney and cardiac parameters are within the normal range. No signs of hyperglycemia. Recommend annual follow-up testing.\n\n------\n                        END OF REPORT\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 90,
+                "end": 102,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 120,
+                "end": 122,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 168,
+                "end": 178,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 196,
+                "end": 211,
+                "label": "BIRTHDATE"
+            },
+            {
+                "id": 4,
+                "start": 229,
+                "end": 246,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 266,
+                "end": 281,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 300,
+                "end": 308,
+                "label": "STAFF"
+            }
+        ],
+        "meta": {
+            "note_id": "5007",
+            "patient_id": "001"
+        }
+    },
+    {
+        "text": "------\n                          DISCHARGE SUMMARY\n------\nPatient Information:\nName:            Anuki Paskuel\nAge:             68 years\nGender:          Female\nPatient ID:      SJ1029384\nAdmission Date:  December 15, 2024\nDischarge Date:  December 22, 2024\n\nAttending Physician: Doctor Pradeep Dilshan\nNurse in Charge:      Kalpani Sneha\n\n------\nReason for Admission:\n------\nThe patient was admitted due to complaints of severe chest pain radiating to the left arm, accompanied by shortness of breath and dizziness. ECG confirmed an acute myocardial infarction (heart attack).\n\n------\nHospital Course:\n------\n1. The patient was stabilized in the Emergency Department with oxygen and IV fluids.\n2. Coronary angiography revealed significant blockage in the left anterior descending artery.\n3. Percutaneous Coronary Intervention (PCI) with stent placement was performed successfully.\n4. Post-procedure monitoring in the ICU for 48 hours showed no complications.\n5. The patient was transitioned to oral medications, including:\n   - Aspirin 81 mg daily\n   - Atorvastatin 40 mg daily\n   - Clopidogrel 75 mg daily\n6. Physical therapy and dietary consultations were provided before discharge.\n\n------\nDischarge Instructions:\n------\n1. Continue prescribed medications as listed above.\n2. Avoid heavy physical activity for at least 4 weeks.\n3. Schedule a follow-up appointment with Dr. Cole on January 15, 2025.\n4. Monitor for signs of chest pain, difficulty breathing, or dizziness and report immediately.\n\n------\n                        END OF SUMMARY\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 96,
+                "end": 109,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 127,
+                "end": 129,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 177,
+                "end": 186,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 204,
+                "end": 221,
+                "label": "DATE"
+            },
+            {
+                "id": 4,
+                "start": 239,
+                "end": 256,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 279,
+                "end": 301,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 324,
+                "end": 337,
+                "label": "STAFF"
+            },
+            {
+                "id": 7,
+                "start": 1384,
+                "end": 1400,
+                "label": "DATE"
+            }
+        ],
+        "meta": {
+            "note_id": "5008",
+            "patient_id": "001"
+        }
+    },
+    {
+        "text": "------\n                         MEDICAL CONSULTATION REPORT\n------\nPatient Information:\nName:            Yasiru Wathsala\nAge:             54 years\nGender:          Male\nPatient ID:      MT4502018\nConsultation Date:  November 5, 2024\n\nReferring Physician: Doctor Champa Dilhani\nConsulting Physician: Dr. Nipun Gunathilake\n\n------\nReason for Consultation:\n------\nThe patient presented with complaints of chronic lower back pain radiating to the right leg, associated with tingling and numbness. Symptoms have persisted for the past three months and have not improved with over-the-counter analgesics.\n\n------\nClinical Findings:\n------\n1. Physical examination revealed tenderness on palpation of the lumbar spine.\n2. Positive straight leg raise test on the right side.\n3. Decreased sensation in the right foot.\n4. Motor strength intact in the lower extremities.\n\n------\nAssessment and Plan:\n------\n1. MRI of the lumbar spine was ordered to rule out disc herniation or other spinal abnormalities.\n2. Prescribed medications:\n   - Ibuprofen 400 mg every 6 hours for pain relief.\n   - Gabapentin 300 mg daily for neuropathic pain.\n3. Referral to physical therapy for a spine rehabilitation program.\n4. Follow-up consultation scheduled in two weeks after MRI results.\n\n------\n                        END OF REPORT\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 105,
+                "end": 120,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 138,
+                "end": 140,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 186,
+                "end": 195,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 216,
+                "end": 232,
+                "label": "DATE"
+            },
+            {
+                "id": 4,
+                "start": 255,
+                "end": 276,
+                "label": "STAFF"
+            },
+            {
+                "id": 5,
+                "start": 299,
+                "end": 320,
+                "label": "STAFF"
+            }
+        ],
+        "meta": {
+            "note_id": "5009",
+            "patient_id": "001"
+        }
+    },
+    {
+        "text": "------\n                         MEDICAL CONSULTATION REPORT\n------\nPatient Information:\nName:            Chandani Bandara\nAge:             36 years\nGender:          Female\nPatient ID:      SW1023456\nDOB:             March 15, 1988\nConsultation Date:  December 2, 2024\n\nReferring Physician: Dr. Robert Hayes\nConsulting Physician: Dr. Geethika Senarath\n\n------\nReason for Consultation:\n------\nThe patient presented with complaints of persistent fatigue and shortness of breath on exertion. She has a history of asthma, but her symptoms have worsened recently.\n\n------\nClinical Findings:\n------\n1. Vital signs: BP 130/85 mmHg, HR 98 bpm, RR 22 breaths/min\n2. Auscultation revealed wheezing in both lung fields.\n3. Oxygen saturation 96% at rest.\n4. No signs of acute distress.\n\n------\nAssessment and Plan:\n------\n1. Chest X-ray ordered to rule out pneumonia or other lung pathology.\n2. Increased dose of albuterol inhaler prescribed.\n3. Referred for follow-up consultation with a pulmonologist at ABC Pulmonary Clinic.\n4. Patient was advised to avoid allergens and limit exposure to irritants.\n\n------\nPatient Contact Information:\nPhone:           (011) 2 345 785 ext 6, 7\nEmail:           sarah.wilson@email.com\nLocation:        27, Ward Pedesa, Colombo 7\nHospital:        Teaching Hospital Kalutara, ID# 78564\nReferring Org:   Asiri Health Network\n\n------\n                        END OF REPORT\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 105,
+                "end": 121,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 139,
+                "end": 141,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 189,
+                "end": 198,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 216,
+                "end": 230,
+                "label": "BIRTHDATE"
+            },
+            {
+                "id": 4,
+                "start": 251,
+                "end": 267,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 290,
+                "end": 306,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 329,
+                "end": 350,
+                "label": "STAFF"
+            },
+            {
+                "id": 7,
+                "start": 1144,
+                "end": 1168,
+                "label": "PHONE"
+            },
+            {
+                "id": 8,
+                "start": 1186,
+                "end": 1208,
+                "label": "EMAIL"
+            },
+            {
+                "id": 9,
+                "start": 1226,
+                "end": 1252,
+                "label": "LOC"
+            },
+            {
+                "id": 10,
+                "start": 1270,
+                "end": 1296,
+                "label": "HOSP"
+            },
+            {
+                "id": 11,
+                "start": 1302,
+                "end": 1307,
+                "label": "HOSP"
+            },
+            {
+                "id": 12,
+                "start": 1325,
+                "end": 1345,
+                "label": "PATORG"
+            }
+        ],
+        "meta": {
+            "note_id": "5010",
+            "patient_id": "001"
+        }
+    },
+    {
+        "text": "------\n                        HEALTH RECORD\n------\nPatient Details:\nName:           Michael Turner\nAge:            52 years\nGender:         Male\nPatient ID:     MT9876543\nDOB:            May 22, 1972\nVisit Date:     December 10, 2024\n\nPrimary Care Physician: Dr. Linda Clark\nLab Technician:       James White\n\n------\nMedical History:\n------\n1. Long-term hypertension and type 2 diabetes.\n2. Recent complaints of frequent urination and fatigue.\n\n------\nTest Results:\n------\nBlood Sugar Levels:\n- Fasting Blood Sugar:   150 mg/dL (Normal: 70-100 mg/dL)\n- HbA1c:                 7.5% (Normal: <5.7%)\n\nLipid Profile:\n- Total Cholesterol:      210 mg/dL (Desirable: <200 mg/dL)\n- HDL (Good cholesterol): 45 mg/dL (Normal: >40 mg/dL)\n- LDL (Bad cholesterol):  130 mg/dL (Optimal: <100 mg/dL)\n- Triglycerides:          160 mg/dL (Normal: <150 mg/dL)\n\nLiver Function:\n- Alanine Aminotransferase (ALT): 32 U/L (Normal: 7-56 U/L)\n- Aspartate Aminotransferase (AST): 37 U/L (Normal: 10-40 U/L)\n- Bilirubin, Total:            1.0 mg/dL (Normal: 0.1-1.2 mg/dL)\n\n------\nPatient Contact Information:\nPhone:           (555) 123-4567\nEmail:           michael.turner@email.com\nLocation:        456 Maple Avenue, New York, NY 10001\nHospital:        New York General Hospital, ID# 54321\nReferring Org:   New York Health Network\n\n------\n                        END OF REPORT\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 85,
+                "end": 99,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 116,
+                "end": 118,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 162,
+                "end": 171,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 188,
+                "end": 200,
+                "label": "BIRTHDATE"
+            },
+            {
+                "id": 4,
+                "start": 217,
+                "end": 234,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 260,
+                "end": 275,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 298,
+                "end": 309,
+                "label": "STAFF"
+            },
+            {
+                "id": 7,
+                "start": 1103,
+                "end": 1117,
+                "label": "PHONE"
+            },
+            {
+                "id": 8,
+                "start": 1135,
+                "end": 1159,
+                "label": "EMAIL"
+            },
+            {
+                "id": 9,
+                "start": 1177,
+                "end": 1213,
+                "label": "LOC"
+            },
+            {
+                "id": 10,
+                "start": 1231,
+                "end": 1256,
+                "label": "HOSP"
+            },
+            {
+                "id": 11,
+                "start": 1262,
+                "end": 1267,
+                "label": "HOSP"
+            },
+            {
+                "id": 12,
+                "start": 1285,
+                "end": 1308,
+                "label": "PATORG"
+            }
+        ],
+        "meta": {
+            "note_id": "5011",
+            "patient_id": "001"
+        }
+    },
+    {
+        "text": "------\n                        HEALTH RECORD\n------\nPatient Details:\nName:           Priya Fernando\nAge:            38 years\nGender:         Female\nPatient ID:     PF9876543\nDOB:            February 15, 1986\nVisit Date:     December 12, 2024\n\nPrimary Care Physician: Dr. Chaminda Perera\nLab Technician:       Nadeesha Kumari\n\n------\nMedical History:\n------\n1. Diagnosed with asthma and seasonal allergies.\n2. Complaints of persistent cough and shortness of breath over the last two weeks.\n\n------\nTest Results:\n------\nPulmonary Function Test:\n- Forced Expiratory Volume (FEV1):   80% (Normal: >80%)\n- Forced Vital Capacity (FVC):         75% (Normal: >80%)\n\nBlood Test:\n- Hemoglobin (Hgb):                 12.5 g/dL (Normal: 12.0-16.0 g/dL)\n- White Blood Cells (WBC):           6.3 K/uL (Normal: 4.0-11.0 K/uL)\n\nLiver Function Test:\n- Aspartate Aminotransferase (AST):  28 U/L (Normal: 10-40 U/L)\n- Alanine Aminotransferase (ALT):    34 U/L (Normal: 7-56 U/L)\n- Total Bilirubin:                  1.1 mg/dL (Normal: 0.1-1.2 mg/dL)\n\n------\nPatient Contact Information:\nPhone:           (077) 123-4567\nEmail:           priya.fernando@email.com\nLocation:        15/2, Galle Road, Colombo 03, Sri Lanka\nHospital:        Nawaloka Hospital, Colombo, ID# 12003\nReferring Org:   Colombo General Healthcare\n\n------\n                        END OF REPORT\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 85,
+                "end": 99,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 116,
+                "end": 118,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 164,
+                "end": 173,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 190,
+                "end": 207,
+                "label": "BIRTHDATE"
+            },
+            {
+                "id": 4,
+                "start": 224,
+                "end": 241,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 267,
+                "end": 286,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 309,
+                "end": 324,
+                "label": "STAFF"
+            },
+            {
+                "id": 7,
+                "start": 1084,
+                "end": 1098,
+                "label": "PHONE"
+            },
+            {
+                "id": 8,
+                "start": 1116,
+                "end": 1140,
+                "label": "EMAIL"
+            },
+            {
+                "id": 9,
+                "start": 1158,
+                "end": 1197,
+                "label": "LOC"
+            },
+            {
+                "id": 10,
+                "start": 1215,
+                "end": 1232,
+                "label": "HOSP"
+            },
+            {
+                "id": 11,
+                "start": 1247,
+                "end": 1252,
+                "label": "HOSP"
+            },
+            {
+                "id": 12,
+                "start": 1270,
+                "end": 1296,
+                "label": "PATORG"
+            }
+        ],
+        "meta": {
+            "note_id": "5012",
+            "patient_id": "001"
+        }
+    },
+    {
+        "text": "------\n                        MEDICAL RECORD\n------\nPatient Details:\nName:           Sanjaya Perera\nAge:            52 years\nGender:         Male\nPatient ID:     SP1254789\nDOB:            March 20, 1972\nVisit Date:     December 15, 2024\n\nPrimary Physician: Dr. Janaka Wijesinghe\nLab Technician:       Shehani Ratnayake\n\n------\nMedical History:\n------\n1. History of hypertension and diabetes mellitus.\n2. Currently managing blood sugar levels with oral medications.\n3. Complaints of headaches and dizziness over the past few days.\n\n------\nTest Results:\n------\nBlood Pressure:     145/90 mmHg (Normal: <130/80 mmHg)\nBlood Sugar:        190 mg/dL (Normal: 70-130 mg/dL)\nHemoglobin A1C:     7.2% (Normal: <5.7%)\n\nLipid Profile:\n- Total Cholesterol:     210 mg/dL (Desirable: <200 mg/dL)\n- LDL (Low-Density Lipoprotein): 130 mg/dL (Optimal: <100 mg/dL)\n- HDL (High-Density Lipoprotein): 45 mg/dL (Normal: >40 mg/dL)\n- Triglycerides:         180 mg/dL (Normal: <150 mg/dL)\n\n------\nPatient Contact Information:\nPhone:           (011) 456-7890\nEmail:           sanjaya.perera@email.lk\nLocation:        25A, Kandy Road, Nugegoda, Colombo, Sri Lanka\nHospital:        Asiri Central Hospital, Colombo, ID# 22015\nReferring Org:   Nugegoda Medical Group\n\n------\n                        END OF REPORT\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 86,
+                "end": 100,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 117,
+                "end": 119,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 163,
+                "end": 172,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 189,
+                "end": 203,
+                "label": "BIRTHDATE"
+            },
+            {
+                "id": 4,
+                "start": 220,
+                "end": 237,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 258,
+                "end": 279,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 302,
+                "end": 319,
+                "label": "STAFF"
+            },
+            {
+                "id": 7,
+                "start": 1022,
+                "end": 1036,
+                "label": "PHONE"
+            },
+            {
+                "id": 8,
+                "start": 1054,
+                "end": 1077,
+                "label": "EMAIL"
+            },
+            {
+                "id": 9,
+                "start": 1095,
+                "end": 1140,
+                "label": "LOC"
+            },
+            {
+                "id": 10,
+                "start": 1158,
+                "end": 1180,
+                "label": "HOSP"
+            },
+            {
+                "id": 11,
+                "start": 1195,
+                "end": 1200,
+                "label": "HOSP"
+            },
+            {
+                "id": 12,
+                "start": 1218,
+                "end": 1240,
+                "label": "PATORG"
+            }
+        ],
+        "meta": {
+            "note_id": "5013",
+            "patient_id": "001"
+        }
+    },
+    {
+        "text": "------\n                        MEDICAL RECORD\n------\nPatient Details:\nName:           Nadeesha Perera\nAge:            34 years\nGender:         Female\nPatient ID:     NP672345\nDOB:            July 12, 1990\nVisit Date:     December 18, 2024\n\nConsulting Doctor: Dr. Priya Fernando\nLab Technician:       Anjali Gunawardena\n\n------\nMedical History:\n------\n1. No known history of chronic illness.\n2. Complaints of joint pain in the knees and lower back.\n3. Recent symptoms include fatigue and mild fever.\n\n------\nTest Results:\n------\nBlood Pressure:     130/85 mmHg (Normal: <130/80 mmHg)\nBlood Sugar:        110 mg/dL (Normal: 70-100 mg/dL)\nHemoglobin A1C:     5.8% (Normal: <5.7%)\n\nLipid Profile:\n- Total Cholesterol:     180 mg/dL (Desirable: <200 mg/dL)\n- LDL (Low-Density Lipoprotein): 90 mg/dL (Optimal: <100 mg/dL)\n- HDL (High-Density Lipoprotein): 55 mg/dL (Normal: >40 mg/dL)\n- Triglycerides:         140 mg/dL (Normal: <150 mg/dL)\n\n------\nPatient Contact Information:\nPhone:           (077) 345 6789\nEmail:           nadeesha.perera@email.lk\nLocation:        124/1, Colombo Road, Kiribathgoda, Gampaha, Sri Lanka\nHospital:        Nawaloka Hospital, Colombo, ID# 14587\nWorkplace:       ABC Software Solutions\n\n------\n                        END OF REPORT\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 86,
+                "end": 101,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 118,
+                "end": 120,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 166,
+                "end": 174,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 191,
+                "end": 204,
+                "label": "BIRTHDATE"
+            },
+            {
+                "id": 4,
+                "start": 221,
+                "end": 238,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 259,
+                "end": 277,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 300,
+                "end": 318,
+                "label": "STAFF"
+            },
+            {
+                "id": 7,
+                "start": 989,
+                "end": 1003,
+                "label": "PHONE"
+            },
+            {
+                "id": 8,
+                "start": 1021,
+                "end": 1045,
+                "label": "EMAIL"
+            },
+            {
+                "id": 9,
+                "start": 1063,
+                "end": 1116,
+                "label": "LOC"
+            },
+            {
+                "id": 10,
+                "start": 1134,
+                "end": 1151,
+                "label": "HOSP"
+            },
+            {
+                "id": 11,
+                "start": 1166,
+                "end": 1171,
+                "label": "HOSP"
+            },
+            {
+                "id": 12,
+                "start": 1189,
+                "end": 1211,
+                "label": "PATORG"
+            }
+        ],
+        "meta": {
+            "note_id": "5014",
+            "patient_id": "001"
+        }
+    },
+    {
+        "text": "------\n                        MEDICAL RECORD\n------\nPatient Details:\nName:           Samanthi Kumarasinghe\nAge:            28 years\nGender:         Female\nPatient ID:     SK985432\nDOB:            April 10, 1996\nVisit Date:     December 20, 2024\n\nConsulting Doctor: Dr. Ruwan Perera\nLab Technician:       Lahiru Jayasinghe\n\n------\nMedical History:\n------\n1. No significant past medical history.\n2. Complaints of severe headache and nausea for 2 days.\n3. No known allergies.\n\n------\nTest Results:\n------\nBlood Pressure:     125/80 mmHg (Normal: <130/80 mmHg)\nBlood Sugar:        95 mg/dL (Normal: 70-100 mg/dL)\nHemoglobin A1C:     5.4% (Normal: <5.7%)\n\nLipid Profile:\n- Total Cholesterol:     170 mg/dL (Desirable: <200 mg/dL)\n- LDL (Low-Density Lipoprotein): 85 mg/dL (Optimal: <100 mg/dL)\n- HDL (High-Density Lipoprotein): 60 mg/dL (Normal: >40 mg/dL)\n- Triglycerides:         130 mg/dL (Normal: <150 mg/dL)\n\n------\nPatient Contact Information:\nPhone:           (011) 987-6543\nEmail:           samanthi.kumarasinghe@email.lk\nLocation:        42, Kandy Road, Galle, Sri Lanka\nHospital:        Asiri Central Hospital, Colombo, ID# 12765\nWorkplace:       ABC Communications\n\n------\n                        END OF REPORT\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 86,
+                "end": 107,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 124,
+                "end": 126,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 172,
+                "end": 180,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 197,
+                "end": 211,
+                "label": "BIRTHDATE"
+            },
+            {
+                "id": 4,
+                "start": 228,
+                "end": 245,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 266,
+                "end": 282,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 305,
+                "end": 322,
+                "label": "STAFF"
+            },
+            {
+                "id": 7,
+                "start": 963,
+                "end": 977,
+                "label": "PHONE"
+            },
+            {
+                "id": 8,
+                "start": 995,
+                "end": 1025,
+                "label": "EMAIL"
+            },
+            {
+                "id": 9,
+                "start": 1043,
+                "end": 1075,
+                "label": "LOC"
+            },
+            {
+                "id": 10,
+                "start": 1093,
+                "end": 1115,
+                "label": "HOSP"
+            },
+            {
+                "id": 11,
+                "start": 1130,
+                "end": 1135,
+                "label": "HOSP"
+            },
+            {
+                "id": 12,
+                "start": 1153,
+                "end": 1171,
+                "label": "PATORG"
+            }
+        ],
+        "meta": {
+            "note_id": "5015",
+            "patient_id": "001"
+        }
+    },
+    {
+        "text": "------\n                        MEDICAL RECORD\n------\nPatient Details:\nName:           Arjuna Perera\nAge:            35 years\nGender:         Male\nPatient ID:     AP654321\nDOB:            June 15, 1989\nVisit Date:     December 22, 2024\n\nConsulting Doctor: Dr. Nilani Fernando\nLab Technician:       Chamara Silva\n\n------\nMedical History:\n------\n1. History of asthma and allergic rhinitis.\n2. Recently complained of chest tightness and cough for 3 days.\n3. No known drug allergies.\n\n------\nTest Results:\n------\nBlood Pressure:     135/90 mmHg (Normal: <130/80 mmHg)\nBlood Sugar:        100 mg/dL (Normal: 70-100 mg/dL)\nHemoglobin A1C:     5.6% (Normal: <5.7%)\n\nLipid Profile:\n- Total Cholesterol:     195 mg/dL (Desirable: <200 mg/dL)\n- LDL (Low-Density Lipoprotein): 115 mg/dL (Optimal: <100 mg/dL)\n- HDL (High-Density Lipoprotein): 55 mg/dL (Normal: >40 mg/dL)\n- Triglycerides:         140 mg/dL (Normal: <150 mg/dL)\n\n------\nPatient Contact Information:\nPhone:           (011) 555-7890\nEmail:           arjuna.perera@email.lk\nLocation:        15, Colombo Road, Kandy, Sri Lanka\nHospital:        Nawaloka Hospital, Colombo, ID# 31579\nWorkplace:       Lanka Electronics Ltd.\n\n------\n                        END OF REPORT\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 86,
+                "end": 99,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 116,
+                "end": 118,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 162,
+                "end": 170,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 187,
+                "end": 200,
+                "label": "BIRTHDATE"
+            },
+            {
+                "id": 4,
+                "start": 217,
+                "end": 234,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 255,
+                "end": 274,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 297,
+                "end": 310,
+                "label": "STAFF"
+            },
+            {
+                "id": 7,
+                "start": 970,
+                "end": 984,
+                "label": "PHONE"
+            },
+            {
+                "id": 8,
+                "start": 1002,
+                "end": 1024,
+                "label": "EMAIL"
+            },
+            {
+                "id": 9,
+                "start": 1042,
+                "end": 1076,
+                "label": "LOC"
+            },
+            {
+                "id": 10,
+                "start": 1094,
+                "end": 1111,
+                "label": "HOSP"
+            },
+            {
+                "id": 11,
+                "start": 1126,
+                "end": 1131,
+                "label": "HOSP"
+            },
+            {
+                "id": 12,
+                "start": 1149,
+                "end": 1171,
+                "label": "PATORG"
+            }
+        ],
+        "meta": {
+            "note_id": "5016",
+            "patient_id": "001"
+        }
+    },
+    {
+        "text": "------\n                        MEDICAL RECORD\n------\nPatient Details:\nName:           Saman Perera\nAge:            60 years\nGender:         Male\nPatient ID:     SP893456\nDOB:            November 5, 1964\nVisit Date:     December 20, 2024\n\nConsulting Doctor: Dr. Sanjeewa Perera\nLab Technician:       Anusha Jayasinghe\n\n------\nMedical History:\n------\n1. History of type 2 diabetes, diagnosed 5 years ago.\n2. Complains of frequent urination and excessive thirst for the past week.\n3. No known drug allergies.\n\n------\nTest Results:\n------\nBlood Pressure:     145/95 mmHg (Normal: <130/80 mmHg)\nBlood Sugar:        180 mg/dL (Normal: 70-100 mg/dL)\nHemoglobin A1C:     7.5% (Normal: <5.7%)\n\nLipid Profile:\n- Total Cholesterol:     220 mg/dL (Desirable: <200 mg/dL)\n- LDL (Low-Density Lipoprotein): 130 mg/dL (Optimal: <100 mg/dL)\n- HDL (High-Density Lipoprotein): 40 mg/dL (Normal: >40 mg/dL)\n- Triglycerides:         160 mg/dL (Normal: <150 mg/dL)\n\n------\nPatient Contact Information:\nPhone:           (071) 123-4567\nEmail:           saman.perera@email.lk\nLocation:        25, Galle Road, Colombo 06, Sri Lanka\nHospital:        Asiri Hospital, Colombo, ID# 87654\nWorkplace:       Ceylon Tea Company\n\n------\n                        END OF REPORT\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 86,
+                "end": 98,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 115,
+                "end": 117,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 161,
+                "end": 169,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 186,
+                "end": 202,
+                "label": "BIRTHDATE"
+            },
+            {
+                "id": 4,
+                "start": 219,
+                "end": 236,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 257,
+                "end": 276,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 299,
+                "end": 316,
+                "label": "STAFF"
+            },
+            {
+                "id": 7,
+                "start": 997,
+                "end": 1011,
+                "label": "PHONE"
+            },
+            {
+                "id": 8,
+                "start": 1029,
+                "end": 1050,
+                "label": "EMAIL"
+            },
+            {
+                "id": 9,
+                "start": 1068,
+                "end": 1105,
+                "label": "LOC"
+            },
+            {
+                "id": 10,
+                "start": 1123,
+                "end": 1137,
+                "label": "HOSP"
+            },
+            {
+                "id": 11,
+                "start": 1152,
+                "end": 1157,
+                "label": "HOSP"
+            },
+            {
+                "id": 12,
+                "start": 1175,
+                "end": 1193,
+                "label": "PATORG"
+            }
+        ],
+        "meta": {
+            "note_id": "5017",
+            "patient_id": "001"
+        }
+    },
+    {
+        "text": "------\n                        MEDICAL CONSULTATION SUMMARY\n------\nPatient Information:\nName:           Priya Kumari\nAge:            35 years\nGender:         Female\nPatient ID:     PK526743\nDOB:            February 14, 1989\nConsultation Date: December 18, 2024\n\nPrimary Physician: Dr. Nalin Fernando\nConsulting Physician: Dr. Saman Wickramasinghe\n\n------\nMedical History:\n------\n1. Diagnosed with asthma since childhood.\n2. Recently had a severe allergic reaction after eating seafood.\n3. No previous surgeries.\n\n------\nConsultation Details:\n------\nSymptoms: Coughing, shortness of breath, wheezing\nPhysical Examination: Clear lungs on auscultation, normal oxygen saturation.\n\nTreatment Plan:\n------\n- Inhaler: Ventolin (Salbutamol) 100 mcg, 2 puffs every 4 hours as needed\n- Antihistamine: Loratadine 10 mg once daily\n- Prescribed blood tests for IgE levels and chest X-ray\n\n------\nPatient Contact Information:\nPhone:           (077) 765-4321\nEmail:           priya.kumari@email.lk\nLocation:        112, Peradeniya Road, Kandy, Sri Lanka\nHospital:        Kandy General Hospital, ID# 24987\nWorkplace:       ABC Engineering Ltd.\n\n------\n                        END OF CONSULTATION SUMMARY\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 104,
+                "end": 116,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 133,
+                "end": 135,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 181,
+                "end": 189,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 206,
+                "end": 223,
+                "label": "BIRTHDATE"
+            },
+            {
+                "id": 4,
+                "start": 243,
+                "end": 260,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 281,
+                "end": 299,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 322,
+                "end": 346,
+                "label": "STAFF"
+            },
+            {
+                "id": 7,
+                "start": 929,
+                "end": 943,
+                "label": "PHONE"
+            },
+            {
+                "id": 8,
+                "start": 961,
+                "end": 982,
+                "label": "EMAIL"
+            },
+            {
+                "id": 9,
+                "start": 1000,
+                "end": 1038,
+                "label": "LOC"
+            },
+            {
+                "id": 10,
+                "start": 1056,
+                "end": 1078,
+                "label": "HOSP"
+            },
+            {
+                "id": 11,
+                "start": 1084,
+                "end": 1089,
+                "label": "HOSP"
+            },
+            {
+                "id": 12,
+                "start": 1107,
+                "end": 1127,
+                "label": "PATORG"
+            }
+        ],
+        "meta": {
+            "note_id": "5018",
+            "patient_id": "001"
+        }
+    },
+    {
+        "text": "------\n                        MEDICAL CONSULTATION REPORT\n------\nPatient Information:\nName:           Sanjay Perera\nAge:            42 years\nGender:         Male\nPatient ID:     SP852014\nDate of nativity:            March 23, 1982\nConsultation Date: December 20, 2024\n\nPrimary Physician: Dr. Rajitha Weerasinghe\nConsulting Physician: Dr. Suranga Fernando\n\n------\nMedical History:\n------\n1. Hypertension for the past 5 years.\n2. No known drug allergies.\n3. Family history of heart disease.\n4. No history of smoking or alcohol use.\n\n------\nConsultation Details:\n------\nSymptoms: High blood pressure, occasional dizziness\nPhysical Examination: Blood pressure: 145/90 mmHg, pulse: 80 bpm, BMI: 27\n\nTreatment Plan:\n------\n- Lisinopril 10 mg once daily\n- Hydrochlorothiazide 25 mg once daily\n- Recommended stress test and follow-up visit in 1 month\n\n------\nPatient Contact Information:\nPhone:           (071) 235-4789\nEmail:           sanjay.perera@email.lk\nLocation:        56, Galle Road, Colombo 03, Sri Lanka\nHospital:        Nawaloka Hospital, ID# 51234\nWorkplace:       XYZ Technologies Pvt. Ltd.\n\n------\n                        END OF REPORT\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 103,
+                "end": 116,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 133,
+                "end": 135,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 179,
+                "end": 187,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 217,
+                "end": 231,
+                "label": "BIRTHDATE"
+            },
+            {
+                "id": 4,
+                "start": 251,
+                "end": 268,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 289,
+                "end": 312,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 335,
+                "end": 355,
+                "label": "STAFF"
+            },
+            {
+                "id": 7,
+                "start": 898,
+                "end": 912,
+                "label": "PHONE"
+            },
+            {
+                "id": 8,
+                "start": 930,
+                "end": 952,
+                "label": "EMAIL"
+            },
+            {
+                "id": 9,
+                "start": 970,
+                "end": 1007,
+                "label": "LOC"
+            },
+            {
+                "id": 10,
+                "start": 1025,
+                "end": 1042,
+                "label": "HOSP"
+            },
+            {
+                "id": 11,
+                "start": 1048,
+                "end": 1053,
+                "label": "HOSP"
+            },
+            {
+                "id": 12,
+                "start": 1071,
+                "end": 1097,
+                "label": "PATORG"
+            }
+        ],
+        "meta": {
+            "note_id": "5019",
+            "patient_id": "001"
+        }
+    },
+    {
+        "text": "------\n                        MEDICAL CONSULTATION REPORT\n------\nPatient Information:\nName:           Nimal Kumarasinghe\nAge:            50 years\nGender:         Male\nPatient ID:     NK123458\nDate of birth:            October 14, 1974\nConsultation Date: December 22, 2024\n\nPrimary Physician: Dr. Shanika Perera\nConsulting Physician: Dr. Ruwan Jayasinghe\n\n------\nMedical History:\n------\n1. Type 2 Diabetes Mellitus, diagnosed 3 years ago.\n2. No known drug allergies.\n3. Family history of stroke.\n4. Moderate smoker for 10 years, recently quit.\n\n------\nConsultation Details:\n------\nSymptoms: Increased thirst, frequent urination, fatigue\nPhysical Examination: Blood pressure: 130/85 mmHg, pulse: 78 bpm, BMI: 29\n\nTreatment Plan:\n------\n- Metformin 500 mg twice daily\n- Glipizide 5 mg once daily\n- Regular blood glucose monitoring\n- Referred to dietitian for a nutrition plan\n\n------\nPatient Contact Information:\nPhone:           (071) 563-2104\nEmail:           nimal.kumarasinghe@email.lk\nLocation:        28, Kandy Road, Nugegoda, Sri Lanka\nHospital:        Asiri Hospital, ID# 77889\nWorkplace:       Lanka Electronics Pvt. Ltd.\n\n------\n                        END OF REPORT\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 103,
+                "end": 121,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 138,
+                "end": 140,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 184,
+                "end": 192,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 219,
+                "end": 235,
+                "label": "BIRTHDATE"
+            },
+            {
+                "id": 4,
+                "start": 255,
+                "end": 272,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 293,
+                "end": 311,
+                "label": "STAFF"
+            },
+            {
+                "id": 6,
+                "start": 334,
+                "end": 354,
+                "label": "STAFF"
+            },
+            {
+                "id": 7,
+                "start": 928,
+                "end": 942,
+                "label": "PHONE"
+            },
+            {
+                "id": 8,
+                "start": 960,
+                "end": 987,
+                "label": "EMAIL"
+            },
+            {
+                "id": 9,
+                "start": 1005,
+                "end": 1040,
+                "label": "LOC"
+            },
+            {
+                "id": 10,
+                "start": 1058,
+                "end": 1072,
+                "label": "HOSP"
+            },
+            {
+                "id": 11,
+                "start": 1078,
+                "end": 1083,
+                "label": "HOSP"
+            },
+            {
+                "id": 12,
+                "start": 1101,
+                "end": 1128,
+                "label": "PATORG"
+            }
+        ],
+        "meta": {
+            "note_id": "5020",
+            "patient_id": "001"
+        }
+    },
+    {
+        "text": "------\n                        DISCHARGE SUMMARY\n------\nPatient Information:\nName:           Suraj Perera\nAge:            62 years\nGender:         Male\nPatient ID:     SP124589\nBirth day:            February 15, 1962\nAdmission Date: December 10, 2024\nDischarge Date: December 20, 2024\n\n------\nHospital Information:\n------\nHospital: Lanka Hospitals, ID# 56734\nRoom No: 102-B\n\n------\nDiagnosis:\n------\n1. Acute Myocardial Infarction\n2. Type 2 Diabetes Mellitus\n\n------\nTreatment Administered:\n------\n- Coronary Angioplasty on December 12, 2024\n- Aspirin 75 mg once daily\n- Atorvastatin 40 mg once daily\n- Insulin therapy initiated with NovoRapid 10 units TDS\n\n------\nFollow-Up Plan:\n------\n- Regular cardiology review every 3 months.\n- Lifestyle modifications: Quit smoking and adopt a low-sodium diet.\n- Continue prescribed medications.\n\n------\nPatient Contact Details:\nPhone:           (077) 345-9821\nEmail:           suraj.perera45@email.com\nLocation:        12, Galle Road, Matara, Sri Lanka\nWorkplace:       Southern Engineering Services Pvt. Ltd.\n\n------\nPhysicians:\n------\nPrimary Physician: Dr. Kavinda Wickramasinghe\nConsulting Cardiologist: Dr. Anjali Fernando\n\n------\n                        END OF SUMMARY\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 93,
+                "end": 105,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 122,
+                "end": 124,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 168,
+                "end": 176,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 199,
+                "end": 216,
+                "label": "BIRTHDATE"
+            },
+            {
+                "id": 4,
+                "start": 233,
+                "end": 250,
+                "label": "DATE"
+            },
+            {
+                "id": 5,
+                "start": 267,
+                "end": 284,
+                "label": "DATE"
+            },
+            {
+                "id": 6,
+                "start": 332,
+                "end": 347,
+                "label": "HOSP"
+            },
+            {
+                "id": 7,
+                "start": 353,
+                "end": 358,
+                "label": "HOSP"
+            },
+            {
+                "id": 8,
+                "start": 359,
+                "end": 373,
+                "label": "LOC"
+            },
+            {
+                "id": 9,
+                "start": 886,
+                "end": 900,
+                "label": "PHONE"
+            },
+            {
+                "id": 10,
+                "start": 918,
+                "end": 942,
+                "label": "EMAIL"
+            },
+            {
+                "id": 11,
+                "start": 960,
+                "end": 993,
+                "label": "LOC"
+            },
+            {
+                "id": 12,
+                "start": 1011,
+                "end": 1050,
+                "label": "PATORG"
+            },
+            {
+                "id": 13,
+                "start": 1097,
+                "end": 1123,
+                "label": "STAFF"
+            },
+            {
+                "id": 14,
+                "start": 1149,
+                "end": 1168,
+                "label": "STAFF"
+            }
+        ],
+        "meta": {
+            "note_id": "5021",
+            "patient_id": "001"
+        }
+    },
+    {
+        "text": "------\n                     PRESCRIPTION RECORD\n------\nPatient Information:\n------\nName:           Anusha Jayawardena\nAge:            38 years\nGender:         Female\nPatient ID:     AJ789452\nDate of Issue:  December 23, 2024\n\n------\nPrescribing Physician:\n------\nName:           Dr. Nishan Perera\nLicense No:     SLMC-54239\nContact:        n.perera@lankamedical.com\n\n------\nMedication Details:\n------\n1. Paracetamol 500 mg - Take 1 tablet every 6 hours for 5 days.\n2. Amoxicillin 250 mg - Take 1 capsule every 8 hours for 7 days.\n3. Cetirizine 10 mg - Take 1 tablet at bedtime for 3 days.\n\n------\nPharmacy Information:\n------\nDispensing Pharmacy: MedLink Pharmacy, Galle\nPharmacy ID:          PH124567\nContact:              (091) 222-4456\n\n------\nPatient Contact Details:\n------\nPhone:           (077) 789-4523\nEmail:           anusha.jayawardena@email.com\nAddress:         24, Dharmapala Mawatha, Galle, Sri Lanka\nWorkplace:       Horizon Software Solutions Pvt. Ltd.\n\n------\nComments:\n------\n- Complete the antibiotic course to prevent resistance.\n- Follow up with Dr. Nishan Perera on December 30, 2024.\n\n------\n                     END OF RECORD\n------",
+        "spans": [
+            {
+                "id": 0,
+                "start": 99,
+                "end": 117,
+                "label": "PATIENT"
+            },
+            {
+                "id": 1,
+                "start": 134,
+                "end": 136,
+                "label": "AGE"
+            },
+            {
+                "id": 2,
+                "start": 182,
+                "end": 190,
+                "label": "ID"
+            },
+            {
+                "id": 3,
+                "start": 207,
+                "end": 224,
+                "label": "DATE"
+            },
+            {
+                "id": 4,
+                "start": 279,
+                "end": 296,
+                "label": "STAFF"
+            },
+            {
+                "id": 5,
+                "start": 313,
+                "end": 323,
+                "label": "ID"
+            },
+            {
+                "id": 6,
+                "start": 340,
+                "end": 365,
+                "label": "EMAIL"
+            },
+            {
+                "id": 7,
+                "start": 647,
+                "end": 663,
+                "label": "HOSP"
+            },
+            {
+                "id": 8,
+                "start": 693,
+                "end": 701,
+                "label": "HOSP"
+            },
+            {
+                "id": 9,
+                "start": 724,
+                "end": 738,
+                "label": "PHONE"
+            },
+            {
+                "id": 10,
+                "start": 796,
+                "end": 810,
+                "label": "PHONE"
+            },
+            {
+                "id": 11,
+                "start": 828,
+                "end": 856,
+                "label": "EMAIL"
+            },
+            {
+                "id": 12,
+                "start": 874,
+                "end": 914,
+                "label": "LOC"
+            },
+            {
+                "id": 13,
+                "start": 932,
+                "end": 968,
+                "label": "PATORG"
+            },
+            {
+                "id": 14,
+                "start": 1088,
+                "end": 1105,
+                "label": "DATE"
+            }
+        ],
+        "meta": {
+            "note_id": "5022",
+            "patient_id": "001"
+        }
+    }
+]
