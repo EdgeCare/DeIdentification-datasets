@@ -637,7 +637,7 @@
                 "id": 1,
                 "start": 32,
                 "end": 47,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": 2,
@@ -4276,7 +4276,7 @@
                 "id": 0,
                 "start": 25,
                 "end": 39,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": 1,
@@ -5182,7 +5182,7 @@
                 "id": 0,
                 "start": 20,
                 "end": 37,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": 1,
@@ -5203,7 +5203,7 @@
                 "id": 0,
                 "start": 16,
                 "end": 33,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": 1,
