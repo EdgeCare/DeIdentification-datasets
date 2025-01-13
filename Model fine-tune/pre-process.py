@@ -1,7 +1,8 @@
 # open 1.json and 2.json and combine them into 3.json
 import json
+import random
 
-def change_id_to_int(file_path):
+def change_id_to_int(file_path="all_data.json"):
     with open(file_path) as f:
         data1 = json.load(f)
         f.close()
@@ -15,11 +16,29 @@ def change_id_to_int(file_path):
         json.dump(data1, f, indent=4)
         f.close()
 
+def split_data(input_file="all_data.json", train_file="train.json", validation_file="validation.json", val_count=200):
+    """
+    Randomly selects `val_count` entries for validation.json, saves the rest in train.json.
+    """
+    with open(input_file) as f:
+        data = json.load(f)
+
+    random.shuffle(data)
+    validation_data = data[:val_count]
+    train_data = data[val_count:]
+
+    with open(validation_file, 'w') as val_f:
+        json.dump(validation_data, val_f, indent=4)
+    
+    with open(train_file, 'w') as train_f:
+        json.dump(train_data, train_f, indent=4)
+    
+    print(f"Split data into {len(validation_data)} entries in {validation_file} and {len(train_data)} entries in {train_file}")
 
 
 if __name__ == "__main__":
-    change_id_to_int('train.json')
-    change_id_to_int('validation.json')
+    change_id_to_int()
+    split_data()
 
     print("Pre process done!")
 
