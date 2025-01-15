@@ -121,7 +121,7 @@
                 "id": "0",
                 "start": 23,
                 "end": 41,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": "1",
@@ -2170,7 +2170,7 @@
                 "id": "1",
                 "start": 32,
                 "end": 50,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             }
         ]
     },
@@ -3145,7 +3145,7 @@
                 "id": "1",
                 "start": 37,
                 "end": 52,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             }
         ]
     },
@@ -3472,7 +3472,7 @@
                 "id": "1",
                 "start": 33,
                 "end": 48,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             }
         ]
     },
@@ -3772,7 +3772,7 @@
                 "id": "1",
                 "start": 48,
                 "end": 61,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             }
         ]
     },
@@ -5539,7 +5539,7 @@
                 "id": "1",
                 "start": 37,
                 "end": 47,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": "2",
@@ -5950,7 +5950,7 @@
                 "id": "1",
                 "start": 29,
                 "end": 39,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": "2",
@@ -6274,7 +6274,7 @@
                 "id": "1",
                 "start": 27,
                 "end": 37,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": "2",
@@ -6649,7 +6649,7 @@
                 "id": "1",
                 "start": 23,
                 "end": 33,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": "2",
@@ -6820,7 +6820,7 @@
                 "id": "1",
                 "start": 26,
                 "end": 36,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": "2",
@@ -7210,7 +7210,7 @@
                 "id": "1",
                 "start": 20,
                 "end": 30,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": "2",
@@ -7315,7 +7315,7 @@
                 "id": "2",
                 "start": 49,
                 "end": 59,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             }
         ]
     },
@@ -7627,7 +7627,7 @@
                 "id": "1",
                 "start": 34,
                 "end": 44,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": "2",
@@ -7840,7 +7840,7 @@
                 "id": "1",
                 "start": 24,
                 "end": 34,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": "2",
@@ -7956,7 +7956,7 @@
         ]
     },
     {
-        "text": "Note: Patient Evelyn Scott (DOB: 09/15/1980) seen at Sunrise Clinic for assessment.",
+        "text": "Note: Patient Evelyn Scott (DOB: 09/15/2008) seen at Sunrise Clinic for assessment.",
         "meta": {
             "note_id": "1794",
             "patient_id": "111"
@@ -7972,7 +7972,7 @@
                 "id": "1",
                 "start": 33,
                 "end": 43,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": "2",
@@ -8082,7 +8082,7 @@
         ]
     },
     {
-        "text": "Contact information for Paul Wong (DOB: 10/22/1975) at Oakwood Medical: +1-555-789-4321.",
+        "text": "Contact information for Paul Wong (DOB: 10/22/2010) at Oakwood Medical: +1-555-789-4321.",
         "meta": {
             "note_id": "1798",
             "patient_id": "115"
@@ -8098,7 +8098,7 @@
                 "id": "1",
                 "start": 40,
                 "end": 50,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": "2",
