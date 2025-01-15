@@ -6132,7 +6132,7 @@
         ]
     },
     {
-        "text": "The patient, Rachel Green, born on 05/07/1985, resides at 76 Cedar St, Oakwood. Her ID is C8901.",
+        "text": "The patient, Rachel Green, born on 05/07/2000, resides at 76 Cedar St, Oakwood. Her ID is C8901.",
         "meta": {
             "note_id": "1738",
             "patient_id": "55"
@@ -6148,7 +6148,7 @@
                 "id": "1",
                 "start": 35,
                 "end": 45,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": "2",
