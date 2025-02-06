@@ -588,7 +588,7 @@
                 "id": 12,
                 "start": 1325,
                 "end": 1345,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ],
         "meta": {
@@ -675,7 +675,7 @@
                 "id": 12,
                 "start": 1285,
                 "end": 1308,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ],
         "meta": {
@@ -762,7 +762,7 @@
                 "id": 12,
                 "start": 1270,
                 "end": 1296,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ],
         "meta": {
@@ -849,7 +849,7 @@
                 "id": 12,
                 "start": 1218,
                 "end": 1240,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ],
         "meta": {
@@ -936,7 +936,7 @@
                 "id": 12,
                 "start": 1189,
                 "end": 1211,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ],
         "meta": {
@@ -1023,7 +1023,7 @@
                 "id": 12,
                 "start": 1153,
                 "end": 1171,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ],
         "meta": {
@@ -1110,7 +1110,7 @@
                 "id": 12,
                 "start": 1149,
                 "end": 1171,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ],
         "meta": {
@@ -1197,7 +1197,7 @@
                 "id": 12,
                 "start": 1175,
                 "end": 1193,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ],
         "meta": {
@@ -1284,7 +1284,7 @@
                 "id": 12,
                 "start": 1107,
                 "end": 1127,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ],
         "meta": {
@@ -1371,7 +1371,7 @@
                 "id": 12,
                 "start": 1071,
                 "end": 1097,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ],
         "meta": {
@@ -1458,7 +1458,7 @@
                 "id": 12,
                 "start": 1101,
                 "end": 1128,
-                "label": "PATORG"
+                "label": "ORG"
             }
         ],
         "meta": {
@@ -1545,7 +1545,7 @@
                 "id": 12,
                 "start": 1011,
                 "end": 1050,
-                "label": "PATORG"
+                "label": "ORG"
             },
             {
                 "id": 13,
@@ -1650,7 +1650,7 @@
                 "id": 13,
                 "start": 932,
                 "end": 968,
-                "label": "PATORG"
+                "label": "ORG"
             },
             {
                 "id": 14,
