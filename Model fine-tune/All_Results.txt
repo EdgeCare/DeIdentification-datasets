@@ -1,0 +1,30 @@
+=== All Runs Results ===
+                     model_checkpoint  learning_rate  batch_size  precision     recall        f1  accuracy  ONNX_size
+1           google/mobilebert-uncased        0.00005          16   0.972540	  0.985323	0.978890  0.994195   94.48 MB
+2   microsoft/MiniLM-L12-H384-uncased        0.00010          24   0.972665   0.983871  0.978236  0.994068  127.00 MB   
+3   microsoft/MiniLM-L12-H384-uncased        0.00010          16   0.979215   0.976959  0.978085  0.993503  127.00 MB   
+4           google/mobilebert-uncased        0.00010          16   0.979167   0.974654  0.976905  0.992938   94.48 MB  
+5             distilbert-base-uncased        0.00010          16   0.970387   0.981567  0.975945  0.993785  253.32 MB   
+6             distilbert-base-uncased        0.00010          24   0.974654   0.974654  0.974654  0.992090  253.32 MB  
+7           google/mobilebert-uncased        0.00005          24   0.976852   0.972350  0.974596  0.992090   94.48 MB   
+8           google/mobilebert-uncased        0.00010          24   0.972414   0.974654  0.973533  0.993220   94.48 MB 
+9                 prajjwal1/bert-tiny        0.00010          16   0.909707   0.928571  0.919042  0.981921   16.73 MB   
+10                prajjwal1/bert-tiny        0.00010          32   0.893333   0.926267  0.909502  0.979379   16.73 MB  
+11                prajjwal1/bert-tiny        0.00005          32   0.812775   0.850230  0.831081  0.964972   16.73 MB   
+ 
+
+=== Best Run from Each Model ===
+                    model_checkpoint  learning_rate  batch_size  precision     recall        f1  accuracy  ONNX_size
+1          google/mobilebert-uncased        0.00005          16   0.972540   0.985323  0.978890  0.994195   94.48 MB   
+0            distilbert-base-uncased        0.00010          16   0.970387   0.981567  0.975945  0.993785  253.32 MB
+2  microsoft/MiniLM-L12-H384-uncased        0.00010          24   0.972665   0.983871  0.978236  0.994068  127.00 MB 
+3                prajjwal1/bert-tiny        0.00010          16   0.909707   0.928571  0.919042  0.981921   16.73 MB    
+
+=== Best Overall Across All Models ===
+model_checkpoint                            google/mobilebert-uncased 
+learning_rate                                                 0.00005
+batch_size                                                         16
+precision                                                    0.972540
+recall                                                       0.985323
+f1                                                           0.978890
+accuracy                                                     0.994195
