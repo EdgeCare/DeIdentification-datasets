@@ -16,7 +16,7 @@ def change_id_to_int(file_path="all_data.json"):
         json.dump(data1, f, indent=4)
         f.close()
 
-def split_data(input_file="all_data.json", train_file="train.json", validation_file="validation.json", val_count=125):
+def split_data(input_file="all_data.json", train_file="train.json", validation_file="validation.json", val_percentage=0.2):
     """
     Randomly selects `val_count` entries for validation.json, saves the rest in train.json.
     """
@@ -24,6 +24,7 @@ def split_data(input_file="all_data.json", train_file="train.json", validation_f
         data = json.load(f)
 
     random.shuffle(data)
+    val_count = int(len(data) * val_percentage)
     validation_data = data[:val_count]
     train_data = data[val_count:]
 
