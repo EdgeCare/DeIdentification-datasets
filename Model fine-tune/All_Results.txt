@@ -15,8 +15,8 @@
 
 === Best Run from Each Model ===
                     model_checkpoint  learning_rate  batch_size  precision     recall        f1  accuracy  ONNX_size
-1          google/mobilebert-uncased        0.00005          16   0.972540   0.985323  0.978890  0.994195   94.48 MB   
-0            distilbert-base-uncased        0.00010          16   0.970387   0.981567  0.975945  0.993785  253.32 MB
+0          google/mobilebert-uncased        0.00005          16   0.972540   0.985323  0.978890  0.994195   94.48 MB   
+1            distilbert-base-uncased        0.00010          16   0.970387   0.981567  0.975945  0.993785  253.32 MB
 2  microsoft/MiniLM-L12-H384-uncased        0.00010          24   0.972665   0.983871  0.978236  0.994068  127.00 MB 
 3                prajjwal1/bert-tiny        0.00010          16   0.909707   0.928571  0.919042  0.981921   16.73 MB    
 
@@ -28,3 +28,6 @@ precision                                                    0.972540
 recall                                                       0.985323
 f1                                                           0.978890
 accuracy                                                     0.994195
+
+
+Drive link: https://drive.google.com/drive/folders/1X2UJ_gmH8Xs1qePq64xThdtMDIOXc8i-?usp=sharing

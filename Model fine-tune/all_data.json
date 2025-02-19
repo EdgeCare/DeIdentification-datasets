@@ -4918,12 +4918,6 @@
                 "start": 5,
                 "end": 7,
                 "label": "AGE"
-            },
-            {
-                "id": 1,
-                "start": 52,
-                "end": 61,
-                "label": "ORG"
             }
         ]
     },
@@ -6819,7 +6813,7 @@
                 "id": 1,
                 "start": 26,
                 "end": 36,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": 2,
@@ -12429,7 +12423,7 @@
                 "id": 0,
                 "start": 14,
                 "end": 28,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": 1,
@@ -13617,6 +13611,12 @@
                 "id": 0,
                 "start": 17,
                 "end": 29,
+                "label": "PATIENT"
+            },
+            {
+                "id": 0,
+                "start": 75,
+                "end": 81,
                 "label": "PATIENT"
             },
             {
@@ -18503,6 +18503,12 @@
             },
             {
                 "id": 7,
+                "start": 1372,
+                "end": 1380,
+                "label": "STAFF"
+            },
+            {
+                "id": 8,
                 "start": 1384,
                 "end": 1400,
                 "label": "DATE"
@@ -19669,7 +19675,7 @@
                 "id": 8,
                 "start": 693,
                 "end": 701,
-                "label": "HOSP"
+                "label": "ID"
             },
             {
                 "id": 9,

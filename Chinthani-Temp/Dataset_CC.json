@@ -4919,12 +4919,6 @@
                 "start": 5,
                 "end": 7,
                 "label": "AGE"
-            },
-            {
-                "id": "1",
-                "start": 52,
-                "end": 61,
-                "label": "ORG"
             }
         ]
     },

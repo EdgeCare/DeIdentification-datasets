@@ -11942,7 +11942,7 @@
                 "id": "0",
                 "start": 16,
                 "end": 30,
-                "label": "DATE"
+                "label": "BIRTHDATE"
             },
             {
                 "id": "1",
@@ -13403,6 +13403,12 @@
                 "id": "0",
                 "start": 17,
                 "end": 30,
+                "label": "PATIENT"
+            },
+            {
+                "id": 0,
+                "start": 75,
+                "end": 81,
                 "label": "PATIENT"
             },
             {
