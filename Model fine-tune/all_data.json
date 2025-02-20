@@ -2168,6 +2168,13 @@
                 "end": 59,
                 "label": "HOSP",
                 "text": "City Hospital"
+            },
+            {
+                "id": 2,
+                "start": 60,
+                "end": 68,
+                "label": "TIMESTAMPS",
+                "text": "tomorrow"
             }
         ]
     },
@@ -2889,7 +2896,7 @@
         ]
     },
     {
-        "text": "My daughter, Isabella Green, is running a high fever of 102 Â°F.",
+        "text": "My daughter, Isabella Green, is running a high fever of 102 \u00c2\u00b0F.",
         "meta": {
             "note_id": "451",
             "patient_id": "33001234"
@@ -5341,16 +5348,9 @@
             {
                 "id": 0,
                 "start": 2,
-                "end": 13,
+                "end": 4,
                 "label": "AGE",
-                "text": "32-year-old"
-            },
-            {
-                "id": 1,
-                "start": 27,
-                "end": 36,
-                "label": "ORG",
-                "text": "migraines"
+                "text": "32"
             }
         ]
     },
@@ -6000,7 +6000,7 @@
                 "id": 1,
                 "start": 37,
                 "end": 47,
-                "label": "DATE",
+                "label": "BIRTHDATE",
                 "text": "07/07/1980"
             },
             {
@@ -9065,9 +9065,9 @@
             {
                 "id": 1,
                 "start": 36,
-                "end": 43,
+                "end": 37,
                 "label": "AGE",
-                "text": "5 years"
+                "text": "5"
             }
         ]
     },
@@ -11272,15 +11272,15 @@
             {
                 "id": 1,
                 "start": 44,
-                "end": 58,
+                "end": 65,
                 "label": "HOSP",
-                "text": "Sunrise Health"
+                "text": "Sunrise Health Center"
             },
             {
                 "id": 2,
                 "start": 66,
                 "end": 75,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last year"
             }
         ]
@@ -11517,7 +11517,7 @@
                 "id": 1,
                 "start": 59,
                 "end": 68,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "two weeks"
             }
         ]
@@ -17035,43 +17035,6 @@
         ]
     },
     {
-        "text": "Emergency admission: Helen Troy, DOB 07/07/1980, admitted 12/01/2024 due to severe asthma. Contact number 555-0234.",
-        "meta": {
-            "note_id": "1",
-            "patient_id": "2345604"
-        },
-        "spans": [
-            {
-                "id": 0,
-                "start": 21,
-                "end": 31,
-                "label": "PATIENT",
-                "text": "Helen Troy"
-            },
-            {
-                "id": 1,
-                "start": 37,
-                "end": 47,
-                "label": "BIRTHDATE",
-                "text": "07/07/1980"
-            },
-            {
-                "id": 2,
-                "start": 58,
-                "end": 68,
-                "label": "DATE",
-                "text": "12/01/2024"
-            },
-            {
-                "id": 3,
-                "start": 106,
-                "end": 114,
-                "label": "PHONE",
-                "text": "555-0234"
-            }
-        ]
-    },
-    {
         "text": "Patient: Hi, I'm John Doe. I have a fever for the last 3 days.\nDoctor: Hello, John. I see your ID is JD12345. Do you recall when it started?\nPatient: Around December 5th, after my trip to New York.",
         "meta": {
             "note_id": "2",
@@ -17655,7 +17618,7 @@
                 "id": 1,
                 "start": 76,
                 "end": 82,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "a week"
             },
             {
@@ -19338,7 +19301,7 @@
         ]
     },
     {
-        "text": "Fasting blood sugar\nA level below 5.6 mmol/L (100 mg/dL) 10–16 hours without eating is normal. 5.6–6 mmol/L (100–109 mg/dL) may indicate prediabetes and oral glucose tolerance test (OGTT) should be offered to high-risk individuals (old people, those with high blood pressure etc.). 6.1–6.9 mmol/L (110–125 mg/dL) means OGTT should be offered even if other indicators of diabetes are not present. 7 mmol/L (126 mg/dL) and above indicates diabetes and the fasting test should be repeated.",
+        "text": "Fasting blood sugar\nA level below 5.6 mmol/L (100 mg/dL) 10\u201316 hours without eating is normal. 5.6\u20136 mmol/L (100\u2013109 mg/dL) may indicate prediabetes and oral glucose tolerance test (OGTT) should be offered to high-risk individuals (old people, those with high blood pressure etc.). 6.1\u20136.9 mmol/L (110\u2013125 mg/dL) means OGTT should be offered even if other indicators of diabetes are not present. 7 mmol/L (126 mg/dL) and above indicates diabetes and the fasting test should be repeated.",
         "meta": {
             "note_id": "3003"
         },
@@ -19635,14 +19598,14 @@
         "spans": []
     },
     {
-        "text": "Physical Examination\nVital Signs:\n\nBlood Pressure: 150/90 mmHg\nHeart Rate: 92 bpm\nRespiratory Rate: 20/min\nTemperature: 98.6°F\nGeneral Appearance:\n\nAlert, cooperative, mildly obese\nCardiovascular:\n\nRegular rhythm, no murmurs, S1 and S2 audible\nPeripheral pulses intact\nRespiratory:\n\nClear breath sounds bilaterally, no wheezes or crackles\nAbdomen:\n\nSoft, non-tender, no masses\nNeurological:\n\nCranial nerves intact, normal reflexes",
+        "text": "Physical Examination\nVital Signs:\n\nBlood Pressure: 150/90 mmHg\nHeart Rate: 92 bpm\nRespiratory Rate: 20/min\nTemperature: 98.6\u00b0F\nGeneral Appearance:\n\nAlert, cooperative, mildly obese\nCardiovascular:\n\nRegular rhythm, no murmurs, S1 and S2 audible\nPeripheral pulses intact\nRespiratory:\n\nClear breath sounds bilaterally, no wheezes or crackles\nAbdomen:\n\nSoft, non-tender, no masses\nNeurological:\n\nCranial nerves intact, normal reflexes",
         "meta": {
             "note_id": "3010"
         },
         "spans": []
     },
     {
-        "text": "A number of vitamins have distinct vitamers of distinct biological potencies. Like the biological international unit, the IU for vitamins is also an arbitrary number that cannot be interconverted among different types of activities. By 1934, the World Health Organization had already defined the international units for vitamins A, B1, C, and D.\n\nUnlike biologic preparations, small molecules like vitamins can be very easily purified to yield products that are equivalent in potency. As a result, a simple mass conversion (as opposed to an assay) suffices to obtain the IU:\n\n1 IU Vitamin A = 0.3 μg retinol (~0.1 nmol) = 0.6 μg beta-carotene\n1 IU Vitamin D = 0.025 μg D2/D3 ≈ 0.65 pmol\n1 IU Vitamin E = 2⁄3 mg d-alpha-tocopherol = 0.90 mg of dl-alpha-tocopherol",
+        "text": "A number of vitamins have distinct vitamers of distinct biological potencies. Like the biological international unit, the IU for vitamins is also an arbitrary number that cannot be interconverted among different types of activities. By 1934, the World Health Organization had already defined the international units for vitamins A, B1, C, and D.\n\nUnlike biologic preparations, small molecules like vitamins can be very easily purified to yield products that are equivalent in potency. As a result, a simple mass conversion (as opposed to an assay) suffices to obtain the IU:\n\n1 IU Vitamin A = 0.3 \u03bcg retinol (~0.1 nmol) = 0.6 \u03bcg beta-carotene\n1 IU Vitamin D = 0.025 \u03bcg D2/D3 \u2248 0.65 pmol\n1 IU Vitamin E = 2\u20443 mg d-alpha-tocopherol = 0.90 mg of dl-alpha-tocopherol",
         "meta": {
             "note_id": "3011"
         },
@@ -21568,10 +21531,10 @@
             },
             {
                 "id": 8,
-                "start": 359,
+                "start": 368,
                 "end": 373,
-                "label": "LOC",
-                "text": "Room No: 102-B"
+                "label": "ID",
+                "text": "102-B"
             },
             {
                 "id": 9,

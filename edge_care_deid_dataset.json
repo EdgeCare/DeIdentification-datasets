@@ -53512,39 +53512,6 @@
         ]
     },
     {
-        "sentence": "Emergency admission: Helen Troy, DOB 07/07/1980, admitted 12/01/2024 due to severe asthma. Contact number 555-0234.",
-        "meta": {
-            "note_id": "1721",
-            "patient_id": "2345604"
-        },
-        "spans": [
-            {
-                "id": "0",
-                "start": 20,
-                "end": 30,
-                "label": "PATIENT"
-            },
-            {
-                "id": "1",
-                "start": 36,
-                "end": 46,
-                "label": "DATE"
-            },
-            {
-                "id": "2",
-                "start": 56,
-                "end": 66,
-                "label": "DATE"
-            },
-            {
-                "id": "3",
-                "start": 97,
-                "end": 105,
-                "label": "PHONE"
-            }
-        ]
-    },
-    {
         "sentence": "Follow-up visit on 01/22/2025 for Mr. Leo Fisher showed improvement in diabetic symptoms. Email: leo.fisher@medicmail.com.",
         "meta": {
             "note_id": "1722",
