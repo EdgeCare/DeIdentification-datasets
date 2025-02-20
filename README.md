@@ -6,7 +6,7 @@ This repository contains a de-identification dataset designed for anonymizing pe
 
 ## Data Structure
 
-The dataset is stored in `all_data.json` and follows the structure below:
+The dataset is stored in [`all_data.json`](./all_data.json) and follows the structure below:
 
 ```json
 {
