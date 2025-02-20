@@ -4,9 +4,9 @@ with open('all_data.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 for entry in data:
-    text = entry["text"] 
+    sentence = entry["sentence"] 
     for span in entry["spans"]:
-        span_text = text[span["start"]:span["end"]] 
+        span_text = sentence[span["start"]:span["end"]] 
         span["text"] = span_text 
 
 with open('updated_all_data.json', 'w', encoding='utf-8') as f:

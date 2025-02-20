@@ -6065,7 +6065,7 @@
             },
             {
                 "id": 1,
-                "start": 39,
+                "start": 33,
                 "end": 50,
                 "label": "STAFF",
                 "text": "Alice Green"
@@ -21791,35 +21791,42 @@
         },
         "spans": [
             {
-                "id": "0",
+                "id": 0,
+                "start": 3,
+                "end": 13,
+                "label": "TIMESTAMPS",
+                "text": "12:30 p.m."
+            },
+            {
+                "id": "1",
                 "start": 15,
                 "end": 29,
                 "label": "STAFF",
                 "text": "Dr. Lisa Brown"
             },
             {
-                "id": "1",
+                "id": "2",
                 "start": 51,
                 "end": 66,
                 "label": "PATIENT",
                 "text": "Michael Johnson"
             },
             {
-                "id": "2",
+                "id": "3",
                 "start": 73,
                 "end": 75,
                 "label": "AGE",
                 "text": "60"
             },
             {
-                "id": "3",
+                "id": "4",
                 "start": 80,
                 "end": 101,
                 "label": "HOSP",
                 "text": "City General Hospital"
             },
             {
-                "id": "4",
+                "id": "5",
                 "start": 105,
                 "end": 118,
                 "label": "DATE",
@@ -22965,24 +22972,28 @@
             },
             {
                 "id": "1",
-                "start": 56,
-                "end": 66,
-                "label": "DATE",
-                "text": "03/15/2024"
+                "start": 46,
+                "end": 54,
+                "label": "TIMESTAMPS",
+                "text": "10:00 AM"
             },
             {
                 "id": "2",
-                "start": 71,
-                "end": 99,
-                "label": "HOSP",
-                "text": "Springfield General Hospital"
+                "start": 56,
+                "end": 66,
+                "label": "DATE"
             },
             {
                 "id": "3",
+                "start": 71,
+                "end": 99,
+                "label": "HOSP"
+            },
+            {
+                "id": "4",
                 "start": 110,
                 "end": 130,
-                "label": "EMAIL",
-                "text": "mary.lee@example.com"
+                "label": "EMAIL"
             }
         ]
     },
@@ -27018,14 +27029,15 @@
     {
         "sentence": "The concert by Lakshan Herath will be held at 67 Royal Avenue, Anuradhapura, on December 10, 2024.",
         "meta": {
-            "note_id": 4179
+            "note_id": 4179,
+            "sl_context": true
         },
         "spans": [
             {
                 "id": "0",
                 "start": 15,
                 "end": 29,
-                "label": "STAFF",
+                "label": "PATIENT",
                 "text": "Lakshan Herath"
             },
             {
@@ -27148,7 +27160,7 @@
                 "id": "1",
                 "start": 78,
                 "end": 96,
-                "label": "STAFF",
+                "label": "PATIENT",
                 "text": "Damith Jayawardena"
             }
         ]
@@ -27178,14 +27190,15 @@
     {
         "sentence": "Contact Dinuka Samarasinghe at +94 71 678 4321 for details about the fitness boot camp starting in July 2024.",
         "meta": {
-            "note_id": 4185
+            "note_id": 4185,
+            "sl_context": true
         },
         "spans": [
             {
                 "id": "0",
                 "start": 8,
                 "end": 27,
-                "label": "STAFF",
+                "label": "PATIENT",
                 "text": "Dinuka Samarasinghe"
             },
             {
@@ -27221,7 +27234,7 @@
                 "id": "1",
                 "start": 74,
                 "end": 90,
-                "label": "STAFF",
+                "label": "PATIENT",
                 "text": "Amara Gunasekara"
             },
             {
@@ -27705,7 +27718,7 @@
                 "id": "0",
                 "start": 7,
                 "end": 23,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "mid-20th century"
             }
         ]
@@ -27790,7 +27803,8 @@
     {
         "sentence": "Sri Lanka has eight UNESCO World Heritage Sites, including the Ancient City of Polonnaruwa and the Central Highlands of Sri Lanka. ",
         "meta": {
-            "note_id": 4223
+            "note_id": 4223,
+            "sl_context": true
         },
         "spans": [
             {
@@ -27802,17 +27816,17 @@
             },
             {
                 "id": "1",
-                "start": 79,
+                "start": 63,
                 "end": 90,
                 "label": "LOC",
-                "text": "Polonnaruwa"
+                "text": "Ancient City of Polonnaruwa"
             },
             {
                 "id": "2",
-                "start": 0,
-                "end": 9,
+                "start": 99,
+                "end": 129,
                 "label": "LOC",
-                "text": "Sri Lanka"
+                "text": "Central Highlands of Sri Lanka"
             }
         ]
     },
@@ -28123,21 +28137,6 @@
                 "end": 184,
                 "label": "LOC",
                 "text": "Palk Strait"
-            }
-        ]
-    },
-    {
-        "sentence": "The early human remains found on the island of Sri Lanka date back to about 38,000 years ago (Balangoda Man).",
-        "meta": {
-            "note_id": 4247
-        },
-        "spans": [
-            {
-                "id": "0",
-                "start": 47,
-                "end": 56,
-                "label": "LOC",
-                "text": "Sri Lanka"
             }
         ]
     },
