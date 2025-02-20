@@ -19,7 +19,7 @@ The dataset is stored in [`all_data.json`](./all_data.json) and follows the stru
             "id": "0",
             "start": 0,
             "end": 12,
-            "label": "PATIENT"
+            "label": "PERSON"
         },
         {
             "id": "1",
