@@ -1,13 +1,14 @@
 {
-    "PATIENT": 625,
-    "STAFF": 238,
-    "HOSP": 372,
-    "PHONE": 130,
-    "LOC": 243,
-    "DATE": 474,
+    "PERSON": 630,
+    "STAFF": 231,
+    "HOSP": 373,
+    "PHONE": 129,
+    "LOC": 235,
+    "DATE": 421,
+    "BIRTHDATE": 56,
     "EMAIL": 113,
-    "ID": 172,
+    "ID": 173,
     "AGE": 129,
     "ORG": 122,
-    "BIRTHDATE": 41
+    "TIMESTAMPS": 42
 }

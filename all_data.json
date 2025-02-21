@@ -132,7 +132,7 @@
                 "id": 0,
                 "start": 23,
                 "end": 41,
-                "label": "DATE",
+                "label": "BIRTHDATE",
                 "text": "September 12, 1990"
             },
             {
@@ -348,23 +348,16 @@
         "spans": [
             {
                 "id": 0,
-                "start": 17,
-                "end": 23,
-                "label": "PERSON",
-                "text": "father"
-            },
-            {
-                "id": 1,
                 "start": 42,
                 "end": 49,
                 "label": "LOC",
                 "text": "Houston"
             },
             {
-                "id": 2,
+                "id": 1,
                 "start": 65,
                 "end": 75,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last month"
             }
         ]
@@ -488,7 +481,7 @@
                 "id": 2,
                 "start": 57,
                 "end": 66,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last week"
             }
         ]
@@ -834,7 +827,7 @@
                 "id": 1,
                 "start": 32,
                 "end": 42,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last month"
             }
         ]
@@ -896,7 +889,7 @@
                 "id": 1,
                 "start": 47,
                 "end": 56,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last year"
             }
         ]
@@ -1969,7 +1962,7 @@
                 "id": 2,
                 "start": 58,
                 "end": 67,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last year"
             }
         ]
@@ -2063,7 +2056,7 @@
                 "id": 1,
                 "start": 46,
                 "end": 55,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last week"
             }
         ]
@@ -2236,7 +2229,7 @@
                 "id": 1,
                 "start": 35,
                 "end": 44,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last week"
             }
         ]
@@ -2362,7 +2355,7 @@
                 "id": 1,
                 "start": 32,
                 "end": 50,
-                "label": "DATE",
+                "label": "BIRTHDATE",
                 "text": "December last year"
             }
         ]
@@ -2842,7 +2835,7 @@
                 "id": 2,
                 "start": 54,
                 "end": 64,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last month"
             }
         ]
@@ -3134,7 +3127,7 @@
                 "id": 1,
                 "start": 51,
                 "end": 61,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last month"
             }
         ]
@@ -3226,7 +3219,7 @@
                 "id": 1,
                 "start": 52,
                 "end": 60,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "tomorrow"
             }
         ]
@@ -3349,7 +3342,7 @@
                 "id": 1,
                 "start": 52,
                 "end": 62,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last month"
             }
         ]
@@ -3411,7 +3404,7 @@
                 "id": 1,
                 "start": 37,
                 "end": 52,
-                "label": "DATE",
+                "label": "BIRTHDATE",
                 "text": "July 15th, 1990"
             }
         ]
@@ -3607,7 +3600,7 @@
                 "id": 1,
                 "start": 49,
                 "end": 59,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last month"
             }
         ]
@@ -3630,7 +3623,7 @@
                 "id": 1,
                 "start": 24,
                 "end": 34,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last month"
             }
         ]
@@ -3763,7 +3756,7 @@
                 "id": 1,
                 "start": 33,
                 "end": 48,
-                "label": "DATE",
+                "label": "BIRTHDATE",
                 "text": "March 3rd, 2010"
             }
         ]
@@ -4089,7 +4082,7 @@
                 "id": 1,
                 "start": 48,
                 "end": 61,
-                "label": "DATE",
+                "label": "BIRTHDATE",
                 "text": "July 15, 2008"
             }
         ]
@@ -4704,7 +4697,7 @@
                 "id": 2,
                 "start": 62,
                 "end": 71,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last week"
             }
         ]
@@ -5588,7 +5581,7 @@
                 "id": 1,
                 "start": 21,
                 "end": 30,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last year"
             },
             {
@@ -6463,7 +6456,7 @@
                 "id": 1,
                 "start": 29,
                 "end": 39,
-                "label": "DATE",
+                "label": "BIRTHDATE",
                 "text": "07/30/1980"
             },
             {
@@ -6685,7 +6678,7 @@
                 "id": 1,
                 "start": 35,
                 "end": 45,
-                "label": "DATE",
+                "label": "BIRTHDATE",
                 "text": "05/07/1985"
             },
             {
@@ -6826,7 +6819,7 @@
                 "id": 1,
                 "start": 27,
                 "end": 37,
-                "label": "DATE",
+                "label": "BIRTHDATE",
                 "text": "12/03/1976"
             },
             {
@@ -7247,7 +7240,7 @@
                 "id": 1,
                 "start": 23,
                 "end": 33,
-                "label": "DATE",
+                "label": "BIRTHDATE",
                 "text": "04/09/1981"
             },
             {
@@ -7876,7 +7869,7 @@
                 "id": 1,
                 "start": 20,
                 "end": 30,
-                "label": "DATE",
+                "label": "BIRTHDATE",
                 "text": "11/11/1989"
             },
             {
@@ -7994,7 +7987,7 @@
                 "id": 2,
                 "start": 49,
                 "end": 59,
-                "label": "DATE",
+                "label": "BIRTHDATE",
                 "text": "03/21/1979"
             }
         ]
@@ -8343,7 +8336,7 @@
                 "id": 1,
                 "start": 34,
                 "end": 44,
-                "label": "DATE",
+                "label": "BIRTHDATE",
                 "text": "06/09/1990"
             },
             {
@@ -8581,7 +8574,7 @@
                 "id": 1,
                 "start": 24,
                 "end": 34,
-                "label": "DATE",
+                "label": "BIRTHDATE",
                 "text": "01/02/1985"
             },
             {
@@ -8729,7 +8722,7 @@
                 "id": 1,
                 "start": 33,
                 "end": 43,
-                "label": "DATE",
+                "label": "BIRTHDATE",
                 "text": "09/15/1980"
             },
             {
@@ -8870,7 +8863,7 @@
                 "id": 1,
                 "start": 40,
                 "end": 50,
-                "label": "DATE",
+                "label": "BIRTHDATE",
                 "text": "10/22/1975"
             },
             {
@@ -9128,7 +9121,7 @@
                 "id": 1,
                 "start": 42,
                 "end": 66,
-                "label": "LOC",
+                "label": "HOSP",
                 "text": "Northside Medical Center"
             }
         ]
@@ -9151,7 +9144,7 @@
                 "id": 1,
                 "start": 51,
                 "end": 61,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last month"
             }
         ]
@@ -10029,7 +10022,7 @@
                 "id": 1,
                 "start": 56,
                 "end": 66,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last month"
             }
         ]
@@ -11022,7 +11015,7 @@
                 "id": 2,
                 "start": 69,
                 "end": 78,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last week"
             }
         ]
@@ -11703,7 +11696,7 @@
                 "id": 2,
                 "start": 42,
                 "end": 51,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last week"
             }
         ]
@@ -12149,7 +12142,7 @@
                 "id": 2,
                 "start": 54,
                 "end": 63,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last year"
             }
         ]
@@ -12356,7 +12349,7 @@
                 "id": 2,
                 "start": 48,
                 "end": 57,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last year"
             }
         ]
@@ -13353,7 +13346,7 @@
                 "id": 1,
                 "start": 59,
                 "end": 68,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last week"
             }
         ]
@@ -13500,7 +13493,7 @@
                 "id": 1,
                 "start": 54,
                 "end": 63,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last week"
             }
         ]
@@ -13523,7 +13516,7 @@
                 "id": 1,
                 "start": 65,
                 "end": 74,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last week"
             }
         ]
@@ -13538,9 +13531,9 @@
             {
                 "id": 0,
                 "start": 4,
-                "end": 10,
+                "end": 19,
                 "label": "PERSON",
-                "text": "Claire"
+                "text": "Claire Thompson"
             }
         ]
     },
@@ -14787,7 +14780,7 @@
                 "id": 2,
                 "start": 55,
                 "end": 64,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last week"
             }
         ]
@@ -14817,7 +14810,7 @@
                 "id": 2,
                 "start": 60,
                 "end": 69,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last week"
             }
         ]
@@ -15702,7 +15695,7 @@
                 "id": 3,
                 "start": 94,
                 "end": 103,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last year"
             }
         ]
@@ -17384,7 +17377,7 @@
                 "id": 1,
                 "start": 41,
                 "end": 51,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last month"
             }
         ]
@@ -18350,7 +18343,7 @@
                 "id": 2,
                 "start": 33,
                 "end": 42,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last week"
             }
         ]
@@ -18387,7 +18380,7 @@
                 "id": 1,
                 "start": 35,
                 "end": 47,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last 5 years"
             }
         ]
@@ -18854,7 +18847,7 @@
                 "id": 1,
                 "start": 33,
                 "end": 41,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "tomorrow"
             },
             {
@@ -18920,7 +18913,7 @@
                 "id": 1,
                 "start": 43,
                 "end": 52,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last week"
             }
         ]
@@ -25090,7 +25083,7 @@
                 "id": "0",
                 "start": 80,
                 "end": 97,
-                "label": "LOC",
+                "label": "ORG",
                 "text": "Grand Opera House"
             },
             {
@@ -26302,7 +26295,8 @@
     {
         "sentence": "Priya Arulanantham's wedding invitations were printed at Jaffna Print Solutions and delivered to 24 Station Road, Jaffna.",
         "meta": {
-            "note_id": 4152
+            "note_id": 4152,
+            "sl_context": true
         },
         "spans": [
             {
@@ -26780,16 +26774,17 @@
         ]
     },
     {
-        "sentence": "The IT workshop by Dinusha Abeysinghe will be held at Tech Park Colombo on April 25, 2024, for aspiring coders.",
+        "sentence": "The IT workshop by Dinusha Abeysinghe will be held at TechParks Colombo on April 25, 2024, for aspiring coders.",
         "meta": {
-            "note_id": 4170
+            "note_id": 4170,
+            "sl_context": true
         },
         "spans": [
             {
                 "id": "0",
                 "start": 19,
                 "end": 37,
-                "label": "STAFF",
+                "label": "PERSON",
                 "text": "Dinusha Abeysinghe"
             },
             {
@@ -26797,7 +26792,7 @@
                 "start": 54,
                 "end": 63,
                 "label": "ORG",
-                "text": "Tech Park"
+                "text": "TechParks"
             },
             {
                 "id": "2",
@@ -26941,7 +26936,8 @@
     {
         "sentence": "The hiking group led by Sandun Ratnayake departed from 89 Mountain Trail, Ratnapura, at 6:00 AM on July 12, 2024.",
         "meta": {
-            "note_id": 4175
+            "note_id": 4175,
+            "sl_context": true
         },
         "spans": [
             {
@@ -26960,6 +26956,13 @@
             },
             {
                 "id": "2",
+                "start": 88,
+                "end": 95,
+                "label": "TIMESTAMPS",
+                "text": "6:00 AM"
+            },
+            {
+                "id": "3",
                 "start": 99,
                 "end": 112,
                 "label": "DATE",
@@ -27028,7 +27031,7 @@
                 "id": "0",
                 "start": 8,
                 "end": 28,
-                "label": "STAFF",
+                "label": "PERSON",
                 "text": "Shalini Samarasinghe"
             },
             {
@@ -27379,14 +27382,15 @@
     {
         "sentence": "Contact Rajith Abeysekara at rajith.abeysekara@logistics.lk for shipping inquiries to Trincomalee.",
         "meta": {
-            "note_id": 4191
+            "note_id": 4191,
+            "sl_context": true
         },
         "spans": [
             {
                 "id": "0",
                 "start": 8,
                 "end": 25,
-                "label": "STAFF",
+                "label": "PERSON",
                 "text": "Rajith Abeysekara"
             },
             {
