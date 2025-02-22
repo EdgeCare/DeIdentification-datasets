@@ -13450,7 +13450,7 @@
                 "id": 1,
                 "start": 58,
                 "end": 67,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last June"
             }
         ]
@@ -13489,7 +13489,7 @@
                 "id": 1,
                 "start": 33,
                 "end": 44,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last Monday"
             }
         ]
@@ -13512,7 +13512,7 @@
                 "id": 1,
                 "start": 23,
                 "end": 29,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "Monday"
             }
         ]
@@ -13751,7 +13751,7 @@
                 "id": 1,
                 "start": 51,
                 "end": 57,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "Friday"
             }
         ]
@@ -13774,7 +13774,7 @@
                 "id": 1,
                 "start": 56,
                 "end": 62,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "Friday"
             }
         ]
@@ -13843,7 +13843,7 @@
                 "id": 1,
                 "start": 55,
                 "end": 66,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "next Monday"
             }
         ]
@@ -13866,7 +13866,7 @@
                 "id": 1,
                 "start": 42,
                 "end": 53,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "next Monday"
             }
         ]
@@ -14714,6 +14714,13 @@
                 "end": 30,
                 "label": "LOC",
                 "text": "Washington, D.C."
+            },
+            {
+                "id": 1,
+                "start": 32,
+                "end": 41,
+                "label": "TIMESTAMPS",
+                "text": "last week"
             }
         ]
     },
