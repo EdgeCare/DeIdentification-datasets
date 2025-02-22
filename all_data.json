@@ -2353,10 +2353,17 @@
             },
             {
                 "id": 1,
-                "start": 32,
-                "end": 50,
                 "label": "BIRTHDATE",
-                "text": "December last year"
+                "text": "December",
+                "start": 32,
+                "end": 40
+            },
+            {
+                "id": 2,
+                "label": "TIMESTAMPS",
+                "text": " last year",
+                "start": 40,
+                "end": 50
             }
         ]
     },
@@ -3072,7 +3079,7 @@
                 "id": 1,
                 "start": 49,
                 "end": 58,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "yesterday"
             }
         ]
@@ -9275,7 +9282,7 @@
                 "id": 1,
                 "start": 44,
                 "end": 61,
-                "label": "ORG",
+                "label": "HOSP",
                 "text": "Downtown Pharmacy"
             }
         ]
@@ -9451,9 +9458,16 @@
             {
                 "id": 1,
                 "start": 37,
-                "end": 60,
+                "end": 50,
                 "label": "DATE",
-                "text": "November 15th last year"
+                "text": "November 15th"
+            },
+            {
+                "id": 2,
+                "start": 51,
+                "end": 60,
+                "label": "TIMESTAMPS",
+                "text": "last year"
             }
         ]
     },
@@ -10105,7 +10119,7 @@
                 "id": 2,
                 "start": 68,
                 "end": 78,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "two months"
             }
         ]
@@ -10300,6 +10314,13 @@
                 "end": 48,
                 "label": "DATE",
                 "text": "August 10th"
+            },
+            {
+                "id": 1,
+                "start": 49,
+                "end": 58,
+                "label": "TIMESTAMPS",
+                "text": "this year"
             }
         ]
     },
@@ -10466,7 +10487,7 @@
                 "id": 1,
                 "start": 56,
                 "end": 65,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "next week"
             }
         ]
@@ -11574,6 +11595,13 @@
                 "end": 20,
                 "label": "PERSON",
                 "text": "Amanda Lopez"
+            },
+            {
+                "id": 1,
+                "start": 68,
+                "end": 75,
+                "label": "TIMESTAMPS",
+                "text": "10 days"
             }
         ]
     },
@@ -11765,7 +11793,7 @@
                 "id": 1,
                 "start": 45,
                 "end": 58,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last December"
             }
         ]
@@ -12785,6 +12813,13 @@
                 "end": 6,
                 "label": "PERSON",
                 "text": "Claire"
+            },
+            {
+                "id": 1,
+                "label": "TIMESTAMPS",
+                "text": "this week",
+                "start": 64,
+                "end": 73
             }
         ]
     },
@@ -12935,7 +12970,7 @@
                 "id": 1,
                 "start": 51,
                 "end": 62,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "three weeks"
             }
         ]
@@ -13569,6 +13604,13 @@
         "spans": [
             {
                 "id": 0,
+                "label": "TIMESTAMPS",
+                "text": "yesterday",
+                "start": 26,
+                "end": 35
+            },
+            {
+                "id": 1,
                 "start": 39,
                 "end": 53,
                 "label": "HOSP",
@@ -13589,6 +13631,13 @@
                 "end": 14,
                 "label": "HOSP",
                 "text": "Midtown Clinic"
+            },
+            {
+                "id": 1,
+                "label": "TIMESTAMPS",
+                "text": "yesterday",
+                "start": 54,
+                "end": 63
             }
         ]
     },
@@ -17667,10 +17716,17 @@
             },
             {
                 "id": 1,
-                "start": 56,
-                "end": 71,
                 "label": "DATE",
-                "text": "March this year"
+                "text": "March",
+                "start": 56,
+                "end": 61
+            },
+            {
+                "id": 2,
+                "label": "TIMESTAMPS",
+                "text": "this year",
+                "start": 62,
+                "end": 71
             }
         ]
     },

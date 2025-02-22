@@ -10,5 +10,7 @@
     "8": "EMAIL",
     "9": "LOC",
     "10": "HOSP",
-    "11": "ORG"
+    "11": "ORG",
+    "12": "TIMESTAMPS",
+    "13": "URL"
 }
