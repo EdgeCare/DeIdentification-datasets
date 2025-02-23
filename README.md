@@ -10,43 +10,42 @@ The dataset is stored in [`all_data.json`](./all_data.json) and follows the stru
 
 ```json
 {
-    "sentence": "James Turner, 54, was admitted to Bright Horizons Medical on 06/13/2027 for treatment.",
-    "meta": {
-        "note_id": "2002",
-    },
-    "spans": [
-        {
-            "id": "0",
-            "start": 0,
-            "end": 12,
-            "label": "PERSON"
+        "sentence": "The patient, Zoe Reed, has been receiving treatment since 03/12/2020. Contact: +1-555-678-2345.",
+        "meta": {
+            "note_id": "1750",
+            "sl_context": false
         },
-        {
-            "id": "1",
-            "start": 14,
-            "end": 16,
-            "label": "AGE"
-        },
-        {
-            "id": "2",
-            "start": 35,
-            "end": 56,
-            "label": "HOSP"
-        },
-        {
-            "id": "3",
-            "start": 60,
-            "end": 70,
-            "label": "DATE"
-        }
-    ]
-}
+        "spans": [
+            {
+                "id": 0,
+                "start": 13,
+                "end": 21,
+                "label": "PERSON",
+                "text": "Zoe Reed"
+            },
+            {
+                "id": 1,
+                "start": 58,
+                "end": 68,
+                "label": "DATE",
+                "text": "03/12/2020"
+            },
+            {
+                "id": 2,
+                "start": 79,
+                "end": 94,
+                "label": "PHONE",
+                "text": "+1-555-678-2345"
+            }
+        ]
+    }
 ```
 
 ### Fields:
 - **sentence**: The original text containing sensitive medical information.
 - **meta**: Metadata related to the text sample.
   - **note_id**: Unique identifier for the note.
+  - **sl_context**: Boolean flag indicating if the note includes Sri Lankan context.
 - **spans**: A list of entities detected in the sentence.
   - **id**: Unique identifier for the entity.
   - **start**: Start index of the entity in the sentence.
@@ -71,6 +70,8 @@ The dataset includes the following entity labels:
 | 9   | LOC       | Location (city, state, address, etc.)           |
 | 10  | HOSP      | Hospital or medical institution                 |
 | 11  | ORG       | Organizations or institutions                   |
+| 12  | URL       | URLs                  |
+| 13  | TIMESTAMPS       | Time stamps (e.g. last summer, yesterday)                  |
 
 
 ## Applications
