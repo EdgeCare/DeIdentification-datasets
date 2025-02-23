@@ -726,7 +726,7 @@
                 "id": 1,
                 "start": 39,
                 "end": 50,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last winter"
             }
         ]
@@ -2804,7 +2804,7 @@
                 "start": 55,
                 "end": 61,
                 "label": "TIMESTAMPS",
-                "text": "for a week"
+                "text": "a week"
             }
         ]
     },
@@ -5737,6 +5737,13 @@
                 "end": 9,
                 "label": "STAFF",
                 "text": "Dr. Mason"
+            },
+            {
+                "id": 1,
+                "label": "TIMESTAMPS",
+                "text": "two weeks",
+                "start": 32,
+                "end": 41
             }
         ]
     },
@@ -13091,6 +13098,13 @@
                 "end": 19,
                 "label": "PERSON",
                 "text": "Kevin Brown"
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "a week",
+                "id": 1,
+                "start": 59,
+                "end": 65
             }
         ]
     },
@@ -15774,7 +15788,7 @@
                 "id": 0,
                 "start": 40,
                 "end": 50,
-                "label": "DATE",
+                "label": "BIRTHDATE",
                 "text": "08/14/1986"
             },
             {
@@ -16755,6 +16769,13 @@
             },
             {
                 "id": 1,
+                "label": "TIMESTAMPS",
+                "text": "last year",
+                "start": 68,
+                "end": 77
+            },
+            {
+                "id": 2,
                 "start": 91,
                 "end": 114,
                 "label": "EMAIL",
@@ -16986,6 +17007,13 @@
             },
             {
                 "id": 1,
+                "label": "TIMESTAMPS",
+                "text": "last summer",
+                "start": 56,
+                "end": 67
+            },
+            {
+                "id": 2,
                 "start": 79,
                 "end": 94,
                 "label": "ORG",
@@ -17135,7 +17163,7 @@
         ]
     },
     {
-        "sentence": "Patient: Hi, my name is Emily Parker. My email is emily.parker@example.com.\nDoctor: Thank you, Emily. Can I have your phone number for records?\nPatient: Sure, it's 123-456-7890.",
+        "sentence": "Patient: Hi, my name is Emily Parker. My email is emily.parker@example.com.\nDoctor: Thank you, Emily. Can I have your phone number for records?\nPatient: Sure, it's 077-729 8492.",
         "meta": {
             "note_id": "3",
             "patient_id": "5678910"
@@ -17167,7 +17195,7 @@
                 "start": 164,
                 "end": 176,
                 "label": "PHONE",
-                "text": "123-456-7890"
+                "text": "077-729 8492"
             }
         ]
     },
@@ -17209,7 +17237,7 @@
         ]
     },
     {
-        "sentence": "Doctor: I need your MRN.\nPatient: It's 987654321.\nDoctor: Got it. Please continue describing your symptoms.",
+        "sentence": "Doctor: I need your MRN.\nPatient: It's 882690324.\nDoctor: Got it. Please continue describing your symptoms.",
         "meta": {
             "note_id": "5",
             "patient_id": "7891234"
@@ -17220,7 +17248,7 @@
                 "start": 39,
                 "end": 48,
                 "label": "ID",
-                "text": "987654321"
+                "text": "882690324"
             }
         ]
     },
@@ -17754,7 +17782,7 @@
                 "id": 1,
                 "start": 30,
                 "end": 41,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last summer"
             }
         ]
@@ -18021,7 +18049,7 @@
                 "id": 1,
                 "start": 36,
                 "end": 47,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last winter"
             }
         ]
@@ -18867,6 +18895,13 @@
                 "end": 27,
                 "label": "AGE",
                 "text": "72"
+            },
+            {
+                "id": 2,
+                "label": "TIMESTAMPS",
+                "text": "this year",
+                "start": 28,
+                "end": 37
             }
         ]
     },
@@ -21589,7 +21624,7 @@
                 "id": 7,
                 "start": 353,
                 "end": 358,
-                "label": "HOSP",
+                "label": "ID",
                 "text": "56734"
             },
             {
@@ -21600,42 +21635,49 @@
                 "text": "102-B"
             },
             {
+                "label": "DATE",
+                "text": "December 12, 2024",
                 "id": 9,
+                "start": 524,
+                "end": 541
+            },
+            {
+                "id": 10,
                 "start": 886,
                 "end": 900,
                 "label": "PHONE",
                 "text": "(077) 345-9821"
             },
             {
-                "id": 10,
+                "id": 11,
                 "start": 918,
                 "end": 942,
                 "label": "EMAIL",
                 "text": "suraj.perera45@email.com"
             },
             {
-                "id": 11,
+                "id": 12,
                 "start": 960,
                 "end": 993,
                 "label": "LOC",
                 "text": "12, Galle Road, Matara, Sri Lanka"
             },
             {
-                "id": 12,
+                "id": 13,
                 "start": 1011,
                 "end": 1050,
                 "label": "ORG",
                 "text": "Southern Engineering Services Pvt. Ltd."
             },
             {
-                "id": 13,
+                "id": 14,
                 "start": 1097,
                 "end": 1123,
                 "label": "STAFF",
                 "text": "Dr. Kavinda Wickramasinghe"
             },
             {
-                "id": 14,
+                "id": 15,
                 "start": 1149,
                 "end": 1168,
                 "label": "STAFF",
@@ -21758,7 +21800,7 @@
         ],
         "meta": {
             "note_id": "5022",
-            "patient_id": "001"
+            "sl_context": true
         }
     },
     {
@@ -25829,20 +25871,13 @@
             },
             {
                 "id": 1,
-                "start": 30,
-                "end": 39,
-                "label": "TIMESTAMPS",
-                "text": "a weekend"
-            },
-            {
-                "id": 2,
                 "start": 51,
                 "end": 66,
                 "label": "ORG",
                 "text": "Lakeside Resort"
             },
             {
-                "id": 3,
+                "id": 2,
                 "start": 84,
                 "end": 96,
                 "label": "DATE",
@@ -26129,7 +26164,7 @@
                 "id": 0,
                 "start": 32,
                 "end": 47,
-                "label": "LOC",
+                "label": "ORG",
                 "text": "Kelaniya Temple"
             },
             {
@@ -27321,7 +27356,7 @@
                 "id": 0,
                 "start": 37,
                 "end": 50,
-                "label": "LOC",
+                "label": "ORG",
                 "text": "BMICH Colombo"
             },
             {
@@ -28302,5 +28337,591 @@
             "note_id": "4249"
         },
         "spans": []
+    },
+    {
+        "sentence": "I spoke with Dr. Thushani, the patient's urologist, about most appropriate step for the patient, and Dr. Thushani said she would be happy to care for the patient in the Lanka Hospital and do urologic scopes if necessary and surgery if necessary and blood transfusion",
+        "meta": {
+            "note_id": "15000"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Thushani",
+                "id": 0,
+                "start": 13,
+                "end": 25
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Thushani",
+                "id": 1,
+                "start": 101,
+                "end": 113
+            },
+            {
+                "label": "HOSP",
+                "text": "Lanka Hospital",
+                "id": 2,
+                "start": 169,
+                "end": 183
+            }
+        ]
+    },
+    {
+        "sentence": "Brian George presented to my office for evaluation on January 18 2010, and he was found to have an extremely atrophic mandible with a fracture in the left parasymphysis region involving a failed dental implant, which had been placed approximately 15 years ago",
+        "meta": {
+            "note_id": "15001"
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Brian George",
+                "id": 0,
+                "start": 0,
+                "end": 12
+            },
+            {
+                "label": "DATE",
+                "text": "January 18 2010",
+                "id": 1,
+                "start": 54,
+                "end": 69
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "15 years",
+                "id": 2,
+                "start": 247,
+                "end": 255
+            }
+        ]
+    },
+    {
+        "sentence": "Recurrent urinary tract infection, in a patient who has been hospitalized twice within the last few months, he is on steroids for renal transplant, which has most likely been overall reducing his immune system.",
+        "meta": {
+            "note_id": "15002"
+        },
+        "spans": [
+            {
+                "label": "TIMESTAMPS",
+                "text": "last few months",
+                "id": 0,
+                "start": 91,
+                "end": 106
+            }
+        ]
+    },
+    {
+        "sentence": "HISTORY OF PRESENT ILLNESS: Shanudhi Hettiarachchi is born on 2010 may, African-American male, who was recently discharged from the Keyos hospital on July 21, 2008 after being admitted for altered mental status and before that after undergoing right above knee amputation for wet gangrene.",
+        "meta": {
+            "note_id": "15003"
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Shanudhi Hettiarachchi",
+                "id": 0,
+                "start": 28,
+                "end": 50
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "2010 may",
+                "id": 1,
+                "start": 62,
+                "end": 70
+            },
+            {
+                "label": "HOSP",
+                "text": "Keyos hospital",
+                "id": 2,
+                "start": 132,
+                "end": 146
+            },
+            {
+                "label": "DATE",
+                "text": "July 21, 2008",
+                "id": 3,
+                "start": 150,
+                "end": 163
+            }
+        ]
+    },
+    {
+        "sentence": "In summary, Mr. Bandara had an acute event of perioral swelling, etiology uncertain, occurring on 05/03/2008 requiring transfer from TrustCare Medical Center to Precision Medical Clinic due to a history of renal failure requiring dialysis and he was admitted and treated and felt that his allergy reaction was to Keflex, which was being used to treat a skin cellulitis dialysis shunt infection.",
+        "meta": {
+            "note_id": "15004"
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Mr. Bandara",
+                "id": 0,
+                "start": 12,
+                "end": 23
+            },
+            {
+                "label": "DATE",
+                "text": "05/03/2008",
+                "id": 1,
+                "start": 98,
+                "end": 108
+            },
+            {
+                "label": "HOSP",
+                "text": "TrustCare Medical Center",
+                "id": 2,
+                "start": 133,
+                "end": 157
+            },
+            {
+                "label": "HOSP",
+                "text": "Precision Medical Clinic",
+                "id": 3,
+                "start": 161,
+                "end": 185
+            }
+        ]
+    },
+    {
+        "sentence": "LABORATORY DATA,CEREBROSPINAL FLUID CULTURE AND SENSITIVITY:Gram stain: Unremarkable,Culture: No growth after 72 hours,CEREBROSPINAL FLUID BACTERIAL ANTIGENS:,Hemophilus influenza B: Negative,Streptococcus pneumoniae: Negative,N. Meningitidis: Negative,Neiserria meningitidis B/E. Coli K1: Negative ,Drug Screen Results:URINE SCREEN {IMMUNOASSAY} WAS NEGATIVE.",
+        "meta": {
+            "note_id": "15005"
+        },
+        "spans": [
+            {
+                "label": "TIMESTAMPS",
+                "text": "72 hours",
+                "id": 0,
+                "start": 110,
+                "end": 118
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "72 hours",
+                "id": 1,
+                "start": -1,
+                "end": 7
+            }
+        ]
+    },
+    {
+        "sentence": "Niall FitzGerald (Gaelic footballer)\n\nNiall FitzGerald (1931 - 2012) was an Irish Gaelic footballer who played as a centre-forward for the CorkMaster team. FitzGerald joined the team during the 1950 championship and was a regular member of the starting fifteen until his retirement following the completion of the 1966 championship. During that time he won one National Football League medal and three Munster medals. FitzGerald was an All-Ireland runner-up on two occasions. FitzGerald also enjoyed a lengthy club career with Collins and Macroom, winning two county club championship medals.",
+        "meta": {
+            "note_id": "15006"
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Niall FitzGerald",
+                "id": 0,
+                "start": 0,
+                "end": 16
+            },
+            {
+                "label": "PERSON",
+                "text": "Niall FitzGerald",
+                "id": 1,
+                "start": 38,
+                "end": 54
+            },
+            {
+                "label": "DATE",
+                "text": "1931",
+                "id": 2,
+                "start": 56,
+                "end": 60
+            },
+            {
+                "label": "DATE",
+                "text": "2012",
+                "id": 3,
+                "start": 63,
+                "end": 67
+            },
+            {
+                "label": "ORG",
+                "text": "CorkMaster",
+                "id": 4,
+                "start": 139,
+                "end": 149
+            },
+            {
+                "label": "PERSON",
+                "text": "FitzGerald",
+                "id": 5,
+                "start": 156,
+                "end": 166
+            },
+            {
+                "label": "DATE",
+                "text": "1950",
+                "id": 6,
+                "start": 194,
+                "end": 198
+            },
+            {
+                "label": "DATE",
+                "text": "1966",
+                "id": 7,
+                "start": 314,
+                "end": 318
+            },
+            {
+                "label": "PERSON",
+                "text": "FitzGerald",
+                "id": 8,
+                "start": 418,
+                "end": 428
+            },
+            {
+                "label": "PERSON",
+                "text": "FitzGerald",
+                "id": 9,
+                "start": 476,
+                "end": 486
+            },
+            {
+                "label": "ORG",
+                "text": "Collins and Macroom",
+                "id": 10,
+                "start": 527,
+                "end": 546
+            }
+        ]
+    },
+    {
+        "sentence": "Copyright (c) 2016 PaddlePaddle Authors. All Rights Reserved. Licensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License. You may obtain a copy of the License at\n\n    http://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and\nlimitations under the License.",
+        "meta": {
+            "note_id": "15007"
+        },
+        "spans": [
+            {
+                "label": "ORG",
+                "text": "PaddlePaddle Authors",
+                "id": 0,
+                "start": 19,
+                "end": 39
+            },
+            {
+                "label": "URL",
+                "text": "http://www.apache.org/licenses/LICENSE-2.0",
+                "id": 1,
+                "start": 236,
+                "end": 278
+            }
+        ]
+    },
+    {
+        "sentence": "Robert Richardson (British Army officer)\n\nLieutenant-General Sir Robert Francis Richardson  (2 March 1929 - 21 November 2014) was a British Army officer. Among other posts, he commanded a battalion and a brigade during the Troubles before becoming General Officer Commanding in Northern Ireland from 1982 to 1985. Regimental career\nHe was educated at George Heriot's School, Edinburgh, and then at the Royal Military Academy Sandhurst. He was commissioned into the Royal Scots as a second lieutenant on 16 December 1949, after leaving Sandhurst, and posted to the 1st Battalion. He was promoted to lieutenant on 16 December 1951, and briefly saw service at the end of the Korean War. He then travelled with the battalion to the Middle East, where he was promoted to captain on 16 December 1955. After service with the British Army of the Rhine, he studied at the Defence Services Staff College in India from 1960-1961. He was then posted to staff duties at the Ministry of Defence until 1964, when he attended the Joint Services Staff College. Whilst at the Ministry of Defence, he was promoted to major on 16 December 1962.",
+        "meta": {
+            "note_id": "15008"
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Robert Richardson",
+                "id": 0,
+                "start": 0,
+                "end": 17
+            },
+            {
+                "label": "ORG",
+                "text": "British Army",
+                "id": 1,
+                "start": 19,
+                "end": 31
+            },
+            {
+                "label": "PERSON",
+                "text": "Robert Francis Richardson",
+                "id": 2,
+                "start": 65,
+                "end": 90
+            },
+            {
+                "label": "DATE",
+                "text": "2 March 1929",
+                "id": 3,
+                "start": 93,
+                "end": 105
+            },
+            {
+                "label": "DATE",
+                "text": "21 November 2014",
+                "id": 4,
+                "start": 108,
+                "end": 124
+            },
+            {
+                "label": "ORG",
+                "text": "British Army",
+                "id": 5,
+                "start": 132,
+                "end": 144
+            },
+            {
+                "label": "LOC",
+                "text": "Northern Ireland",
+                "id": 6,
+                "start": 278,
+                "end": 294
+            },
+            {
+                "label": "DATE",
+                "text": "1982",
+                "id": 7,
+                "start": 300,
+                "end": 304
+            },
+            {
+                "label": "DATE",
+                "text": "1985",
+                "id": 8,
+                "start": 308,
+                "end": 312
+            },
+            {
+                "label": "ORG",
+                "text": "George Heriot's School",
+                "id": 9,
+                "start": 351,
+                "end": 373
+            },
+            {
+                "label": "LOC",
+                "text": "Edinburgh",
+                "id": 10,
+                "start": 375,
+                "end": 384
+            },
+            {
+                "label": "ORG",
+                "text": "Royal Military Academy Sandhurst",
+                "id": 11,
+                "start": 402,
+                "end": 434
+            },
+            {
+                "label": "ORG",
+                "text": "Royal Scots",
+                "id": 12,
+                "start": 465,
+                "end": 476
+            },
+            {
+                "label": "DATE",
+                "text": "16 December 1949",
+                "id": 13,
+                "start": 503,
+                "end": 519
+            },
+            {
+                "label": "ORG",
+                "text": "Sandhurst",
+                "id": 14,
+                "start": 535,
+                "end": 544
+            },
+            {
+                "label": "DATE",
+                "text": "16 December 1951",
+                "id": 15,
+                "start": 612,
+                "end": 628
+            },
+            {
+                "label": "LOC",
+                "text": "Middle East",
+                "id": 16,
+                "start": 728,
+                "end": 739
+            },
+            {
+                "label": "DATE",
+                "text": "16 December 1955",
+                "id": 17,
+                "start": 777,
+                "end": 793
+            },
+            {
+                "label": "ORG",
+                "text": "British Army of the Rhine",
+                "id": 18,
+                "start": 818,
+                "end": 843
+            },
+            {
+                "label": "ORG",
+                "text": "Defence Services Staff College",
+                "id": 19,
+                "start": 863,
+                "end": 893
+            },
+            {
+                "label": "LOC",
+                "text": "India",
+                "id": 20,
+                "start": 897,
+                "end": 902
+            },
+            {
+                "label": "DATE",
+                "text": "1960",
+                "id": 21,
+                "start": 908,
+                "end": 912
+            },
+            {
+                "label": "DATE",
+                "text": "1961",
+                "id": 22,
+                "start": 913,
+                "end": 917
+            },
+            {
+                "label": "ORG",
+                "text": "Ministry of Defence",
+                "id": 23,
+                "start": 961,
+                "end": 980
+            },
+            {
+                "label": "DATE",
+                "text": "1964",
+                "id": 24,
+                "start": 987,
+                "end": 991
+            },
+            {
+                "label": "ORG",
+                "text": "Joint Services Staff College",
+                "id": 25,
+                "start": 1014,
+                "end": 1042
+            },
+            {
+                "label": "ORG",
+                "text": "Ministry of Defence",
+                "id": 26,
+                "start": 1058,
+                "end": 1077
+            },
+            {
+                "label": "DATE",
+                "text": "16 December 1962",
+                "id": 27,
+                "start": 1107,
+                "end": 1123
+            }
+        ]
+    },
+    {
+        "sentence": "Jerry and I went to East Texas this weekend. we withdrew $750.00 from the Fredonia bank and I'm going to deposit that in the Credit Union. AND we did get $2,000.00 deposited into Dad's account from the Credit Union",
+        "meta": {
+            "note_id": "15009"
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Jerry",
+                "id": 0,
+                "start": 0,
+                "end": 5
+            },
+            {
+                "label": "LOC",
+                "text": "East Texas",
+                "id": 1,
+                "start": 20,
+                "end": 30
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "this weekend",
+                "id": 2,
+                "start": 31,
+                "end": 43
+            },
+            {
+                "label": "ORG",
+                "text": "Fredonia bank",
+                "id": 3,
+                "start": 74,
+                "end": 87
+            },
+            {
+                "label": "ORG",
+                "text": "Credit Union",
+                "id": 4,
+                "start": 125,
+                "end": 137
+            },
+            {
+                "label": "ORG",
+                "text": "Credit Union",
+                "id": 5,
+                "start": 202,
+                "end": 214
+            }
+        ]
+    },
+    {
+        "sentence": "In 2010, my friend Kari Francis was invited to perform with Imogen Heap at Humphrey's by the Bay in San Diego for her \"Earth\" project. She had entered a contest via YouTube and when given the news, she invited me to come along as her personal photographer for the event. This was quite the privilege […]",
+        "meta": {
+            "note_id": "15010"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "2010",
+                "id": 0,
+                "start": 3,
+                "end": 7
+            },
+            {
+                "label": "PERSON",
+                "text": "Kari Francis",
+                "id": 1,
+                "start": 19,
+                "end": 31
+            },
+            {
+                "label": "PERSON",
+                "text": "Imogen Heap",
+                "id": 2,
+                "start": 60,
+                "end": 71
+            },
+            {
+                "label": "LOC",
+                "text": "San Diego",
+                "id": 3,
+                "start": 100,
+                "end": 109
+            },
+            {
+                "label": "ORG",
+                "text": "YouTube",
+                "id": 4,
+                "start": 165,
+                "end": 172
+            }
+        ]
+    },
+    {
+        "sentence": "Is an algorithm any less racist than a human? - \nhttps://www.theguardian.com/technology/2016/aug/03/algorithm-racist-human-employers-work It's not racism or discrimination if it's based on proven statistics. It's just math and fact. Next thing they are going to ask if a tree has more or less ego than human.",
+        "meta": {
+            "note_id": "15011"
+        },
+        "spans": [
+            {
+                "label": "URL",
+                "text": "https://www.theguardian.com/technology/2016/aug/03/algorithm-racist-human-employers-work",
+                "id": 0,
+                "start": 49,
+                "end": 137
+            }
+        ]
     }
 ]
