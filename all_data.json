@@ -30211,7 +30211,7 @@
     {
         "sentence": "Dr. Russell Liam, a leading pediatrician at National Children's Hospital, treated an infant born on 2023.06.05, who was diagnosed with a rare genetic disorder. The case was registered under ID C-61. Parents can consult Dr. Liam via phone at +1-202-555-0198 or email russell.liam@nationalchildrens.org. More details on pediatric care are available at https://www.nationalchildrens.org/research.",
         "meta": {
-            "note_id": "15022"
+            "note_id": "15021"
         },
         "spans": [
             {
@@ -30275,7 +30275,7 @@
     {
         "sentence": "The World Health Organization (WHO) recently issued new guidelines on combating antibiotic resistance. The report, published on 18.12.2027, outlines critical measures for hospitals worldwide. Dr. Rajan Desai from Mumbai Central Hospital co-authored the study. He can be reached at +91 98765 43210 or via email at rajan.desai@mumbaicentrehosp.in. Full guidelines are available at https://www.who.int/antibiotics and https://www.globalhealthstandards.org.",
         "meta": {
-            "note_id": "15024"
+            "note_id": "15022"
         },
         "spans": [
             {
@@ -30339,7 +30339,7 @@
     {
         "sentence": "Dr. Lester, a senior cardiologist at YouHeal Hospital, performed a complex heart surgery on Mr. Jonathan Reed, a 52-year-old patient, on March 10, 2024. The operation, conducted at YouHeal Hospital in Los Angeles, was successfully completed within five hours. The hospital administration recorded the procedure under patient ID P-001-9264. For more details on cardiac surgery techniques, visit https://www.youhealhospital.com/cardiac-care or email info@youhealhospital.com.",
         "meta": {
-            "note_id": "15021"
+            "note_id": "15023"
         },
         "spans": [
             {
@@ -30418,6 +30418,226 @@
                 "id": 10,
                 "start": 448,
                 "end": 472
+            }
+        ]
+    },
+    {
+        "sentence": "The American Heart Association has announced a breakthrough in heart failure treatment, detailed in their latest research paper published on February 5, 2028. Dr. Emily Carter from New York Presbyterian Hospital contributed to the study, focusing on personalized treatment options. She can be reached at +1-718-555-8765 or at emily99.carter@nyph.org. The full research is available at www.heartresearch.net and www.cardiacbreakthroughs.com.",
+        "meta": {
+            "note_id": "15024"
+        },
+        "spans": [
+            {
+                "label": "ORG",
+                "text": "American Heart Association",
+                "id": 0,
+                "start": 4,
+                "end": 30
+            },
+            {
+                "label": "DATE",
+                "text": "February 5, 2028",
+                "id": 1,
+                "start": 141,
+                "end": 157
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Emily Carter",
+                "id": 2,
+                "start": 159,
+                "end": 175
+            },
+            {
+                "label": "HOSP",
+                "text": "New York Presbyterian Hospital",
+                "id": 3,
+                "start": 181,
+                "end": 211
+            },
+            {
+                "label": "PHONE",
+                "text": "+1-718-555-8765",
+                "id": 4,
+                "start": 304,
+                "end": 319
+            },
+            {
+                "label": "EMAIL",
+                "text": "emily99.carter@nyph.org",
+                "id": 5,
+                "start": 326,
+                "end": 349
+            },
+            {
+                "label": "URL",
+                "text": "www.heartresearch.net",
+                "id": 6,
+                "start": 385,
+                "end": 406
+            },
+            {
+                "label": "URL",
+                "text": "www.cardiacbreakthroughs.com",
+                "id": 7,
+                "start": 411,
+                "end": 439
+            }
+        ]
+    },
+    {
+        "sentence": "Dr. Evelyn Ruth, a senior cardiologist at LifeCare Hospital, performed a life-saving surgery on 57 old patient Jonathan Clark on 2023.04.14. The surgery, which lasted over four hours, was conducted in the hospital's advanced cardiac unit. His patient ID, PAT-782034, was used to retrieve his medical history. For consultations, you can reach Dr. Ruth at +1-202-555-0198 or email him at evelynr@lifecarehosp.org. The latest research about this procedure can be found at https://www.medicalresearchhub.com and https://www.cardiologyupdates.org.",
+        "meta": {
+            "note_id": "15025"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Evelyn Ruth",
+                "id": 0,
+                "start": 0,
+                "end": 15
+            },
+            {
+                "label": "HOSP",
+                "text": "LifeCare Hospital",
+                "id": 1,
+                "start": 42,
+                "end": 59
+            },
+            {
+                "label": "AGE",
+                "text": "57",
+                "id": 2,
+                "start": 96,
+                "end": 98
+            },
+            {
+                "label": "PERSON",
+                "text": "Jonathan Clark",
+                "id": 3,
+                "start": 111,
+                "end": 125
+            },
+            {
+                "label": "DATE",
+                "text": "2023.04.14",
+                "id": 4,
+                "start": 129,
+                "end": 139
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "four hours",
+                "id": 5,
+                "start": 172,
+                "end": 182
+            },
+            {
+                "label": "ID",
+                "text": "PAT-782034",
+                "id": 6,
+                "start": 255,
+                "end": 265
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Ruth",
+                "id": 7,
+                "start": 342,
+                "end": 350
+            },
+            {
+                "label": "PHONE",
+                "text": "+1-202-555-0198",
+                "id": 8,
+                "start": 354,
+                "end": 369
+            },
+            {
+                "label": "EMAIL",
+                "text": "evelynr@lifecarehosp.org",
+                "id": 9,
+                "start": 386,
+                "end": 410
+            },
+            {
+                "label": "URL",
+                "text": "https://www.medicalresearchhub.com",
+                "id": 10,
+                "start": 469,
+                "end": 503
+            },
+            {
+                "label": "URL",
+                "text": "https://www.cardiologyupdates.org",
+                "id": 11,
+                "start": 508,
+                "end": 541
+            }
+        ]
+    },
+    {
+        "sentence": "Nurse Stephanie Doris at Harmony Medical Center has been honored for her 25 years of service in pediatric care. Born on Mar 22, 1970. she has devoted her life to helping children recover from complex illnesses. Her professional ID, NUR-81763, is listed in the National Nurses Directory. She can be contacted at +44 7789 123456 or via email at sdoris@gmail.com. Read more about her achievements at https://www.nursesimpact.com and https://www.healthcareawards.org.",
+        "meta": {
+            "note_id": "15026"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Nurse Stephanie Doris",
+                "id": 0,
+                "start": 0,
+                "end": 21
+            },
+            {
+                "label": "HOSP",
+                "text": "Harmony Medical Center",
+                "id": 1,
+                "start": 25,
+                "end": 47
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "Mar 22, 1970",
+                "id": 2,
+                "start": 120,
+                "end": 132
+            },
+            {
+                "label": "ID",
+                "text": "NUR-81763",
+                "id": 3,
+                "start": 232,
+                "end": 241
+            },
+            {
+                "label": "PHONE",
+                "text": "+44 7789 123456",
+                "id": 4,
+                "start": 311,
+                "end": 326
+            },
+            {
+                "label": "EMAIL",
+                "text": "sdoris@gmail.com",
+                "id": 5,
+                "start": 343,
+                "end": 359
+            },
+            {
+                "label": "URL",
+                "text": "https://www.nursesimpact.com",
+                "id": 6,
+                "start": 397,
+                "end": 425
+            },
+            {
+                "label": "URL",
+                "text": "https://www.healthcareawards.org",
+                "id": 7,
+                "start": 430,
+                "end": 462
             }
         ]
     }
