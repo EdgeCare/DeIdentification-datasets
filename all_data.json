@@ -1702,7 +1702,7 @@
                 "id": 1,
                 "start": 66,
                 "end": 85,
-                "label": "ORG",
+                "label": "HOSP",
                 "text": "Blue Ridge Pharmacy"
             }
         ]
@@ -2340,8 +2340,7 @@
     {
         "sentence": "My son, Jack Brown, was born in December last year.",
         "meta": {
-            "note_id": "418",
-            "patient_id": "31334567"
+            "note_id": "418"
         },
         "spans": [
             {
@@ -2361,8 +2360,8 @@
             {
                 "id": 2,
                 "label": "TIMESTAMPS",
-                "text": " last year",
-                "start": 40,
+                "text": "last year",
+                "start": 41,
                 "end": 50
             }
         ]
@@ -10149,7 +10148,7 @@
                 "id": 1,
                 "start": 56,
                 "end": 63,
-                "label": "HOSP",
+                "label": "ORG",
                 "text": "LabCorp"
             }
         ]
@@ -16838,7 +16837,7 @@
                 "id": 1,
                 "start": 50,
                 "end": 74,
-                "label": "LOC",
+                "label": "HOSP",
                 "text": "Lincoln Pediatric Center"
             },
             {
@@ -19091,7 +19090,7 @@
         ]
     },
     {
-        "sentence": "Michael Johnson, 39, from New York, was admitted to Bellevue Hospital on April 20th, 2023. Emergency contact: 0575553456. Patient's SSN: 123-6789.",
+        "sentence": "Michael Johnson, 39, from New York, was admitted to Bellevue Hospital on April 20th, 2023. Emergency contact: 0575553456. Patient's SSN: 722-6139.",
         "meta": {
             "note_id": "1124"
         },
@@ -19143,7 +19142,7 @@
                 "start": 137,
                 "end": 145,
                 "label": "ID",
-                "text": "123-6789"
+                "text": "722-6139"
             }
         ]
     },
@@ -25046,7 +25045,7 @@
                 "start": 53,
                 "end": 61,
                 "label": "TIMESTAMPS",
-                "text": "April 15, 2024"
+                "text": "10:00 AM"
             },
             {
                 "id": 2,
@@ -28495,13 +28494,6 @@
                 "id": 0,
                 "start": 110,
                 "end": 118
-            },
-            {
-                "label": "TIMESTAMPS",
-                "text": "72 hours",
-                "id": 1,
-                "start": -1,
-                "end": 7
             }
         ]
     },
@@ -28921,6 +28913,543 @@
                 "id": 0,
                 "start": 49,
                 "end": 137
+            }
+        ]
+    },
+    {
+        "sentence": "I just bought this game today from GameHouse and i know it is a Real time game but is there anyway to waste a couple hours? sleeping or something? And also where can i find the guy that teaches extra curricular activities? well you can waste hours by saving and fastforwarding the game.",
+        "meta": {
+            "note_id": "15012"
+        },
+        "spans": [
+            {
+                "label": "TIMESTAMPS",
+                "text": "today",
+                "id": 0,
+                "start": 24,
+                "end": 29
+            },
+            {
+                "label": "ORG",
+                "text": "GameHouse",
+                "id": 1,
+                "start": 35,
+                "end": 44
+            }
+        ]
+    },
+    {
+        "sentence": "Members of Karnataka Athletics Association staged a protest and demanded for conducting only athletic sports and called for renovation of synthetic tracks at Kanteerva stadium, the protest was held at Town Hall, in Bengaluru on Friday 6th September 2019",
+        "meta": {
+            "note_id": "15013"
+        },
+        "spans": [
+            {
+                "label": "ORG",
+                "text": "Karnataka Athletics Association",
+                "id": 0,
+                "start": 11,
+                "end": 42
+            },
+            {
+                "label": "LOC",
+                "text": "Kanteerva stadium",
+                "id": 1,
+                "start": 158,
+                "end": 175
+            },
+            {
+                "label": "LOC",
+                "text": "Town Hall",
+                "id": 2,
+                "start": 201,
+                "end": 210
+            },
+            {
+                "label": "LOC",
+                "text": "Bengaluru",
+                "id": 3,
+                "start": 215,
+                "end": 224
+            },
+            {
+                "label": "DATE",
+                "text": "Friday 6th September 2019",
+                "id": 4,
+                "start": 228,
+                "end": 253
+            }
+        ]
+    },
+    {
+        "sentence": "Karoline Munz (General Secretary associated with the European Movement Germany) and Laura Bethke (Advisor at the Representation of the European Commission in Berlin) about the role of capitals in European politics;\n\nFanny Cohen (Co-founder of the Franco-German association) on gender equality and why it is improtant",
+        "meta": {
+            "note_id": "15014"
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Karoline Munz",
+                "id": 0,
+                "start": 0,
+                "end": 13
+            },
+            {
+                "label": "ORG",
+                "text": "European Movement Germany",
+                "id": 1,
+                "start": 53,
+                "end": 78
+            },
+            {
+                "label": "PERSON",
+                "text": "Laura Bethke",
+                "id": 2,
+                "start": 84,
+                "end": 96
+            },
+            {
+                "label": "ORG",
+                "text": "European Commission",
+                "id": 3,
+                "start": 135,
+                "end": 154
+            },
+            {
+                "label": "LOC",
+                "text": "Berlin",
+                "id": 4,
+                "start": 158,
+                "end": 164
+            },
+            {
+                "label": "PERSON",
+                "text": "Fanny Cohen",
+                "id": 5,
+                "start": 216,
+                "end": 227
+            },
+            {
+                "label": "ORG",
+                "text": "Franco-German association",
+                "id": 6,
+                "start": 247,
+                "end": 272
+            }
+        ]
+    },
+    {
+        "sentence": "Khulani Commercial High School is a Secondary School that used to specialise in Commercial education. Since the introduction of National Curriculum Statement by the public department of basic education, the school was reintroduced as a general public secondary school without any specialisation. The school is based in Mdantsane, Eastern Cape, South Africa. Reference:https://en.wikipedia.org/wiki/List_of_high_schools_in_South_Africa\nCategory:High schools in South Africa\n",
+        "meta": {
+            "note_id": "15015"
+        },
+        "spans": [
+            {
+                "label": "ORG",
+                "text": "Khulani Commercial High School",
+                "id": 0,
+                "start": 0,
+                "end": 30
+            },
+            {
+                "label": "ORG",
+                "text": "public department of basic education",
+                "id": 1,
+                "start": 165,
+                "end": 201
+            },
+            {
+                "label": "LOC",
+                "text": "Mdantsane, Eastern Cape, South Africa",
+                "id": 2,
+                "start": 319,
+                "end": 356
+            },
+            {
+                "label": "URL",
+                "text": "https://en.wikipedia.org/wiki/List_of_high_schools_in_South_Africa",
+                "id": 3,
+                "start": 368,
+                "end": 434
+            },
+            {
+                "label": "LOC",
+                "text": "South Africa",
+                "id": 4,
+                "start": 460,
+                "end": 472
+            }
+        ]
+    },
+    {
+        "sentence": "Hawking was 21 when he was diagnosed ASL disease, an incurable degenerative disorder that has left him almost completely paralyzed. Although an infrared sensor attached to his glasses translates the pulses in his right cheek into words spoken by a voice synthesizer, the nerves in his face have deteriorated, and those close to him say his rate of speech has slowed to about a word a minute.",
+        "meta": {
+            "note_id": "15016"
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Hawking",
+                "id": 0,
+                "start": 0,
+                "end": 7
+            },
+            {
+                "label": "AGE",
+                "text": "21",
+                "id": 1,
+                "start": 12,
+                "end": 14
+            }
+        ]
+    },
+    {
+        "sentence": "I met the most amazing woman yesterday! Her name is Dr. Joyce Knudsen. She is a 72-year-old imaging consultant who has made it one of her goals to let women over 60 know that they still have a lot of living to do. Contrary to popular belief, once we reach retirement age we can still",
+        "meta": {
+            "note_id": "15017"
+        },
+        "spans": [
+            {
+                "label": "TIMESTAMPS",
+                "text": "yesterday",
+                "id": 0,
+                "start": 29,
+                "end": 38
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Joyce Knudsen",
+                "id": 1,
+                "start": 52,
+                "end": 69
+            },
+            {
+                "label": "AGE",
+                "text": "72",
+                "id": 2,
+                "start": 80,
+                "end": 82
+            },
+            {
+                "label": "AGE",
+                "text": "60",
+                "id": 3,
+                "start": 162,
+                "end": 164
+            }
+        ]
+    },
+    {
+        "sentence": "Hang Wai Zipper Factory Established in 1986 with headquarter based in Hong Kong. Hang Wai Zipper has gained popularity and recognition globally for its reliable and excellent quality zippers. A zipper, zip, fly, or zip fastener, formerly known as a clasp locker, is a commonly used device for binding the edges of an opening of fabric or other flexible material, like on a garment or a bag.",
+        "meta": {
+            "note_id": "15018"
+        },
+        "spans": [
+            {
+                "label": "ORG",
+                "text": "Hang Wai Zipper Factory",
+                "id": 0,
+                "start": 0,
+                "end": 23
+            },
+            {
+                "label": "DATE",
+                "text": "1986",
+                "id": 1,
+                "start": 39,
+                "end": 43
+            },
+            {
+                "label": "LOC",
+                "text": "Hong Kong",
+                "id": 2,
+                "start": 70,
+                "end": 79
+            },
+            {
+                "label": "ORG",
+                "text": "Hang Wai Zipper",
+                "id": 3,
+                "start": 81,
+                "end": 96
+            }
+        ]
+    },
+    {
+        "sentence": "Tennis stars including John Terry and Didier Drogba perform a head tennis trick at the dinner table. The players use their heads to pass the ball along the table before Jon Obi Mikel nods it into a bin.",
+        "meta": {
+            "note_id": "15019"
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "John Terry",
+                "id": 0,
+                "start": 23,
+                "end": 33
+            },
+            {
+                "label": "PERSON",
+                "text": "Didier Drogba",
+                "id": 1,
+                "start": 38,
+                "end": 51
+            },
+            {
+                "label": "PERSON",
+                "text": "Jon Obi Mikel",
+                "id": 2,
+                "start": 169,
+                "end": 182
+            }
+        ]
+    },
+    {
+        "sentence": "Copyright 2011-2016 Canonical Ltd. Licensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 \nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.",
+        "meta": {
+            "note_id": "15020"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "2011",
+                "id": 0,
+                "start": 10,
+                "end": 14
+            },
+            {
+                "label": "DATE",
+                "text": "2016",
+                "id": 1,
+                "start": 15,
+                "end": 19
+            },
+            {
+                "label": "ORG",
+                "text": "Canonical Ltd.",
+                "id": 2,
+                "start": 20,
+                "end": 34
+            },
+            {
+                "label": "URL",
+                "text": "http://www.apache.org/licenses/LICENSE-2.0",
+                "id": 3,
+                "start": 204,
+                "end": 246
+            }
+        ]
+    },
+    {
+        "sentence": "Dr. Russell Liam, a leading pediatrician at National Children's Hospital, treated an infant born on 2023.06.05, who was diagnosed with a rare genetic disorder. The case was registered under ID C-61. Parents can consult Dr. Liam via phone at +1-202-555-0198 or email russell.liam@nationalchildrens.org. More details on pediatric care are available at https://www.nationalchildrens.org/research.",
+        "meta": {
+            "note_id": "15022"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Russell Liam",
+                "id": 0,
+                "start": 0,
+                "end": 16
+            },
+            {
+                "label": "HOSP",
+                "text": "National Children's Hospital",
+                "id": 1,
+                "start": 44,
+                "end": 72
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "2023.06.05",
+                "id": 2,
+                "start": 100,
+                "end": 110
+            },
+            {
+                "label": "ID",
+                "text": "C-61",
+                "id": 3,
+                "start": 193,
+                "end": 197
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Liam",
+                "id": 4,
+                "start": 219,
+                "end": 227
+            },
+            {
+                "label": "PHONE",
+                "text": "+1-202-555-0198",
+                "id": 5,
+                "start": 241,
+                "end": 256
+            },
+            {
+                "label": "EMAIL",
+                "text": "russell.liam@nationalchildrens.org",
+                "id": 6,
+                "start": 266,
+                "end": 300
+            },
+            {
+                "label": "URL",
+                "text": "https://www.nationalchildrens.org/research",
+                "id": 7,
+                "start": 350,
+                "end": 392
+            }
+        ]
+    },
+    {
+        "sentence": "The World Health Organization (WHO) recently issued new guidelines on combating antibiotic resistance. The report, published on 18.12.2027, outlines critical measures for hospitals worldwide. Dr. Rajan Desai from Mumbai Central Hospital co-authored the study. He can be reached at +91 98765 43210 or via email at rajan.desai@mumbaicentrehosp.in. Full guidelines are available at https://www.who.int/antibiotics and https://www.globalhealthstandards.org.",
+        "meta": {
+            "note_id": "15024"
+        },
+        "spans": [
+            {
+                "label": "ORG",
+                "text": "World Health Organization (WHO)",
+                "id": 0,
+                "start": 4,
+                "end": 35
+            },
+            {
+                "label": "DATE",
+                "text": "18.12.2027",
+                "id": 1,
+                "start": 128,
+                "end": 138
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Rajan Desai",
+                "id": 2,
+                "start": 192,
+                "end": 207
+            },
+            {
+                "label": "HOSP",
+                "text": "Mumbai Central Hospital",
+                "id": 3,
+                "start": 213,
+                "end": 236
+            },
+            {
+                "label": "PHONE",
+                "text": "+91 98765 43210",
+                "id": 4,
+                "start": 281,
+                "end": 296
+            },
+            {
+                "label": "EMAIL",
+                "text": "rajan.desai@mumbaicentrehosp.in",
+                "id": 5,
+                "start": 313,
+                "end": 344
+            },
+            {
+                "label": "URL",
+                "text": "https://www.who.int/antibiotics",
+                "id": 6,
+                "start": 379,
+                "end": 410
+            },
+            {
+                "label": "URL",
+                "text": "https://www.globalhealthstandards.org",
+                "id": 7,
+                "start": 415,
+                "end": 452
+            }
+        ]
+    },
+    {
+        "sentence": "Dr. Lester, a senior cardiologist at YouHeal Hospital, performed a complex heart surgery on Mr. Jonathan Reed, a 52-year-old patient, on March 10, 2024. The operation, conducted at YouHeal Hospital in Los Angeles, was successfully completed within five hours. The hospital administration recorded the procedure under patient ID P-001-9264. For more details on cardiac surgery techniques, visit https://www.youhealhospital.com/cardiac-care or email info@youhealhospital.com.",
+        "meta": {
+            "note_id": "15021"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Lester",
+                "id": 0,
+                "start": 0,
+                "end": 10
+            },
+            {
+                "label": "HOSP",
+                "text": "YouHeal Hospital",
+                "id": 1,
+                "start": 37,
+                "end": 53
+            },
+            {
+                "label": "PERSON",
+                "text": "Mr. Jonathan Reed",
+                "id": 2,
+                "start": 92,
+                "end": 109
+            },
+            {
+                "label": "AGE",
+                "text": "52",
+                "id": 3,
+                "start": 113,
+                "end": 115
+            },
+            {
+                "label": "DATE",
+                "text": "March 10, 2024",
+                "id": 4,
+                "start": 137,
+                "end": 151
+            },
+            {
+                "label": "HOSP",
+                "text": "YouHeal Hospital",
+                "id": 5,
+                "start": 181,
+                "end": 197
+            },
+            {
+                "label": "LOC",
+                "text": "Los Angeles",
+                "id": 6,
+                "start": 201,
+                "end": 212
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "five hours",
+                "id": 7,
+                "start": 248,
+                "end": 258
+            },
+            {
+                "label": "ID",
+                "text": "P-001-9264",
+                "id": 8,
+                "start": 328,
+                "end": 338
+            },
+            {
+                "label": "URL",
+                "text": "https://www.youhealhospital.com/cardiac-care",
+                "id": 9,
+                "start": 394,
+                "end": 438
+            },
+            {
+                "label": "EMAIL",
+                "text": "info@youhealhospital.com",
+                "id": 10,
+                "start": 448,
+                "end": 472
             }
         ]
     }
