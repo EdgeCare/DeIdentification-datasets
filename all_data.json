@@ -28338,6 +28338,974 @@
         "spans": []
     },
     {
+        "sentence": "Michael Johnson, a 54-year-old patient, had an appointment at CityCare Hospital on January 15, 2023. His medical record number is MRN-987654, and he was attended by Dr. Emily Carter. For any follow-ups, he can be reached at (555) 678-9012 or via email at mjohnson@example.com.",
+        "meta": {
+            "note_id": "4301"
+        },
+        "spans": [
+            {
+                "label": "PATIENT",
+                "text": "Michael Johnson",
+                "id": 0,
+                "start": 0,
+                "end": 15
+            },
+            {
+                "label": "AGE",
+                "text": "54",
+                "id": 1,
+                "start": 19,
+                "end": 21
+            },
+            {
+                "label": "HOSP",
+                "text": "CityCare Hospital",
+                "id": 2,
+                "start": 62,
+                "end": 79
+            },
+            {
+                "label": "DATE",
+                "text": "January 15, 2023",
+                "id": 3,
+                "start": 83,
+                "end": 99
+            },
+            {
+                "label": "ID",
+                "text": "MRN-987654",
+                "id": 4,
+                "start": 130,
+                "end": 140
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Emily Carter",
+                "id": 5,
+                "start": 165,
+                "end": 181
+            },
+            {
+                "label": "PHONE",
+                "text": "(555) 678-9012",
+                "id": 6,
+                "start": 224,
+                "end": 238
+            },
+            {
+                "label": "EMAIL",
+                "text": "mjohnson@example.com",
+                "id": 7,
+                "start": 255,
+                "end": 275
+            }
+        ]
+    },
+    {
+        "sentence": "On February 20, 2024, Sarah Thompson received a billing statement from National Health Insurance. The document, identified by reference number 302451, outlines a total charge of $3,500 for services provided at St. Mary’s Medical Center. Sarah can contact the billing department at 1-800-555-3344 for more information.",
+        "meta": {
+            "note_id": "4302"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "February 20, 2024",
+                "id": 0,
+                "start": 3,
+                "end": 20
+            },
+            {
+                "label": "PATIENT",
+                "text": "Sarah Thompson",
+                "id": 1,
+                "start": 22,
+                "end": 36
+            },
+            {
+                "label": "ORG",
+                "text": "National Health Insurance",
+                "id": 2,
+                "start": 71,
+                "end": 96
+            },
+            {
+                "label": "ID",
+                "text": "302451",
+                "id": 3,
+                "start": 143,
+                "end": 149
+            },
+            {
+                "label": "HOSP",
+                "text": "St. Mary’s Medical Center",
+                "id": 4,
+                "start": 210,
+                "end": 235
+            },
+            {
+                "label": "PATIENT",
+                "text": "Sarah",
+                "id": 5,
+                "start": 237,
+                "end": 242
+            },
+            {
+                "label": "PHONE",
+                "text": "1-800-555-3344",
+                "id": 6,
+                "start": 281,
+                "end": 295
+            }
+        ]
+    },
+    {
+        "sentence": "David Martinez signed into the secure portal at https://www.healthportal.com to review his test results. His date of birth is 1975-04-22, and his assigned patient ID is P-456321. This portal is managed by MediTech Solutions, and any account issues should be reported to support@meditech.com.",
+        "meta": {
+            "note_id": "4303"
+        },
+        "spans": [
+            {
+                "label": "PATIENT",
+                "text": "David Martinez",
+                "id": 0,
+                "start": 0,
+                "end": 14
+            },
+            {
+                "label": "URL",
+                "text": "https://www.healthportal.com",
+                "id": 1,
+                "start": 48,
+                "end": 76
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "1975-04-22",
+                "id": 2,
+                "start": 126,
+                "end": 136
+            },
+            {
+                "label": "ID",
+                "text": "P-456321",
+                "id": 3,
+                "start": 169,
+                "end": 177
+            },
+            {
+                "label": "ORG",
+                "text": "MediTech Solutions",
+                "id": 4,
+                "start": 205,
+                "end": 223
+            },
+            {
+                "label": "EMAIL",
+                "text": "support@meditech.com",
+                "id": 5,
+                "start": 270,
+                "end": 290
+            }
+        ]
+    },
+    {
+        "sentence": "Alice Johnson scheduled a follow-up appointment at Green Valley Clinic on April 10, 2024. Her assigned patient ID is GV-124578, and she can contact the front desk at (555) 234-5678 for any queries.",
+        "meta": {
+            "note_id": "4304"
+        },
+        "spans": [
+            {
+                "label": "PATIENT",
+                "text": "Alice Johnson",
+                "id": 0,
+                "start": 0,
+                "end": 13
+            },
+            {
+                "label": "HOSP",
+                "text": "Green Valley Clinic",
+                "id": 1,
+                "start": 51,
+                "end": 70
+            },
+            {
+                "label": "DATE",
+                "text": "April 10, 2024",
+                "id": 2,
+                "start": 74,
+                "end": 88
+            },
+            {
+                "label": "ID",
+                "text": "GV-124578",
+                "id": 3,
+                "start": 117,
+                "end": 126
+            },
+            {
+                "label": "PHONE",
+                "text": "(555) 234-5678",
+                "id": 4,
+                "start": 166,
+                "end": 180
+            }
+        ]
+    },
+    {
+        "sentence": "Dr. Samuel Carter reviewed the test results of Robert Miller at Springfield Medical Center on March 5, 2024. The report ID 789456 confirms a positive outcome for treatment.",
+        "meta": {
+            "note_id": "4305"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Samuel Carter",
+                "id": 0,
+                "start": 0,
+                "end": 17
+            },
+            {
+                "label": "PATIENT",
+                "text": "Robert Miller",
+                "id": 1,
+                "start": 47,
+                "end": 60
+            },
+            {
+                "label": "HOSP",
+                "text": "Springfield Medical Center",
+                "id": 2,
+                "start": 64,
+                "end": 90
+            },
+            {
+                "label": "DATE",
+                "text": "March 5, 2024",
+                "id": 3,
+                "start": 94,
+                "end": 107
+            },
+            {
+                "label": "ID",
+                "text": "789456",
+                "id": 4,
+                "start": 123,
+                "end": 129
+            }
+        ]
+    },
+    {
+        "sentence": "Jennifer Lee, aged 38, visited the Downtown Health Clinic on February 18, 2023, for a routine checkup. She received a confirmation email at jlee@example.com regarding her visit.",
+        "meta": {
+            "note_id": "4306"
+        },
+        "spans": [
+            {
+                "label": "PATIENT",
+                "text": "Jennifer Lee",
+                "id": 0,
+                "start": 0,
+                "end": 12
+            },
+            {
+                "label": "AGE",
+                "text": "38",
+                "id": 1,
+                "start": 19,
+                "end": 21
+            },
+            {
+                "label": "HOSP",
+                "text": "Downtown Health Clinic",
+                "id": 2,
+                "start": 35,
+                "end": 57
+            },
+            {
+                "label": "DATE",
+                "text": "February 18, 2023",
+                "id": 3,
+                "start": 61,
+                "end": 78
+            },
+            {
+                "label": "EMAIL",
+                "text": "jlee@example.com",
+                "id": 4,
+                "start": 140,
+                "end": 156
+            }
+        ]
+    },
+    {
+        "sentence": "On July 21, 2023, Mark Thompson received a payment notification from MediCare Services regarding invoice ID MC-998877. For assistance, call 1-800-555-6723.",
+        "meta": {
+            "note_id": "4307"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "July 21, 2023",
+                "id": 0,
+                "start": 3,
+                "end": 16
+            },
+            {
+                "label": "PATIENT",
+                "text": "Mark Thompson",
+                "id": 1,
+                "start": 18,
+                "end": 31
+            },
+            {
+                "label": "ORG",
+                "text": "MediCare Services",
+                "id": 2,
+                "start": 69,
+                "end": 86
+            },
+            {
+                "label": "ID",
+                "text": "MC-998877",
+                "id": 3,
+                "start": 108,
+                "end": 117
+            },
+            {
+                "label": "PHONE",
+                "text": "1-800-555-6723",
+                "id": 4,
+                "start": 140,
+                "end": 154
+            }
+        ]
+    },
+    {
+        "sentence": "At 09:45 AM on June 30, 2023, Dr. Olivia Parker performed surgery on patient William Smith at St. Joseph’s Hospital. The procedure ID was OP-456123.",
+        "meta": {
+            "note_id": "4308"
+        },
+        "spans": [
+            {
+                "label": "TIMESTAMPS",
+                "text": "09:45 AM",
+                "id": 0,
+                "start": 3,
+                "end": 11
+            },
+            {
+                "label": "DATE",
+                "text": "June 30, 2023",
+                "id": 1,
+                "start": 15,
+                "end": 28
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Olivia Parker",
+                "id": 2,
+                "start": 30,
+                "end": 47
+            },
+            {
+                "label": "PATIENT",
+                "text": "William Smith",
+                "id": 3,
+                "start": 77,
+                "end": 90
+            },
+            {
+                "label": "HOSP",
+                "text": "St. Joseph’s Hospital",
+                "id": 4,
+                "start": 94,
+                "end": 115
+            },
+            {
+                "label": "ID",
+                "text": "OP-456123",
+                "id": 5,
+                "start": 138,
+                "end": 147
+            }
+        ]
+    },
+    {
+        "sentence": "On November 10, 2023, the IT department at HealthSecure updated login credentials for users. Contact support at help@healthsecure.com for issues.",
+        "meta": {
+            "note_id": "4309"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "November 10, 2023",
+                "id": 0,
+                "start": 3,
+                "end": 20
+            },
+            {
+                "label": "ORG",
+                "text": "HealthSecure",
+                "id": 1,
+                "start": 43,
+                "end": 55
+            },
+            {
+                "label": "EMAIL",
+                "text": "help@healthsecure.com",
+                "id": 2,
+                "start": 112,
+                "end": 133
+            }
+        ]
+    },
+    {
+        "sentence": "At 3:30 PM on April 25, 2023, Dr. Steven White performed a cardiology exam on Susan Harris at Heartland Clinic.",
+        "meta": {
+            "note_id": "4310"
+        },
+        "spans": [
+            {
+                "label": "TIMESTAMPS",
+                "text": "3:30 PM",
+                "id": 0,
+                "start": 3,
+                "end": 10
+            },
+            {
+                "label": "DATE",
+                "text": "April 25, 2023",
+                "id": 1,
+                "start": 14,
+                "end": 28
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Steven White",
+                "id": 2,
+                "start": 30,
+                "end": 46
+            },
+            {
+                "label": "PATIENT",
+                "text": "Susan Harris",
+                "id": 3,
+                "start": 78,
+                "end": 90
+            },
+            {
+                "label": "HOSP",
+                "text": "Heartland Clinic",
+                "id": 4,
+                "start": 94,
+                "end": 110
+            }
+        ]
+    },
+    {
+        "sentence": "Jonathan Myers visited Westside Medical Center on May 15, 2023, for a scheduled physical examination. He later received a detailed report via email at jmyers@westside.com, confirming his results and follow-up recommendations.",
+        "meta": {
+            "note_id": "4311"
+        },
+        "spans": [
+            {
+                "label": "PATIENT",
+                "text": "Jonathan Myers",
+                "id": 0,
+                "start": 0,
+                "end": 14
+            },
+            {
+                "label": "HOSP",
+                "text": "Westside Medical Center",
+                "id": 1,
+                "start": 23,
+                "end": 46
+            },
+            {
+                "label": "DATE",
+                "text": "May 15, 2023",
+                "id": 2,
+                "start": 50,
+                "end": 62
+            },
+            {
+                "label": "EMAIL",
+                "text": "jmyers@westside.com",
+                "id": 3,
+                "start": 151,
+                "end": 170
+            }
+        ]
+    },
+    {
+        "sentence": "Dr. Elizabeth Foster performed a routine checkup on patient Richard Bennett at Lakeshore Hospital on August 3, 2023, and documented the visit under medical record ID LB-765432 for future reference.",
+        "meta": {
+            "note_id": "4312"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Elizabeth Foster",
+                "id": 0,
+                "start": 0,
+                "end": 20
+            },
+            {
+                "label": "PATIENT",
+                "text": "Richard Bennett",
+                "id": 1,
+                "start": 60,
+                "end": 75
+            },
+            {
+                "label": "HOSP",
+                "text": "Lakeshore Hospital",
+                "id": 2,
+                "start": 79,
+                "end": 97
+            },
+            {
+                "label": "DATE",
+                "text": "August 3, 2023",
+                "id": 3,
+                "start": 101,
+                "end": 115
+            },
+            {
+                "label": "ID",
+                "text": "LB-765432",
+                "id": 4,
+                "start": 166,
+                "end": 175
+            }
+        ]
+    },
+    {
+        "sentence": "On July 12, 2023, Margaret Collins contacted the customer support team at SecureHealth Insurance to inquire about her billing statement. She was provided assistance and directed to visit their website at https://www.securehealth.com for more information.",
+        "meta": {
+            "note_id": "4313"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "July 12, 2023",
+                "id": 0,
+                "start": 3,
+                "end": 16
+            },
+            {
+                "label": "PATIENT",
+                "text": "Margaret Collins",
+                "id": 1,
+                "start": 18,
+                "end": 34
+            },
+            {
+                "label": "ORG",
+                "text": "SecureHealth Insurance",
+                "id": 2,
+                "start": 74,
+                "end": 96
+            },
+            {
+                "label": "URL",
+                "text": "https://www.securehealth.com",
+                "id": 3,
+                "start": 204,
+                "end": 232
+            }
+        ]
+    },
+    {
+        "sentence": "Benjamin Harris, aged 47, underwent a complex surgical procedure at St. Luke’s Medical Center on March 20, 2024. His medical record, identified as ID SL-883921, was updated accordingly to reflect post-surgical progress and recovery details.",
+        "meta": {
+            "note_id": "4314"
+        },
+        "spans": [
+            {
+                "label": "PATIENT",
+                "text": "Benjamin Harris",
+                "id": 0,
+                "start": 0,
+                "end": 15
+            },
+            {
+                "label": "AGE",
+                "text": "47",
+                "id": 1,
+                "start": 22,
+                "end": 24
+            },
+            {
+                "label": "HOSP",
+                "text": "St. Luke’s Medical Center",
+                "id": 2,
+                "start": 68,
+                "end": 93
+            },
+            {
+                "label": "DATE",
+                "text": "March 20, 2024",
+                "id": 3,
+                "start": 97,
+                "end": 111
+            },
+            {
+                "label": "ID",
+                "text": "SL-883921",
+                "id": 4,
+                "start": 150,
+                "end": 159
+            }
+        ]
+    },
+    {
+        "sentence": "Dr. Karen Mitchell prescribed new medication for patient Olivia Parker at Harmony Family Clinic on June 5, 2023. Olivia’s prescription details were sent via email to oparker@harmonyclinic.com for future reference and record-keeping.",
+        "meta": {
+            "note_id": "4315"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Karen Mitchell",
+                "id": 0,
+                "start": 0,
+                "end": 18
+            },
+            {
+                "label": "PATIENT",
+                "text": "Olivia Parker",
+                "id": 1,
+                "start": 57,
+                "end": 70
+            },
+            {
+                "label": "HOSP",
+                "text": "Harmony Family Clinic",
+                "id": 2,
+                "start": 74,
+                "end": 95
+            },
+            {
+                "label": "DATE",
+                "text": "June 5, 2023",
+                "id": 3,
+                "start": 99,
+                "end": 111
+            },
+            {
+                "label": "PATIENT",
+                "text": "Olivia",
+                "id": 4,
+                "start": 113,
+                "end": 119
+            },
+            {
+                "label": "EMAIL",
+                "text": "oparker@harmonyclinic.com",
+                "id": 5,
+                "start": 166,
+                "end": 191
+            }
+        ]
+    },
+    {
+        "sentence": "On November 25, 2023, Gregory Adams submitted an online request for an appointment at Midtown Healthcare through their official website. He later received a confirmation email at gadams@midtownhealth.com with further details regarding the visit.",
+        "meta": {
+            "note_id": "4316"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "November 25, 2023",
+                "id": 0,
+                "start": 3,
+                "end": 20
+            },
+            {
+                "label": "PATIENT",
+                "text": "Gregory Adams",
+                "id": 1,
+                "start": 22,
+                "end": 35
+            },
+            {
+                "label": "ORG",
+                "text": "Midtown Healthcare",
+                "id": 2,
+                "start": 86,
+                "end": 104
+            },
+            {
+                "label": "EMAIL",
+                "text": "gadams@midtownhealth.com",
+                "id": 3,
+                "start": 179,
+                "end": 203
+            }
+        ]
+    },
+    {
+        "sentence": "Catherine Brooks, aged 52, visited Northside Clinic for a diagnostic test on October 14, 2023. The test report, tagged under patient ID NC-112233, was processed and sent to her registered contact email for further consultation.",
+        "meta": {
+            "note_id": "4317"
+        },
+        "spans": [
+            {
+                "label": "PATIENT",
+                "text": "Catherine Brooks",
+                "id": 0,
+                "start": 0,
+                "end": 16
+            },
+            {
+                "label": "AGE",
+                "text": "52",
+                "id": 1,
+                "start": 23,
+                "end": 25
+            },
+            {
+                "label": "HOSP",
+                "text": "Northside Clinic",
+                "id": 2,
+                "start": 35,
+                "end": 51
+            },
+            {
+                "label": "DATE",
+                "text": "October 14, 2023",
+                "id": 3,
+                "start": 77,
+                "end": 93
+            },
+            {
+                "label": "ID",
+                "text": "NC-112233",
+                "id": 4,
+                "start": 136,
+                "end": 145
+            }
+        ]
+    },
+    {
+        "sentence": "At 4:15 PM on May 2, 2024, Dr. Matthew Clark completed a routine checkup for Daniel Peterson at Grandview Medical Center.",
+        "meta": {
+            "note_id": "4318"
+        },
+        "spans": [
+            {
+                "label": "TIMESTAMPS",
+                "text": "4:15 PM",
+                "id": 0,
+                "start": 3,
+                "end": 10
+            },
+            {
+                "label": "DATE",
+                "text": "May 2, 2024",
+                "id": 1,
+                "start": 14,
+                "end": 25
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Matthew Clark",
+                "id": 2,
+                "start": 27,
+                "end": 44
+            },
+            {
+                "label": "PATIENT",
+                "text": "Daniel Peterson",
+                "id": 3,
+                "start": 77,
+                "end": 92
+            },
+            {
+                "label": "HOSP",
+                "text": "Grandview Medical Center",
+                "id": 4,
+                "start": 96,
+                "end": 120
+            }
+        ]
+    },
+    {
+        "sentence": "Julia Simmons received a call at (555) 345-6789 from City Medical Group regarding her upcoming procedure on December 12, 2023. She was advised to confirm her appointment by responding to the email sent to jsimmons@citymedical.com.",
+        "meta": {
+            "note_id": "4319"
+        },
+        "spans": [
+            {
+                "label": "PATIENT",
+                "text": "Julia Simmons",
+                "id": 0,
+                "start": 0,
+                "end": 13
+            },
+            {
+                "label": "PHONE",
+                "text": "(555) 345-6789",
+                "id": 1,
+                "start": 33,
+                "end": 47
+            },
+            {
+                "label": "ORG",
+                "text": "City Medical Group",
+                "id": 2,
+                "start": 53,
+                "end": 71
+            },
+            {
+                "label": "DATE",
+                "text": "December 12, 2023",
+                "id": 3,
+                "start": 108,
+                "end": 125
+            },
+            {
+                "label": "EMAIL",
+                "text": "jsimmons@citymedical.com",
+                "id": 4,
+                "start": 205,
+                "end": 229
+            }
+        ]
+    },
+    {
+        "sentence": "On March 8, 2024, Anthony Russell’s medical case was reviewed by the specialists at Horizon Health Center. The consultation details, recorded under file ID HH-334455, were updated in his electronic medical record for accurate tracking and further examination.",
+        "meta": {
+            "note_id": "4320"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "March 8, 2024",
+                "id": 0,
+                "start": 3,
+                "end": 16
+            },
+            {
+                "label": "PATIENT",
+                "text": "Anthony Russell",
+                "id": 1,
+                "start": 18,
+                "end": 33
+            },
+            {
+                "label": "HOSP",
+                "text": "Horizon Health Center",
+                "id": 2,
+                "start": 84,
+                "end": 105
+            },
+            {
+                "label": "ID",
+                "text": "HH-334455",
+                "id": 3,
+                "start": 156,
+                "end": 165
+            }
+        ]
+    },
+    {
+        "sentence": "Emily Davis logged into her account at https://www.medicareportal.com to check her prescription details.",
+        "meta": {
+            "note_id": "4321"
+        },
+        "spans": [
+            {
+                "label": "PATIENT",
+                "text": "Emily Davis",
+                "id": 0,
+                "start": 0,
+                "end": 11
+            },
+            {
+                "label": "URL",
+                "text": "https://www.medicareportal.com",
+                "id": 1,
+                "start": 39,
+                "end": 69
+            }
+        ]
+    },
+    {
+        "sentence": "On October 5, 2023, Daniel Wilson called (555) 789-1234 to schedule a dermatology consultation at Riverside Medical.",
+        "meta": {
+            "note_id": "4322"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "October 5, 2023",
+                "id": 0,
+                "start": 3,
+                "end": 18
+            },
+            {
+                "label": "PATIENT",
+                "text": "Daniel Wilson",
+                "id": 1,
+                "start": 20,
+                "end": 33
+            },
+            {
+                "label": "PHONE",
+                "text": "(555) 789-1234",
+                "id": 2,
+                "start": 41,
+                "end": 55
+            },
+            {
+                "label": "HOSP",
+                "text": "Riverside Medical",
+                "id": 3,
+                "start": 98,
+                "end": 115
+            }
+        ]
+    },
+    {
+        "sentence": "Sophia Anderson’s birthdate is 1992-08-14. She was admitted to Mercy Hospital on December 1, 2023.",
+        "meta": {
+            "note_id": "4323"
+        },
+        "spans": [
+            {
+                "label": "PATIENT",
+                "text": "Sophia Anderson",
+                "id": 0,
+                "start": 0,
+                "end": 15
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "1992-08-14",
+                "id": 1,
+                "start": 31,
+                "end": 41
+            },
+            {
+                "label": "HOSP",
+                "text": "Mercy Hospital",
+                "id": 2,
+                "start": 63,
+                "end": 77
+            },
+            {
+                "label": "DATE",
+                "text": "December 1, 2023",
+                "id": 3,
+                "start": 81,
+                "end": 97
+            }
+        ]
+    },
+    {
         "sentence": "I spoke with Dr. Thushani, the patient's urologist, about most appropriate step for the patient, and Dr. Thushani said she would be happy to care for the patient in the Lanka Hospital and do urologic scopes if necessary and surgery if necessary and blood transfusion",
         "meta": {
             "note_id": "15000"
