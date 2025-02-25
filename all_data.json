@@ -324,7 +324,7 @@
         ]
     },
     {
-        "sentence": "Patient: My boss, Daniel Green, approved my leave.",
+        "sentence": "Patient: My boss, Daniel Boone, approved my leave.",
         "meta": {
             "note_id": "116",
             "patient_id": "4778901"
@@ -335,7 +335,7 @@
                 "start": 18,
                 "end": 30,
                 "label": "PERSON",
-                "text": "Daniel Green"
+                "text": "Daniel Boone"
             }
         ]
     },
@@ -989,7 +989,7 @@
         ]
     },
     {
-        "sentence": "Patient: My doctor, Dr. Alice Green, is a specialist in neurology.",
+        "sentence": "Patient: My doctor, Dr. Alice Boone, is a specialist in neurology.",
         "meta": {
             "note_id": "151",
             "patient_id": "8223456"
@@ -1000,7 +1000,7 @@
                 "start": 20,
                 "end": 35,
                 "label": "STAFF",
-                "text": "Dr. Alice Green"
+                "text": "Dr. Alice Boone"
             }
         ]
     },
@@ -1230,7 +1230,7 @@
         ]
     },
     {
-        "sentence": "Patient: My name is Daniel Green. I was recently at Brookside Hospital.",
+        "sentence": "Patient: My name is Daniel Trace. I was recently at Brookside Hospital.",
         "meta": {
             "note_id": "163",
             "patient_id": "9445678"
@@ -1241,7 +1241,7 @@
                 "start": 20,
                 "end": 32,
                 "label": "PERSON",
-                "text": "Daniel Green"
+                "text": "Daniel Trace"
             },
             {
                 "id": 1,
@@ -2094,7 +2094,7 @@
         ]
     },
     {
-        "sentence": "When did this start, Mr. Robert Green?",
+        "sentence": "When did this start, Mr. Robert Boone?",
         "meta": {
             "note_id": "403",
             "patient_id": "30556789"
@@ -2105,7 +2105,7 @@
                 "start": 21,
                 "end": 37,
                 "label": "PERSON",
-                "text": "Mr. Robert Green"
+                "text": "Mr. Robert Boone"
             }
         ]
     },
@@ -2172,7 +2172,7 @@
         ]
     },
     {
-        "sentence": "How is your progress with the treatment, Mr. Green?",
+        "sentence": "How is your progress with the treatment, Mr. Brady?",
         "meta": {
             "note_id": "407",
             "patient_id": "30556789"
@@ -2183,7 +2183,7 @@
                 "start": 41,
                 "end": 50,
                 "label": "PERSON",
-                "text": "Mr. Green"
+                "text": "Mr. Brady"
             }
         ]
     },
@@ -2290,7 +2290,7 @@
         ]
     },
     {
-        "sentence": "My wife, Carla Green, has been suffering from migraines recently.",
+        "sentence": "My wife, Carla Brady, has been suffering from migraines recently.",
         "meta": {
             "note_id": "414",
             "patient_id": "31112345"
@@ -2301,7 +2301,7 @@
                 "start": 9,
                 "end": 20,
                 "label": "PERSON",
-                "text": "Carla Green"
+                "text": "Carla Brady"
             }
         ]
     },
@@ -2730,7 +2730,7 @@
         "spans": []
     },
     {
-        "sentence": "My mother, Olivia Green, has been complaining about chest pain.",
+        "sentence": "My mother, Olivia Brady, has been complaining about chest pain.",
         "meta": {
             "note_id": "442",
             "patient_id": "32556789"
@@ -2741,7 +2741,7 @@
                 "start": 11,
                 "end": 23,
                 "label": "PERSON",
-                "text": "Olivia Green"
+                "text": "Olivia Brady"
             }
         ]
     },
@@ -2902,7 +2902,7 @@
         ]
     },
     {
-        "sentence": "My daughter, Isabella Green, is running a high fever of 102 Â°F.",
+        "sentence": "My daughter, Isabella Chase, is running a high fever of 102 Â°F.",
         "meta": {
             "note_id": "451",
             "patient_id": "33001234"
@@ -2913,7 +2913,7 @@
                 "start": 13,
                 "end": 27,
                 "label": "PERSON",
-                "text": "Isabella Green"
+                "text": "Isabella Chase"
             }
         ]
     },
@@ -4663,7 +4663,7 @@
         ]
     },
     {
-        "sentence": "Patient: My daughter, Olivia Green, was seen at Maplewood Health Center.",
+        "sentence": "Patient: My daughter, Olivia Chase, was seen at Maplewood Health Center.",
         "meta": {
             "note_id": "543",
             "patient_id": "37667890"
@@ -4674,7 +4674,7 @@
                 "start": 22,
                 "end": 34,
                 "label": "PERSON",
-                "text": "Olivia Green"
+                "text": "Olivia Chase"
             },
             {
                 "id": 1,
@@ -5028,7 +5028,7 @@
         ]
     },
     {
-        "sentence": "My daughter, Emily Green, was treated at North Clinic.",
+        "sentence": "My daughter, Emily Chase, was treated at North Clinic.",
         "meta": {
             "note_id": "561",
             "patient_id": "38556789"
@@ -5039,7 +5039,7 @@
                 "start": 13,
                 "end": 24,
                 "label": "PERSON",
-                "text": "Emily Green"
+                "text": "Emily Chase"
             },
             {
                 "id": 1,
@@ -6063,7 +6063,7 @@
         ]
     },
     {
-        "sentence": "Clinical review on 02/15/2025 by nurse Alice Green confirmed stabilization of Martha Ray's hypertension. Patient No. 98765.",
+        "sentence": "Clinical review on 02/15/2025 by nurse Alice Craig confirmed stabilization of Martha Ray's hypertension. Patient No. 98765.",
         "meta": {
             "note_id": "1723",
             "patient_id": "98765"
@@ -6081,7 +6081,7 @@
                 "start": 33,
                 "end": 50,
                 "label": "STAFF",
-                "text": "Alice Green"
+                "text": "Alice Craig"
             },
             {
                 "id": 2,
@@ -6144,7 +6144,7 @@
         ]
     },
     {
-        "sentence": "05/16/2025 - Consultation for Daisy Miller, 29 years old, by Dr. Rachel Green. Her patient file number is 293840.",
+        "sentence": "05/16/2025 - Consultation for Daisy Miller, 29 years old, by Dr. Rachel Craig. Her patient file number is 293840.",
         "meta": {
             "note_id": "1725",
             "patient_id": "293840"
@@ -6176,7 +6176,7 @@
                 "start": 61,
                 "end": 77,
                 "label": "STAFF",
-                "text": "Dr. Rachel Green"
+                "text": "Dr. Rachel Craig"
             },
             {
                 "id": 4,
@@ -6681,7 +6681,7 @@
         ]
     },
     {
-        "sentence": "The patient, Rachel Green, born on 05/07/1985, resides at 76 Cedar St, Oakwood. Her ID is C8901.",
+        "sentence": "The patient, Rachel Craig, born on 05/07/1985, resides at 76 Cedar St, Oakwood. Her ID is C8901.",
         "meta": {
             "note_id": "1738",
             "patient_id": "55"
@@ -6692,7 +6692,7 @@
                 "start": 13,
                 "end": 25,
                 "label": "PERSON",
-                "text": "Rachel Green"
+                "text": "Rachel Craig"
             },
             {
                 "id": 1,
@@ -7532,7 +7532,7 @@
         ]
     },
     {
-        "sentence": "Patient Zachary Green, ID M6547, was referred to Bayview Medical Center on 10/29/2022.",
+        "sentence": "Patient Zachary Floyd, ID M6547, was referred to Bayview Medical Center on 10/29/2022.",
         "meta": {
             "note_id": "1761",
             "patient_id": "78"
@@ -7543,7 +7543,7 @@
                 "start": 8,
                 "end": 21,
                 "label": "PERSON",
-                "text": "Zachary Green"
+                "text": "Zachary Floyd"
             },
             {
                 "id": 1,
@@ -9147,7 +9147,7 @@
         ]
     },
     {
-        "sentence": "Patient: Dr. Rachel Green prescribed my medication last month.",
+        "sentence": "Patient: Dr. Rachel Floyd prescribed my medication last month.",
         "meta": {
             "note_id": "209",
             "patient_id": "14001234"
@@ -9158,7 +9158,7 @@
                 "start": 9,
                 "end": 25,
                 "label": "STAFF",
-                "text": "Dr. Rachel Green"
+                "text": "Dr. Rachel Floyd"
             },
             {
                 "id": 1,
@@ -9402,7 +9402,7 @@
         ]
     },
     {
-        "sentence": "Dr. Susan Green at Sunshine Hospital has referred you here.",
+        "sentence": "Dr. Susan Floyd at Sunshine Hospital has referred you here.",
         "meta": {
             "note_id": "272",
             "patient_id": "20334567"
@@ -9413,7 +9413,7 @@
                 "start": 0,
                 "end": 15,
                 "label": "STAFF",
-                "text": "Dr. Susan Green"
+                "text": "Dr. Susan Floyd"
             },
             {
                 "id": 1,
@@ -10101,7 +10101,7 @@
         ]
     },
     {
-        "sentence": "I've been consulting Dr. Nathan Green at Redwood Medical Center for two months.",
+        "sentence": "I've been consulting Dr. Nathan Floyd at Redwood Medical Center for two months.",
         "meta": {
             "note_id": "303",
             "patient_id": "23445678"
@@ -10112,7 +10112,7 @@
                 "start": 21,
                 "end": 37,
                 "label": "STAFF",
-                "text": "Dr. Nathan Green"
+                "text": "Dr. Nathan Floyd"
             },
             {
                 "id": 1,
@@ -10568,7 +10568,7 @@
         ]
     },
     {
-        "sentence": "My full name is Sophia Green, and I recently moved to Miami, Florida.",
+        "sentence": "My full name is Sophia Glass, and I recently moved to Miami, Florida.",
         "meta": {
             "note_id": "323",
             "patient_id": "25445678"
@@ -10579,7 +10579,7 @@
                 "start": 16,
                 "end": 28,
                 "label": "PERSON",
-                "text": "Sophia Green"
+                "text": "Sophia Glass"
             },
             {
                 "id": 1,
@@ -11078,7 +11078,7 @@
         ]
     },
     {
-        "sentence": "My name is Sarah Green, and I recently visited Dr. Taylor at Mercy Hospital.",
+        "sentence": "My name is Sarah Glass, and I recently visited Dr. Taylor at Mercy Hospital.",
         "meta": {
             "note_id": "347",
             "patient_id": "27667890"
@@ -11089,7 +11089,7 @@
                 "start": 11,
                 "end": 22,
                 "label": "PERSON",
-                "text": "Sarah Green"
+                "text": "Sarah Glass"
             },
             {
                 "id": 1,
@@ -13230,7 +13230,7 @@
         ]
     },
     {
-        "sentence": "My name is Jonathan Green. My email is jon.green@domain.com.",
+        "sentence": "My name is Jonathan Kelly. My email is jon.kelly@domain.com.",
         "meta": {
             "note_id": "392",
             "patient_id": "29990123"
@@ -13241,14 +13241,14 @@
                 "start": 11,
                 "end": 25,
                 "label": "PERSON",
-                "text": "Jonathan Green"
+                "text": "Jonathan Kelly"
             },
             {
                 "id": 1,
                 "start": 39,
                 "end": 59,
                 "label": "EMAIL",
-                "text": "jon.green@domain.com"
+                "text": "jon.kelly@domain.com"
             }
         ]
     },
@@ -13931,7 +13931,7 @@
         ]
     },
     {
-        "sentence": "My name is Rachel Green. I am 30 years old. My ID is RG300456.",
+        "sentence": "My name is Rachel Kelly. I am 30 years old. My ID is RG300456.",
         "meta": {
             "note_id": "647",
             "patient_id": "42889012"
@@ -13942,7 +13942,7 @@
                 "start": 11,
                 "end": 23,
                 "label": "PERSON",
-                "text": "Rachel Green"
+                "text": "Rachel Kelly"
             },
             {
                 "id": 1,
@@ -14421,7 +14421,7 @@
         ]
     },
     {
-        "sentence": "My name is Olivia Green. I visited Dr. Harper for a follow-up.",
+        "sentence": "My name is Olivia Kelly. I visited Dr. Harper for a follow-up.",
         "meta": {
             "note_id": "601",
             "patient_id": "40556789"
@@ -14432,7 +14432,7 @@
                 "start": 11,
                 "end": 23,
                 "label": "PERSON",
-                "text": "Olivia Green"
+                "text": "Olivia Kelly"
             },
             {
                 "id": 1,
@@ -14938,7 +14938,7 @@
         ]
     },
     {
-        "sentence": "Patient: Hello, I'm David Green. I recently received a prescription from St. Mary's Hospital. Doctor: Let me check it out.",
+        "sentence": "Patient: Hello, I'm David Knoll. I recently received a prescription from St. Mary's Hospital. Doctor: Let me check it out.",
         "meta": {
             "note_id": "703",
             "patient_id": "4567890"
@@ -14949,7 +14949,7 @@
                 "start": 20,
                 "end": 31,
                 "label": "PERSON",
-                "text": "David Green"
+                "text": "David Knoll"
             },
             {
                 "id": 1,
@@ -15245,7 +15245,7 @@
         ]
     },
     {
-        "sentence": "Patient: My name is Rachel Green. I recently visited Los Angeles and fell sick. Doctor: Rachel, we'll need to run some tests.",
+        "sentence": "Patient: My name is Rachel Knoll. I recently visited Los Angeles and fell sick. Doctor: Rachel, we'll need to run some tests.",
         "meta": {
             "note_id": "713",
             "patient_id": "6789012"
@@ -15256,7 +15256,7 @@
                 "start": 20,
                 "end": 32,
                 "label": "PERSON",
-                "text": "Rachel Green"
+                "text": "Rachel Knoll"
             },
             {
                 "id": 1,
@@ -15441,7 +15441,7 @@
         ]
     },
     {
-        "sentence": "Patient: I'm Olivia Green. My phone number is +1-234-567-8901. Doctor: let's review your health history.",
+        "sentence": "Patient: I'm Olivia Knoll. My phone number is +1-234-567-8901. Doctor: let's review your health history.",
         "meta": {
             "note_id": "720",
             "patient_id": "5678901"
@@ -15452,7 +15452,7 @@
                 "start": 13,
                 "end": 25,
                 "label": "PERSON",
-                "text": "Olivia Green"
+                "text": "Olivia Knoll"
             },
             {
                 "id": 1,
@@ -16374,39 +16374,27 @@
         ]
     },
     {
-        "sentence": "I'm Imashi Kawya. I visited Asiri Laboratories on June 2nd for a check-up. My email is victoria.green@mail.net.",
+        "sentence": "I'm Imashi Kawya. I visited Asiri Laboratories on June 2nd for a check-up. My email is imashi.kawya@mail.net.",
         "meta": {
             "note_id": "779",
             "patient_id": "10027"
         },
         "spans": [
             {
-                "id": 0,
-                "start": 4,
-                "end": 16,
                 "label": "PERSON",
                 "text": "Imashi Kawya"
             },
             {
-                "id": 1,
-                "start": 28,
-                "end": 46,
                 "label": "HOSP",
                 "text": "Asiri Laboratories"
             },
             {
-                "id": 2,
-                "start": 50,
-                "end": 58,
                 "label": "DATE",
                 "text": "June 2nd"
             },
             {
-                "id": 3,
-                "start": 87,
-                "end": 110,
                 "label": "EMAIL",
-                "text": "victoria.green@mail.net"
+                "text": "imashi.kawya@mail.net"
             }
         ]
     },
@@ -16887,7 +16875,7 @@
         ]
     },
     {
-        "sentence": "Receptionist: Hi, Chamara Abeykoon. Please confirm your address, 90 Oak Street, Tangalle, and email olivia.green@mail.com.",
+        "sentence": "Receptionist: Hi, Chamara Abeykoon. Please confirm your address, 90 Oak Street, Tangalle, and email chamara.abeykoon@mail.com.",
         "meta": {
             "note_id": "794",
             "patient_id": "10038"
@@ -16908,11 +16896,8 @@
                 "text": " 90 Oak Street, Tangalle"
             },
             {
-                "id": 2,
-                "start": 100,
-                "end": 121,
                 "label": "EMAIL",
-                "text": "olivia.green@mail.com"
+                "text": "chamara.abeykoon@mail.com"
             }
         ]
     },
@@ -17199,7 +17184,7 @@
         ]
     },
     {
-        "sentence": "Patient: I am Sophia Green. I work at Google.\nDoctor: Sophia, can you confirm your date of birth?\nPatient: It's April 10, 1985.",
+        "sentence": "Patient: I am Sophia Nixon. I work at Google.\nDoctor: Sophia, can you confirm your date of birth?\nPatient: It's April 10, 1985.",
         "meta": {
             "note_id": "4",
             "patient_id": "6789123"
@@ -17210,7 +17195,7 @@
                 "start": 14,
                 "end": 26,
                 "label": "PERSON",
-                "text": "Sophia Green"
+                "text": "Sophia Nixon"
             },
             {
                 "id": 1,
@@ -17898,7 +17883,7 @@
         ]
     },
     {
-        "sentence": "My cousin, Rachel Green, is also a patient here.",
+        "sentence": "My cousin, Rachel Nixon, is also a patient here.",
         "meta": {
             "note_id": "35"
         },
@@ -17908,7 +17893,7 @@
                 "start": 11,
                 "end": 23,
                 "label": "PERSON",
-                "text": "Rachel Green"
+                "text": "Rachel Nixon"
             }
         ]
     },
@@ -18735,7 +18720,7 @@
         ]
     },
     {
-        "sentence": "My father's name is Robert Green, and he is 58 years old.",
+        "sentence": "My father's name is Robert Osman, and he is 58 years old.",
         "meta": {
             "note_id": "81"
         },
@@ -18745,7 +18730,7 @@
                 "start": 20,
                 "end": 32,
                 "label": "PERSON",
-                "text": "Robert Green"
+                "text": "Robert Osman"
             },
             {
                 "id": 1,
@@ -19247,7 +19232,7 @@
         ]
     },
     {
-        "sentence": "Henry Green was examined at Parkside Medical on March 30th, 2023. Phone: 0766318625. Patient ID: PM-4971.",
+        "sentence": "Henry Osman was examined at Parkside Medical on March 30th, 2023. Phone: 0766318625. Patient ID: PM-4971.",
         "meta": {
             "note_id": "1227"
         },
@@ -19257,7 +19242,7 @@
                 "start": 0,
                 "end": 11,
                 "label": "PERSON",
-                "text": "Henry Green"
+                "text": "Henry Osman"
             },
             {
                 "id": 1,
@@ -22004,7 +21989,7 @@
         ]
     },
     {
-        "sentence": "Nurse James Anderson called (555) 789-1234 to schedule an appointment for patient Alice Green, DOB 10/05/1987, at Riverside Hospital.",
+        "sentence": "Nurse James Anderson called (555) 789-1234 to schedule an appointment for patient Alice Payne, DOB 10/05/1987, at Riverside Hospital.",
         "meta": {
             "note_id": "4005"
         },
@@ -22028,7 +22013,7 @@
                 "start": 82,
                 "end": 93,
                 "label": "PERSON",
-                "text": "Alice Green"
+                "text": "Alice Payne"
             },
             {
                 "id": 3,
@@ -22371,7 +22356,7 @@
         ]
     },
     {
-        "sentence": "The staff at Massachusetts General Hospital called (789) 456-1230 to inform Emily Green about her test results from 01/12/2023.",
+        "sentence": "The staff at Massachusetts General Hospital called (789) 456-1230 to inform Emily Payne about her test results from 01/12/2023.",
         "meta": {
             "note_id": "4015"
         },
@@ -22395,7 +22380,7 @@
                 "start": 76,
                 "end": 87,
                 "label": "PERSON",
-                "text": "Emily Green"
+                "text": "Emily Payne"
             },
             {
                 "id": 3,
@@ -22601,7 +22586,7 @@
         ]
     },
     {
-        "sentence": "A 47-year-old male, Alex Green, visited City Clinic for a persistent cough. His medical ID is MRN123987.",
+        "sentence": "A 47-year-old male, Alex Payne, visited City Clinic for a persistent cough. His medical ID is MRN123987.",
         "meta": {
             "note_id": "4021"
         },
@@ -22618,7 +22603,7 @@
                 "start": 20,
                 "end": 30,
                 "label": "PERSON",
-                "text": "Alex Green"
+                "text": "Alex Payne"
             },
             {
                 "id": 2,
@@ -22947,7 +22932,7 @@
         ]
     },
     {
-        "sentence": "Nurse Rachel Adams contacted patient John Green at (789) 555-6789 to confirm his appointment at St. Mary's Medical Center.",
+        "sentence": "Nurse Rachel Adams contacted patient John Perry at (789) 555-6789 to confirm his appointment at St. Mary's Medical Center.",
         "meta": {
             "note_id": "4031"
         },
@@ -22964,7 +22949,7 @@
                 "start": 37,
                 "end": 47,
                 "label": "PERSON",
-                "text": "John Green"
+                "text": "John Perry"
             },
             {
                 "id": 2,
@@ -23105,7 +23090,7 @@
         ]
     },
     {
-        "sentence": "Patient Alex Green, aged 40, visited City Hospital for chest pain. His medical ID is MRN654321, and his follow-up is in April 2024.",
+        "sentence": "Patient Alex Perry, aged 40, visited City Hospital for chest pain. His medical ID is MRN654321, and his follow-up is in April 2024.",
         "meta": {
             "note_id": "4035"
         },
@@ -23115,7 +23100,7 @@
                 "start": 8,
                 "end": 18,
                 "label": "PERSON",
-                "text": "Alex Green"
+                "text": "Alex Perry"
             },
             {
                 "id": 1,
@@ -23213,7 +23198,7 @@
         ]
     },
     {
-        "sentence": "Patient record MRN345678 includes a follow-up for Emma Green on March 10, 2024, at City Medical Center.",
+        "sentence": "Patient record MRN345678 includes a follow-up for Emma Perry on March 10, 2024, at City Medical Center.",
         "meta": {
             "note_id": "4038"
         },
@@ -23230,7 +23215,7 @@
                 "start": 50,
                 "end": 60,
                 "label": "PERSON",
-                "text": "Emma Green"
+                "text": "Emma Perry"
             },
             {
                 "id": 2,
@@ -23747,7 +23732,7 @@
         ]
     },
     {
-        "sentence": "Please call (800) 654-3210 to reach Dr. Alex White regarding the MRI scan results for patient Lisa Green.",
+        "sentence": "Please call (800) 654-3210 to reach Dr. Alex White regarding the MRI scan results for patient Lisa Reese.",
         "meta": {
             "note_id": "4054"
         },
@@ -23771,7 +23756,7 @@
                 "start": 94,
                 "end": 104,
                 "label": "PERSON",
-                "text": "Lisa Green"
+                "text": "Lisa Reese"
             }
         ]
     },
@@ -23971,7 +23956,7 @@
         ]
     },
     {
-        "sentence": "Diagnostic imaging indicated a potential fracture in the left femur; Dr. Emily Green reviewed the case on June 12, 2023.",
+        "sentence": "Diagnostic imaging indicated a potential fracture in the left femur; Dr. Emily Reese reviewed the case on June 12, 2023.",
         "meta": {
             "note_id": "4061"
         },
@@ -23981,7 +23966,7 @@
                 "start": 69,
                 "end": 84,
                 "label": "STAFF",
-                "text": "Dr. Emily Green"
+                "text": "Dr. Emily Reese"
             },
             {
                 "id": 1,
@@ -24358,7 +24343,7 @@
         ]
     },
     {
-        "sentence": "The patient Sarah Green experienced post-operative nausea following her laparotomy at Woodland Surgery Center.",
+        "sentence": "The patient Sarah Reese experienced post-operative nausea following her laparotomy at Woodland Surgery Center.",
         "meta": {
             "note_id": "4077"
         },
@@ -24368,7 +24353,7 @@
                 "start": 12,
                 "end": 23,
                 "label": "PERSON",
-                "text": "Sarah Green"
+                "text": "Sarah Reese"
             },
             {
                 "id": 1,
@@ -24526,7 +24511,7 @@
         ]
     },
     {
-        "sentence": "The discharge summary for Emma Green highlighted the need for physiotherapy following her shoulder arthroscopy on May 1, 2023.",
+        "sentence": "The discharge summary for Emma Stark highlighted the need for physiotherapy following her shoulder arthroscopy on May 1, 2023.",
         "meta": {
             "note_id": "4084"
         },
@@ -24536,7 +24521,7 @@
                 "start": 26,
                 "end": 36,
                 "label": "PERSON",
-                "text": "Emma Green"
+                "text": "Emma Stark"
             },
             {
                 "id": 1,
@@ -24751,7 +24736,7 @@
         ]
     },
     {
-        "sentence": "Laura Green's electrocardiogram showed ST-segment elevation, and she was transferred to Ridgefield Cardiology on May 3, 2024.",
+        "sentence": "Laura Stark's electrocardiogram showed ST-segment elevation, and she was transferred to Ridgefield Cardiology on May 3, 2024.",
         "meta": {
             "note_id": "4092"
         },
@@ -24761,7 +24746,7 @@
                 "start": 0,
                 "end": 11,
                 "label": "PERSON",
-                "text": "Laura Green"
+                "text": "Laura Stark"
             },
             {
                 "id": 1,
@@ -24832,7 +24817,7 @@
         ]
     },
     {
-        "sentence": "Dr. Alex Carter performed a thoracentesis to relieve pleural effusion in patient John Green at Pine Valley Clinic.",
+        "sentence": "Dr. Alex Carter performed a thoracentesis to relieve pleural effusion in patient John Stark at Pine Valley Clinic.",
         "meta": {
             "note_id": "4096"
         },
@@ -24849,7 +24834,7 @@
                 "start": 81,
                 "end": 91,
                 "label": "PERSON",
-                "text": "John Green"
+                "text": "John Stark"
             },
             {
                 "id": 2,
@@ -25253,7 +25238,7 @@
         ]
     },
     {
-        "sentence": "The concert tickets for Emma Green were purchased online and sent to emma.green@mail.com.",
+        "sentence": "The concert tickets for Emma Trace were purchased online and sent to emma.trace@mail.com.",
         "meta": {
             "note_id": "4111"
         },
@@ -25263,14 +25248,14 @@
                 "start": 24,
                 "end": 34,
                 "label": "PERSON",
-                "text": "Emma Green"
+                "text": "Emma Trace"
             },
             {
                 "id": 1,
                 "start": 69,
                 "end": 88,
                 "label": "EMAIL",
-                "text": "emma.green@mail.com"
+                "text": "emma.trace@mail.com"
             }
         ]
     },
@@ -25696,7 +25681,7 @@
         ]
     },
     {
-        "sentence": "Sophia Green's package was delivered to 789 Birchwood Road, Atlanta, GA, on July 10, 2023.",
+        "sentence": "Sophia Trace's package was delivered to 789 Birchwood Road, Atlanta, GA, on July 10, 2023.",
         "meta": {
             "note_id": "4127"
         },
@@ -25706,7 +25691,7 @@
                 "start": 0,
                 "end": 12,
                 "label": "PERSON",
-                "text": "Sophia Green"
+                "text": "Sophia Trace"
             },
             {
                 "id": 1,
