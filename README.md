@@ -71,7 +71,7 @@ The dataset includes the following entity labels:
 | 10  | HOSP      | Hospital or medical institution                 |
 | 11  | ORG       | Organizations or institutions                   |
 | 12  | URL       | URLs                  |
-| 13  | TIMESTAMPS       | Time stamps (e.g. last summer, yesterday)                  |
+| 13  | TIMESTAMPS       | Relative dates (e.g. last summer, yesterday)                  |
 
 
 ## Applications
