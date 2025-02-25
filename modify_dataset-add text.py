@@ -20,7 +20,6 @@ if ADD_TEXT:
 
 if ADD_START_END:
     for entry in data:
-        changed = 0
         sentence = entry["sentence"]
         last_end = 0
         id = -1
@@ -29,24 +28,22 @@ if ADD_START_END:
             # print("entry[sentence]: ", entry["sentence"])
             span_text = span["text"]
             start = sentence.find(span_text, last_end)
+            if start == -1:
+                print("Span text start not found in sentence:", sentence)
             end = start + len(span_text)
             last_end = end
-            if span.get('text') and span.get('start') is None:
-                changed = 1
-                # only add start and end if text is present and start is not already present
-                print("Sentence: ", sentence, "Changed")
+            if span.get('text'):
+                # only add start and end if text is present
                 span["id"] = id
                 span["start"] = start
                 span["end"] = end
-                
-            if changed:
-                span["id"] = id
+            else: 
+                print("Span['text'] not found. sentence:", sentence)
 
     with open('all_data.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
     print("Added start and end to spans in the dataset")
 
-print("Updated dataset saved as 'updated_dataset.json'")
 
 # # label counts in the dataset
 with open('all_data.json', 'r', encoding='utf-8') as f:

@@ -6081,7 +6081,7 @@
                 "start": 33,
                 "end": 50,
                 "label": "STAFF",
-                "text": "Alice Craig"
+                "text": "nurse Alice Craig"
             },
             {
                 "id": 2,
@@ -14975,14 +14975,14 @@
                 "text": "Olivia Brown"
             },
             {
-                "id": 0,
+                "id": 1,
                 "start": 75,
                 "end": 81,
                 "label": "PERSON",
                 "text": "Olivia"
             },
             {
-                "id": 1,
+                "id": 2,
                 "start": 98,
                 "end": 106,
                 "label": "ID",
@@ -16382,19 +16382,31 @@
         "spans": [
             {
                 "label": "PERSON",
-                "text": "Imashi Kawya"
+                "text": "Imashi Kawya",
+                "id": 0,
+                "start": 4,
+                "end": 16
             },
             {
                 "label": "HOSP",
-                "text": "Asiri Laboratories"
+                "text": "Asiri Laboratories",
+                "id": 1,
+                "start": 28,
+                "end": 46
             },
             {
                 "label": "DATE",
-                "text": "June 2nd"
+                "text": "June 2nd",
+                "id": 2,
+                "start": 50,
+                "end": 58
             },
             {
                 "label": "EMAIL",
-                "text": "imashi.kawya@mail.net"
+                "text": "imashi.kawya@mail.net",
+                "id": 3,
+                "start": 87,
+                "end": 108
             }
         ]
     },
@@ -16897,7 +16909,10 @@
             },
             {
                 "label": "EMAIL",
-                "text": "chamara.abeykoon@mail.com"
+                "text": "chamara.abeykoon@mail.com",
+                "id": 2,
+                "start": 100,
+                "end": 125
             }
         ]
     },
@@ -19044,14 +19059,14 @@
         },
         "spans": [
             {
-                "id": 1,
+                "id": 0,
                 "start": 6,
                 "end": 7,
                 "label": "AGE",
                 "text": "3"
             },
             {
-                "id": 2,
+                "id": 1,
                 "start": 31,
                 "end": 36,
                 "label": "LOC",
@@ -19866,7 +19881,7 @@
         ]
     },
     {
-        "sentence": "Consult Note\nPt: Olivia Harper MC #4321098\nDate: 03/15/23 Harmony Medical Center OSCAR, SARAH Miami, FL 33101\n\nHISTORY OF PRESENT ILLNESS: The patient is a 62-year-old female with a history of hypertension and hyperlipidemia. She presented with complaints of dizziness and mild chest discomfort experienced intermittently over the past week. Denies nausea or shortness of breath.\n\nMEDICATIONS: The patient is currently on Lisinopril 20 mg q.d. and Atorvastatin 40 mg q.d. Aspirin 81 mg daily was added during the visit. She was advised to discontinue over-the-counter ibuprofen for headache management.\n\nHOSPITAL COURSE: Electrocardiogram (ECG) revealed normal sinus rhythm with occasional premature ventricular contractions (PVCs). Blood pressure on arrival was 168/94 mmHg. Patient was started on Amlodipine 5 mg q.d. for better hypertension control and advised to return for follow-up in 10 days.\n\nSOCIAL HISTORY: Retired school teacher, lives with her husband. Non-smoker, no alcohol use.\n",
+        "sentence": "Consult Note\nPt: Olivia Harper \nDate: 03/15/23 Harmony Medical Center, Miami, USA\n\nHISTORY OF PRESENT ILLNESS: The patient is a 62-year-old female with a history of hypertension and hyperlipidemia. She presented with complaints of dizziness and mild chest discomfort experienced intermittently over the past week. Denies nausea or shortness of breath.\n\nMEDICATIONS: The patient is currently on Lisinopril 20 mg q.d. and Atorvastatin 40 mg q.d. Aspirin 81 mg daily was added during the visit. She was advised to discontinue over-the-counter ibuprofen for headache management.\n\nHOSPITAL COURSE: Electrocardiogram (ECG) revealed normal sinus rhythm with occasional premature ventricular contractions (PVCs). Blood pressure on arrival was 168/94 mmHg. Patient was started on Amlodipine 5 mg q.d. for better hypertension control and advised to return for follow-up in 10 days.\n\nSOCIAL HISTORY: Retired school teacher, lives with her husband. Non-smoker, no alcohol use.",
         "meta": {
             "note_id": "5000",
             "patient_id": "43210"
@@ -19881,50 +19896,50 @@
             },
             {
                 "id": 1,
-                "start": 35,
-                "end": 42,
-                "label": "ID",
-                "text": "4321098"
-            },
-            {
-                "id": 2,
-                "start": 49,
-                "end": 57,
+                "start": 38,
+                "end": 46,
                 "label": "DATE",
                 "text": "03/15/23"
             },
             {
-                "id": 3,
-                "start": 58,
-                "end": 80,
+                "id": 2,
+                "start": 47,
+                "end": 69,
                 "label": "HOSP",
                 "text": "Harmony Medical Center"
             },
             {
-                "id": 4,
-                "start": 81,
-                "end": 93,
-                "label": "STAFF",
-                "text": "OSCAR, SARAH"
+                "id": 3,
+                "start": 71,
+                "end": 81,
+                "label": "LOC",
+                "text": "Miami, USA"
             },
             {
-                "id": 5,
-                "start": 156,
-                "end": 158,
+                "id": 4,
+                "start": 128,
+                "end": 130,
                 "label": "AGE",
                 "text": "62"
             },
             {
+                "id": 5,
+                "start": 303,
+                "end": 312,
+                "label": "TIMESTAMPS",
+                "text": "past week"
+            },
+            {
                 "id": 6,
-                "start": 94,
-                "end": 109,
-                "label": "LOC",
-                "text": "Miami, FL 33101"
+                "start": 863,
+                "end": 870,
+                "label": "TIMESTAMPS",
+                "text": "10 days"
             }
         ]
     },
     {
-        "sentence": "Consult Note\nPt: Ethan Clark MC #9843217\nDate: 11/12/23 Sunshine Medical Center DR. JONES, EMILY Los Angeles, CA 90001\n\nHISTORY OF PRESENT ILLNESS: The patient is a 45-year-old male with Type 2 diabetes mellitus presenting with poorly controlled blood sugar levels over the past three months. Complains of fatigue and episodes of blurred vision, primarily in the evenings. No reports of dizziness or chest pain.\n\nMEDICATIONS: The patient has been on Metformin 500 mg b.i.d. and Glipizide 10 mg q.d. for diabetes management. Additionally, Vitamin D 1000 IU daily was recommended during the consultation.\n\nHOSPITAL COURSE: Fasting blood glucose was noted at 198 mg/dL, and HbA1c was 8.9%. Patient was started on Insulin Glargine 10 units subcutaneous injection nightly. Follow-up scheduled in 2 weeks for glucose monitoring and adjustment of the insulin dosage.\n\nSOCIAL HISTORY: Works as a software engineer, married with two children. Occasionally consumes alcohol, denies smoking.\n",
+        "sentence": "Consult Note\nPt: Ethan Clark \nDate: 11/12/23 Sunshine Medical Center DR. JONES, Los Angeles, USA\n\nHISTORY OF PRESENT ILLNESS: The patient is a 45-year-old male with Type 2 diabetes mellitus presenting with poorly controlled blood sugar levels over the past three months. Complains of fatigue and episodes of blurred vision, primarily in the evenings. No reports of dizziness or chest pain.\n\nMEDICATIONS: The patient has been on Metformin 500 mg b.i.d. and Glipizide 10 mg q.d. for diabetes management. Additionally, Vitamin D 1000 IU daily was recommended during the consultation.\n\nHOSPITAL COURSE: Fasting blood glucose was noted at 198 mg/dL, and HbA1c was 8.9%. Patient was started on Insulin Glargine 10 units subcutaneous injection nightly. Follow-up scheduled in 2 weeks for glucose monitoring and adjustment of the insulin dosage.\n\nSOCIAL HISTORY: Works as a software engineer, married with two children. Occasionally consumes alcohol, denies smoking",
         "meta": {
             "note_id": "5001",
             "patient_id": "98432"
@@ -19939,103 +19954,52 @@
             },
             {
                 "id": 1,
-                "start": 33,
-                "end": 40,
-                "label": "ID",
-                "text": "9843217"
-            },
-            {
-                "id": 2,
-                "start": 47,
-                "end": 55,
+                "start": 36,
+                "end": 44,
                 "label": "DATE",
                 "text": "11/12/23"
             },
             {
-                "id": 3,
-                "start": 56,
-                "end": 79,
+                "id": 2,
+                "start": 45,
+                "end": 68,
                 "label": "HOSP",
                 "text": "Sunshine Medical Center"
+            },
+            {
+                "id": 3,
+                "start": 69,
+                "end": 78,
+                "label": "STAFF",
+                "text": "DR. JONES"
             },
             {
                 "id": 4,
                 "start": 80,
                 "end": 96,
-                "label": "STAFF",
-                "text": "DR. JONES, EMILY"
+                "label": "LOC",
+                "text": "Los Angeles, USA"
             },
             {
                 "id": 5,
-                "start": 165,
-                "end": 167,
+                "start": 143,
+                "end": 145,
                 "label": "AGE",
                 "text": "45"
             },
             {
                 "id": 6,
-                "start": 97,
-                "end": 118,
-                "label": "LOC",
-                "text": "Los Angeles, CA 90001"
-            }
-        ]
-    },
-    {
-        "sentence": "Consult Note\nPt: Sophia Martinez MC #5678903\nDate: 07/09/22 Green Valley Clinic DR. LEE, ALEX New York, NY 10012\n\nHISTORY OF PRESENT ILLNESS: The patient is a 33-year-old female presenting with recurrent migraines over the past six months. Episodes are associated with photophobia and nausea but no focal neurological deficits.\n\nMEDICATIONS: Currently using Sumatriptan 50 mg PRN for migraines and Ibuprofen 400 mg PRN for mild pain relief. Prescribed Propranolol 20 mg b.i.d. as a preventive measure.\n\nHOSPITAL COURSE: MRI of the brain was performed, which was unremarkable. Patient was advised on lifestyle modifications, including better sleep hygiene and regular exercise. A follow-up is scheduled in one month.\n\nSOCIAL HISTORY: Works as a graphic designer, lives alone. Non-smoker, consumes alcohol socially.\n",
-        "meta": {
-            "note_id": "5002",
-            "patient_id": "56789"
-        },
-        "spans": [
-            {
-                "id": 0,
-                "start": 17,
-                "end": 32,
-                "label": "PERSON",
-                "text": "Sophia Martinez"
+                "start": 252,
+                "end": 269,
+                "label": "TIMESTAMPS",
+                "text": "past three months"
             },
             {
-                "id": 1,
-                "start": 37,
-                "end": 44,
-                "label": "ID",
-                "text": "5678903"
-            },
-            {
-                "id": 2,
-                "start": 51,
-                "end": 59,
-                "label": "DATE",
-                "text": "07/09/22"
-            },
-            {
-                "id": 3,
-                "start": 60,
-                "end": 79,
-                "label": "HOSP",
-                "text": "Green Valley Clinic"
-            },
-            {
-                "id": 4,
-                "start": 80,
-                "end": 93,
-                "label": "STAFF",
-                "text": "DR. LEE, ALEX"
-            },
-            {
-                "id": 5,
-                "start": 159,
-                "end": 161,
-                "label": "AGE",
-                "text": "33"
-            },
-            {
-                "id": 6,
-                "start": 94,
-                "end": 112,
-                "label": "LOC",
-                "text": "New York, NY 10012"
+                "id": 7,
+                "start": 769,
+                "end": 776,
+                "label": "TIMESTAMPS",
+                "text": "2 weeks"
             }
         ]
     },
@@ -22133,17 +22097,17 @@
         "spans": [
             {
                 "id": 0,
-                "start": 48,
-                "end": 61,
-                "label": "HOSP",
-                "text": "City Hospital"
-            },
-            {
-                "id": 1,
                 "start": 2,
                 "end": 4,
                 "label": "AGE",
                 "text": "55"
+            },
+            {
+                "id": 1,
+                "start": 48,
+                "end": 61,
+                "label": "HOSP",
+                "text": "City Hospital"
             },
             {
                 "id": 2,
@@ -23153,7 +23117,7 @@
                 "text": "Health and Wellness Conference"
             },
             {
-                "id": 1,
+                "id": 2,
                 "start": 111,
                 "end": 121,
                 "label": "DATE",
@@ -24085,14 +24049,14 @@
                 "text": "Dr. Michael Roberts"
             },
             {
-                "id": 2,
+                "id": 1,
                 "start": 83,
                 "end": 94,
                 "label": "PERSON",
                 "text": "David Green"
             },
             {
-                "id": 3,
+                "id": 2,
                 "start": 106,
                 "end": 120,
                 "label": "DATE",
@@ -24947,17 +24911,17 @@
             },
             {
                 "id": 2,
-                "start": 80,
-                "end": 100,
-                "label": "EMAIL",
-                "text": "john.taylor@mail.com"
-            },
-            {
-                "id": 3,
                 "start": 40,
                 "end": 54,
                 "label": "DATE",
                 "text": "March 10, 2024"
+            },
+            {
+                "id": 3,
+                "start": 80,
+                "end": 100,
+                "label": "EMAIL",
+                "text": "john.taylor@mail.com"
             }
         ]
     },
@@ -25129,24 +25093,24 @@
         "spans": [
             {
                 "id": 0,
+                "start": 28,
+                "end": 38,
+                "label": "ID",
+                "text": "1734367890"
+            },
+            {
+                "id": 1,
                 "start": 61,
                 "end": 71,
                 "label": "PERSON",
                 "text": "Alex White"
             },
             {
-                "id": 1,
+                "id": 2,
                 "start": 75,
                 "end": 103,
                 "label": "LOC",
                 "text": "789 Pine Avenue, Seattle, WA"
-            },
-            {
-                "id": 2,
-                "start": 28,
-                "end": 38,
-                "label": "ID",
-                "text": "1234567890"
             }
         ]
     },
@@ -25187,17 +25151,17 @@
         "spans": [
             {
                 "id": 0,
-                "start": 80,
-                "end": 97,
-                "label": "ORG",
-                "text": "Grand Opera House"
-            },
-            {
-                "id": 1,
                 "start": 58,
                 "end": 71,
                 "label": "DATE",
                 "text": "July 15, 2024"
+            },
+            {
+                "id": 1,
+                "start": 80,
+                "end": 97,
+                "label": "ORG",
+                "text": "Grand Opera House"
             }
         ]
     },
@@ -25311,17 +25275,17 @@
         "spans": [
             {
                 "id": 0,
-                "start": 77,
-                "end": 96,
-                "label": "ORG",
-                "text": "FinancePro Analysts"
-            },
-            {
-                "id": 1,
                 "start": 61,
                 "end": 72,
                 "label": "DATE",
                 "text": "May 3, 2024"
+            },
+            {
+                "id": 1,
+                "start": 77,
+                "end": 96,
+                "label": "ORG",
+                "text": "FinancePro Analysts"
             }
         ]
     },
@@ -25550,17 +25514,17 @@
             },
             {
                 "id": 2,
-                "start": 89,
-                "end": 116,
-                "label": "EMAIL",
-                "text": "william.davis@designpro.com"
-            },
-            {
-                "id": 3,
                 "start": 60,
                 "end": 71,
                 "label": "DATE",
                 "text": "May 5, 2023"
+            },
+            {
+                "id": 3,
+                "start": 89,
+                "end": 116,
+                "label": "EMAIL",
+                "text": "william.davis@designpro.com"
             }
         ]
     },
@@ -26577,17 +26541,17 @@
             },
             {
                 "id": 2,
-                "start": 94,
-                "end": 125,
-                "label": "LOC",
-                "text": "Pallekele International Stadium"
-            },
-            {
-                "id": 3,
                 "start": 76,
                 "end": 89,
                 "label": "DATE",
                 "text": "July 22, 2024"
+            },
+            {
+                "id": 3,
+                "start": 94,
+                "end": 125,
+                "label": "LOC",
+                "text": "Pallekele International Stadium"
             }
         ]
     },
@@ -28329,7 +28293,7 @@
         },
         "spans": [
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Michael Johnson",
                 "id": 0,
                 "start": 0,
@@ -28400,7 +28364,7 @@
                 "end": 20
             },
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Sarah Thompson",
                 "id": 1,
                 "start": 22,
@@ -28428,7 +28392,7 @@
                 "end": 235
             },
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Sarah",
                 "id": 5,
                 "start": 237,
@@ -28450,7 +28414,7 @@
         },
         "spans": [
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "David Martinez",
                 "id": 0,
                 "start": 0,
@@ -28500,7 +28464,7 @@
         },
         "spans": [
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Alice Johnson",
                 "id": 0,
                 "start": 0,
@@ -28550,7 +28514,7 @@
                 "end": 17
             },
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Robert Miller",
                 "id": 1,
                 "start": 47,
@@ -28586,7 +28550,7 @@
         },
         "spans": [
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Jennifer Lee",
                 "id": 0,
                 "start": 0,
@@ -28636,7 +28600,7 @@
                 "end": 16
             },
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Mark Thompson",
                 "id": 1,
                 "start": 18,
@@ -28693,7 +28657,7 @@
                 "end": 47
             },
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "William Smith",
                 "id": 3,
                 "start": 77,
@@ -28772,7 +28736,7 @@
                 "end": 46
             },
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Susan Harris",
                 "id": 3,
                 "start": 78,
@@ -28794,7 +28758,7 @@
         },
         "spans": [
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Jonathan Myers",
                 "id": 0,
                 "start": 0,
@@ -28837,7 +28801,7 @@
                 "end": 20
             },
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Richard Bennett",
                 "id": 1,
                 "start": 60,
@@ -28880,7 +28844,7 @@
                 "end": 16
             },
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Margaret Collins",
                 "id": 1,
                 "start": 18,
@@ -28909,7 +28873,7 @@
         },
         "spans": [
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Benjamin Harris",
                 "id": 0,
                 "start": 0,
@@ -28959,7 +28923,7 @@
                 "end": 18
             },
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Olivia Parker",
                 "id": 1,
                 "start": 57,
@@ -28980,7 +28944,7 @@
                 "end": 111
             },
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Olivia",
                 "id": 4,
                 "start": 113,
@@ -29009,7 +28973,7 @@
                 "end": 20
             },
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Gregory Adams",
                 "id": 1,
                 "start": 22,
@@ -29038,7 +29002,7 @@
         },
         "spans": [
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Catherine Brooks",
                 "id": 0,
                 "start": 0,
@@ -29102,7 +29066,7 @@
                 "end": 44
             },
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Daniel Peterson",
                 "id": 3,
                 "start": 77,
@@ -29124,7 +29088,7 @@
         },
         "spans": [
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Julia Simmons",
                 "id": 0,
                 "start": 0,
@@ -29174,7 +29138,7 @@
                 "end": 16
             },
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Anthony Russell",
                 "id": 1,
                 "start": 18,
@@ -29203,7 +29167,7 @@
         },
         "spans": [
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Emily Davis",
                 "id": 0,
                 "start": 0,
@@ -29232,7 +29196,7 @@
                 "end": 18
             },
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Daniel Wilson",
                 "id": 1,
                 "start": 20,
@@ -29261,7 +29225,7 @@
         },
         "spans": [
             {
-                "label": "PATIENT",
+                "label": "PERSON",
                 "text": "Sophia Anderson",
                 "id": 0,
                 "start": 0,
