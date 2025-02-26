@@ -32442,5 +32442,99 @@
             "note_id": "2042",
             "sl_context": "false"
         }  
-    }
+    },
+    {
+        "sentence": "Innovation has always been the driving force behind technological advancements. FutureTech Corp, founded by Jonathan Reynolds on April 12, 1995, has become one of the leading tech companies in the AI and robotics industry. This essay explores the company's growth, key figures, and its impact on modern technology.\n\nThe Foundation of FutureTech Corp\n\nJonathan Reynolds, born on September 7, 1970, in San Francisco, had a vision of integrating AI into daily life. After graduating from Stanford University in 1992 with a degree in Computer Science, he founded FutureTech Corp (www.futuretechcorp.com) at the age of 25. His co-founder, Emily Carter (born March 15, 1973), an MIT-educated engineer, played a crucial role in shaping the company’s product line.\n\nMajor Milestones and Achievements\n\n1. 1997 - First AI Prototype\n   - The company released its first AI-powered assistant, SmartCore, on June 10, 1997.\n   - The technology was showcased at the International Tech Expo in New York City.\n\n2. 2005 - Expansion to Robotics\n   - FutureTech launched RoboHelper, a home assistant robot, on February 20, 2005.\n   - By the end of the year, over 100,000 units were sold worldwide.\n\n3. 2015 - Breakthrough in Autonomous Vehicles\n   - Partnered with AutoDrive Inc. to develop AI-based self-driving technology.\n   - On August 8, 2015, FutureTech’s first autonomous vehicle completed a test drive across California.\n\n4. 2023 - AI Integration in Healthcare\n   - Introduced MedBot, an AI-driven healthcare assistant, on October 5, 2023.\n   - Used in over 200 hospitals across the U.S. within the first six months.",
+        "spans": [
+          {"label": "ORG", "text": "FutureTech Corp"},
+          {"label": "STAFF", "text": "Jonathan Reynolds"},
+          {"label": "BIRTHDATE", "text": "September 7, 1970"},
+          {"label": "LOC", "text": "San Francisco"},
+          {"label": "DATE", "text": "April 12, 1995"},
+          {"label": "ORG", "text": "Stanford University"},
+          {"label": "DATE", "text": "1992"},
+          {"label": "URL", "text": "www.futuretechcorp.com"},
+          {"label": "STAFF", "text": "Emily Carter"},
+          {"label": "BIRTHDATE", "text": "March 15, 1973"},
+          {"label": "ORG", "text": "MIT"},
+          {"label": "DATE", "text": "1997"},
+          {"label": "ORG", "text": "International Tech Expo"},
+          {"label": "LOC", "text": "New York City"},
+          {"label": "DATE", "text": "June 10, 1997"},
+          {"label": "DATE", "text": "2005"},
+          {"label": "DATE", "text": "February 20, 2005"},
+          {"label": "DATE", "text": "2015"},
+          {"label": "ORG", "text": "AutoDrive Inc."},
+          {"label": "DATE", "text": "August 8, 2015"},
+          {"label": "LOC", "text": "California"},
+          {"label": "DATE", "text": "2023"},
+          {"label": "ORG", "text": "MedBot"},
+          {"label": "DATE", "text": "October 5, 2023"},
+          {"label": "HOSP", "text": "200 hospitals"},
+          {"label": "LOC", "text": "U.S."}
+        ],
+        "meta": {
+            "note_id": "4328",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Innovation has always been the driving force behind technological advancements. FutureTech Corp, founded by Jonathan Reynolds on April 12, 1995, has become one of the leading tech companies in the AI and robotics industry. This essay explores the company's growth, key figures, and its impact on modern technology.\n\nThe Foundation of FutureTech Corp\n\nJonathan Reynolds, born on September 7, 1970, in San Francisco, had a vision of integrating AI into daily life. After graduating from Stanford University in 1992 with a degree in Computer Science, he founded FutureTech Corp (www.futuretechcorp.com) at the age of 25. His co-founder, Emily Carter (born March 15, 1973), an MIT-educated engineer, played a crucial role in shaping the company’s product line.\n\nMajor Milestones and Achievements\n\n1. 1997 - First AI Prototype\n   - The company released its first AI-powered assistant, SmartCore, on June 10, 1997.\n   - The technology was showcased at the International Tech Expo in New York City.\n\n2. 2005 - Expansion to Robotics\n   - FutureTech launched RoboHelper, a home assistant robot, on February 20, 2005.\n   - By the end of the year, over 100,000 units were sold worldwide.\n\n3. 2015 - Breakthrough in Autonomous Vehicles\n   - Partnered with AutoDrive Inc. to develop AI-based self-driving technology.\n   - On August 8, 2015, FutureTech’s first autonomous vehicle completed a test drive across California.\n\n4. 2023 - AI Integration in Healthcare\n   - Introduced MedBot, an AI-driven healthcare assistant, on October 5, 2023.\n   - Used in over 200 hospitals across the U.S. within the first six months.",
+        "spans": [
+          {"label": "ORG", "text": "FutureTech Corp"},
+          {"label": "STAFF", "text": "Jonathan Reynolds"},
+          {"label": "BIRTHDATE", "text": "September 7, 1970"},
+          {"label": "LOC", "text": "San Francisco"},
+          {"label": "DATE", "text": "April 12, 1995"},
+          {"label": "ORG", "text": "Stanford University"},
+          {"label": "DATE", "text": "1992"},
+          {"label": "URL", "text": "www.futuretechcorp.com"},
+          {"label": "STAFF", "text": "Emily Carter"},
+          {"label": "BIRTHDATE", "text": "March 15, 1973"},
+          {"label": "ORG", "text": "MIT"},
+          {"label": "DATE", "text": "1997"},
+          {"label": "ORG", "text": "International Tech Expo"},
+          {"label": "LOC", "text": "New York City"},
+          {"label": "DATE", "text": "June 10, 1997"},
+          {"label": "DATE", "text": "2005"},
+          {"label": "DATE", "text": "February 20, 2005"},
+          {"label": "DATE", "text": "2015"},
+          {"label": "ORG", "text": "AutoDrive Inc."},
+          {"label": "DATE", "text": "August 8, 2015"},
+          {"label": "LOC", "text": "California"},
+          {"label": "DATE", "text": "2023"},
+          {"label": "ORG", "text": "MedBot"},
+          {"label": "DATE", "text": "October 5, 2023"},
+          {"label": "HOSP", "text": "200 hospitals"},
+          {"label": "LOC", "text": "U.S."}
+        ],
+        "meta": {
+            "note_id": "4329",
+            "sl_context": "false"
+        }
+      },
+      {
+        "Paragraph": "Leadership and Workforce\n\nAs of 2025, FutureTech Corp employs over 5,000 professionals worldwide. CEO Jonathan Reynolds (email: jonathan.reynolds@futuretechcorp.com) continues to lead the company, with CTO Emily Carter (email: emily.carter@futuretechcorp.com) spearheading technological developments.\n\nThe Future of FutureTech Corp\n\nWith continued investment in AI and robotics, FutureTech Corp aims to revolutionize industries such as transportation, healthcare, and education. The company’s next major event is scheduled for September 15, 2025, at the Global AI Summit in London.\n\nFor more information, visit www.futuretechcorp.com or contact press@futuretechcorp.com.",
+        "spans": [
+          {"label": "DATE", "text": "2025"},
+          {"label": "ORG", "text": "FutureTech Corp"},
+          {"label": "STAFF", "text": "Jonathan Reynolds"},
+          {"label": "EMAIL", "text": "jonathan.reynolds@futuretechcorp.com"},
+          {"label": "STAFF", "text": "Emily Carter"},
+          {"label": "EMAIL", "text": "emily.carter@futuretechcorp.com"},
+          {"label": "DATE", "text": "September 15, 2025"},
+          {"label": "ORG", "text": "Global AI Summit"},
+          {"label": "LOC", "text": "London"},
+          {"label": "URL", "text": "www.futuretechcorp.com"},
+          {"label": "EMAIL", "text": "press@futuretechcorp.com"}
+        ],
+        "meta": {
+            "note_id": "4330",
+            "sl_context": "false"
+        }
+      }
+      
+      
+
+      
 ]
