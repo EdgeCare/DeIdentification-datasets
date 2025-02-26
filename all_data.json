@@ -29269,6 +29269,332 @@
         ]
     },
     {
+        "sentence": "Dr. Alan Whitaker at Johns Hopkins Hospital reported that Mr. James Carter, a 62-year-old male, was admitted on February 14, 2024, with acute myocardial infarction. Emergency coronary angioplasty was performed at 3:45 PM. The patient has a history of type 2 diabetes and hypertension. He is currently stable and under monitoring in the CCU. For further details, the hospital contact is (410) 955-5000, or email cardiology@jhh.org. The case ID is JH-2024-1592.",
+        "meta": {
+            "note_id": "4324"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Alan Whitaker",
+                "id": 0,
+                "start": 0,
+                "end": 17
+            },
+            {
+                "label": "HOSP",
+                "text": "Johns Hopkins Hospital",
+                "id": 1,
+                "start": 21,
+                "end": 43
+            },
+            {
+                "label": "PERSON",
+                "text": "Mr. James Carter",
+                "id": 2,
+                "start": 58,
+                "end": 74
+            },
+            {
+                "label": "AGE",
+                "text": "62",
+                "id": 3,
+                "start": 78,
+                "end": 80
+            },
+            {
+                "label": "DATE",
+                "text": "February 14, 2024",
+                "id": 4,
+                "start": 112,
+                "end": 129
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "3:45 PM",
+                "id": 5,
+                "start": 213,
+                "end": 220
+            },
+            {
+                "label": "PHONE",
+                "text": "(410) 955-5000",
+                "id": 6,
+                "start": 386,
+                "end": 400
+            },
+            {
+                "label": "EMAIL",
+                "text": "cardiology@jhh.org",
+                "id": 7,
+                "start": 411,
+                "end": 429
+            },
+            {
+                "label": "ID",
+                "text": "JH-2024-1592",
+                "id": 8,
+                "start": 446,
+                "end": 458
+            }
+        ]
+    },
+    {
+        "sentence": "Three months ago, Emily Dawson, a 28-year-old software engineer from San Francisco, was diagnosed with multiple sclerosis (MS) after experiencing persistent vision problems and numbness in her limbs. She sought treatment at UCSF Medical Center under the care of Dr. Rachel Fernandez. Emily's current treatment plan includes Ocrevus infusions and physiotherapy sessions. Patients seeking similar care can contact the neurology department at UCSF via neuro@ucsfmed.org or (415) 476-1000. Her case ID is MS-UCSF-2834.",
+        "meta": {
+            "note_id": "4325"
+        },
+        "spans": [
+            {
+                "label": "TIMESTAMPS",
+                "text": "Three months ago",
+                "id": 0,
+                "start": 0,
+                "end": 16
+            },
+            {
+                "label": "PERSON",
+                "text": "Emily Dawson",
+                "id": 1,
+                "start": 18,
+                "end": 30
+            },
+            {
+                "label": "AGE",
+                "text": "28",
+                "id": 2,
+                "start": 34,
+                "end": 36
+            },
+            {
+                "label": "LOC",
+                "text": "San Francisco",
+                "id": 3,
+                "start": 69,
+                "end": 82
+            },
+            {
+                "label": "HOSP",
+                "text": "UCSF Medical Center",
+                "id": 4,
+                "start": 224,
+                "end": 243
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Rachel Fernandez",
+                "id": 5,
+                "start": 262,
+                "end": 282
+            },
+            {
+                "label": "PERSON",
+                "text": "Emily",
+                "id": 6,
+                "start": 284,
+                "end": 289
+            },
+            {
+                "label": "ORG",
+                "text": "neurology department at UCSF",
+                "id": 7,
+                "start": 416,
+                "end": 444
+            },
+            {
+                "label": "EMAIL",
+                "text": "neuro@ucsfmed.org",
+                "id": 8,
+                "start": 449,
+                "end": 466
+            },
+            {
+                "label": "PHONE",
+                "text": "(415) 476-1000",
+                "id": 9,
+                "start": 470,
+                "end": 484
+            },
+            {
+                "label": "ID",
+                "text": "MS-UCSF-2834",
+                "id": 10,
+                "start": 501,
+                "end": 513
+            }
+        ]
+    },
+    {
+        "sentence": "A recent study published by the Mayo Clinic on January 10, 2024, highlights a breakthrough in early Alzheimer's detection using blood biomarkers. Dr. Samuel Briggs, lead neurologist at Mayo Clinic, conducted a five-year study involving 1,200 patients across multiple locations, including Rochester, MN. The findings suggest that beta-amyloid protein levels in blood samples can predict cognitive decline up to five years before symptom onset. For inquiries, contact research@mayoclinic.org or call (507) 284-2511. The research ID is ALZ-2024-1120.",
+        "meta": {
+            "note_id": "4326"
+        },
+        "spans": [
+            {
+                "label": "HOSP",
+                "text": "Mayo Clinic",
+                "id": 0,
+                "start": 32,
+                "end": 43
+            },
+            {
+                "label": "DATE",
+                "text": "January 10, 2024",
+                "id": 1,
+                "start": 47,
+                "end": 63
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Samuel Briggs",
+                "id": 2,
+                "start": 146,
+                "end": 163
+            },
+            {
+                "label": "HOSP",
+                "text": "Mayo Clinic",
+                "id": 3,
+                "start": 185,
+                "end": 196
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "five-year",
+                "id": 4,
+                "start": 210,
+                "end": 219
+            },
+            {
+                "label": "LOC",
+                "text": "Rochester, MN",
+                "id": 5,
+                "start": 288,
+                "end": 301
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "five years",
+                "id": 6,
+                "start": 410,
+                "end": 420
+            },
+            {
+                "label": "EMAIL",
+                "text": "research@mayoclinic.org",
+                "id": 7,
+                "start": 466,
+                "end": 489
+            },
+            {
+                "label": "PHONE",
+                "text": "(507) 284-2511",
+                "id": 8,
+                "start": 498,
+                "end": 512
+            },
+            {
+                "label": "ID",
+                "text": "ALZ-2024-1120",
+                "id": 9,
+                "start": 533,
+                "end": 546
+            }
+        ]
+    },
+    {
+        "sentence": "Last Friday, Bellevue Hospital in New York City successfully performed its first xenotransplantation surgery, transplanting a genetically modified pig kidney into 45-year-old Thomas Reynolds, who had end-stage renal failure. The procedure, led by Dr. Priya Mehta, marks a significant milestone in transplant medicine. Reynolds, who had been on dialysis for six years, is recovering well. Bellevue’s transplant unit can be reached at transplant@bellevuehosp.org or (212) 562-4141. The case ID for this pioneering surgery is BX-2024-7631.",
+        "meta": {
+            "note_id": "4327"
+        },
+        "spans": [
+            {
+                "label": "TIMESTAMPS",
+                "text": "Last Friday",
+                "id": 0,
+                "start": 0,
+                "end": 11
+            },
+            {
+                "label": "HOSP",
+                "text": "Bellevue Hospital",
+                "id": 1,
+                "start": 13,
+                "end": 30
+            },
+            {
+                "label": "LOC",
+                "text": "New York City",
+                "id": 2,
+                "start": 34,
+                "end": 47
+            },
+            {
+                "label": "AGE",
+                "text": "45",
+                "id": 3,
+                "start": 163,
+                "end": 165
+            },
+            {
+                "label": "PERSON",
+                "text": "Thomas Reynolds",
+                "id": 4,
+                "start": 175,
+                "end": 190
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Priya Mehta",
+                "id": 5,
+                "start": 247,
+                "end": 262
+            },
+            {
+                "label": "PERSON",
+                "text": "Reynolds",
+                "id": 6,
+                "start": 318,
+                "end": 326
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "six years",
+                "id": 7,
+                "start": 357,
+                "end": 366
+            },
+            {
+                "label": "HOSP",
+                "text": "Bellevue",
+                "id": 8,
+                "start": 388,
+                "end": 396
+            },
+            {
+                "label": "EMAIL",
+                "text": "transplant@bellevuehosp.org",
+                "id": 9,
+                "start": 433,
+                "end": 460
+            },
+            {
+                "label": "PHONE",
+                "text": "(212) 562-4141",
+                "id": 10,
+                "start": 464,
+                "end": 478
+            },
+            {
+                "label": "ID",
+                "text": "BX-2024-7631",
+                "id": 11,
+                "start": 523,
+                "end": 535
+            }
+        ]
+    },
+    {
         "sentence": "I spoke with Dr. Thushani, the patient's urologist, about most appropriate step for the patient, and Dr. Thushani said she would be happy to care for the patient in the Lanka Hospital and do urologic scopes if necessary and surgery if necessary and blood transfusion",
         "meta": {
             "note_id": "15000"
