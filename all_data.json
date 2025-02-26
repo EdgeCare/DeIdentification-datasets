@@ -1309,7 +1309,7 @@
                 "id": 0,
                 "start": 40,
                 "end": 61,
-                "label": "ORG",
+                "label": "HOSP",
                 "text": "Healthy Life Pharmacy"
             }
         ]
@@ -4017,7 +4017,7 @@
                 "id": 1,
                 "start": 56,
                 "end": 67,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last Sunday"
             }
         ]
@@ -17133,27 +17133,34 @@
             },
             {
                 "id": 1,
+                "start": 50,
+                "end": 61,
+                "label": "TIMESTAMPS",
+                "text": "last 3 days"
+            },
+            {
+                "id": 2,
                 "start": 78,
                 "end": 82,
                 "label": "PERSON",
                 "text": "John"
             },
             {
-                "id": 2,
+                "id": 3,
                 "start": 101,
                 "end": 108,
                 "label": "ID",
                 "text": "JD12345"
             },
             {
-                "id": 3,
+                "id": 4,
                 "start": 157,
                 "end": 169,
                 "label": "DATE",
                 "text": "December 5th"
             },
             {
-                "id": 4,
+                "id": 5,
                 "start": 188,
                 "end": 196,
                 "label": "LOC",
@@ -18537,7 +18544,7 @@
                 "id": 0,
                 "start": 12,
                 "end": 24,
-                "label": "LOC",
+                "label": "ORG",
                 "text": "Hilton Hotel"
             },
             {
@@ -18818,7 +18825,7 @@
                 "id": 1,
                 "start": 29,
                 "end": 41,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "last Tuesday"
             }
         ]
@@ -20409,6 +20416,20 @@
                 "end": 320,
                 "label": "STAFF",
                 "text": "Dr. Nipun Gunathilake"
+            },
+            {
+                "id": 6,
+                "start": 525,
+                "end": 542,
+                "label": "TIMESTAMPS",
+                "text": "past three months"
+            },
+            {
+                "id": 7,
+                "start": 1231,
+                "end": 1240,
+                "label": "TIMESTAMPS",
+                "text": "two weeks"
             }
         ],
         "meta": {
@@ -29395,10 +29416,10 @@
                 "end": 289
             },
             {
-                "label": "ORG",
-                "text": "neurology department at UCSF",
+                "label": "HOSP",
+                "text": "UCSF",
                 "id": 7,
-                "start": 416,
+                "start": 440,
                 "end": 444
             },
             {
@@ -31018,7 +31039,7 @@
             },
             {
                 "id": 3,
-                "label": "STAFF",
+                "label": "PERSON",
                 "text": "William McDevitt Jr.",
                 "start": 210,
                 "end": 230
@@ -31143,14 +31164,14 @@
             },
             {
                 "id": 1,
-                "label": "TIMESTAMP",
+                "label": "TIMESTAMPS",
                 "text": "12:05:01 AM",
                 "start": 61,
                 "end": 72
             },
             {
                 "id": 2,
-                "label": "PERSON NOTSURE",
+                "label": "ORG",
                 "text": "JSK",
                 "start": 74,
                 "end": 77
@@ -31217,7 +31238,7 @@
             },
             {
                 "id": 1,
-                "label": "TIMESTAMP",
+                "label": "TIMESTAMPS",
                 "text": "three decades",
                 "start": 124,
                 "end": 137
@@ -31483,7 +31504,7 @@
             },
             {
                 "id": 3,
-                "label": "TIMESTAMP",
+                "label": "TIMESTAMPS",
                 "text": "Wednesday",
                 "start": 185,
                 "end": 194
@@ -31719,7 +31740,7 @@
             },
             {
                 "id": 3,
-                "label": "TIMESTAMP",
+                "label": "TIMESTAMPS",
                 "text": "Wednesday",
                 "start": 247,
                 "end": 256
@@ -31777,7 +31798,7 @@
             },
             {
                 "id": 4,
-                "label": "TIMESTAMP",
+                "label": "TIMESTAMPS",
                 "text": "Thursday",
                 "start": 133,
                 "end": 141
@@ -31814,7 +31835,7 @@
             },
             {
                 "id": 2,
-                "label": "TIMESTAMP",
+                "label": "TIMESTAMPS",
                 "text": "Wednesday",
                 "start": 190,
                 "end": 199
@@ -31881,7 +31902,7 @@
             },
             {
                 "id": 1,
-                "label": "TIMESTAMP",
+                "label": "TIMESTAMPS",
                 "text": "Wednesday",
                 "start": 61,
                 "end": 70
@@ -32112,7 +32133,7 @@
             },
             {
                 "id": 4,
-                "label": "PERSON",
+                "label": "ORG",
                 "text": "Storey",
                 "start": 154,
                 "end": 160
@@ -32276,7 +32297,7 @@
             },
             {
                 "id": 3,
-                "label": "TIMESTAMP",
+                "label": "TIMESTAMPS",
                 "text": "today",
                 "start": 82,
                 "end": 87
@@ -32366,7 +32387,7 @@
             },
             {
                 "id": 1,
-                "label": "TIMESTAMP",
+                "label": "TIMESTAMPS",
                 "text": "Thursday",
                 "start": 163,
                 "end": 171
@@ -32415,7 +32436,7 @@
         }
     },
     {
-        "sentence": "Innovation has always been the driving force behind technological advancements. FutureTech Corp, founded by Jonathan Reynolds on April 12, 1995, has become one of the leading tech companies in the AI and robotics industry. This essay explores the company's growth, key figures, and its impact on modern technology.\n\nThe Foundation of FutureTech Corp\n\nJonathan Reynolds, born on September 7, 1970, in San Francisco, had a vision of integrating AI into daily life. After graduating from Stanford University in 1992 with a degree in Computer Science, he founded FutureTech Corp (www.futuretechcorp.com) at the age of 25. His co-founder, Emily Carter (born March 15, 1973), an MIT-educated engineer, played a crucial role in shaping the company’s product line.\n\nMajor Milestones and Achievements\n\n1. 1997 - First AI Prototype\n   - The company released its first AI-powered assistant, SmartCore, on June 10, 1997.\n   - The technology was showcased at the International Tech Expo in New York City.\n\n2. 2005 - Expansion to Robotics\n   - FutureTech launched RoboHelper, a home assistant robot, on February 20, 2005.\n   - By the end of the year, over 100,000 units were sold worldwide.\n\n3. 2015 - Breakthrough in Autonomous Vehicles\n   - Partnered with AutoDrive Inc. to develop AI-based self-driving technology.\n   - On August 8, 2015, FutureTech’s first autonomous vehicle completed a test drive across California.\n\n4. 2023 - AI Integration in Healthcare\n   - Introduced MedBot, an AI-driven healthcare assistant, on October 5, 2023.\n   - Used in over 200 hospitals across the U.S. within the first six months.",
+        "sentence": "Innovation has always been the driving force behind technological advancements. FutureTech Corp, founded by Jonathan Reynolds on April 12, 1995, has become one of the leading tech companies in the AI and robotics industry. This explores the company's growth, key figures, and its impact on modern technology.\n\nThe Foundation of FutureTech Corp\n\nJonathan Reynolds, born on September 7, 1970, in San Francisco, had a vision of integrating AI into daily life. After graduating from Stanford University in 1992 with a degree in Computer Science, he founded FutureTech Corp (www.futuretechcorp.com) at the age of 25. His co-founder, Emily Carter (born March 15, 1973), an MIT-educated engineer, played a crucial role in shaping the company’s product line.\n\nMajor Milestones and Achievements\n\n1. 1997 - First AI Prototype\n   - The company released its first AI-powered assistant, SmartCore, on June 10, 1997.\n   - The technology was showcased at the International Tech Expo in New York City.\n\n2. 2005 - Expansion to Robotics\n   - FutureTech launched RoboHelper, a home assistant robot, on February 20, 2005.\n   - By the end of the year, over 100,000 units were sold worldwide.\n\n3. 2015 - Breakthrough in Autonomous Vehicles\n   - Partnered with AutoDrive Inc. to develop AI-based self-driving technology.\n   - On August 8, 2015, FutureTech’s first autonomous vehicle completed a test drive across California.\n\n4. 2023 - AI Integration in Healthcare\n   - Introduced MedBot, an AI-driven healthcare assistant, on October 5, 2023.\n   - Used in over 200 hospitals across the U.S. within the first six months.",
         "spans": [
             {
                 "label": "ORG",
@@ -32425,374 +32446,225 @@
                 "end": 95
             },
             {
-                "label": "STAFF",
+                "label": "PERSON",
                 "text": "Jonathan Reynolds",
                 "id": 1,
                 "start": 108,
                 "end": 125
             },
             {
+                "label": "DATE",
+                "text": "April 12, 1995",
+                "id": 2,
+                "start": 129,
+                "end": 143
+            },
+            {
+                "label": "ORG",
+                "text": "FutureTech Corp",
+                "id": 3,
+                "start": 328,
+                "end": 343
+            },
+            {
+                "label": "PERSON",
+                "text": "Jonathan Reynolds",
+                "id": 4,
+                "start": 345,
+                "end": 362
+            },
+            {
                 "label": "BIRTHDATE",
                 "text": "September 7, 1970",
-                "id": 2,
-                "start": 378,
-                "end": 395
+                "id": 5,
+                "start": 372,
+                "end": 389
             },
             {
                 "label": "LOC",
                 "text": "San Francisco",
-                "id": 3,
-                "start": 400,
-                "end": 413
-            },
-            {
-                "label": "DATE",
-                "text": "April 12, 1995",
-                "id": 4,
-                "start": -1,
-                "end": 13
+                "id": 6,
+                "start": 394,
+                "end": 407
             },
             {
                 "label": "ORG",
                 "text": "Stanford University",
-                "id": 5,
-                "start": 485,
-                "end": 504
+                "id": 7,
+                "start": 479,
+                "end": 498
             },
             {
                 "label": "DATE",
                 "text": "1992",
-                "id": 6,
-                "start": 508,
-                "end": 512
+                "id": 8,
+                "start": 502,
+                "end": 506
+            },
+            {
+                "label": "ORG",
+                "text": "FutureTech Corp",
+                "id": 9,
+                "start": 553,
+                "end": 568
             },
             {
                 "label": "URL",
                 "text": "www.futuretechcorp.com",
-                "id": 7,
-                "start": 576,
-                "end": 598
+                "id": 10,
+                "start": 570,
+                "end": 592
+            },
+            {
+                "label": "AGE",
+                "text": "25",
+                "id": 11,
+                "start": 608,
+                "end": 610
             },
             {
                 "label": "STAFF",
                 "text": "Emily Carter",
-                "id": 8,
-                "start": 634,
-                "end": 646
+                "id": 12,
+                "start": 628,
+                "end": 640
             },
             {
                 "label": "BIRTHDATE",
                 "text": "March 15, 1973",
-                "id": 9,
-                "start": 653,
-                "end": 667
+                "id": 13,
+                "start": 647,
+                "end": 661
             },
             {
                 "label": "ORG",
                 "text": "MIT",
-                "id": 10,
-                "start": 673,
-                "end": 676
+                "id": 14,
+                "start": 667,
+                "end": 670
             },
             {
                 "label": "DATE",
                 "text": "1997",
-                "id": 11,
-                "start": 796,
-                "end": 800
-            },
-            {
-                "label": "ORG",
-                "text": "International Tech Expo",
-                "id": 12,
-                "start": 950,
-                "end": 973
-            },
-            {
-                "label": "LOC",
-                "text": "New York City",
-                "id": 13,
-                "start": 977,
-                "end": 990
+                "id": 15,
+                "start": 790,
+                "end": 794
             },
             {
                 "label": "DATE",
                 "text": "June 10, 1997",
-                "id": 14,
-                "start": -1,
-                "end": 12
+                "id": 16,
+                "start": 888,
+                "end": 901
+            },
+            {
+                "label": "ORG",
+                "text": "International Tech Expo",
+                "id": 17,
+                "start": 944,
+                "end": 967
+            },
+            {
+                "label": "LOC",
+                "text": "New York City",
+                "id": 18,
+                "start": 971,
+                "end": 984
             },
             {
                 "label": "DATE",
                 "text": "2005",
-                "id": 15,
-                "start": 996,
-                "end": 1000
+                "id": 19,
+                "start": 990,
+                "end": 994
+            },
+            {
+                "label": "ORG",
+                "text": "FutureTech",
+                "id": 20,
+                "start": 1024,
+                "end": 1034
             },
             {
                 "label": "DATE",
                 "text": "February 20, 2005",
-                "id": 16,
-                "start": 1089,
-                "end": 1106
+                "id": 21,
+                "start": 1083,
+                "end": 1100
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "end of the year",
+                "id": 22,
+                "start": 1114,
+                "end": 1129
             },
             {
                 "label": "DATE",
                 "text": "2015",
-                "id": 17,
-                "start": 1181,
-                "end": 1185
+                "id": 23,
+                "start": 1175,
+                "end": 1179
             },
             {
                 "label": "ORG",
                 "text": "AutoDrive Inc.",
-                "id": 18,
-                "start": 1244,
-                "end": 1258
+                "id": 24,
+                "start": 1238,
+                "end": 1252
             },
             {
                 "label": "DATE",
                 "text": "August 8, 2015",
-                "id": 19,
-                "start": 1312,
-                "end": 1326
+                "id": 25,
+                "start": 1306,
+                "end": 1320
+            },
+            {
+                "label": "ORG",
+                "text": "FutureTech",
+                "id": 26,
+                "start": 1322,
+                "end": 1332
             },
             {
                 "label": "LOC",
                 "text": "California",
-                "id": 20,
-                "start": 1396,
-                "end": 1406
+                "id": 27,
+                "start": 1390,
+                "end": 1400
             },
             {
                 "label": "DATE",
                 "text": "2023",
-                "id": 21,
-                "start": 1412,
-                "end": 1416
-            },
-            {
-                "label": "ORG",
-                "text": "MedBot",
-                "id": 22,
-                "start": 1464,
-                "end": 1470
+                "id": 28,
+                "start": 1406,
+                "end": 1410
             },
             {
                 "label": "DATE",
                 "text": "October 5, 2023",
-                "id": 23,
-                "start": 1510,
-                "end": 1525
-            },
-            {
-                "label": "HOSP",
-                "text": "200 hospitals",
-                "id": 24,
-                "start": 1545,
-                "end": 1558
+                "id": 29,
+                "start": 1504,
+                "end": 1519
             },
             {
                 "label": "LOC",
                 "text": "U.S.",
-                "id": 25,
-                "start": 1570,
-                "end": 1574
+                "id": 30,
+                "start": 1564,
+                "end": 1568
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "first six months",
+                "id": 31,
+                "start": 1580,
+                "end": 1596
             }
         ],
         "meta": {
             "note_id": "4328",
-            "sl_context": "false"
-        }
-    },
-    {
-        "sentence": "Innovation has always been the driving force behind technological advancements. FutureTech Corp, founded by Jonathan Reynolds on April 12, 1995, has become one of the leading tech companies in the AI and robotics industry. This essay explores the company's growth, key figures, and its impact on modern technology.\n\nThe Foundation of FutureTech Corp\n\nJonathan Reynolds, born on September 7, 1970, in San Francisco, had a vision of integrating AI into daily life. After graduating from Stanford University in 1992 with a degree in Computer Science, he founded FutureTech Corp (www.futuretechcorp.com) at the age of 25. His co-founder, Emily Carter (born March 15, 1973), an MIT-educated engineer, played a crucial role in shaping the company’s product line.\n\nMajor Milestones and Achievements\n\n1. 1997 - First AI Prototype\n   - The company released its first AI-powered assistant, SmartCore, on June 10, 1997.\n   - The technology was showcased at the International Tech Expo in New York City.\n\n2. 2005 - Expansion to Robotics\n   - FutureTech launched RoboHelper, a home assistant robot, on February 20, 2005.\n   - By the end of the year, over 100,000 units were sold worldwide.\n\n3. 2015 - Breakthrough in Autonomous Vehicles\n   - Partnered with AutoDrive Inc. to develop AI-based self-driving technology.\n   - On August 8, 2015, FutureTech’s first autonomous vehicle completed a test drive across California.\n\n4. 2023 - AI Integration in Healthcare\n   - Introduced MedBot, an AI-driven healthcare assistant, on October 5, 2023.\n   - Used in over 200 hospitals across the U.S. within the first six months.",
-        "spans": [
-            {
-                "label": "ORG",
-                "text": "FutureTech Corp",
-                "id": 0,
-                "start": 80,
-                "end": 95
-            },
-            {
-                "label": "STAFF",
-                "text": "Jonathan Reynolds",
-                "id": 1,
-                "start": 108,
-                "end": 125
-            },
-            {
-                "label": "BIRTHDATE",
-                "text": "September 7, 1970",
-                "id": 2,
-                "start": 378,
-                "end": 395
-            },
-            {
-                "label": "LOC",
-                "text": "San Francisco",
-                "id": 3,
-                "start": 400,
-                "end": 413
-            },
-            {
-                "label": "DATE",
-                "text": "April 12, 1995",
-                "id": 4,
-                "start": -1,
-                "end": 13
-            },
-            {
-                "label": "ORG",
-                "text": "Stanford University",
-                "id": 5,
-                "start": 485,
-                "end": 504
-            },
-            {
-                "label": "DATE",
-                "text": "1992",
-                "id": 6,
-                "start": 508,
-                "end": 512
-            },
-            {
-                "label": "URL",
-                "text": "www.futuretechcorp.com",
-                "id": 7,
-                "start": 576,
-                "end": 598
-            },
-            {
-                "label": "STAFF",
-                "text": "Emily Carter",
-                "id": 8,
-                "start": 634,
-                "end": 646
-            },
-            {
-                "label": "BIRTHDATE",
-                "text": "March 15, 1973",
-                "id": 9,
-                "start": 653,
-                "end": 667
-            },
-            {
-                "label": "ORG",
-                "text": "MIT",
-                "id": 10,
-                "start": 673,
-                "end": 676
-            },
-            {
-                "label": "DATE",
-                "text": "1997",
-                "id": 11,
-                "start": 796,
-                "end": 800
-            },
-            {
-                "label": "ORG",
-                "text": "International Tech Expo",
-                "id": 12,
-                "start": 950,
-                "end": 973
-            },
-            {
-                "label": "LOC",
-                "text": "New York City",
-                "id": 13,
-                "start": 977,
-                "end": 990
-            },
-            {
-                "label": "DATE",
-                "text": "June 10, 1997",
-                "id": 14,
-                "start": -1,
-                "end": 12
-            },
-            {
-                "label": "DATE",
-                "text": "2005",
-                "id": 15,
-                "start": 996,
-                "end": 1000
-            },
-            {
-                "label": "DATE",
-                "text": "February 20, 2005",
-                "id": 16,
-                "start": 1089,
-                "end": 1106
-            },
-            {
-                "label": "DATE",
-                "text": "2015",
-                "id": 17,
-                "start": 1181,
-                "end": 1185
-            },
-            {
-                "label": "ORG",
-                "text": "AutoDrive Inc.",
-                "id": 18,
-                "start": 1244,
-                "end": 1258
-            },
-            {
-                "label": "DATE",
-                "text": "August 8, 2015",
-                "id": 19,
-                "start": 1312,
-                "end": 1326
-            },
-            {
-                "label": "LOC",
-                "text": "California",
-                "id": 20,
-                "start": 1396,
-                "end": 1406
-            },
-            {
-                "label": "DATE",
-                "text": "2023",
-                "id": 21,
-                "start": 1412,
-                "end": 1416
-            },
-            {
-                "label": "ORG",
-                "text": "MedBot",
-                "id": 22,
-                "start": 1464,
-                "end": 1470
-            },
-            {
-                "label": "DATE",
-                "text": "October 5, 2023",
-                "id": 23,
-                "start": 1510,
-                "end": 1525
-            },
-            {
-                "label": "HOSP",
-                "text": "200 hospitals",
-                "id": 24,
-                "start": 1545,
-                "end": 1558
-            },
-            {
-                "label": "LOC",
-                "text": "U.S.",
-                "id": 25,
-                "start": 1570,
-                "end": 1574
-            }
-        ],
-        "meta": {
-            "note_id": "4329",
             "sl_context": "false"
         }
     },
@@ -32814,7 +32686,7 @@
                 "end": 53
             },
             {
-                "label": "STAFF",
+                "label": "PERSON",
                 "text": "Jonathan Reynolds",
                 "id": 2,
                 "start": 102,
@@ -32842,37 +32714,51 @@
                 "end": 258
             },
             {
+                "label": "ORG",
+                "text": "FutureTech Corp",
+                "id": 6,
+                "start": 316,
+                "end": 331
+            },
+            {
+                "label": "ORG",
+                "text": "FutureTech Corp",
+                "id": 7,
+                "start": 379,
+                "end": 394
+            },
+            {
                 "label": "DATE",
                 "text": "September 15, 2025",
-                "id": 6,
+                "id": 8,
                 "start": 527,
                 "end": 545
             },
             {
                 "label": "ORG",
                 "text": "Global AI Summit",
-                "id": 7,
+                "id": 9,
                 "start": 554,
                 "end": 570
             },
             {
                 "label": "LOC",
                 "text": "London",
-                "id": 8,
+                "id": 10,
                 "start": 574,
                 "end": 580
             },
             {
                 "label": "URL",
                 "text": "www.futuretechcorp.com",
-                "id": 9,
+                "id": 11,
                 "start": 611,
                 "end": 633
             },
             {
                 "label": "EMAIL",
                 "text": "press@futuretechcorp.com",
-                "id": 10,
+                "id": 12,
                 "start": 645,
                 "end": 669
             }
