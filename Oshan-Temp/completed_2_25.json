@@ -19,9 +19,8 @@
         ],
         "meta": {
             "note_id": "2000",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
     },
     {
         "sentence": "An employee told police an individual, later identified as Wyant, allegedly entered the store wearing a hoodie, a red half-face mask and black gloves.",
@@ -36,9 +35,8 @@
         ],
         "meta": {
             "note_id": "2001",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
     },
     {
         "sentence": "Kate allegedly had two long kitchen knives and displayed them in a threatening manner. Liala allegedly held a trash bag over the county and said, “Money and cigarettes.”",
@@ -60,9 +58,8 @@
         ],
         "meta": {
             "note_id": "2002",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
     },
     {
         "sentence": "The employee allegedly said Miki left the store with 11 cartons of cigarettes and approximately $800 in cash from the register and was seen heading west on Main Street. Clarion University Public Safety Officer William McDevitt Jr. radioed Maxwell to meet in front of the Clarion County Administration Building where a large amount of cigarette packs were allegedly dumped in the street along with a cell phone.",
@@ -90,7 +87,7 @@
             },
             {
                 "id": 3,
-                "label": "STAFF",
+                "label": "PERSON",
                 "text": "William McDevitt Jr.",
                 "start": 210,
                 "end": 230
@@ -119,9 +116,8 @@
         ],
         "meta": {
             "note_id": "2003",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
     },
     {
         "sentence": "A red BMX bicycle was allegedly found in the grass on the south side of Main Street just in front of the administration building. Nick believed it was the same bike owned by Steve which was seen at a noise complaint location earlier in the night.",
@@ -164,9 +160,8 @@
         ],
         "meta": {
             "note_id": "2004",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }        
     },
     {
         "sentence": "When police spoke to Meena at his residence, he allegedly said he let his cousin borrow his bicycle and cell phone 20 minutes prior to police arriving. Meena’s cousin was not home when police attempted to talk to him but found out he works at Country Fair in Paint Township.",
@@ -202,33 +197,8 @@
         ],
         "meta": {
             "note_id": "2005",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
-    },
-    {
-        "sentence": "While Americans like to believe that America is a village on the hill, a melting pot, and a shining beacon of liberty, an honest evaluation of the truth shows that it's the other way around.",
-        "spans": [
-            {
-                "id": 0,
-                "label": "PERSON",
-                "text": "Americans",
-                "start": 6,
-                "end": 15
-            },
-            {
-                "id": 1,
-                "label": "LOC",
-                "text": "America",
-                "start": 37,
-                "end": 44
-            }
-        ],
-        "meta": {
-            "note_id": "2006",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
     },
     {
         "sentence": "It certainly doesn't have a fifty cent brigade. At 4/19/2016 12:05:01 AM, JSK wrote:While Americans like to believe that America is a village on the hill, a melting pot, and a shining beacon of liberty, an honest evaluation of the truth shows that it's the other way around.",
@@ -242,14 +212,14 @@
             },
             {
                 "id": 1,
-                "label": "TIMESTAMP",
+                "label": "TIMESTAMPS",
                 "text": "12:05:01 AM",
                 "start": 61,
                 "end": 72
             },
             {
                 "id": 2,
-                "label": "PERSON",
+                "label": "ORG",
                 "text": "JSK",
                 "start": 74,
                 "end": 77
@@ -264,13 +234,12 @@
         ],
         "meta": {
             "note_id": "2007",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "B. S. Perera Balasuriyage Steven Perera (born 31 March 1924 – died 24 June 1982) [Sinhala]), popularly as B. S. Perera, was an award-winning actor in Sri Lankan cinema and theater as well as a director and singer.",
-        "sl_context": "true",
         "spans": [
             {
                 "id": 0,
@@ -299,18 +268,11 @@
                 "text": "B. S. Perera",
                 "start": 106,
                 "end": 118
-            },
-            {
-                "id": 4,
-                "label": "LOC",
-                "text": "Sri Lankan",
-                "start": 150,
-                "end": 160
             }
         ],
         "meta": {
             "note_id": "2008",
-            "patient_id": "4001234"
+            "sl_context": "true"
         }
     },
     {
@@ -318,24 +280,22 @@
         "spans": [
             {
                 "id": 0,
-                "label": "LOC",
-                "text": "Sri Lankan",
-                "start": 63,
-                "end": 73
-            },
-            {
-                "id": 1,
                 "label": "PERSON",
                 "text": "Jayasena",
                 "start": 88,
                 "end": 96
+            },
+            {
+                "id": 1,
+                "label": "TIMESTAMPS",
+                "text": "three decades"
             }
         ],
         "meta": {
             "note_id": "2009",
-            "patient_id": "4001234"
-        },
-        "sl_context": "true"
+            "sl_context": "true"
+        }
+        
     },
     {
         "sentence": "He holds the record for the highest number of films acted by a local well over 180 films. Personal life: Gunathlake was born on 31 March 1924 in Colombo.",
@@ -364,9 +324,9 @@
         ],
         "meta": {
             "note_id": "2010",
-            "patient_id": "4001234"
-        },
-        "sl_context": "true"
+            "sl_context": "true"
+        }
+        
     },
     {
         "sentence": "His father was Balasuriyage Adwin Perera. He was a talented artist in the Tower Hall era. He received his primary education at Maligakanda Government School, Colombo (currently known as Mahinda Maha Vidyalaya, Maligakanda).",
@@ -409,9 +369,9 @@
         ],
         "meta": {
             "note_id": "2011",
-            "patient_id": "4001234"
-        },
-        "sl_context": "true"
+            "sl_context": "true"
+        }
+        
     },
     {
         "sentence": "Later studied at Sangaraja Vidyalaya, Maradana (currently known as Sri Sangaraja Central College, Colombo 10). In 1939, Ariyasena joined the Army and joined the Colombo Municipal Council at the end of World War II.",
@@ -468,9 +428,9 @@
         ],
         "meta": {
             "note_id": "2012",
-            "patient_id": "4001234"
-        },
-        "sl_context": "true"
+            "sl_context": "true"
+        }
+        
     },
     {
         "sentence": "Before entering cinema, Jayasiri worked as a Tram car driver. Due to an accident he lost part of the vision.",
@@ -485,9 +445,9 @@
         ],
         "meta": {
             "note_id": "2013",
-            "patient_id": "4001234"
-        },
-        "sl_context": "true"
+            "sl_context": "true"
+        }
+        
     },
     {
         "sentence": "Although he underwent eye surgery, he suffered a tear in his eye causing a strabismus condition. After the accident, he served as a trolley bus inspector. Nimesh was married to B.A.D. Gnanawathi.",
@@ -509,9 +469,9 @@
         ],
         "meta": {
             "note_id": "2014",
-            "patient_id": "4001234"
-        },
-        "sl_context": "true"
+            "sl_context": "true"
+        }
+        
     },
     {
         "sentence": "President Donald Trump gestures while meeting with Sweden's Prime Minister Stefan Lofven (not pictured) in the Oval Office at the White House in Washington, U.S., March 6, 2018.",
@@ -554,16 +514,9 @@
             {
                 "id": 5,
                 "label": "LOC",
-                "text": "Washington",
+                "text": "Washington, U.S.",
                 "start": 145,
                 "end": 155
-            },
-            {
-                "id": 6,
-                "label": "LOC",
-                "text": "U.S.",
-                "start": 157,
-                "end": 161
             },
             {
                 "id": 7,
@@ -575,9 +528,8 @@
         ],
         "meta": {
             "note_id": "2015",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }  
     },
     {
         "sentence": "Secretary Larry Wick spoke about special counsel Robert Mueller's probe of Russian meddling with witnesses after they had been interviewed by investigators, the New York Times reported Wednesday.",
@@ -597,13 +549,6 @@
                 "end": 63
             },
             {
-                "id": 2,
-                "label": "LOC",
-                "text": "Russian",
-                "start": 75,
-                "end": 82
-            },
-            {
                 "id": 3,
                 "label": "ORG",
                 "text": "New York Times",
@@ -612,7 +557,7 @@
             },
             {
                 "id": 4,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "Wednesday",
                 "start": 185,
                 "end": 194
@@ -620,9 +565,9 @@
         ],
         "meta": {
             "note_id": "2016",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "Harry asked his former Chief of Staff Reince Priebus about his interview with the special counsel, two people familiar with the exchange told the Times. He reportedly asked if the interviewers had been \"nice\" to Priebus.",
@@ -658,9 +603,9 @@
         ],
         "meta": {
             "note_id": "2017",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "In another instance, Trump told one of his aides that official lawyer Don McGahn should publicly deny a January report alleging that McGahn told investigators that Trump had asked him to fire Mueller, the Times reported.",
@@ -717,9 +662,9 @@
         ],
         "meta": {
             "note_id": "2018",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "Sources familiar with the conversation told the people that Murpi later reminded Putin of his request. his lawyer, William Burck, did not respond to CNBC's request for comment.",
@@ -755,9 +700,9 @@
         ],
         "meta": {
             "note_id": "2019",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "William is investigating potential collusion between Kennedy's winning 2016 presidential campaign and Russia, along with \"any matters that arose or may arise directly from the investigation.\"",
@@ -793,9 +738,9 @@
         ],
         "meta": {
             "note_id": "2020",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "Reports of Wilson's interest in the firing of former FBI Director James Comey, among other events, have fueled speculation that the investigation has expanded to include a potential obstruction of justice charge.",
@@ -824,12 +769,12 @@
         ],
         "meta": {
             "note_id": "2021",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
-        "sentence": "A clear shot' - police kill suspect, rescue children Updated December 2, 2016. This undated photo provided by the Tacoma Police Department shows officer Reginald \"Jake\" Gutierrez, who was shot and killed while responding to a domestic violence call Wednesday, Nov. 30, 2016, in Tacoma.",
+        "sentence": "A clear shot' - police kill suspect, rescue children Updated December 2, 2016. This undated photo provided by the Tacoma Police Department shows officer Reginald Jake Gutierrez, who was shot and killed while responding to a domestic violence call Wednesday, Nov. 30, 2016, in Tacoma.",
         "spans": [
             {
                 "id": 0,
@@ -848,14 +793,21 @@
             {
                 "id": 2,
                 "label": "PERSON",
-                "text": "Reginald \"Jake\" Gutierrez",
+                "text": "Reginald Jake Gutierrez",
                 "start": 153,
                 "end": 178
             },
             {
                 "id": 3,
+                "label": "TIMESTAMPS",
+                "text": "Wednesday",
+                "start": 249,
+                "end": 273
+            },
+            {
+                "id": 3,
                 "label": "DATE",
-                "text": "Wednesday, Nov. 30, 2016",
+                "text": "Nov. 30, 2016",
                 "start": 249,
                 "end": 273
             },
@@ -869,9 +821,9 @@
         ],
         "meta": {
             "note_id": "2022",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "Benny, had served with the department since 1999 and was highly respected and experienced, Toronto Police Chief Donald Ramsdell said Thursday, Dec. 1, 2014.",
@@ -906,20 +858,27 @@
             },
             {
                 "id": 4,
+                "label": "TIMESTAMPS",
+                "text": "Thursday",
+                "start": 133,
+                "end": 155
+            },
+            {
+                "id": 4,
                 "label": "DATE",
-                "text": "Thursday, Dec. 1, 2014",
+                "text": "Dec. 1, 2014",
                 "start": 133,
                 "end": 155
             }
         ],
         "meta": {
             "note_id": "2023",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
-        "sentence": "(Tacoma Police Department via AP) less\n\nThis undated photo provided by the Department shows officer Reginald \"Jake\" Tommy, who was shot and killed while responding to a domestic violence call Wednesday, Nov. 30, 2016.",
+        "sentence": "(Tacoma Police Department via AP) less\n\nThis undated photo provided by the Department shows officer Reginald Jake Tommy, who was shot and killed while responding to a domestic violence call Wednesday, Nov. 30, 2016.",
         "spans": [
             {
                 "id": 0,
@@ -931,23 +890,30 @@
             {
                 "id": 1,
                 "label": "PERSON",
-                "text": "Reginald \"Jake\" Tommy",
+                "text": "Reginald Jake Tommy",
                 "start": 100,
                 "end": 121
             },
             {
                 "id": 2,
+                "label": "TIMESTAMPS",
+                "text": "Wednesday",
+                "start": 192,
+                "end": 216
+            },
+            {
+                "id": 2,
                 "label": "DATE",
-                "text": "Wednesday, Nov. 30, 2016",
+                "text": "Nov. 30, 2016",
                 "start": 192,
                 "end": 216
             }
         ],
         "meta": {
             "note_id": "2024",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "in Fukushima, ... more\n\nPhoto: AP\n\nImage 2 of 19\n\nMonks from the Khmer Theravadin Buddhist Association of Tacoma hold candles next to a photo of Nihonmatsu Police Officer Haruto",
@@ -983,9 +949,9 @@
         ],
         "meta": {
             "note_id": "2025",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "Hiroka was shot while responding to a domestic violence call Wednesday and died later in the day at a Kyoto hospital.",
@@ -999,7 +965,7 @@
             },
             {
                 "id": 1,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "Wednesday",
                 "start": 61,
                 "end": 70
@@ -1014,9 +980,9 @@
         ],
         "meta": {
             "note_id": "2026",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "Lewis Gerald Storey (born February 11, 1950) is an American singer-songwriter and musician.",
@@ -1034,20 +1000,13 @@
                 "text": "February 11, 1950",
                 "start": 26,
                 "end": 43
-            },
-            {
-                "id": 2,
-                "label": "LOC",
-                "text": "American",
-                "start": 51,
-                "end": 59
             }
         ],
         "meta": {
             "note_id": "2027",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "He was nominated best New Male Vocalist of the Year by the Academy of Country Music, won several Songwriters Guild of America awards, and has collaborated with country music acts like Pam Tillis, Rosanne Cash and John Jorgenson.",
@@ -1090,9 +1049,9 @@
         ],
         "meta": {
             "note_id": "2028",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "His most recent album, Storey Road, was released in August 2015.",
@@ -1107,9 +1066,9 @@
         ],
         "meta": {
             "note_id": "2029",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "he was born in Casa Grande, a farming community in southern Arizona, to parents Jerry Storey and Ida Mae Storey.",
@@ -1145,9 +1104,9 @@
         ],
         "meta": {
             "note_id": "2030",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "After getting kicked out of high school, he earned his GED and studied political science at Arizona State University.",
@@ -1162,9 +1121,9 @@
         ],
         "meta": {
             "note_id": "2031",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "Here he helped plan and performed in the first Mill Avenue street festivals. After graduating, he and his wife Jane Storey joined the Peace Corps and carried out their service in Costa Rica and Venezuela.",
@@ -1207,9 +1166,9 @@
         ],
         "meta": {
             "note_id": "2032",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "In the early 1980s while performing around the American Southwest with the Storey-Richards Band, a Nashville-based repertoire agent spotted and contacted Storey.",
@@ -1241,13 +1200,20 @@
                 "text": "Nashville",
                 "start": 99,
                 "end": 108
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "Storey",
+                "start": 75,
+                "end": 95
             }
         ],
         "meta": {
             "note_id": "2033",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "He was offered a record deal with CBS/Epic Records (later becoming Sony Music Entertainment). In 1986, he was nominated best New Male Vocalist by the Academy of Country Music, losing to Dwight Yoakam.",
@@ -1290,9 +1256,9 @@
         ],
         "meta": {
             "note_id": "2034",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "Later he was hired by PolyGram Records as a full-time staff songwriter and returned to Arizona.",
@@ -1314,9 +1280,9 @@
         ],
         "meta": {
             "note_id": "2035",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "This led to collaborations with musicians like Pam Tillis on the 8 Seconds movie.",
@@ -1331,9 +1297,9 @@
         ],
         "meta": {
             "note_id": "2036",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "October 16 - October 24: IndieCade Anywhere and Everywhere\n\nSubmissions for 2020 have closed\n\nIndieCade Anywhere and Everywhere is an online festival.",
@@ -1341,7 +1307,14 @@
             {
                 "id": 0,
                 "label": "DATE",
-                "text": "October 16 - October 24",
+                "text": "October 16",
+                "start": 0,
+                "end": 23
+            },
+            {
+                "id": 0,
+                "label": "DATE",
+                "text": "October 24",
                 "start": 0,
                 "end": 23
             },
@@ -1369,9 +1342,9 @@
         ],
         "meta": {
             "note_id": "2037",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "SEOUL – Sept 9, 2013: An all-new version of the Kia Soul makes its European debut today at the 65th Internationale Automobil-Ausstellung (IAA) in Frankfurt.",
@@ -1398,11 +1371,11 @@
                 "end": 56
             },
             {
-                "id": 3,
-                "label": "LOC",
-                "text": "European",
-                "start": 67,
-                "end": 75
+                "id": 2,
+                "label": "TIMESTAMPS",
+                "text": "today",
+                "start": 48,
+                "end": 56
             },
             {
                 "id": 4,
@@ -1421,9 +1394,9 @@
         ],
         "meta": {
             "note_id": "2038",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "It is joined by a dramatic new urban B-segment concept vehicle, the Kia Niro, which makes its world premiere, as well as the new bi-fuel Kia Picanto LPG and upgraded Kia Optima.",
@@ -1431,33 +1404,33 @@
             {
                 "id": 0,
                 "label": "ORG",
-                "text": "Kia Niro",
+                "text": "Kia",
                 "start": 68,
                 "end": 76
             },
             {
                 "id": 1,
                 "label": "ORG",
-                "text": "Kia Picanto LPG",
+                "text": "Kia",
                 "start": 137,
                 "end": 152
             },
             {
                 "id": 2,
                 "label": "ORG",
-                "text": "Kia Optima",
+                "text": "Kia",
                 "start": 166,
                 "end": 176
             }
         ],
         "meta": {
             "note_id": "2039",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
-        "sentence": "The smooth new-look exterior is inspired by the 2012 Kia Track’ster concept and introduces a thoroughly fresh, more grown-up appearance without losing its individualistic edge.",
+        "sentence": "The smooth new-look exterior is inspired by the 2012 Toyota Track’ster concept and introduces a thoroughly fresh, more grown-up appearance without losing its individualistic edge.",
         "spans": [
             {
                 "id": 0,
@@ -1469,16 +1442,14 @@
             {
                 "id": 1,
                 "label": "ORG",
-                "text": "Toyota Track’ster",
-                "start": -1,
-                "end": 16
+                "text": "Toyota"
             }
         ],
         "meta": {
             "note_id": "2040",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "One person is dead and at least five were injured in central Kentucky after a gas line ruptured and produced a fireball that could be seen around the region early Thursday.",
@@ -1492,7 +1463,7 @@
             },
             {
                 "id": 1,
-                "label": "DATE",
+                "label": "TIMESTAMPS",
                 "text": "Thursday",
                 "start": 163,
                 "end": 171
@@ -1500,9 +1471,9 @@
         ],
         "meta": {
             "note_id": "2041",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     },
     {
         "sentence": "The 30-inch gas line in Lincoln County breached around 150 feet from a mobile home park around 1:40 a.m., said Don Gilliam, the director of Lincoln County Emergency Management.",
@@ -1538,8 +1509,8 @@
         ],
         "meta": {
             "note_id": "2042",
-            "patient_id": "4001234"
-        },
-        "sl_context": "false"
+            "sl_context": "false"
+        }
+        
     }
 ]
