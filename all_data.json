@@ -31092,7 +31092,7 @@
         "meta": {
             "note_id": "2004",
             "sl_context": "false"
-        }        
+        }
     },
     {
         "sentence": "When police spoke to Meena at his residence, he allegedly said he let his cousin borrow his bicycle and cell phone 20 minutes prior to police arriving. Meena’s cousin was not home when police attempted to talk to him but found out he works at Country Fair in Paint Township.",
@@ -31167,7 +31167,6 @@
             "note_id": "2007",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "B. S. Perera Balasuriyage Steven Perera (born 31 March 1924 – died 24 June 1982) [Sinhala]), popularly as B. S. Perera, was an award-winning actor in Sri Lankan cinema and theater as well as a director and singer.",
@@ -31219,14 +31218,15 @@
             {
                 "id": 1,
                 "label": "TIMESTAMP",
-                "text": "three decades"
+                "text": "three decades",
+                "start": 124,
+                "end": 137
             }
         ],
         "meta": {
             "note_id": "2009",
             "sl_context": "true"
         }
-        
     },
     {
         "sentence": "He holds the record for the highest number of films acted by a local well over 180 films. Personal life: Gunathlake was born on 31 March 1924 in Colombo.",
@@ -31257,7 +31257,6 @@
             "note_id": "2010",
             "sl_context": "true"
         }
-        
     },
     {
         "sentence": "His father was Balasuriyage Adwin Perera. He was a talented artist in the Tower Hall era. He received his primary education at Maligakanda Government School, Colombo (currently known as Mahinda Maha Vidyalaya, Maligakanda).",
@@ -31302,7 +31301,6 @@
             "note_id": "2011",
             "sl_context": "true"
         }
-        
     },
     {
         "sentence": "Later studied at Sangaraja Vidyalaya, Maradana (currently known as Sri Sangaraja Central College, Colombo 10). In 1939, Ariyasena joined the Army and joined the Colombo Municipal Council at the end of World War II.",
@@ -31361,7 +31359,6 @@
             "note_id": "2012",
             "sl_context": "true"
         }
-        
     },
     {
         "sentence": "Before entering cinema, Jayasiri worked as a Tram car driver. Due to an accident he lost part of the vision.",
@@ -31378,7 +31375,6 @@
             "note_id": "2013",
             "sl_context": "true"
         }
-        
     },
     {
         "sentence": "Although he underwent eye surgery, he suffered a tear in his eye causing a strabismus condition. After the accident, he served as a trolley bus inspector. Nimesh was married to B.A.D. Gnanawathi.",
@@ -31402,7 +31398,6 @@
             "note_id": "2014",
             "sl_context": "true"
         }
-        
     },
     {
         "sentence": "President Donald Trump gestures while meeting with Sweden's Prime Minister Stefan Lofven (not pictured) in the Oval Office at the White House in Washington, U.S., March 6, 2018.",
@@ -31447,10 +31442,10 @@
                 "label": "LOC",
                 "text": "Washington, U.S.",
                 "start": 145,
-                "end": 155
+                "end": 161
             },
             {
-                "id": 7,
+                "id": 6,
                 "label": "DATE",
                 "text": "March 6, 2018",
                 "start": 163,
@@ -31460,7 +31455,7 @@
         "meta": {
             "note_id": "2015",
             "sl_context": "false"
-        }  
+        }
     },
     {
         "sentence": "Secretary Larry Wick spoke about special counsel Robert Mueller's probe of Russian meddling with witnesses after they had been interviewed by investigators, the New York Times reported Wednesday.",
@@ -31480,14 +31475,14 @@
                 "end": 63
             },
             {
-                "id": 3,
+                "id": 2,
                 "label": "ORG",
                 "text": "New York Times",
                 "start": 161,
                 "end": 175
             },
             {
-                "id": 4,
+                "id": 3,
                 "label": "TIMESTAMP",
                 "text": "Wednesday",
                 "start": 185,
@@ -31498,7 +31493,6 @@
             "note_id": "2016",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "Harry asked his former Chief of Staff Reince Priebus about his interview with the special counsel, two people familiar with the exchange told the Times. He reportedly asked if the interviewers had been \"nice\" to Priebus.",
@@ -31536,7 +31530,6 @@
             "note_id": "2017",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "In another instance, Trump told one of his aides that official lawyer Don McGahn should publicly deny a January report alleging that McGahn told investigators that Trump had asked him to fire Mueller, the Times reported.",
@@ -31595,7 +31588,6 @@
             "note_id": "2018",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "Sources familiar with the conversation told the people that Murpi later reminded Putin of his request. his lawyer, William Burck, did not respond to CNBC's request for comment.",
@@ -31633,7 +31625,6 @@
             "note_id": "2019",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "William is investigating potential collusion between Kennedy's winning 2016 presidential campaign and Russia, along with \"any matters that arose or may arise directly from the investigation.\"",
@@ -31671,7 +31662,6 @@
             "note_id": "2020",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "Reports of Wilson's interest in the firing of former FBI Director James Comey, among other events, have fueled speculation that the investigation has expanded to include a potential obstruction of justice charge.",
@@ -31702,7 +31692,6 @@
             "note_id": "2021",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "A clear shot' - police kill suspect, rescue children Updated December 2, 2016. This undated photo provided by the Tacoma Police Department shows officer Reginald Jake Gutierrez, who was shot and killed while responding to a domestic violence call Wednesday, Nov. 30, 2016, in Tacoma.",
@@ -31726,35 +31715,34 @@
                 "label": "PERSON",
                 "text": "Reginald Jake Gutierrez",
                 "start": 153,
-                "end": 178
+                "end": 176
             },
             {
                 "id": 3,
                 "label": "TIMESTAMP",
                 "text": "Wednesday",
-                "start": 249,
-                "end": 273
-            },
-            {
-                "id": 3,
-                "label": "DATE",
-                "text": "Nov. 30, 2016",
-                "start": 249,
-                "end": 273
+                "start": 247,
+                "end": 256
             },
             {
                 "id": 4,
+                "label": "DATE",
+                "text": "Nov. 30, 2016",
+                "start": 258,
+                "end": 271
+            },
+            {
+                "id": 5,
                 "label": "LOC",
                 "text": "Tacoma",
-                "start": 278,
-                "end": 284
+                "start": 276,
+                "end": 282
             }
         ],
         "meta": {
             "note_id": "2022",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "Benny, had served with the department since 1999 and was highly respected and experienced, Toronto Police Chief Donald Ramsdell said Thursday, Dec. 1, 2014.",
@@ -31792,13 +31780,13 @@
                 "label": "TIMESTAMP",
                 "text": "Thursday",
                 "start": 133,
-                "end": 155
+                "end": 141
             },
             {
-                "id": 4,
+                "id": 5,
                 "label": "DATE",
                 "text": "Dec. 1, 2014",
-                "start": 133,
+                "start": 143,
                 "end": 155
             }
         ],
@@ -31806,7 +31794,6 @@
             "note_id": "2023",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "(Tacoma Police Department via AP) less\n\nThis undated photo provided by the Department shows officer Reginald Jake Tommy, who was shot and killed while responding to a domestic violence call Wednesday, Nov. 30, 2016.",
@@ -31823,28 +31810,27 @@
                 "label": "PERSON",
                 "text": "Reginald Jake Tommy",
                 "start": 100,
-                "end": 121
+                "end": 119
             },
             {
                 "id": 2,
                 "label": "TIMESTAMP",
                 "text": "Wednesday",
-                "start": 192,
-                "end": 216
+                "start": 190,
+                "end": 199
             },
             {
-                "id": 2,
+                "id": 3,
                 "label": "DATE",
                 "text": "Nov. 30, 2016",
-                "start": 192,
-                "end": 216
+                "start": 201,
+                "end": 214
             }
         ],
         "meta": {
             "note_id": "2024",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "in Fukushima, ... more\n\nPhoto: AP\n\nImage 2 of 19\n\nMonks from the Khmer Theravadin Buddhist Association of Tacoma hold candles next to a photo of Nihonmatsu Police Officer Haruto",
@@ -31882,7 +31868,6 @@
             "note_id": "2025",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "Hiroka was shot while responding to a domestic violence call Wednesday and died later in the day at a Kyoto hospital.",
@@ -31913,7 +31898,6 @@
             "note_id": "2026",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "Lewis Gerald Storey (born February 11, 1950) is an American singer-songwriter and musician.",
@@ -31937,7 +31921,6 @@
             "note_id": "2027",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "He was nominated best New Male Vocalist of the Year by the Academy of Country Music, won several Songwriters Guild of America awards, and has collaborated with country music acts like Pam Tillis, Rosanne Cash and John Jorgenson.",
@@ -31982,7 +31965,6 @@
             "note_id": "2028",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "His most recent album, Storey Road, was released in August 2015.",
@@ -31999,7 +31981,6 @@
             "note_id": "2029",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "he was born in Casa Grande, a farming community in southern Arizona, to parents Jerry Storey and Ida Mae Storey.",
@@ -32037,7 +32018,6 @@
             "note_id": "2030",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "After getting kicked out of high school, he earned his GED and studied political science at Arizona State University.",
@@ -32054,7 +32034,6 @@
             "note_id": "2031",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "Here he helped plan and performed in the first Mill Avenue street festivals. After graduating, he and his wife Jane Storey joined the Peace Corps and carried out their service in Costa Rica and Venezuela.",
@@ -32099,7 +32078,6 @@
             "note_id": "2032",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "In the early 1980s while performing around the American Southwest with the Storey-Richards Band, a Nashville-based repertoire agent spotted and contacted Storey.",
@@ -32133,18 +32111,17 @@
                 "end": 108
             },
             {
-                "id": 2,
+                "id": 4,
                 "label": "PERSON",
                 "text": "Storey",
-                "start": 75,
-                "end": 95
+                "start": 154,
+                "end": 160
             }
         ],
         "meta": {
             "note_id": "2033",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "He was offered a record deal with CBS/Epic Records (later becoming Sony Music Entertainment). In 1986, he was nominated best New Male Vocalist by the Academy of Country Music, losing to Dwight Yoakam.",
@@ -32189,7 +32166,6 @@
             "note_id": "2034",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "Later he was hired by PolyGram Records as a full-time staff songwriter and returned to Arizona.",
@@ -32213,7 +32189,6 @@
             "note_id": "2035",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "This led to collaborations with musicians like Pam Tillis on the 8 Seconds movie.",
@@ -32230,7 +32205,6 @@
             "note_id": "2036",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "October 16 - October 24: IndieCade Anywhere and Everywhere\n\nSubmissions for 2020 have closed\n\nIndieCade Anywhere and Everywhere is an online festival.",
@@ -32240,31 +32214,31 @@
                 "label": "DATE",
                 "text": "October 16",
                 "start": 0,
-                "end": 23
-            },
-            {
-                "id": 0,
-                "label": "DATE",
-                "text": "October 24",
-                "start": 0,
-                "end": 23
+                "end": 10
             },
             {
                 "id": 1,
+                "label": "DATE",
+                "text": "October 24",
+                "start": 13,
+                "end": 23
+            },
+            {
+                "id": 2,
                 "label": "ORG",
                 "text": "IndieCade",
                 "start": 25,
                 "end": 34
             },
             {
-                "id": 2,
+                "id": 3,
                 "label": "DATE",
                 "text": "2020",
                 "start": 76,
                 "end": 80
             },
             {
-                "id": 3,
+                "id": 4,
                 "label": "ORG",
                 "text": "IndieCade",
                 "start": 94,
@@ -32275,7 +32249,6 @@
             "note_id": "2037",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "SEOUL – Sept 9, 2013: An all-new version of the Kia Soul makes its European debut today at the 65th Internationale Automobil-Ausstellung (IAA) in Frankfurt.",
@@ -32302,11 +32275,11 @@
                 "end": 56
             },
             {
-                "id": 2,
+                "id": 3,
                 "label": "TIMESTAMP",
                 "text": "today",
-                "start": 48,
-                "end": 56
+                "start": 82,
+                "end": 87
             },
             {
                 "id": 4,
@@ -32327,7 +32300,6 @@
             "note_id": "2038",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "It is joined by a dramatic new urban B-segment concept vehicle, the Kia Niro, which makes its world premiere, as well as the new bi-fuel Kia Picanto LPG and upgraded Kia Optima.",
@@ -32337,28 +32309,27 @@
                 "label": "ORG",
                 "text": "Kia",
                 "start": 68,
-                "end": 76
+                "end": 71
             },
             {
                 "id": 1,
                 "label": "ORG",
                 "text": "Kia",
                 "start": 137,
-                "end": 152
+                "end": 140
             },
             {
                 "id": 2,
                 "label": "ORG",
                 "text": "Kia",
                 "start": 166,
-                "end": 176
+                "end": 169
             }
         ],
         "meta": {
             "note_id": "2039",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "The smooth new-look exterior is inspired by the 2012 Toyota Track’ster concept and introduces a thoroughly fresh, more grown-up appearance without losing its individualistic edge.",
@@ -32373,14 +32344,15 @@
             {
                 "id": 1,
                 "label": "ORG",
-                "text": "Toyota"
+                "text": "Toyota",
+                "start": 53,
+                "end": 59
             }
         ],
         "meta": {
             "note_id": "2040",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "One person is dead and at least five were injured in central Kentucky after a gas line ruptured and produced a fireball that could be seen around the region early Thursday.",
@@ -32404,7 +32376,6 @@
             "note_id": "2041",
             "sl_context": "false"
         }
-        
     },
     {
         "sentence": "The 30-inch gas line in Lincoln County breached around 150 feet from a mobile home park around 1:40 a.m., said Don Gilliam, the director of Lincoln County Emergency Management.",
@@ -32441,37 +32412,193 @@
         "meta": {
             "note_id": "2042",
             "sl_context": "false"
-        }  
+        }
     },
     {
         "sentence": "Innovation has always been the driving force behind technological advancements. FutureTech Corp, founded by Jonathan Reynolds on April 12, 1995, has become one of the leading tech companies in the AI and robotics industry. This essay explores the company's growth, key figures, and its impact on modern technology.\n\nThe Foundation of FutureTech Corp\n\nJonathan Reynolds, born on September 7, 1970, in San Francisco, had a vision of integrating AI into daily life. After graduating from Stanford University in 1992 with a degree in Computer Science, he founded FutureTech Corp (www.futuretechcorp.com) at the age of 25. His co-founder, Emily Carter (born March 15, 1973), an MIT-educated engineer, played a crucial role in shaping the company’s product line.\n\nMajor Milestones and Achievements\n\n1. 1997 - First AI Prototype\n   - The company released its first AI-powered assistant, SmartCore, on June 10, 1997.\n   - The technology was showcased at the International Tech Expo in New York City.\n\n2. 2005 - Expansion to Robotics\n   - FutureTech launched RoboHelper, a home assistant robot, on February 20, 2005.\n   - By the end of the year, over 100,000 units were sold worldwide.\n\n3. 2015 - Breakthrough in Autonomous Vehicles\n   - Partnered with AutoDrive Inc. to develop AI-based self-driving technology.\n   - On August 8, 2015, FutureTech’s first autonomous vehicle completed a test drive across California.\n\n4. 2023 - AI Integration in Healthcare\n   - Introduced MedBot, an AI-driven healthcare assistant, on October 5, 2023.\n   - Used in over 200 hospitals across the U.S. within the first six months.",
         "spans": [
-          {"label": "ORG", "text": "FutureTech Corp"},
-          {"label": "STAFF", "text": "Jonathan Reynolds"},
-          {"label": "BIRTHDATE", "text": "September 7, 1970"},
-          {"label": "LOC", "text": "San Francisco"},
-          {"label": "DATE", "text": "April 12, 1995"},
-          {"label": "ORG", "text": "Stanford University"},
-          {"label": "DATE", "text": "1992"},
-          {"label": "URL", "text": "www.futuretechcorp.com"},
-          {"label": "STAFF", "text": "Emily Carter"},
-          {"label": "BIRTHDATE", "text": "March 15, 1973"},
-          {"label": "ORG", "text": "MIT"},
-          {"label": "DATE", "text": "1997"},
-          {"label": "ORG", "text": "International Tech Expo"},
-          {"label": "LOC", "text": "New York City"},
-          {"label": "DATE", "text": "June 10, 1997"},
-          {"label": "DATE", "text": "2005"},
-          {"label": "DATE", "text": "February 20, 2005"},
-          {"label": "DATE", "text": "2015"},
-          {"label": "ORG", "text": "AutoDrive Inc."},
-          {"label": "DATE", "text": "August 8, 2015"},
-          {"label": "LOC", "text": "California"},
-          {"label": "DATE", "text": "2023"},
-          {"label": "ORG", "text": "MedBot"},
-          {"label": "DATE", "text": "October 5, 2023"},
-          {"label": "HOSP", "text": "200 hospitals"},
-          {"label": "LOC", "text": "U.S."}
+            {
+                "label": "ORG",
+                "text": "FutureTech Corp",
+                "id": 0,
+                "start": 80,
+                "end": 95
+            },
+            {
+                "label": "STAFF",
+                "text": "Jonathan Reynolds",
+                "id": 1,
+                "start": 108,
+                "end": 125
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "September 7, 1970",
+                "id": 2,
+                "start": 378,
+                "end": 395
+            },
+            {
+                "label": "LOC",
+                "text": "San Francisco",
+                "id": 3,
+                "start": 400,
+                "end": 413
+            },
+            {
+                "label": "DATE",
+                "text": "April 12, 1995",
+                "id": 4,
+                "start": -1,
+                "end": 13
+            },
+            {
+                "label": "ORG",
+                "text": "Stanford University",
+                "id": 5,
+                "start": 485,
+                "end": 504
+            },
+            {
+                "label": "DATE",
+                "text": "1992",
+                "id": 6,
+                "start": 508,
+                "end": 512
+            },
+            {
+                "label": "URL",
+                "text": "www.futuretechcorp.com",
+                "id": 7,
+                "start": 576,
+                "end": 598
+            },
+            {
+                "label": "STAFF",
+                "text": "Emily Carter",
+                "id": 8,
+                "start": 634,
+                "end": 646
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "March 15, 1973",
+                "id": 9,
+                "start": 653,
+                "end": 667
+            },
+            {
+                "label": "ORG",
+                "text": "MIT",
+                "id": 10,
+                "start": 673,
+                "end": 676
+            },
+            {
+                "label": "DATE",
+                "text": "1997",
+                "id": 11,
+                "start": 796,
+                "end": 800
+            },
+            {
+                "label": "ORG",
+                "text": "International Tech Expo",
+                "id": 12,
+                "start": 950,
+                "end": 973
+            },
+            {
+                "label": "LOC",
+                "text": "New York City",
+                "id": 13,
+                "start": 977,
+                "end": 990
+            },
+            {
+                "label": "DATE",
+                "text": "June 10, 1997",
+                "id": 14,
+                "start": -1,
+                "end": 12
+            },
+            {
+                "label": "DATE",
+                "text": "2005",
+                "id": 15,
+                "start": 996,
+                "end": 1000
+            },
+            {
+                "label": "DATE",
+                "text": "February 20, 2005",
+                "id": 16,
+                "start": 1089,
+                "end": 1106
+            },
+            {
+                "label": "DATE",
+                "text": "2015",
+                "id": 17,
+                "start": 1181,
+                "end": 1185
+            },
+            {
+                "label": "ORG",
+                "text": "AutoDrive Inc.",
+                "id": 18,
+                "start": 1244,
+                "end": 1258
+            },
+            {
+                "label": "DATE",
+                "text": "August 8, 2015",
+                "id": 19,
+                "start": 1312,
+                "end": 1326
+            },
+            {
+                "label": "LOC",
+                "text": "California",
+                "id": 20,
+                "start": 1396,
+                "end": 1406
+            },
+            {
+                "label": "DATE",
+                "text": "2023",
+                "id": 21,
+                "start": 1412,
+                "end": 1416
+            },
+            {
+                "label": "ORG",
+                "text": "MedBot",
+                "id": 22,
+                "start": 1464,
+                "end": 1470
+            },
+            {
+                "label": "DATE",
+                "text": "October 5, 2023",
+                "id": 23,
+                "start": 1510,
+                "end": 1525
+            },
+            {
+                "label": "HOSP",
+                "text": "200 hospitals",
+                "id": 24,
+                "start": 1545,
+                "end": 1558
+            },
+            {
+                "label": "LOC",
+                "text": "U.S.",
+                "id": 25,
+                "start": 1570,
+                "end": 1574
+            }
         ],
         "meta": {
             "note_id": "4328",
@@ -32481,60 +32608,278 @@
     {
         "sentence": "Innovation has always been the driving force behind technological advancements. FutureTech Corp, founded by Jonathan Reynolds on April 12, 1995, has become one of the leading tech companies in the AI and robotics industry. This essay explores the company's growth, key figures, and its impact on modern technology.\n\nThe Foundation of FutureTech Corp\n\nJonathan Reynolds, born on September 7, 1970, in San Francisco, had a vision of integrating AI into daily life. After graduating from Stanford University in 1992 with a degree in Computer Science, he founded FutureTech Corp (www.futuretechcorp.com) at the age of 25. His co-founder, Emily Carter (born March 15, 1973), an MIT-educated engineer, played a crucial role in shaping the company’s product line.\n\nMajor Milestones and Achievements\n\n1. 1997 - First AI Prototype\n   - The company released its first AI-powered assistant, SmartCore, on June 10, 1997.\n   - The technology was showcased at the International Tech Expo in New York City.\n\n2. 2005 - Expansion to Robotics\n   - FutureTech launched RoboHelper, a home assistant robot, on February 20, 2005.\n   - By the end of the year, over 100,000 units were sold worldwide.\n\n3. 2015 - Breakthrough in Autonomous Vehicles\n   - Partnered with AutoDrive Inc. to develop AI-based self-driving technology.\n   - On August 8, 2015, FutureTech’s first autonomous vehicle completed a test drive across California.\n\n4. 2023 - AI Integration in Healthcare\n   - Introduced MedBot, an AI-driven healthcare assistant, on October 5, 2023.\n   - Used in over 200 hospitals across the U.S. within the first six months.",
         "spans": [
-          {"label": "ORG", "text": "FutureTech Corp"},
-          {"label": "STAFF", "text": "Jonathan Reynolds"},
-          {"label": "BIRTHDATE", "text": "September 7, 1970"},
-          {"label": "LOC", "text": "San Francisco"},
-          {"label": "DATE", "text": "April 12, 1995"},
-          {"label": "ORG", "text": "Stanford University"},
-          {"label": "DATE", "text": "1992"},
-          {"label": "URL", "text": "www.futuretechcorp.com"},
-          {"label": "STAFF", "text": "Emily Carter"},
-          {"label": "BIRTHDATE", "text": "March 15, 1973"},
-          {"label": "ORG", "text": "MIT"},
-          {"label": "DATE", "text": "1997"},
-          {"label": "ORG", "text": "International Tech Expo"},
-          {"label": "LOC", "text": "New York City"},
-          {"label": "DATE", "text": "June 10, 1997"},
-          {"label": "DATE", "text": "2005"},
-          {"label": "DATE", "text": "February 20, 2005"},
-          {"label": "DATE", "text": "2015"},
-          {"label": "ORG", "text": "AutoDrive Inc."},
-          {"label": "DATE", "text": "August 8, 2015"},
-          {"label": "LOC", "text": "California"},
-          {"label": "DATE", "text": "2023"},
-          {"label": "ORG", "text": "MedBot"},
-          {"label": "DATE", "text": "October 5, 2023"},
-          {"label": "HOSP", "text": "200 hospitals"},
-          {"label": "LOC", "text": "U.S."}
+            {
+                "label": "ORG",
+                "text": "FutureTech Corp",
+                "id": 0,
+                "start": 80,
+                "end": 95
+            },
+            {
+                "label": "STAFF",
+                "text": "Jonathan Reynolds",
+                "id": 1,
+                "start": 108,
+                "end": 125
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "September 7, 1970",
+                "id": 2,
+                "start": 378,
+                "end": 395
+            },
+            {
+                "label": "LOC",
+                "text": "San Francisco",
+                "id": 3,
+                "start": 400,
+                "end": 413
+            },
+            {
+                "label": "DATE",
+                "text": "April 12, 1995",
+                "id": 4,
+                "start": -1,
+                "end": 13
+            },
+            {
+                "label": "ORG",
+                "text": "Stanford University",
+                "id": 5,
+                "start": 485,
+                "end": 504
+            },
+            {
+                "label": "DATE",
+                "text": "1992",
+                "id": 6,
+                "start": 508,
+                "end": 512
+            },
+            {
+                "label": "URL",
+                "text": "www.futuretechcorp.com",
+                "id": 7,
+                "start": 576,
+                "end": 598
+            },
+            {
+                "label": "STAFF",
+                "text": "Emily Carter",
+                "id": 8,
+                "start": 634,
+                "end": 646
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "March 15, 1973",
+                "id": 9,
+                "start": 653,
+                "end": 667
+            },
+            {
+                "label": "ORG",
+                "text": "MIT",
+                "id": 10,
+                "start": 673,
+                "end": 676
+            },
+            {
+                "label": "DATE",
+                "text": "1997",
+                "id": 11,
+                "start": 796,
+                "end": 800
+            },
+            {
+                "label": "ORG",
+                "text": "International Tech Expo",
+                "id": 12,
+                "start": 950,
+                "end": 973
+            },
+            {
+                "label": "LOC",
+                "text": "New York City",
+                "id": 13,
+                "start": 977,
+                "end": 990
+            },
+            {
+                "label": "DATE",
+                "text": "June 10, 1997",
+                "id": 14,
+                "start": -1,
+                "end": 12
+            },
+            {
+                "label": "DATE",
+                "text": "2005",
+                "id": 15,
+                "start": 996,
+                "end": 1000
+            },
+            {
+                "label": "DATE",
+                "text": "February 20, 2005",
+                "id": 16,
+                "start": 1089,
+                "end": 1106
+            },
+            {
+                "label": "DATE",
+                "text": "2015",
+                "id": 17,
+                "start": 1181,
+                "end": 1185
+            },
+            {
+                "label": "ORG",
+                "text": "AutoDrive Inc.",
+                "id": 18,
+                "start": 1244,
+                "end": 1258
+            },
+            {
+                "label": "DATE",
+                "text": "August 8, 2015",
+                "id": 19,
+                "start": 1312,
+                "end": 1326
+            },
+            {
+                "label": "LOC",
+                "text": "California",
+                "id": 20,
+                "start": 1396,
+                "end": 1406
+            },
+            {
+                "label": "DATE",
+                "text": "2023",
+                "id": 21,
+                "start": 1412,
+                "end": 1416
+            },
+            {
+                "label": "ORG",
+                "text": "MedBot",
+                "id": 22,
+                "start": 1464,
+                "end": 1470
+            },
+            {
+                "label": "DATE",
+                "text": "October 5, 2023",
+                "id": 23,
+                "start": 1510,
+                "end": 1525
+            },
+            {
+                "label": "HOSP",
+                "text": "200 hospitals",
+                "id": 24,
+                "start": 1545,
+                "end": 1558
+            },
+            {
+                "label": "LOC",
+                "text": "U.S.",
+                "id": 25,
+                "start": 1570,
+                "end": 1574
+            }
         ],
         "meta": {
             "note_id": "4329",
             "sl_context": "false"
         }
-      },
-      {
-        "Paragraph": "Leadership and Workforce\n\nAs of 2025, FutureTech Corp employs over 5,000 professionals worldwide. CEO Jonathan Reynolds (email: jonathan.reynolds@futuretechcorp.com) continues to lead the company, with CTO Emily Carter (email: emily.carter@futuretechcorp.com) spearheading technological developments.\n\nThe Future of FutureTech Corp\n\nWith continued investment in AI and robotics, FutureTech Corp aims to revolutionize industries such as transportation, healthcare, and education. The company’s next major event is scheduled for September 15, 2025, at the Global AI Summit in London.\n\nFor more information, visit www.futuretechcorp.com or contact press@futuretechcorp.com.",
+    },
+    {
+        "sentence": "Leadership and Workforce\n\nAs of 2025, FutureTech Corp employs over 5,000 professionals worldwide. CEO Jonathan Reynolds (email: jonathan.reynolds@futuretechcorp.com) continues to lead the company, with CTO Emily Carter (email: emily.carter@futuretechcorp.com) spearheading technological developments.\n\nThe Future of FutureTech Corp\n\nWith continued investment in AI and robotics, FutureTech Corp aims to revolutionize industries such as transportation, healthcare, and education. The company’s next major event is scheduled for September 15, 2025, at the Global AI Summit in London.\n\nFor more information, visit www.futuretechcorp.com or contact press@futuretechcorp.com.",
         "spans": [
-          {"label": "DATE", "text": "2025"},
-          {"label": "ORG", "text": "FutureTech Corp"},
-          {"label": "STAFF", "text": "Jonathan Reynolds"},
-          {"label": "EMAIL", "text": "jonathan.reynolds@futuretechcorp.com"},
-          {"label": "STAFF", "text": "Emily Carter"},
-          {"label": "EMAIL", "text": "emily.carter@futuretechcorp.com"},
-          {"label": "DATE", "text": "September 15, 2025"},
-          {"label": "ORG", "text": "Global AI Summit"},
-          {"label": "LOC", "text": "London"},
-          {"label": "URL", "text": "www.futuretechcorp.com"},
-          {"label": "EMAIL", "text": "press@futuretechcorp.com"}
+            {
+                "label": "DATE",
+                "text": "2025",
+                "id": 0,
+                "start": 32,
+                "end": 36
+            },
+            {
+                "label": "ORG",
+                "text": "FutureTech Corp",
+                "id": 1,
+                "start": 38,
+                "end": 53
+            },
+            {
+                "label": "STAFF",
+                "text": "Jonathan Reynolds",
+                "id": 2,
+                "start": 102,
+                "end": 119
+            },
+            {
+                "label": "EMAIL",
+                "text": "jonathan.reynolds@futuretechcorp.com",
+                "id": 3,
+                "start": 128,
+                "end": 164
+            },
+            {
+                "label": "STAFF",
+                "text": "Emily Carter",
+                "id": 4,
+                "start": 206,
+                "end": 218
+            },
+            {
+                "label": "EMAIL",
+                "text": "emily.carter@futuretechcorp.com",
+                "id": 5,
+                "start": 227,
+                "end": 258
+            },
+            {
+                "label": "DATE",
+                "text": "September 15, 2025",
+                "id": 6,
+                "start": 527,
+                "end": 545
+            },
+            {
+                "label": "ORG",
+                "text": "Global AI Summit",
+                "id": 7,
+                "start": 554,
+                "end": 570
+            },
+            {
+                "label": "LOC",
+                "text": "London",
+                "id": 8,
+                "start": 574,
+                "end": 580
+            },
+            {
+                "label": "URL",
+                "text": "www.futuretechcorp.com",
+                "id": 9,
+                "start": 611,
+                "end": 633
+            },
+            {
+                "label": "EMAIL",
+                "text": "press@futuretechcorp.com",
+                "id": 10,
+                "start": 645,
+                "end": 669
+            }
         ],
         "meta": {
             "note_id": "4330",
             "sl_context": "false"
         }
-      }
-      
-      
-
-      
+    }
 ]
