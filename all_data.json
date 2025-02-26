@@ -30929,5 +30929,1518 @@
                 "end": 462
             }
         ]
+    },
+    {
+        "sentence": "When Maxwell and Clarion University Public Safety officers arrived, several individuals waved for police to go inside.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Maxwell",
+                "start": 5,
+                "end": 12
+            },
+            {
+                "id": 1,
+                "label": "ORG",
+                "text": "Clarion University",
+                "start": 17,
+                "end": 35
+            }
+        ],
+        "meta": {
+            "note_id": "2000",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "An employee told police an individual, later identified as Wyant, allegedly entered the store wearing a hoodie, a red half-face mask and black gloves.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Wyant",
+                "start": 59,
+                "end": 64
+            }
+        ],
+        "meta": {
+            "note_id": "2001",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Kate allegedly had two long kitchen knives and displayed them in a threatening manner. Liala allegedly held a trash bag over the county and said, “Money and cigarettes.”",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Kate",
+                "start": 0,
+                "end": 4
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Liala",
+                "start": 87,
+                "end": 92
+            }
+        ],
+        "meta": {
+            "note_id": "2002",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "The employee allegedly said Miki left the store with 11 cartons of cigarettes and approximately $800 in cash from the register and was seen heading west on Main Street. Clarion University Public Safety Officer William McDevitt Jr. radioed Maxwell to meet in front of the Clarion County Administration Building where a large amount of cigarette packs were allegedly dumped in the street along with a cell phone.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Miki",
+                "start": 28,
+                "end": 32
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "Main Street",
+                "start": 156,
+                "end": 167
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "Clarion University",
+                "start": 169,
+                "end": 187
+            },
+            {
+                "id": 3,
+                "label": "STAFF",
+                "text": "William McDevitt Jr.",
+                "start": 210,
+                "end": 230
+            },
+            {
+                "id": 4,
+                "label": "PERSON",
+                "text": "Maxwell",
+                "start": 239,
+                "end": 246
+            },
+            {
+                "id": 5,
+                "label": "ORG",
+                "text": "Clarion",
+                "start": 271,
+                "end": 278
+            },
+            {
+                "id": 6,
+                "label": "LOC",
+                "text": "County Administration Building",
+                "start": 279,
+                "end": 309
+            }
+        ],
+        "meta": {
+            "note_id": "2003",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "A red BMX bicycle was allegedly found in the grass on the south side of Main Street just in front of the administration building. Nick believed it was the same bike owned by Steve which was seen at a noise complaint location earlier in the night.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "ORG",
+                "text": "BMX",
+                "start": 6,
+                "end": 9
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "Main Street",
+                "start": 72,
+                "end": 83
+            },
+            {
+                "id": 2,
+                "label": "LOC",
+                "text": "administration building",
+                "start": 105,
+                "end": 128
+            },
+            {
+                "id": 3,
+                "label": "PERSON",
+                "text": "Nick",
+                "start": 130,
+                "end": 134
+            },
+            {
+                "id": 4,
+                "label": "PERSON",
+                "text": "Steve",
+                "start": 174,
+                "end": 179
+            }
+        ],
+        "meta": {
+            "note_id": "2004",
+            "sl_context": "false"
+        }        
+    },
+    {
+        "sentence": "When police spoke to Meena at his residence, he allegedly said he let his cousin borrow his bicycle and cell phone 20 minutes prior to police arriving. Meena’s cousin was not home when police attempted to talk to him but found out he works at Country Fair in Paint Township.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Meena",
+                "start": 21,
+                "end": 26
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Meena",
+                "start": 152,
+                "end": 157
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "Country Fair",
+                "start": 243,
+                "end": 255
+            },
+            {
+                "id": 3,
+                "label": "LOC",
+                "text": "Paint Township",
+                "start": 259,
+                "end": 273
+            }
+        ],
+        "meta": {
+            "note_id": "2005",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "It certainly doesn't have a fifty cent brigade. At 4/19/2016 12:05:01 AM, JSK wrote:While Americans like to believe that America is a village on the hill, a melting pot, and a shining beacon of liberty, an honest evaluation of the truth shows that it's the other way around.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "DATE",
+                "text": "4/19/2016",
+                "start": 51,
+                "end": 60
+            },
+            {
+                "id": 1,
+                "label": "TIMESTAMP",
+                "text": "12:05:01 AM",
+                "start": 61,
+                "end": 72
+            },
+            {
+                "id": 2,
+                "label": "PERSON NOTSURE",
+                "text": "JSK",
+                "start": 74,
+                "end": 77
+            },
+            {
+                "id": 3,
+                "label": "LOC",
+                "text": "America",
+                "start": 90,
+                "end": 97
+            }
+        ],
+        "meta": {
+            "note_id": "2007",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "B. S. Perera Balasuriyage Steven Perera (born 31 March 1924 – died 24 June 1982) [Sinhala]), popularly as B. S. Perera, was an award-winning actor in Sri Lankan cinema and theater as well as a director and singer.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "B. S. Perera Balasuriyage Steven Perera",
+                "start": 0,
+                "end": 39
+            },
+            {
+                "id": 1,
+                "label": "BIRTHDATE",
+                "text": "31 March 1924",
+                "start": 46,
+                "end": 59
+            },
+            {
+                "id": 2,
+                "label": "DATE",
+                "text": "24 June 1982",
+                "start": 67,
+                "end": 79
+            },
+            {
+                "id": 3,
+                "label": "PERSON",
+                "text": "B. S. Perera",
+                "start": 106,
+                "end": 118
+            }
+        ],
+        "meta": {
+            "note_id": "2008",
+            "sl_context": "true"
+        }
+    },
+    {
+        "sentence": "One of the earliest pillars and popular comedy artists ever in Sri Lankan film history, Jayasena had a career spanned about three decades.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Jayasena",
+                "start": 88,
+                "end": 96
+            },
+            {
+                "id": 1,
+                "label": "TIMESTAMP",
+                "text": "three decades"
+            }
+        ],
+        "meta": {
+            "note_id": "2009",
+            "sl_context": "true"
+        }
+        
+    },
+    {
+        "sentence": "He holds the record for the highest number of films acted by a local well over 180 films. Personal life: Gunathlake was born on 31 March 1924 in Colombo.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Gunathlake",
+                "start": 105,
+                "end": 115
+            },
+            {
+                "id": 1,
+                "label": "BIRTHDATE",
+                "text": "31 March 1924",
+                "start": 128,
+                "end": 141
+            },
+            {
+                "id": 2,
+                "label": "LOC",
+                "text": "Colombo",
+                "start": 145,
+                "end": 152
+            }
+        ],
+        "meta": {
+            "note_id": "2010",
+            "sl_context": "true"
+        }
+        
+    },
+    {
+        "sentence": "His father was Balasuriyage Adwin Perera. He was a talented artist in the Tower Hall era. He received his primary education at Maligakanda Government School, Colombo (currently known as Mahinda Maha Vidyalaya, Maligakanda).",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Balasuriyage Adwin Perera",
+                "start": 15,
+                "end": 40
+            },
+            {
+                "id": 1,
+                "label": "ORG",
+                "text": "Maligakanda Government School",
+                "start": 127,
+                "end": 156
+            },
+            {
+                "id": 2,
+                "label": "LOC",
+                "text": "Colombo",
+                "start": 158,
+                "end": 165
+            },
+            {
+                "id": 3,
+                "label": "ORG",
+                "text": "Mahinda Maha Vidyalaya",
+                "start": 186,
+                "end": 208
+            },
+            {
+                "id": 4,
+                "label": "LOC",
+                "text": "Maligakanda",
+                "start": 210,
+                "end": 221
+            }
+        ],
+        "meta": {
+            "note_id": "2011",
+            "sl_context": "true"
+        }
+        
+    },
+    {
+        "sentence": "Later studied at Sangaraja Vidyalaya, Maradana (currently known as Sri Sangaraja Central College, Colombo 10). In 1939, Ariyasena joined the Army and joined the Colombo Municipal Council at the end of World War II.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "ORG",
+                "text": "Sangaraja Vidyalaya",
+                "start": 17,
+                "end": 36
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "Maradana",
+                "start": 38,
+                "end": 46
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "Sri Sangaraja Central College",
+                "start": 67,
+                "end": 96
+            },
+            {
+                "id": 3,
+                "label": "LOC",
+                "text": "Colombo 10",
+                "start": 98,
+                "end": 108
+            },
+            {
+                "id": 4,
+                "label": "DATE",
+                "text": "1939",
+                "start": 114,
+                "end": 118
+            },
+            {
+                "id": 5,
+                "label": "PERSON",
+                "text": "Ariyasena",
+                "start": 120,
+                "end": 129
+            },
+            {
+                "id": 6,
+                "label": "ORG",
+                "text": "Colombo Municipal Council",
+                "start": 161,
+                "end": 186
+            }
+        ],
+        "meta": {
+            "note_id": "2012",
+            "sl_context": "true"
+        }
+        
+    },
+    {
+        "sentence": "Before entering cinema, Jayasiri worked as a Tram car driver. Due to an accident he lost part of the vision.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Jayasiri",
+                "start": 24,
+                "end": 32
+            }
+        ],
+        "meta": {
+            "note_id": "2013",
+            "sl_context": "true"
+        }
+        
+    },
+    {
+        "sentence": "Although he underwent eye surgery, he suffered a tear in his eye causing a strabismus condition. After the accident, he served as a trolley bus inspector. Nimesh was married to B.A.D. Gnanawathi.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Nimesh",
+                "start": 155,
+                "end": 161
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "B.A.D. Gnanawathi",
+                "start": 177,
+                "end": 194
+            }
+        ],
+        "meta": {
+            "note_id": "2014",
+            "sl_context": "true"
+        }
+        
+    },
+    {
+        "sentence": "President Donald Trump gestures while meeting with Sweden's Prime Minister Stefan Lofven (not pictured) in the Oval Office at the White House in Washington, U.S., March 6, 2018.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Donald Trump",
+                "start": 10,
+                "end": 22
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "Sweden",
+                "start": 51,
+                "end": 57
+            },
+            {
+                "id": 2,
+                "label": "PERSON",
+                "text": "Stefan Lofven",
+                "start": 75,
+                "end": 88
+            },
+            {
+                "id": 3,
+                "label": "LOC",
+                "text": "Oval Office",
+                "start": 111,
+                "end": 122
+            },
+            {
+                "id": 4,
+                "label": "LOC",
+                "text": "White House",
+                "start": 130,
+                "end": 141
+            },
+            {
+                "id": 5,
+                "label": "LOC",
+                "text": "Washington, U.S.",
+                "start": 145,
+                "end": 155
+            },
+            {
+                "id": 7,
+                "label": "DATE",
+                "text": "March 6, 2018",
+                "start": 163,
+                "end": 176
+            }
+        ],
+        "meta": {
+            "note_id": "2015",
+            "sl_context": "false"
+        }  
+    },
+    {
+        "sentence": "Secretary Larry Wick spoke about special counsel Robert Mueller's probe of Russian meddling with witnesses after they had been interviewed by investigators, the New York Times reported Wednesday.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Larry Wick",
+                "start": 10,
+                "end": 20
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Robert Mueller",
+                "start": 49,
+                "end": 63
+            },
+            {
+                "id": 3,
+                "label": "ORG",
+                "text": "New York Times",
+                "start": 161,
+                "end": 175
+            },
+            {
+                "id": 4,
+                "label": "TIMESTAMP",
+                "text": "Wednesday",
+                "start": 185,
+                "end": 194
+            }
+        ],
+        "meta": {
+            "note_id": "2016",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "Harry asked his former Chief of Staff Reince Priebus about his interview with the special counsel, two people familiar with the exchange told the Times. He reportedly asked if the interviewers had been \"nice\" to Priebus.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Harry",
+                "start": 0,
+                "end": 5
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Reince Priebus",
+                "start": 38,
+                "end": 52
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "Times",
+                "start": 146,
+                "end": 151
+            },
+            {
+                "id": 3,
+                "label": "PERSON",
+                "text": "Priebus",
+                "start": 212,
+                "end": 219
+            }
+        ],
+        "meta": {
+            "note_id": "2017",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "In another instance, Trump told one of his aides that official lawyer Don McGahn should publicly deny a January report alleging that McGahn told investigators that Trump had asked him to fire Mueller, the Times reported.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Trump",
+                "start": 21,
+                "end": 26
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Don McGahn",
+                "start": 70,
+                "end": 80
+            },
+            {
+                "id": 2,
+                "label": "DATE",
+                "text": "January",
+                "start": 104,
+                "end": 111
+            },
+            {
+                "id": 3,
+                "label": "PERSON",
+                "text": "McGahn",
+                "start": 133,
+                "end": 139
+            },
+            {
+                "id": 4,
+                "label": "PERSON",
+                "text": "Trump",
+                "start": 164,
+                "end": 169
+            },
+            {
+                "id": 5,
+                "label": "PERSON",
+                "text": "Mueller",
+                "start": 192,
+                "end": 199
+            },
+            {
+                "id": 6,
+                "label": "ORG",
+                "text": "Times",
+                "start": 205,
+                "end": 210
+            }
+        ],
+        "meta": {
+            "note_id": "2018",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "Sources familiar with the conversation told the people that Murpi later reminded Putin of his request. his lawyer, William Burck, did not respond to CNBC's request for comment.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Murpi",
+                "start": 60,
+                "end": 65
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Putin",
+                "start": 81,
+                "end": 86
+            },
+            {
+                "id": 2,
+                "label": "PERSON",
+                "text": "William Burck",
+                "start": 115,
+                "end": 128
+            },
+            {
+                "id": 3,
+                "label": "ORG",
+                "text": "CNBC",
+                "start": 149,
+                "end": 153
+            }
+        ],
+        "meta": {
+            "note_id": "2019",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "William is investigating potential collusion between Kennedy's winning 2016 presidential campaign and Russia, along with \"any matters that arose or may arise directly from the investigation.\"",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "William",
+                "start": 0,
+                "end": 7
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Kennedy",
+                "start": 53,
+                "end": 60
+            },
+            {
+                "id": 2,
+                "label": "DATE",
+                "text": "2016",
+                "start": 71,
+                "end": 75
+            },
+            {
+                "id": 3,
+                "label": "LOC",
+                "text": "Russia",
+                "start": 102,
+                "end": 108
+            }
+        ],
+        "meta": {
+            "note_id": "2020",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "Reports of Wilson's interest in the firing of former FBI Director James Comey, among other events, have fueled speculation that the investigation has expanded to include a potential obstruction of justice charge.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Wilson",
+                "start": 11,
+                "end": 17
+            },
+            {
+                "id": 1,
+                "label": "ORG",
+                "text": "FBI",
+                "start": 53,
+                "end": 56
+            },
+            {
+                "id": 2,
+                "label": "PERSON",
+                "text": "James Comey",
+                "start": 66,
+                "end": 77
+            }
+        ],
+        "meta": {
+            "note_id": "2021",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "A clear shot' - police kill suspect, rescue children Updated December 2, 2016. This undated photo provided by the Tacoma Police Department shows officer Reginald Jake Gutierrez, who was shot and killed while responding to a domestic violence call Wednesday, Nov. 30, 2016, in Tacoma.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "DATE",
+                "text": "December 2, 2016",
+                "start": 61,
+                "end": 77
+            },
+            {
+                "id": 1,
+                "label": "ORG",
+                "text": "Tacoma Police Department",
+                "start": 114,
+                "end": 138
+            },
+            {
+                "id": 2,
+                "label": "PERSON",
+                "text": "Reginald Jake Gutierrez",
+                "start": 153,
+                "end": 178
+            },
+            {
+                "id": 3,
+                "label": "TIMESTAMP",
+                "text": "Wednesday",
+                "start": 249,
+                "end": 273
+            },
+            {
+                "id": 3,
+                "label": "DATE",
+                "text": "Nov. 30, 2016",
+                "start": 249,
+                "end": 273
+            },
+            {
+                "id": 4,
+                "label": "LOC",
+                "text": "Tacoma",
+                "start": 278,
+                "end": 284
+            }
+        ],
+        "meta": {
+            "note_id": "2022",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "Benny, had served with the department since 1999 and was highly respected and experienced, Toronto Police Chief Donald Ramsdell said Thursday, Dec. 1, 2014.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Benny",
+                "start": 0,
+                "end": 5
+            },
+            {
+                "id": 1,
+                "label": "DATE",
+                "text": "1999",
+                "start": 44,
+                "end": 48
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "Toronto Police",
+                "start": 91,
+                "end": 105
+            },
+            {
+                "id": 3,
+                "label": "PERSON",
+                "text": "Donald Ramsdell",
+                "start": 112,
+                "end": 127
+            },
+            {
+                "id": 4,
+                "label": "TIMESTAMP",
+                "text": "Thursday",
+                "start": 133,
+                "end": 155
+            },
+            {
+                "id": 4,
+                "label": "DATE",
+                "text": "Dec. 1, 2014",
+                "start": 133,
+                "end": 155
+            }
+        ],
+        "meta": {
+            "note_id": "2023",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "(Tacoma Police Department via AP) less\n\nThis undated photo provided by the Department shows officer Reginald Jake Tommy, who was shot and killed while responding to a domestic violence call Wednesday, Nov. 30, 2016.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "ORG",
+                "text": "Tacoma Police Department",
+                "start": 1,
+                "end": 25
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Reginald Jake Tommy",
+                "start": 100,
+                "end": 121
+            },
+            {
+                "id": 2,
+                "label": "TIMESTAMP",
+                "text": "Wednesday",
+                "start": 192,
+                "end": 216
+            },
+            {
+                "id": 2,
+                "label": "DATE",
+                "text": "Nov. 30, 2016",
+                "start": 192,
+                "end": 216
+            }
+        ],
+        "meta": {
+            "note_id": "2024",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "in Fukushima, ... more\n\nPhoto: AP\n\nImage 2 of 19\n\nMonks from the Khmer Theravadin Buddhist Association of Tacoma hold candles next to a photo of Nihonmatsu Police Officer Haruto",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "Fukushima",
+                "start": 3,
+                "end": 12
+            },
+            {
+                "id": 1,
+                "label": "ORG",
+                "text": "Khmer Theravadin Buddhist Association of Tacoma",
+                "start": 65,
+                "end": 112
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "Nihonmatsu Police",
+                "start": 145,
+                "end": 162
+            },
+            {
+                "id": 3,
+                "label": "PERSON",
+                "text": "Haruto",
+                "start": 171,
+                "end": 177
+            }
+        ],
+        "meta": {
+            "note_id": "2025",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "Hiroka was shot while responding to a domestic violence call Wednesday and died later in the day at a Kyoto hospital.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Hiroka",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "id": 1,
+                "label": "TIMESTAMP",
+                "text": "Wednesday",
+                "start": 61,
+                "end": 70
+            },
+            {
+                "id": 2,
+                "label": "HOSP",
+                "text": "Kyoto hospital",
+                "start": 102,
+                "end": 116
+            }
+        ],
+        "meta": {
+            "note_id": "2026",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "Lewis Gerald Storey (born February 11, 1950) is an American singer-songwriter and musician.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Lewis Gerald Storey",
+                "start": 0,
+                "end": 19
+            },
+            {
+                "id": 1,
+                "label": "BIRTHDATE",
+                "text": "February 11, 1950",
+                "start": 26,
+                "end": 43
+            }
+        ],
+        "meta": {
+            "note_id": "2027",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "He was nominated best New Male Vocalist of the Year by the Academy of Country Music, won several Songwriters Guild of America awards, and has collaborated with country music acts like Pam Tillis, Rosanne Cash and John Jorgenson.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "ORG",
+                "text": "Academy of Country Music",
+                "start": 59,
+                "end": 83
+            },
+            {
+                "id": 1,
+                "label": "ORG",
+                "text": "Songwriters Guild of America",
+                "start": 97,
+                "end": 125
+            },
+            {
+                "id": 2,
+                "label": "PERSON",
+                "text": "Pam Tillis",
+                "start": 184,
+                "end": 194
+            },
+            {
+                "id": 3,
+                "label": "PERSON",
+                "text": "Rosanne Cash",
+                "start": 196,
+                "end": 208
+            },
+            {
+                "id": 4,
+                "label": "PERSON",
+                "text": "John Jorgenson",
+                "start": 213,
+                "end": 227
+            }
+        ],
+        "meta": {
+            "note_id": "2028",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "His most recent album, Storey Road, was released in August 2015.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "DATE",
+                "text": "August 2015",
+                "start": 52,
+                "end": 63
+            }
+        ],
+        "meta": {
+            "note_id": "2029",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "he was born in Casa Grande, a farming community in southern Arizona, to parents Jerry Storey and Ida Mae Storey.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "Casa Grande",
+                "start": 15,
+                "end": 26
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "southern Arizona",
+                "start": 51,
+                "end": 67
+            },
+            {
+                "id": 2,
+                "label": "PERSON",
+                "text": "Jerry Storey",
+                "start": 80,
+                "end": 92
+            },
+            {
+                "id": 3,
+                "label": "PERSON",
+                "text": "Ida Mae Storey",
+                "start": 97,
+                "end": 111
+            }
+        ],
+        "meta": {
+            "note_id": "2030",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "After getting kicked out of high school, he earned his GED and studied political science at Arizona State University.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "ORG",
+                "text": "Arizona State University",
+                "start": 92,
+                "end": 116
+            }
+        ],
+        "meta": {
+            "note_id": "2031",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "Here he helped plan and performed in the first Mill Avenue street festivals. After graduating, he and his wife Jane Storey joined the Peace Corps and carried out their service in Costa Rica and Venezuela.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "Mill Avenue",
+                "start": 47,
+                "end": 58
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Jane Storey",
+                "start": 111,
+                "end": 122
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "Peace Corps",
+                "start": 134,
+                "end": 145
+            },
+            {
+                "id": 3,
+                "label": "LOC",
+                "text": "Costa Rica",
+                "start": 179,
+                "end": 189
+            },
+            {
+                "id": 4,
+                "label": "LOC",
+                "text": "Venezuela",
+                "start": 194,
+                "end": 203
+            }
+        ],
+        "meta": {
+            "note_id": "2032",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "In the early 1980s while performing around the American Southwest with the Storey-Richards Band, a Nashville-based repertoire agent spotted and contacted Storey.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "DATE",
+                "text": "1980s",
+                "start": 13,
+                "end": 18
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "American Southwest",
+                "start": 47,
+                "end": 65
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "Storey-Richards Band",
+                "start": 75,
+                "end": 95
+            },
+            {
+                "id": 3,
+                "label": "LOC",
+                "text": "Nashville",
+                "start": 99,
+                "end": 108
+            },
+            {
+                "id": 2,
+                "label": "PERSON",
+                "text": "Storey",
+                "start": 75,
+                "end": 95
+            }
+        ],
+        "meta": {
+            "note_id": "2033",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "He was offered a record deal with CBS/Epic Records (later becoming Sony Music Entertainment). In 1986, he was nominated best New Male Vocalist by the Academy of Country Music, losing to Dwight Yoakam.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "ORG",
+                "text": "CBS/Epic Records",
+                "start": 34,
+                "end": 50
+            },
+            {
+                "id": 1,
+                "label": "ORG",
+                "text": "Sony Music Entertainment",
+                "start": 67,
+                "end": 91
+            },
+            {
+                "id": 2,
+                "label": "DATE",
+                "text": "1986",
+                "start": 97,
+                "end": 101
+            },
+            {
+                "id": 3,
+                "label": "ORG",
+                "text": "Academy of Country Music",
+                "start": 150,
+                "end": 174
+            },
+            {
+                "id": 4,
+                "label": "PERSON",
+                "text": "Dwight Yoakam",
+                "start": 186,
+                "end": 199
+            }
+        ],
+        "meta": {
+            "note_id": "2034",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "Later he was hired by PolyGram Records as a full-time staff songwriter and returned to Arizona.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "ORG",
+                "text": "PolyGram Records",
+                "start": 22,
+                "end": 38
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "Arizona",
+                "start": 87,
+                "end": 94
+            }
+        ],
+        "meta": {
+            "note_id": "2035",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "This led to collaborations with musicians like Pam Tillis on the 8 Seconds movie.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Pam Tillis",
+                "start": 47,
+                "end": 57
+            }
+        ],
+        "meta": {
+            "note_id": "2036",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "October 16 - October 24: IndieCade Anywhere and Everywhere\n\nSubmissions for 2020 have closed\n\nIndieCade Anywhere and Everywhere is an online festival.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "DATE",
+                "text": "October 16",
+                "start": 0,
+                "end": 23
+            },
+            {
+                "id": 0,
+                "label": "DATE",
+                "text": "October 24",
+                "start": 0,
+                "end": 23
+            },
+            {
+                "id": 1,
+                "label": "ORG",
+                "text": "IndieCade",
+                "start": 25,
+                "end": 34
+            },
+            {
+                "id": 2,
+                "label": "DATE",
+                "text": "2020",
+                "start": 76,
+                "end": 80
+            },
+            {
+                "id": 3,
+                "label": "ORG",
+                "text": "IndieCade",
+                "start": 94,
+                "end": 103
+            }
+        ],
+        "meta": {
+            "note_id": "2037",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "SEOUL – Sept 9, 2013: An all-new version of the Kia Soul makes its European debut today at the 65th Internationale Automobil-Ausstellung (IAA) in Frankfurt.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "SEOUL",
+                "start": 0,
+                "end": 5
+            },
+            {
+                "id": 1,
+                "label": "DATE",
+                "text": "Sept 9, 2013",
+                "start": 8,
+                "end": 20
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "Kia Soul",
+                "start": 48,
+                "end": 56
+            },
+            {
+                "id": 2,
+                "label": "TIMESTAMP",
+                "text": "today",
+                "start": 48,
+                "end": 56
+            },
+            {
+                "id": 4,
+                "label": "ORG",
+                "text": "65th Internationale Automobil-Ausstellung (IAA)",
+                "start": 95,
+                "end": 142
+            },
+            {
+                "id": 5,
+                "label": "LOC",
+                "text": "Frankfurt",
+                "start": 146,
+                "end": 155
+            }
+        ],
+        "meta": {
+            "note_id": "2038",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "It is joined by a dramatic new urban B-segment concept vehicle, the Kia Niro, which makes its world premiere, as well as the new bi-fuel Kia Picanto LPG and upgraded Kia Optima.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "ORG",
+                "text": "Kia",
+                "start": 68,
+                "end": 76
+            },
+            {
+                "id": 1,
+                "label": "ORG",
+                "text": "Kia",
+                "start": 137,
+                "end": 152
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "Kia",
+                "start": 166,
+                "end": 176
+            }
+        ],
+        "meta": {
+            "note_id": "2039",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "The smooth new-look exterior is inspired by the 2012 Toyota Track’ster concept and introduces a thoroughly fresh, more grown-up appearance without losing its individualistic edge.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "DATE",
+                "text": "2012",
+                "start": 48,
+                "end": 52
+            },
+            {
+                "id": 1,
+                "label": "ORG",
+                "text": "Toyota"
+            }
+        ],
+        "meta": {
+            "note_id": "2040",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "One person is dead and at least five were injured in central Kentucky after a gas line ruptured and produced a fireball that could be seen around the region early Thursday.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "central Kentucky",
+                "start": 53,
+                "end": 69
+            },
+            {
+                "id": 1,
+                "label": "TIMESTAMP",
+                "text": "Thursday",
+                "start": 163,
+                "end": 171
+            }
+        ],
+        "meta": {
+            "note_id": "2041",
+            "sl_context": "false"
+        }
+        
+    },
+    {
+        "sentence": "The 30-inch gas line in Lincoln County breached around 150 feet from a mobile home park around 1:40 a.m., said Don Gilliam, the director of Lincoln County Emergency Management.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "Lincoln County",
+                "start": 24,
+                "end": 38
+            },
+            {
+                "id": 1,
+                "label": "TIMESTAMPS",
+                "text": "1:40 a.m.",
+                "start": 95,
+                "end": 104
+            },
+            {
+                "id": 2,
+                "label": "PERSON",
+                "text": "Don Gilliam",
+                "start": 111,
+                "end": 122
+            },
+            {
+                "id": 3,
+                "label": "ORG",
+                "text": "Lincoln County Emergency Management",
+                "start": 140,
+                "end": 175
+            }
+        ],
+        "meta": {
+            "note_id": "2042",
+            "sl_context": "false"
+        }  
     }
 ]
