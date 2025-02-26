@@ -15287,5 +15287,1883 @@
                 "end": 535
             }
         ]
-    } 
+    },
+    {
+        "sentence": "Dr. Mark Reynolds at Sheba Medical Center confirmed that Maria Sanchez, a 32-year-old patient, had tested positive for influenza three months ago.",
+        "meta": {
+            "note_id": "4331",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Mark Reynolds",
+                "id": 0,
+                "start": 0,
+                "end": 17
+            },
+            {
+                "label": "HOSP",
+                "text": "Sheba Medical Center",
+                "id": 1,
+                "start": 21,
+                "end": 41
+            },
+            {
+                "label": "PERSON",
+                "text": "Maria Sanchez",
+                "id": 2,
+                "start": 57,
+                "end": 70
+            },
+            {
+                "label": "AGE",
+                "text": "32",
+                "id": 3,
+                "start": 74,
+                "end": 76
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "three months ago",
+                "id": 4,
+                "start": 129,
+                "end": 145
+            }
+        ]
+    },
+    {
+        "sentence": "Nurse Megan Jenkins contacted the patient’s family at +1-415-832-5678 to provide updates about the recovery process at St. Mary’s Hospital.",
+        "meta": {
+            "note_id": "4332",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Nurse Megan Jenkins",
+                "id": 0,
+                "start": 0,
+                "end": 19
+            },
+            {
+                "label": "PHONE",
+                "text": "+1-415-832-5678",
+                "id": 1,
+                "start": 54,
+                "end": 69
+            },
+            {
+                "label": "HOSP",
+                "text": "St. Mary’s Hospital",
+                "id": 2,
+                "start": 119,
+                "end": 138
+            }
+        ]
+    },
+    {
+        "sentence": "On September 15, 2023, the American Heart Association released new guidelines for post-cardiac care, available at https://www.aha.org/postcardiac-care-guidelines.",
+        "meta": {
+            "note_id": "4333",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "September 15, 2023",
+                "id": 0,
+                "start": 3,
+                "end": 21
+            },
+            {
+                "label": "ORG",
+                "text": "American Heart Association",
+                "id": 1,
+                "start": 27,
+                "end": 53
+            },
+            {
+                "label": "URL",
+                "text": "https://www.aha.org/postcardiac-care-guidelines",
+                "id": 2,
+                "start": 114,
+                "end": 161
+            }
+        ]
+    },
+    {
+        "sentence": "Dr. Sarah Adams at Columbia Medical Center successfully performed a liver transplant on Joshua Barnes, a 48-year-old patient, last Friday.",
+        "meta": {
+            "note_id": "4334",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Sarah Adams",
+                "id": 0,
+                "start": 0,
+                "end": 15
+            },
+            {
+                "label": "HOSP",
+                "text": "Columbia Medical Center",
+                "id": 1,
+                "start": 19,
+                "end": 42
+            },
+            {
+                "label": "PERSON",
+                "text": "Joshua Barnes",
+                "id": 2,
+                "start": 88,
+                "end": 101
+            },
+            {
+                "label": "AGE",
+                "text": "48",
+                "id": 3,
+                "start": 105,
+                "end": 107
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "last Friday",
+                "id": 4,
+                "start": 126,
+                "end": 137
+            }
+        ]
+    },
+    {
+        "sentence": "The patient, Jane Williams, a 29-year-old software engineer, was discharged from Massachusetts General Hospital on February 10, 2024, and provided follow-up instructions via her email jane.williams@healthcaremail.com.",
+        "meta": {
+            "note_id": "4335",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Jane Williams",
+                "id": 0,
+                "start": 13,
+                "end": 26
+            },
+            {
+                "label": "AGE",
+                "text": "29",
+                "id": 1,
+                "start": 30,
+                "end": 32
+            },
+            {
+                "label": "HOSP",
+                "text": "Massachusetts General Hospital",
+                "id": 2,
+                "start": 81,
+                "end": 111
+            },
+            {
+                "label": "DATE",
+                "text": "February 10, 2024",
+                "id": 3,
+                "start": 115,
+                "end": 132
+            },
+            {
+                "label": "EMAIL",
+                "text": "jane.williams@healthcaremail.com",
+                "id": 4,
+                "start": 184,
+                "end": 216
+            }
+        ]
+    },
+    {
+        "sentence": "The World Health Organization published an article on diabetes management at https://www.who.int/diabetes-management, referencing the study conducted in Tokyo, Japan.",
+        "meta": {
+            "note_id": "4336",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "ORG",
+                "text": "World Health Organization",
+                "id": 0,
+                "start": 4,
+                "end": 29
+            },
+            {
+                "label": "URL",
+                "text": "https://www.who.int/diabetes-management",
+                "id": 1,
+                "start": 77,
+                "end": 116
+            },
+            {
+                "label": "LOC",
+                "text": "Tokyo, Japan",
+                "id": 2,
+                "start": 153,
+                "end": 165
+            }
+        ]
+    },
+    {
+        "sentence": "Dr. Kevin Brown, an orthopedic specialist at Mayo Clinic, diagnosed Emily Roberts with a torn ACL on December 5, 2023.",
+        "meta": {
+            "note_id": "4337",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Kevin Brown",
+                "id": 0,
+                "start": 0,
+                "end": 15
+            },
+            {
+                "label": "HOSP",
+                "text": "Mayo Clinic",
+                "id": 1,
+                "start": 45,
+                "end": 56
+            },
+            {
+                "label": "PERSON",
+                "text": "Emily Roberts",
+                "id": 2,
+                "start": 68,
+                "end": 81
+            },
+            {
+                "label": "DATE",
+                "text": "December 5, 2023",
+                "id": 3,
+                "start": 101,
+                "end": 117
+            }
+        ]
+    },
+    {
+        "sentence": "A research article on Alzheimer’s treatment breakthroughs was published by Harvard Medical School at https://www.harvard.edu/alzheimers-research on January 8, 2024.",
+        "meta": {
+            "note_id": "4338",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "ORG",
+                "text": "Harvard Medical School",
+                "id": 0,
+                "start": 75,
+                "end": 97
+            },
+            {
+                "label": "URL",
+                "text": "https://www.harvard.edu/alzheimers-research",
+                "id": 1,
+                "start": 101,
+                "end": 144
+            },
+            {
+                "label": "DATE",
+                "text": "January 8, 2024",
+                "id": 2,
+                "start": 148,
+                "end": 163
+            }
+        ]
+    },
+    {
+        "sentence": "Patient ID PAT-98234, Mark Spencer, a 61-year-old, underwent a knee replacement surgery at NewYork-Presbyterian Hospital on March 3, 2024, under the care of Dr. Linda Evans.",
+        "meta": {
+            "note_id": "4339",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "ID",
+                "text": "PAT-98234",
+                "id": 0,
+                "start": 11,
+                "end": 20
+            },
+            {
+                "label": "PERSON",
+                "text": "Mark Spencer",
+                "id": 1,
+                "start": 22,
+                "end": 34
+            },
+            {
+                "label": "AGE",
+                "text": "61",
+                "id": 2,
+                "start": 38,
+                "end": 40
+            },
+            {
+                "label": "HOSP",
+                "text": "NewYork-Presbyterian Hospital",
+                "id": 3,
+                "start": 91,
+                "end": 120
+            },
+            {
+                "label": "DATE",
+                "text": "March 3, 2024",
+                "id": 4,
+                "start": 124,
+                "end": 137
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Linda Evans",
+                "id": 5,
+                "start": 157,
+                "end": 172
+            }
+        ]
+    },
+    {
+        "sentence": "Nathaniel Spencer, a 45-year-old patient born on March 12, 1978, was admitted with severe chest pain. His patient ID, PAT-564321, was used for immediate medical history retrieval.",
+        "meta": {
+            "note_id": "4340",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Nathaniel Spencer",
+                "id": 0,
+                "start": 0,
+                "end": 17
+            },
+            {
+                "label": "AGE",
+                "text": "45",
+                "id": 1,
+                "start": 21,
+                "end": 23
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "March 12, 1978",
+                "id": 2,
+                "start": 49,
+                "end": 63
+            },
+            {
+                "label": "ID",
+                "text": "PAT-564321",
+                "id": 3,
+                "start": 118,
+                "end": 128
+            }
+        ]
+    },
+    {
+        "sentence": "Dr. Ava Hall, a cardiologist at Houston Methodist Hospital, can be reached at +1-415-832-5678 or via email at emily.carter@citymed.org for urgent consultations and referrals.",
+        "meta": {
+            "note_id": "4341",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Ava Hall",
+                "id": 0,
+                "start": 0,
+                "end": 12
+            },
+            {
+                "label": "HOSP",
+                "text": "Houston Methodist Hospital",
+                "id": 1,
+                "start": 32,
+                "end": 58
+            },
+            {
+                "label": "PHONE",
+                "text": "+1-415-832-5678",
+                "id": 2,
+                "start": 78,
+                "end": 93
+            },
+            {
+                "label": "EMAIL",
+                "text": "emily.carter@citymed.org",
+                "id": 3,
+                "start": 110,
+                "end": 134
+            }
+        ]
+    },
+    {
+        "sentence": "On April 5, 2023, at 10:30 AM, an emergency case was reported at National Hospital, Colombo, Sri Lanka, requiring immediate ICU admission due to severe respiratory distress.",
+        "meta": {
+            "note_id": "4342",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "April 5, 2023",
+                "id": 0,
+                "start": 3,
+                "end": 16
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "10:30 AM",
+                "id": 1,
+                "start": 21,
+                "end": 29
+            },
+            {
+                "label": "HOSP",
+                "text": "National Hospital",
+                "id": 2,
+                "start": 65,
+                "end": 82
+            },
+            {
+                "label": "LOC",
+                "text": "Colombo, Sri Lanka",
+                "id": 3,
+                "start": 84,
+                "end": 102
+            }
+        ]
+    },
+    {
+        "sentence": "For appointment scheduling, contact Dr. Rebecca Lee from Sunrise Clinic at +94 11 269 9999 or email rebecca.lee@sunriseclinic.org, available from Monday to Friday.",
+        "meta": {
+            "note_id": "4343",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Rebecca Lee",
+                "id": 0,
+                "start": 36,
+                "end": 51
+            },
+            {
+                "label": "HOSP",
+                "text": "Sunrise Clinic",
+                "id": 1,
+                "start": 57,
+                "end": 71
+            },
+            {
+                "label": "PHONE",
+                "text": "+94 11 269 9999",
+                "id": 2,
+                "start": 75,
+                "end": 90
+            },
+            {
+                "label": "EMAIL",
+                "text": "rebecca.lee@sunriseclinic.org",
+                "id": 3,
+                "start": 100,
+                "end": 129
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "Monday",
+                "id": 4,
+                "start": 146,
+                "end": 152
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "Friday",
+                "id": 5,
+                "start": 156,
+                "end": 162
+            }
+        ]
+    },
+    {
+        "sentence": "The patient identified by NIC-983456789V, born on July 22, 1980, currently residing in Kandy, Sri Lanka, was diagnosed with hypertension and prescribed a long-term treatment plan.",
+        "meta": {
+            "note_id": "4344",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "ID",
+                "text": "NIC-983456789V",
+                "id": 0,
+                "start": 26,
+                "end": 40
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "July 22, 1980",
+                "id": 1,
+                "start": 50,
+                "end": 63
+            },
+            {
+                "label": "LOC",
+                "text": "Kandy, Sri Lanka",
+                "id": 2,
+                "start": 87,
+                "end": 103
+            }
+        ]
+    },
+    {
+        "sentence": "On June 20, 2022, at 15:45, the World Health Organization published new treatment guidelines for diabetes, which are now available at https://www.who.int/diabetes-guidelines for medical professionals.",
+        "meta": {
+            "note_id": "4345",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "June 20, 2022",
+                "id": 0,
+                "start": 3,
+                "end": 16
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "15:45",
+                "id": 1,
+                "start": 21,
+                "end": 26
+            },
+            {
+                "label": "ORG",
+                "text": "World Health Organization",
+                "id": 2,
+                "start": 32,
+                "end": 57
+            },
+            {
+                "label": "URL",
+                "text": "https://www.who.int/diabetes-guidelines",
+                "id": 3,
+                "start": 134,
+                "end": 173
+            }
+        ]
+    },
+    {
+        "sentence": "A 67-year-old male patient was admitted to Apollo Hospital, Chennai, after experiencing severe dizziness and was placed under observation in the neurology department for further evaluation.",
+        "meta": {
+            "note_id": "4346",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "AGE",
+                "text": "67",
+                "id": 0,
+                "start": 2,
+                "end": 4
+            },
+            {
+                "label": "HOSP",
+                "text": "Apollo Hospital",
+                "id": 1,
+                "start": 43,
+                "end": 58
+            },
+            {
+                "label": "LOC",
+                "text": "Chennai",
+                "id": 2,
+                "start": 60,
+                "end": 67
+            }
+        ]
+    },
+    {
+        "sentence": "To discuss laboratory test results, contact Dr. Michael Stevens at City Health Laboratory via +1-202-555-0189 or email m.stevens@cityhealthlabs.com during working hours.",
+        "meta": {
+            "note_id": "4347",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Michael Stevens",
+                "id": 0,
+                "start": 44,
+                "end": 63
+            },
+            {
+                "label": "HOSP",
+                "text": "City Health Laboratory",
+                "id": 1,
+                "start": 67,
+                "end": 89
+            },
+            {
+                "label": "PHONE",
+                "text": "+1-202-555-0189",
+                "id": 2,
+                "start": 94,
+                "end": 109
+            },
+            {
+                "label": "EMAIL",
+                "text": "m.stevens@cityhealthlabs.com",
+                "id": 3,
+                "start": 119,
+                "end": 147
+            }
+        ]
+    },
+    {
+        "sentence": "Medical report ID MED-20240516 confirms that the surgery was successfully conducted at General Hospital, Colombo, on May 16, 2024, at 08:15 AM without any complications.",
+        "meta": {
+            "note_id": "4348",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "ID",
+                "text": "MED-20240516",
+                "id": 0,
+                "start": 18,
+                "end": 30
+            },
+            {
+                "label": "HOSP",
+                "text": "General Hospital",
+                "id": 1,
+                "start": 87,
+                "end": 103
+            },
+            {
+                "label": "LOC",
+                "text": "Colombo",
+                "id": 2,
+                "start": 105,
+                "end": 112
+            },
+            {
+                "label": "DATE",
+                "text": "May 16, 2024",
+                "id": 3,
+                "start": 117,
+                "end": 129
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "08:15 AM",
+                "id": 4,
+                "start": 134,
+                "end": 142
+            }
+        ]
+    },
+    {
+        "sentence": "The emergency response unit at Riverside Medical Center, San Diego, led by Dr. Liana Matthews, can be contacted at +1-323-456-7890 for urgent trauma cases and intensive care requirements.",
+        "meta": {
+            "note_id": "4349",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "HOSP",
+                "text": "Riverside Medical Center",
+                "id": 0,
+                "start": 31,
+                "end": 55
+            },
+            {
+                "label": "LOC",
+                "text": "San Diego",
+                "id": 1,
+                "start": 57,
+                "end": 66
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Liana Matthews",
+                "id": 2,
+                "start": 75,
+                "end": 93
+            },
+            {
+                "label": "PHONE",
+                "text": "+1-323-456-7890",
+                "id": 3,
+                "start": 115,
+                "end": 130
+            }
+        ]
+    },
+    {
+        "sentence": "Patient records for Erika Mendes were securely sent to her registered email erika.mendes@healthportal.com on February 14, 2024, at 11:45 AM, after verification by the medical staff.",
+        "meta": {
+            "note_id": "4350",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Erika Mendes",
+                "id": 0,
+                "start": 20,
+                "end": 32
+            },
+            {
+                "label": "EMAIL",
+                "text": "erika.mendes@healthportal.com",
+                "id": 1,
+                "start": 76,
+                "end": 105
+            },
+            {
+                "label": "DATE",
+                "text": "February 14, 2024",
+                "id": 2,
+                "start": 109,
+                "end": 126
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "11:45 AM",
+                "id": 3,
+                "start": 131,
+                "end": 139
+            }
+        ]
+    },
+    {
+        "sentence": "The newborn, identified as Baby Rayhan, was delivered on March 29, 2024, at Hilltop Maternity Clinic, Sri Lanka, weighing 3.2 kg and requiring additional monitoring due to minor breathing issues.",
+        "meta": {
+            "note_id": "4351",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Baby Rayhan",
+                "id": 0,
+                "start": 27,
+                "end": 38
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "March 29, 2024",
+                "id": 1,
+                "start": 57,
+                "end": 71
+            },
+            {
+                "label": "HOSP",
+                "text": "Hilltop Maternity Clinic",
+                "id": 2,
+                "start": 76,
+                "end": 100
+            },
+            {
+                "label": "LOC",
+                "text": "Sri Lanka",
+                "id": 3,
+                "start": 102,
+                "end": 111
+            }
+        ]
+    },
+    {
+        "sentence": "On December 12, 2023, at 5:20 PM, an outbreak of food poisoning led to the hospitalization of multiple patients at Westside General Hospital, Colombo, prompting a public health investigation.",
+        "meta": {
+            "note_id": "4352",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "December 12, 2023",
+                "id": 0,
+                "start": 3,
+                "end": 20
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "5:20 PM",
+                "id": 1,
+                "start": 25,
+                "end": 32
+            },
+            {
+                "label": "HOSP",
+                "text": "Westside General Hospital",
+                "id": 2,
+                "start": 115,
+                "end": 140
+            },
+            {
+                "label": "LOC",
+                "text": "Colombo",
+                "id": 3,
+                "start": 142,
+                "end": 149
+            }
+        ]
+    },
+    {
+        "sentence": "For detailed medical research papers, visit https://www.medicalresearchjournal.com or contact research@medicenter.org, managed by the leading experts in global healthcare innovation.",
+        "meta": {
+            "note_id": "4353",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "URL",
+                "text": "https://www.medicalresearchjournal.com",
+                "id": 0,
+                "start": 44,
+                "end": 82
+            },
+            {
+                "label": "EMAIL",
+                "text": "research@medicenter.org",
+                "id": 1,
+                "start": 94,
+                "end": 117
+            }
+        ]
+    },
+    {
+        "sentence": "Mr. Farhan Nawaz, a 58-year-old diabetic patient from Kurunegala, Sri Lanka, called +94 77 123 4567 to request a home visit for his routine glucose monitoring and medication review.",
+        "meta": {
+            "note_id": "4354",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Mr. Farhan Nawaz",
+                "id": 0,
+                "start": 0,
+                "end": 16
+            },
+            {
+                "label": "AGE",
+                "text": "58",
+                "id": 1,
+                "start": 20,
+                "end": 22
+            },
+            {
+                "label": "LOC",
+                "text": "Kurunegala, Sri Lanka",
+                "id": 2,
+                "start": 54,
+                "end": 75
+            },
+            {
+                "label": "PHONE",
+                "text": "+94 77 123 4567",
+                "id": 3,
+                "start": 84,
+                "end": 99
+            }
+        ]
+    },
+    {
+        "sentence": "A laboratory test identified by LAB-887654, performed at MediScan Diagnostics, was emailed to the patient at results@mediscan.lk on March 3, 2024, at 9:00 AM.",
+        "meta": {
+            "note_id": "4355",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "ID",
+                "text": "LAB-887654",
+                "id": 0,
+                "start": 32,
+                "end": 42
+            },
+            {
+                "label": "HOSP",
+                "text": "MediScan Diagnostics",
+                "id": 1,
+                "start": 57,
+                "end": 77
+            },
+            {
+                "label": "EMAIL",
+                "text": "results@mediscan.lk",
+                "id": 2,
+                "start": 109,
+                "end": 128
+            },
+            {
+                "label": "DATE",
+                "text": "March 3, 2024",
+                "id": 3,
+                "start": 132,
+                "end": 145
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "9:00 AM",
+                "id": 4,
+                "start": 150,
+                "end": 157
+            }
+        ]
+    },
+    {
+        "sentence": "For emergency care, contact Meadowbrook General Hospital, Boston, where Dr. Calvin Hayes is on duty, at +1-646-890-1234, specializing in trauma and critical care management.",
+        "meta": {
+            "note_id": "4356",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "HOSP",
+                "text": "Meadowbrook General Hospital",
+                "id": 0,
+                "start": 28,
+                "end": 56
+            },
+            {
+                "label": "LOC",
+                "text": "Boston",
+                "id": 1,
+                "start": 58,
+                "end": 64
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Calvin Hayes",
+                "id": 2,
+                "start": 72,
+                "end": 88
+            },
+            {
+                "label": "PHONE",
+                "text": "+1-646-890-1234",
+                "id": 3,
+                "start": 104,
+                "end": 119
+            }
+        ]
+    },
+    {
+        "sentence": "A female patient with ID PX-789012, born on August 19, 1976, is receiving cancer treatment at Horizon Oncology Institute, Colombo, under specialized medical supervision.",
+        "meta": {
+            "note_id": "4357",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "ID",
+                "text": "PX-789012",
+                "id": 0,
+                "start": 25,
+                "end": 34
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "August 19, 1976",
+                "id": 1,
+                "start": 44,
+                "end": 59
+            },
+            {
+                "label": "HOSP",
+                "text": "Horizon Oncology Institute",
+                "id": 2,
+                "start": 94,
+                "end": 120
+            },
+            {
+                "label": "LOC",
+                "text": "Colombo",
+                "id": 3,
+                "start": 122,
+                "end": 129
+            }
+        ]
+    },
+    {
+        "sentence": "To access research reports, visit https://www.globalhealthdata.org or email info@globalhealthdata.org; the latest updates were published on April 25, 2024, at 2:30 PM.",
+        "meta": {
+            "note_id": "4358",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "URL",
+                "text": "https://www.globalhealthdata.org",
+                "id": 0,
+                "start": 34,
+                "end": 66
+            },
+            {
+                "label": "EMAIL",
+                "text": "info@globalhealthdata.org",
+                "id": 1,
+                "start": 76,
+                "end": 101
+            },
+            {
+                "label": "DATE",
+                "text": "April 25, 2024",
+                "id": 2,
+                "start": 140,
+                "end": 154
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "2:30 PM",
+                "id": 3,
+                "start": 159,
+                "end": 166
+            }
+        ]
+    },
+    {
+        "sentence": "Dr. Sonia Patel at Victoria Medical Center, Sri Lanka, successfully performed a heart transplant for Mr. Naveed Rahman, who is now in recovery and receiving specialized post-operative care.",
+        "meta": {
+            "note_id": "4359",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Sonia Patel",
+                "id": 0,
+                "start": 0,
+                "end": 15
+            },
+            {
+                "label": "HOSP",
+                "text": "Victoria Medical Center",
+                "id": 1,
+                "start": 19,
+                "end": 42
+            },
+            {
+                "label": "LOC",
+                "text": "Sri Lanka",
+                "id": 2,
+                "start": 44,
+                "end": 53
+            },
+            {
+                "label": "PERSON",
+                "text": "Mr. Naveed Rahman",
+                "id": 3,
+                "start": 101,
+                "end": 118
+            }
+        ]
+    },
+    {
+        "sentence": "George Hunter, a 54-year-old patient, was admitted to Mount Sinai Hospital on June 20, 2023, for a scheduled cardiac bypass surgery under Dr. Benjamin Hughes.",
+        "meta": {
+            "note_id": "4360",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "George Hunter",
+                "id": 0,
+                "start": 0,
+                "end": 13
+            },
+            {
+                "label": "AGE",
+                "text": "54",
+                "id": 1,
+                "start": 17,
+                "end": 19
+            },
+            {
+                "label": "HOSP",
+                "text": "Mount Sinai Hospital",
+                "id": 2,
+                "start": 54,
+                "end": 74
+            },
+            {
+                "label": "DATE",
+                "text": "June 20, 2023",
+                "id": 3,
+                "start": 78,
+                "end": 91
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Benjamin Hughes",
+                "id": 4,
+                "start": 138,
+                "end": 157
+            }
+        ]
+    },
+    {
+        "sentence": "The PERSON, Mr. Kaveesha Perera, aged 34, was admitted to the hospital on March 10, 2024. His medical ID, PAT-903245, was used to retrieve his previous health records for diagnosis.",
+        "meta": {
+            "note_id": "4361",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Mr. Kaveesha Perera",
+                "id": 0,
+                "start": 12,
+                "end": 31
+            },
+            {
+                "label": "AGE",
+                "text": "34",
+                "id": 1,
+                "start": 38,
+                "end": 40
+            },
+            {
+                "label": "DATE",
+                "text": "March 10, 2024",
+                "id": 2,
+                "start": 74,
+                "end": 88
+            },
+            {
+                "label": "ID",
+                "text": "PAT-903245",
+                "id": 3,
+                "start": 106,
+                "end": 116
+            }
+        ]
+    },
+    {
+        "sentence": "For consultation regarding pediatric diseases, contact Dr. Anjali Weerasinghe, a senior pediatrician at Colombo Children's Hospital, via +94 11 222 4567 or email anjali.w@colombochildhosp.org.",
+        "meta": {
+            "note_id": "4362",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Anjali Weerasinghe",
+                "id": 0,
+                "start": 55,
+                "end": 77
+            },
+            {
+                "label": "HOSP",
+                "text": "Colombo Children's Hospital",
+                "id": 1,
+                "start": 104,
+                "end": 131
+            },
+            {
+                "label": "PHONE",
+                "text": "+94 11 222 4567",
+                "id": 2,
+                "start": 137,
+                "end": 152
+            },
+            {
+                "label": "EMAIL",
+                "text": "anjali.w@colombochildhosp.org",
+                "id": 3,
+                "start": 162,
+                "end": 191
+            }
+        ]
+    },
+    {
+        "sentence": "On May 5, 2023, at 3:15 PM, an accident victim was rushed to Kandy General Hospital, Sri Lanka, where emergency surgery was performed to stabilize his condition.",
+        "meta": {
+            "note_id": "4363",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "May 5, 2023",
+                "id": 0,
+                "start": 3,
+                "end": 14
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "3:15 PM",
+                "id": 1,
+                "start": 19,
+                "end": 26
+            },
+            {
+                "label": "HOSP",
+                "text": "Kandy General Hospital",
+                "id": 2,
+                "start": 61,
+                "end": 83
+            },
+            {
+                "label": "LOC",
+                "text": "Sri Lanka",
+                "id": 3,
+                "start": 85,
+                "end": 94
+            }
+        ]
+    },
+    {
+        "sentence": "The laboratory test ID LAB-20240307 was processed at Global Medical Labs and the results were emailed to results@globalmedlabs.com on March 7, 2024, at 9:00 AM.",
+        "meta": {
+            "note_id": "4364",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "ID",
+                "text": "LAB-20240307",
+                "id": 0,
+                "start": 23,
+                "end": 35
+            },
+            {
+                "label": "HOSP",
+                "text": "Global Medical Labs",
+                "id": 1,
+                "start": 53,
+                "end": 72
+            },
+            {
+                "label": "EMAIL",
+                "text": "results@globalmedlabs.com",
+                "id": 2,
+                "start": 105,
+                "end": 130
+            },
+            {
+                "label": "DATE",
+                "text": "March 7, 2024",
+                "id": 3,
+                "start": 134,
+                "end": 147
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "9:00 AM",
+                "id": 4,
+                "start": 152,
+                "end": 159
+            }
+        ]
+    },
+    {
+        "sentence": "For inquiries about neurosurgery, contact Dr. Alex Fernando from Royal Neurology Institute at +1-646-555-0199 or email alex.fernando@royalneuro.org.",
+        "meta": {
+            "note_id": "4365",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Alex Fernando",
+                "id": 0,
+                "start": 42,
+                "end": 59
+            },
+            {
+                "label": "HOSP",
+                "text": "Royal Neurology Institute",
+                "id": 1,
+                "start": 65,
+                "end": 90
+            },
+            {
+                "label": "PHONE",
+                "text": "+1-646-555-0199",
+                "id": 2,
+                "start": 94,
+                "end": 109
+            },
+            {
+                "label": "EMAIL",
+                "text": "alex.fernando@royalneuro.org",
+                "id": 3,
+                "start": 119,
+                "end": 147
+            }
+        ]
+    },
+    {
+        "sentence": "On July 18, 2022, at 10:45 AM, a new vaccine trial was conducted at National Infectious Disease Hospital, Sri Lanka, to assess long-term immunity responses among volunteers.",
+        "meta": {
+            "note_id": "4366",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "July 18, 2022",
+                "id": 0,
+                "start": 3,
+                "end": 16
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "10:45 AM",
+                "id": 1,
+                "start": 21,
+                "end": 29
+            },
+            {
+                "label": "HOSP",
+                "text": "National Infectious Disease Hospital",
+                "id": 2,
+                "start": 68,
+                "end": 104
+            },
+            {
+                "label": "LOC",
+                "text": "Sri Lanka",
+                "id": 3,
+                "start": 106,
+                "end": 115
+            }
+        ]
+    },
+    {
+        "sentence": "Miss Nethmi Jayasinghe, born on October 4, 2005, was admitted with respiratory complications. At just 18 years old, her PERSON ID PAT-456781 helped doctors retrieve her past asthma history.",
+        "meta": {
+            "note_id": "4367",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Miss Nethmi Jayasinghe",
+                "id": 0,
+                "start": 0,
+                "end": 22
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "October 4, 2005",
+                "id": 1,
+                "start": 32,
+                "end": 47
+            },
+            {
+                "label": "AGE",
+                "text": "18",
+                "id": 2,
+                "start": 102,
+                "end": 104
+            },
+            {
+                "label": "ID",
+                "text": "PAT-456781",
+                "id": 3,
+                "start": 130,
+                "end": 140
+            }
+        ]
+    },
+    {
+        "sentence": "Visit https://www.healthcare.gov for updated insurance policies or email support@healthcare.gov. The latest policy updates were released on August 12, 2023, at 2:30 PM.",
+        "meta": {
+            "note_id": "4368",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "URL",
+                "text": "https://www.healthcare.gov",
+                "id": 0,
+                "start": 6,
+                "end": 32
+            },
+            {
+                "label": "EMAIL",
+                "text": "support@healthcare.gov",
+                "id": 1,
+                "start": 73,
+                "end": 95
+            },
+            {
+                "label": "DATE",
+                "text": "August 12, 2023",
+                "id": 2,
+                "start": 140,
+                "end": 155
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "2:30 PM",
+                "id": 3,
+                "start": 160,
+                "end": 167
+            }
+        ]
+    },
+    {
+        "sentence": "For home medical services in Negombo, Sri Lanka, contact Dr. Ravi Silva from Negombo Private Hospital at +94 77 987 6543 for appointments and urgent medical attention.",
+        "meta": {
+            "note_id": "4369",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "LOC",
+                "text": "Negombo, Sri Lanka",
+                "id": 0,
+                "start": 29,
+                "end": 47
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Ravi Silva",
+                "id": 1,
+                "start": 57,
+                "end": 71
+            },
+            {
+                "label": "HOSP",
+                "text": "Negombo Private Hospital",
+                "id": 2,
+                "start": 77,
+                "end": 101
+            },
+            {
+                "label": "PHONE",
+                "text": "+94 77 987 6543",
+                "id": 3,
+                "start": 105,
+                "end": 120
+            }
+        ]
+    },
+    {
+        "sentence": "PERSON ID PX-678234 underwent a kidney transplant at Mount Elizabeth Hospital, Singapore, on January 21, 2024, at 4:00 PM, with a successful post-operative recovery reported.",
+        "meta": {
+            "note_id": "4370",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "ID",
+                "text": "PX-678234",
+                "id": 0,
+                "start": 10,
+                "end": 19
+            },
+            {
+                "label": "HOSP",
+                "text": "Mount Elizabeth Hospital",
+                "id": 1,
+                "start": 53,
+                "end": 77
+            },
+            {
+                "label": "LOC",
+                "text": "Singapore",
+                "id": 2,
+                "start": 79,
+                "end": 88
+            },
+            {
+                "label": "DATE",
+                "text": "January 21, 2024",
+                "id": 3,
+                "start": 93,
+                "end": 109
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "4:00 PM",
+                "id": 4,
+                "start": 114,
+                "end": 121
+            }
+        ]
+    },
+    {
+        "sentence": "Mrs. Shanika Perera, born on March 29, 1968, currently residing in Galle, Sri Lanka, was treated for high blood pressure. Her medical record PAT-309812 includes details of her past treatments.",
+        "meta": {
+            "note_id": "4371",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Mrs. Shanika Perera",
+                "id": 0,
+                "start": 0,
+                "end": 19
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "March 29, 1968",
+                "id": 1,
+                "start": 29,
+                "end": 43
+            },
+            {
+                "label": "LOC",
+                "text": "Galle, Sri Lanka",
+                "id": 2,
+                "start": 67,
+                "end": 83
+            },
+            {
+                "label": "ID",
+                "text": "PAT-309812",
+                "id": 3,
+                "start": 141,
+                "end": 151
+            }
+        ]
+    },
+    {
+        "sentence": "For psychological counseling services, contact Dr. Melissa Grant at MindWell Therapy Center via +1-310-789-6543 or email melissa.grant@mindwellcenter.com.",
+        "meta": {
+            "note_id": "4372",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Melissa Grant",
+                "id": 0,
+                "start": 47,
+                "end": 64
+            },
+            {
+                "label": "HOSP",
+                "text": "MindWell Therapy Center",
+                "id": 1,
+                "start": 68,
+                "end": 91
+            },
+            {
+                "label": "PHONE",
+                "text": "+1-310-789-6543",
+                "id": 2,
+                "start": 96,
+                "end": 111
+            },
+            {
+                "label": "EMAIL",
+                "text": "melissa.grant@mindwellcenter.com",
+                "id": 3,
+                "start": 121,
+                "end": 153
+            }
+        ]
+    },
+    {
+        "sentence": "A public health seminar on diabetes awareness was hosted at Colombo General Hospital on October 10, 2023, at 9:30 AM, featuring expert endocrinologists and nutritionists.",
+        "meta": {
+            "note_id": "4373",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "HOSP",
+                "text": "Colombo General Hospital",
+                "id": 0,
+                "start": 60,
+                "end": 84
+            },
+            {
+                "label": "DATE",
+                "text": "October 10, 2023",
+                "id": 1,
+                "start": 88,
+                "end": 104
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "9:30 AM",
+                "id": 2,
+                "start": 109,
+                "end": 116
+            }
+        ]
+    },
+    {
+        "sentence": "For legal medical consultation in Sri Lanka, reach out to Attorney Kasun Fernando at MedLegal Services via +94 76 345 8907 for malpractice and PERSON rights cases.",
+        "meta": {
+            "note_id": "4374",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "LOC",
+                "text": "Sri Lanka",
+                "id": 0,
+                "start": 34,
+                "end": 43
+            },
+            {
+                "label": "STAFF",
+                "text": "Attorney Kasun Fernando",
+                "id": 1,
+                "start": 58,
+                "end": 81
+            },
+            {
+                "label": "ORG",
+                "text": "MedLegal Services",
+                "id": 2,
+                "start": 85,
+                "end": 102
+            },
+            {
+                "label": "PHONE",
+                "text": "+94 76 345 8907",
+                "id": 3,
+                "start": 107,
+                "end": 122
+            }
+        ]
+    },
+    {
+        "sentence": "Lab test ID L-3245789 was completed at MediLab Solutions, and the results were securely sent to PERSON.reports@medilab.com on December 5, 2023, at 1:00 PM.",
+        "meta": {
+            "note_id": "4375",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "ID",
+                "text": "L-3245789",
+                "id": 0,
+                "start": 12,
+                "end": 21
+            },
+            {
+                "label": "HOSP",
+                "text": "MediLab Solutions",
+                "id": 1,
+                "start": 39,
+                "end": 56
+            },
+            {
+                "label": "EMAIL",
+                "text": "PERSON.reports@medilab.com",
+                "id": 2,
+                "start": 96,
+                "end": 122
+            },
+            {
+                "label": "DATE",
+                "text": "December 5, 2023",
+                "id": 3,
+                "start": 126,
+                "end": 142
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "1:00 PM",
+                "id": 4,
+                "start": 147,
+                "end": 154
+            }
+        ]
+    },
+    {
+        "sentence": "At Apollo Hospital, Chennai, Dr. Rajiv Kumar, a specialist in cardiology, is available for consultations. Call +91 98765 43210 for appointments and second opinions.",
+        "meta": {
+            "note_id": "4376",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "HOSP",
+                "text": "Apollo Hospital",
+                "id": 0,
+                "start": 3,
+                "end": 18
+            },
+            {
+                "label": "LOC",
+                "text": "Chennai",
+                "id": 1,
+                "start": 20,
+                "end": 27
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Rajiv Kumar",
+                "id": 2,
+                "start": 29,
+                "end": 44
+            },
+            {
+                "label": "PHONE",
+                "text": "+91 98765 43210",
+                "id": 3,
+                "start": 111,
+                "end": 126
+            }
+        ]
+    },
+    {
+        "sentence": "The newborn Baby Noah, born on June 14, 2024, at Matara Maternity Ward, was registered with ID NB-20240614, weighing 3.5 kg and requiring postnatal monitoring.",
+        "meta": {
+            "note_id": "4377",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Baby Noah",
+                "id": 0,
+                "start": 12,
+                "end": 21
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "June 14, 2024",
+                "id": 1,
+                "start": 31,
+                "end": 44
+            },
+            {
+                "label": "HOSP",
+                "text": "Matara Maternity Ward",
+                "id": 2,
+                "start": 49,
+                "end": 70
+            },
+            {
+                "label": "ID",
+                "text": "NB-20240614",
+                "id": 3,
+                "start": 95,
+                "end": 106
+            }
+        ]
+    },
+    {
+        "sentence": "For the latest research articles, visit https://www.medicalresearchhub.com or contact info@medicalresearchhub.com. The newest findings were published on May 29, 2024, at 7:45 AM.",
+        "meta": {
+            "note_id": "4378",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "URL",
+                "text": "https://www.medicalresearchhub.com",
+                "id": 0,
+                "start": 40,
+                "end": 74
+            },
+            {
+                "label": "EMAIL",
+                "text": "info@medicalresearchhub.com",
+                "id": 1,
+                "start": 86,
+                "end": 113
+            },
+            {
+                "label": "DATE",
+                "text": "May 29, 2024",
+                "id": 2,
+                "start": 153,
+                "end": 165
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "7:45 AM",
+                "id": 3,
+                "start": 170,
+                "end": 177
+            }
+        ]
+    },
+    {
+        "sentence": "If you need medical evacuation services in Sri Lanka, call +94 112 345 678 for assistance from MediRescue Emergency Services, a trusted healthcare transport provider.",
+        "meta": {
+            "note_id": "4379",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "LOC",
+                "text": "Sri Lanka",
+                "id": 0,
+                "start": 43,
+                "end": 52
+            },
+            {
+                "label": "PHONE",
+                "text": "+94 112 345 678",
+                "id": 1,
+                "start": 59,
+                "end": 74
+            },
+            {
+                "label": "ORG",
+                "text": "MediRescue Emergency Services",
+                "id": 2,
+                "start": 95,
+                "end": 124
+            }
+        ]
+    },
+    {
+        "sentence": "Emergency admission ID EM-478921 was recorded at Nawaloka Hospital, Colombo, on February 17, 2024, at 11:55 PM, due to a severe accident case requiring immediate surgery.",
+        "meta": {
+            "note_id": "4380",
+            "sl_context": "true"
+        },
+        "spans": [
+            {
+                "label": "ID",
+                "text": "EM-478921",
+                "id": 0,
+                "start": 23,
+                "end": 32
+            },
+            {
+                "label": "HOSP",
+                "text": "Nawaloka Hospital",
+                "id": 1,
+                "start": 49,
+                "end": 66
+            },
+            {
+                "label": "LOC",
+                "text": "Colombo",
+                "id": 2,
+                "start": 68,
+                "end": 75
+            },
+            {
+                "label": "DATE",
+                "text": "February 17, 2024",
+                "id": 3,
+                "start": 80,
+                "end": 97
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "11:55 PM",
+                "id": 4,
+                "start": 102,
+                "end": 110
+            }
+        ]
+    }
 ]
