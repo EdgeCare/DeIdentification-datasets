@@ -17165,5 +17165,967 @@
                 "end": 110
             }
         ]
-    }
+    },
+    {
+        "sentence": "The first major robotic surgery at City Hospital was performed on 08/20/2044, revolutionizing the way complex medical procedures are conducted.",
+        "meta": {
+            "note_id": "4381",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "HOSP",
+                "text": "City Hospital",
+                "id": 0,
+                "start": 35,
+                "end": 48
+            },
+            {
+                "label": "DATE",
+                "text": "08/20/2044",
+                "id": 1,
+                "start": 66,
+                "end": 76
+            }
+        ]
+    },
+    {
+        "sentence": "On 24/02/1989, the hospital successfully separated conjoined twins, marking a significant milestone in pediatric surgery.",
+        "meta": {
+            "note_id": "4382",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "24/02/1989",
+                "id": 0,
+                "start": 3,
+                "end": 13
+            }
+        ]
+    },
+    {
+        "sentence": "The World Health Organization released its latest pandemic response plan on 1960/01/22, outlining measures to combat emerging viral threats.",
+        "meta": {
+            "note_id": "4383",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "ORG",
+                "text": "World Health Organization",
+                "id": 0,
+                "start": 4,
+                "end": 29
+            },
+            {
+                "label": "DATE",
+                "text": "1960/01/22",
+                "id": 1,
+                "start": 76,
+                "end": 86
+            }
+        ]
+    },
+    {
+        "sentence": "A new cardiac treatment program was launched at Metro Medical Center on 12-16-2049, providing state-of-the-art care for heart patients.",
+        "meta": {
+            "note_id": "4384",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "HOSP",
+                "text": "Metro Medical Center",
+                "id": 0,
+                "start": 48,
+                "end": 68
+            },
+            {
+                "label": "DATE",
+                "text": "12-16-2049",
+                "id": 1,
+                "start": 72,
+                "end": 82
+            }
+        ]
+    },
+    {
+        "sentence": "An experimental cancer therapy trial began on 08-06-2031, aiming to improve survival rates for late-stage patients.",
+        "meta": {
+            "note_id": "4385",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "08-06-2031",
+                "id": 0,
+                "start": 46,
+                "end": 56
+            }
+        ]
+    },
+    {
+        "sentence": "According to official hospital records, the last recorded case of smallpox was treated on 1995-07-04, marking the disease’s near eradication.",
+        "meta": {
+            "note_id": "4386",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "1995-07-04",
+                "id": 0,
+                "start": 90,
+                "end": 100
+            }
+        ]
+    },
+    {
+        "sentence": "The groundbreaking medical study on neurological disorders was published on October 21, 1973, shedding light on new treatment options.",
+        "meta": {
+            "note_id": "4387",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "October 21, 1973",
+                "id": 0,
+                "start": 76,
+                "end": 92
+            }
+        ]
+    },
+    {
+        "sentence": "On 11 November 1962, the hospital introduced AI-powered diagnostic tools to enhance the accuracy of disease detection.",
+        "meta": {
+            "note_id": "4388",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "11 November 1962",
+                "id": 0,
+                "start": 3,
+                "end": 19
+            }
+        ]
+    },
+    {
+        "sentence": "Historical archives indicate that the first successful organ transplant was performed on 1950 April 10, setting a precedent for modern medicine.",
+        "meta": {
+            "note_id": "4389",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "1950 April 10",
+                "id": 0,
+                "start": 89,
+                "end": 102
+            }
+        ]
+    },
+    {
+        "sentence": "The renowned surgeon conducted his last life-saving operation on February 10th, 2027, before retiring after four decades of service.",
+        "meta": {
+            "note_id": "4390",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "February 10th, 2027",
+                "id": 0,
+                "start": 65,
+                "end": 84
+            }
+        ]
+    },
+    {
+        "sentence": "A rare genetic disorder was diagnosed for the first time on 16th February 2060, prompting extensive research in the field of medical genetics.",
+        "meta": {
+            "note_id": "4391",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "16th February 2060",
+                "id": 0,
+                "start": 60,
+                "end": 78
+            }
+        ]
+    },
+    {
+        "sentence": "On Jan 10, 1960, the FDA approved a new vaccine for global distribution, ensuring better immunity against seasonal flu strains.",
+        "meta": {
+            "note_id": "4392",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "Jan 10, 1960",
+                "id": 0,
+                "start": 3,
+                "end": 15
+            },
+            {
+                "label": "ORG",
+                "text": "FDA",
+                "id": 1,
+                "start": 21,
+                "end": 24
+            }
+        ]
+    },
+    {
+        "sentence": "A large-scale health awareness campaign was launched on 21 Aug 2011, focusing on preventive care and wellness.",
+        "meta": {
+            "note_id": "4393",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "21 Aug 2011",
+                "id": 0,
+                "start": 56,
+                "end": 67
+            }
+        ]
+    },
+    {
+        "sentence": "Hospital construction records show that the intensive care wing was inaugurated on 1992.03.06, increasing the hospital’s capacity for critical cases.",
+        "meta": {
+            "note_id": "4394",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "1992.03.06",
+                "id": 0,
+                "start": 83,
+                "end": 93
+            }
+        ]
+    },
+    {
+        "sentence": "The patient monitoring system flagged an irregular heartbeat on 2018-06-06 00:00:00, prompting immediate medical intervention.",
+        "meta": {
+            "note_id": "4395",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "2018-06-06",
+                "id": 0,
+                "start": 64,
+                "end": 74
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "00:00:00",
+                "id": 1,
+                "start": 75,
+                "end": 83
+            }
+        ]
+    },
+    {
+        "sentence": "Medical advancements in cancer treatment were most notable between 2003-2005, with survival rates improving significantly.",
+        "meta": {
+            "note_id": "4396",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "2003",
+                "id": 0,
+                "start": 67,
+                "end": 71
+            },
+            {
+                "label": "DATE",
+                "text": "2005",
+                "id": 1,
+                "start": 72,
+                "end": 76
+            }
+        ]
+    },
+    {
+        "sentence": "On 2095-09-15T00:00:00Z, NASA's space medicine division studied the effects of prolonged space travel on human health.",
+        "meta": {
+            "note_id": "4397",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "2095-09-15",
+                "id": 0,
+                "start": 3,
+                "end": 13
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "T00:00:00Z",
+                "id": 1,
+                "start": 13,
+                "end": 23
+            },
+            {
+                "label": "ORG",
+                "text": "NASA",
+                "id": 2,
+                "start": 25,
+                "end": 29
+            }
+        ]
+    },
+    {
+        "sentence": "At precisely 2024-05-31 05:43, the emergency response team was dispatched following a mass casualty incident.",
+        "meta": {
+            "note_id": "4398",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "2024-05-31",
+                "id": 0,
+                "start": 13,
+                "end": 23
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "05:43",
+                "id": 1,
+                "start": 24,
+                "end": 29
+            }
+        ]
+    },
+    {
+        "sentence": "The global medical conference on infectious diseases is scheduled for July 2038, with leading scientists sharing breakthrough findings.",
+        "meta": {
+            "note_id": "4399",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "July 2038",
+                "id": 0,
+                "start": 70,
+                "end": 79
+            }
+        ]
+    },
+    {
+        "sentence": "A significant medical discovery regarding Alzheimer's disease was made on 06 April, offering new hope for early diagnosis and treatment.",
+        "meta": {
+            "note_id": "4400",
+            "sl_context": "false"
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "06 April",
+                "id": 0,
+                "start": 74,
+                "end": 82
+            }
+        ]
+    },
+    {
+            "sentence": "Mulago National Referral Hospital admitted 45-year-old Alaric Vesper on June 20, 2023, for an emergency appendectomy.",
+            "meta": {
+                "note_id": "4401",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "HOSP",
+                    "text": "Mulago National Referral Hospital",
+                    "id": 0,
+                    "start": 0,
+                    "end": 33
+                },
+                {
+                    "label": "AGE",
+                    "text": "45",
+                    "id": 1,
+                    "start": 43,
+                    "end": 45
+                },
+                {
+                    "label": "PATIENT",
+                    "text": "Alaric Vesper",
+                    "id": 2,
+                    "start": 55,
+                    "end": 68
+                },
+                {
+                    "label": "DATE",
+                    "text": "June 20, 2023",
+                    "id": 3,
+                    "start": 72,
+                    "end": 85
+                }
+            ]
+        },
+        {
+            "sentence": "Dr. Cassius Hawthorne from Toronto Western Hospital scheduled a follow-up appointment for patient Isolde Marwood on March 15, 2024.",
+            "meta": {
+                "note_id": "4402",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "STAFF",
+                    "text": "Dr. Cassius Hawthorne",
+                    "id": 0,
+                    "start": 0,
+                    "end": 21
+                },
+                {
+                    "label": "HOSP",
+                    "text": "Toronto Western Hospital",
+                    "id": 1,
+                    "start": 27,
+                    "end": 51
+                },
+                {
+                    "label": "PATIENT",
+                    "text": "Isolde Marwood",
+                    "id": 2,
+                    "start": 98,
+                    "end": 112
+                },
+                {
+                    "label": "DATE",
+                    "text": "March 15, 2024",
+                    "id": 3,
+                    "start": 116,
+                    "end": 130
+                }
+            ]
+        },
+        {
+            "sentence": "The World Health Organization published a report yesterday on the increasing cases of diabetes worldwide.",
+            "meta": {
+                "note_id": "4403",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "ORG",
+                    "text": "World Health Organization",
+                    "id": 0,
+                    "start": 4,
+                    "end": 29
+                },
+                {
+                    "label": "TIMESTAMPS",
+                    "text": "yesterday",
+                    "id": 1,
+                    "start": 49,
+                    "end": 58
+                }
+            ]
+        },
+        {
+            "sentence": "Nurse Thaddeus Oren contacted 67-year-old Percival Nightshade's family at +1-415-832-5678 regarding his test results at Bellevue Hospital.",
+            "meta": {
+                "note_id": "4404",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "STAFF",
+                    "text": "Nurse Thaddeus Oren",
+                    "id": 0,
+                    "start": 0,
+                    "end": 19
+                },
+                {
+                    "label": "AGE",
+                    "text": "67",
+                    "id": 1,
+                    "start": 30,
+                    "end": 32
+                },
+                {
+                    "label": "PATIENT",
+                    "text": "Percival Nightshade",
+                    "id": 2,
+                    "start": 42,
+                    "end": 61
+                },
+                {
+                    "label": "PHONE",
+                    "text": "+1-415-832-5678",
+                    "id": 3,
+                    "start": 74,
+                    "end": 89
+                },
+                {
+                    "label": "HOSP",
+                    "text": "Bellevue Hospital",
+                    "id": 4,
+                    "start": 120,
+                    "end": 137
+                }
+            ]
+        },
+        {
+            "sentence": "A groundbreaking study published on https://www.medicalupdates.com highlights advancements in Alzheimer's treatment.",
+            "meta": {
+                "note_id": "4405",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "URL",
+                    "text": "https://www.medicalupdates.com",
+                    "id": 0,
+                    "start": 36,
+                    "end": 66
+                }
+            ]
+        },
+        {
+            "sentence": "Patient ID PAT-564321, born on May 22, 1980, visited Johns Hopkins Hospital for a cardiology consultation last Monday.",
+            "meta": {
+                "note_id": "4406",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "ID",
+                    "text": "PAT-564321",
+                    "id": 0,
+                    "start": 11,
+                    "end": 21
+                },
+                {
+                    "label": "BIRTHDATE",
+                    "text": "May 22, 1980",
+                    "id": 1,
+                    "start": 31,
+                    "end": 43
+                },
+                {
+                    "label": "HOSP",
+                    "text": "Johns Hopkins Hospital",
+                    "id": 2,
+                    "start": 53,
+                    "end": 75
+                },
+                {
+                    "label": "TIMESTAMPS",
+                    "text": "last Monday",
+                    "id": 3,
+                    "start": 106,
+                    "end": 117
+                }
+            ]
+        },
+        {
+            "sentence": "Dr. Octavius Vale, a specialist at Harvard Medical School, shared insights on hypertension management in an interview with https://www.healthnews.com.",
+            "meta": {
+                "note_id": "4407",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "STAFF",
+                    "text": "Dr. Octavius Vale",
+                    "id": 0,
+                    "start": 0,
+                    "end": 17
+                },
+                {
+                    "label": "ORG",
+                    "text": "Harvard Medical School",
+                    "id": 1,
+                    "start": 35,
+                    "end": 57
+                },
+                {
+                    "label": "URL",
+                    "text": "https://www.healthnews.com",
+                    "id": 2,
+                    "start": 123,
+                    "end": 149
+                }
+            ]
+        },
+        {
+            "sentence": "The CDC released updated vaccination guidelines on https://www.cdc.gov last Friday.",
+            "meta": {
+                "note_id": "4408",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "ORG",
+                    "text": "CDC",
+                    "id": 0,
+                    "start": 4,
+                    "end": 7
+                },
+                {
+                    "label": "URL",
+                    "text": "https://www.cdc.gov",
+                    "id": 1,
+                    "start": 51,
+                    "end": 70
+                },
+                {
+                    "label": "TIMESTAMPS",
+                    "text": "last Friday",
+                    "id": 2,
+                    "start": 71,
+                    "end": 82
+                }
+            ]
+        },
+        {
+            "sentence": "Surgical procedure SURG-890123 performed at Mayo Clinic on February 10, 2024, was successful.",
+            "meta": {
+                "note_id": "4409",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "ID",
+                    "text": "SURG-890123",
+                    "id": 0,
+                    "start": 19,
+                    "end": 30
+                },
+                {
+                    "label": "HOSP",
+                    "text": "Mayo Clinic",
+                    "id": 1,
+                    "start": 44,
+                    "end": 55
+                },
+                {
+                    "label": "DATE",
+                    "text": "February 10, 2024",
+                    "id": 2,
+                    "start": 59,
+                    "end": 76
+                }
+            ]
+        },
+        {
+            "sentence": "A new cancer research grant was awarded to Stanford Medical Center, as announced on https://www.researchupdates.com.",
+            "meta": {
+                "note_id": "4410",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "HOSP",
+                    "text": "Stanford Medical Center",
+                    "id": 0,
+                    "start": 43,
+                    "end": 66
+                },
+                {
+                    "label": "URL",
+                    "text": "https://www.researchupdates.com",
+                    "id": 1,
+                    "start": 84,
+                    "end": 115
+                }
+            ]
+        },
+        {
+            "sentence": "Dr. Sylvester Hale at Redwood Medical Center conducted an annual health checkup for Cassandra Lovelace, whose date of birth is recorded as March 12, 1978.",
+            "meta": {
+                "note_id": "4411",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "STAFF",
+                    "text": "Dr. Sylvester Hale",
+                    "id": 0,
+                    "start": 0,
+                    "end": 18
+                },
+                {
+                    "label": "HOSP",
+                    "text": "Redwood Medical Center",
+                    "id": 1,
+                    "start": 22,
+                    "end": 44
+                },
+                {
+                    "label": "PATIENT",
+                    "text": "Cassandra Lovelace",
+                    "id": 2,
+                    "start": 84,
+                    "end": 102
+                },
+                {
+                    "label": "BIRTHDATE",
+                    "text": "March 12, 1978",
+                    "id": 3,
+                    "start": 139,
+                    "end": 153
+                }
+            ]
+        },
+        {
+            "sentence": "At St. Helena Clinic, a patient identified as PAT-982345 underwent a successful knee replacement surgery. Their date of birth is listed as 12/03/1978 in hospital records.",
+            "meta": {
+                "note_id": "4412",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "HOSP",
+                    "text": "St. Helena Clinic",
+                    "id": 0,
+                    "start": 3,
+                    "end": 20
+                },
+                {
+                    "label": "ID",
+                    "text": "PAT-982345",
+                    "id": 1,
+                    "start": 46,
+                    "end": 56
+                },
+                {
+                    "label": "BIRTHDATE",
+                    "text": "12/03/1978",
+                    "id": 2,
+                    "start": 139,
+                    "end": 149
+                }
+            ]
+        },
+        {
+            "sentence": "A recent study at the International Cardiology Institute analyzed heart disease risk factors among individuals born on the 12th of March, 1978.",
+            "meta": {
+                "note_id": "4413",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "ORG",
+                    "text": "International Cardiology Institute",
+                    "id": 0,
+                    "start": 22,
+                    "end": 56
+                },
+                {
+                    "label": "BIRTHDATE",
+                    "text": "12th of March, 1978",
+                    "id": 1,
+                    "start": 123,
+                    "end": 142
+                }
+            ]
+        },
+        {
+            "sentence": "Medical records indicate that Simeon Thorne, whose birthdate is noted as 03-12-1978, was admitted to Crestview Medical Pavilion following a mild stroke.",
+            "meta": {
+                "note_id": "4414",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "PATIENT",
+                    "text": "Simeon Thorne",
+                    "id": 0,
+                    "start": 30,
+                    "end": 43
+                },
+                {
+                    "label": "BIRTHDATE",
+                    "text": "03-12-1978",
+                    "id": 1,
+                    "start": 73,
+                    "end": 83
+                },
+                {
+                    "label": "HOSP",
+                    "text": "Crestview Medical Pavilion",
+                    "id": 2,
+                    "start": 101,
+                    "end": 127
+                }
+            ]
+        },
+        {
+            "sentence": "The CDC released an advisory on preventive health measures targeting individuals with birth records showing 1978-03-12 as their date of birth.",
+            "meta": {
+                "note_id": "4415",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "ORG",
+                    "text": "CDC",
+                    "id": 0,
+                    "start": 4,
+                    "end": 7
+                },
+                {
+                    "label": "BIRTHDATE",
+                    "text": "1978-03-12",
+                    "id": 1,
+                    "start": 108,
+                    "end": 118
+                }
+            ]
+        },
+        {
+            "sentence": "Dr. Vesperina Kade reported that Julian Halloway, who entered the system with a recorded birth date of July 7, 1980, showed remarkable recovery after post-surgical rehabilitation.",
+            "meta": {
+                "note_id": "4416",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "STAFF",
+                    "text": "Dr. Vesperina Kade",
+                    "id": 0,
+                    "start": 0,
+                    "end": 18
+                },
+                {
+                    "label": "PATIENT",
+                    "text": "Julian Halloway",
+                    "id": 1,
+                    "start": 33,
+                    "end": 48
+                },
+                {
+                    "label": "BIRTHDATE",
+                    "text": "July 7, 1980",
+                    "id": 2,
+                    "start": 103,
+                    "end": 115
+                }
+            ]
+        },
+        {
+            "sentence": "A new clinical trial at Cambridge Health Institute included participants whose hospital records confirm a birthdate of 20th December 1985.",
+            "meta": {
+                "note_id": "4417",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "ORG",
+                    "text": "Cambridge Health Institute",
+                    "id": 0,
+                    "start": 24,
+                    "end": 50
+                },
+                {
+                    "label": "BIRTHDATE",
+                    "text": "20th December 1985",
+                    "id": 1,
+                    "start": 119,
+                    "end": 137
+                }
+            ]
+        },
+        {
+            "sentence": "Patient ID SURG-456721 is recovering after successful heart valve replacement at Fairview General Hospital. The patient, registered as being born on the first of January, 1975, is responding well to treatment.",
+            "meta": {
+                "note_id": "4418",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "ID",
+                    "text": "SURG-456721",
+                    "id": 0,
+                    "start": 11,
+                    "end": 22
+                },
+                {
+                    "label": "HOSP",
+                    "text": "Fairview General Hospital",
+                    "id": 1,
+                    "start": 81,
+                    "end": 106
+                },
+                {
+                    "label": "BIRTHDATE",
+                    "text": "first of January, 1975",
+                    "id": 2,
+                    "start": 153,
+                    "end": 175
+                }
+            ]
+        },
+        {
+            "sentence": "A genetic research paper on https://www.genomicstudy.com analyzed individuals whose birth certificates list 1990-05-14 as their date of birth to assess hereditary diseases.",
+            "meta": {
+                "note_id": "4419",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "URL",
+                    "text": "https://www.genomicstudy.com",
+                    "id": 0,
+                    "start": 28,
+                    "end": 56
+                },
+                {
+                    "label": "BIRTHDATE",
+                    "text": "1990-05-14",
+                    "id": 1,
+                    "start": 108,
+                    "end": 118
+                }
+            ]
+        },
+        {
+            "sentence": "The National Health Board issued a report on demographic changes among individuals recorded as being born on the 9th of March, 1995.",
+            "meta": {
+                "note_id": "4420",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "ORG",
+                    "text": "National Health Board",
+                    "id": 0,
+                    "start": 4,
+                    "end": 25
+                },
+                {
+                    "label": "BIRTHDATE",
+                    "text": "9th of March, 1995",
+                    "id": 1,
+                    "start": 113,
+                    "end": 131
+                }
+            ]
+        }
 ]
