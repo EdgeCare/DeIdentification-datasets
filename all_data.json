@@ -30952,6 +30952,447 @@
         ]
     },
     {
+        "sentence": "I’ve been having a really bad headache since this morning.It started about six hours ago, and I’ve had migraines before, but this one feels worse. I didn’t sleep well last night, so maybe that triggered it.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "TIMESTAMPS",
+                "text": "this morning",
+                "start": 45,
+                "end": 57
+            },
+            {
+                "id": 1,
+                "label": "TIMESTAMPS",
+                "text": "six hours ago",
+                "start": 75,
+                "end": 88
+            },
+            {
+                "id": 2,
+                "label": "TIMESTAMPS",
+                "text": "last night",
+                "start": 167,
+                "end": 177
+            }
+        ],
+        "meta": {
+            "note_id": "15027",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "As the virus spread across continents, organizations like the World Health Organization (WHO) and the Centers for Disease Control and Prevention (CDC) worked tirelessly to provide guidelines and medical supplies to hospitals. In London, England, St. Thomas’ Hospital became a focal point when British Prime Minister Boris Johnson was admitted after testing positive for COVID-19. His condition worsened, and he had to be placed in intensive care before finally recovering.In Mumbai, India, Kokilaben Dhirubhai Ambani Hospital transformed an entire wing into a COVID-19 ward, treating thousands of patients daily. The hospital faced oxygen shortages, but international relief organizations like Doctors Without Borders stepped in to provide emergency support.",
+        "spans": [
+            {
+                "label": "ORG",
+                "text": "World Health Organization (WHO)",
+                "id": 0,
+                "start": 62,
+                "end": 93
+            },
+            {
+                "label": "ORG",
+                "text": "Centers for Disease Control and Prevention (CDC)",
+                "id": 1,
+                "start": 102,
+                "end": 150
+            },
+            {
+                "label": "LOC",
+                "text": "London, England",
+                "id": 2,
+                "start": 229,
+                "end": 244
+            },
+            {
+                "label": "HOSP",
+                "text": "St. Thomas’ Hospital",
+                "id": 3,
+                "start": 246,
+                "end": 266
+            },
+            {
+                "label": "PERSON",
+                "text": "Boris Johnson",
+                "id": 4,
+                "start": 316,
+                "end": 329
+            },
+            {
+                "label": "LOC",
+                "text": "Mumbai, India",
+                "id": 5,
+                "start": 475,
+                "end": 488
+            },
+            {
+                "label": "HOSP",
+                "text": "Kokilaben Dhirubhai Ambani Hospital",
+                "id": 6,
+                "start": 490,
+                "end": 525
+            },
+            {
+                "label": "ORG",
+                "text": "Doctors Without Borders",
+                "id": 7,
+                "start": 694,
+                "end": 717
+            }
+        ],
+        "meta": {
+            "note_id": "15028",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "At Cedars-Sinai Medical Center in Los Angeles, nurse Robert Chen spent his 40th birthday on July 22, 2021, treating COVID-19 patients. His wife and children had planned a surprise party, but instead, they sent him a video message, knowing he wouldn't be able to come home due to the risk of infection. Meanwhile, in Milan, Italy, San Raffaele Hospital, one of the country’s leading medical centers, was struggling with a massive influx of cases. Italy was among the hardest-hit countries in the early months of the pandemic, and doctors there had to make difficult decisions about which patients would receive ventilators due to limited resources.",
+        "spans": [
+            {
+                "label": "HOSP",
+                "text": "Cedars-Sinai Medical Center",
+                "id": 0,
+                "start": 3,
+                "end": 30
+            },
+            {
+                "label": "LOC",
+                "text": "Los Angeles",
+                "id": 1,
+                "start": 34,
+                "end": 45
+            },
+            {
+                "label": "STAFF",
+                "text": "nurse Robert Chen",
+                "id": 2,
+                "start": 47,
+                "end": 64
+            },
+            {
+                "label": "AGE",
+                "text": "40th",
+                "id": 3,
+                "start": 75,
+                "end": 79
+            },
+            {
+                "label": "DATE",
+                "text": "July 22, 2021",
+                "id": 4,
+                "start": 92,
+                "end": 105
+            },
+            {
+                "label": "LOC",
+                "text": "Milan, Italy",
+                "id": 5,
+                "start": 316,
+                "end": 328
+            },
+            {
+                "label": "HOSP",
+                "text": "San Raffaele Hospital",
+                "id": 6,
+                "start": 330,
+                "end": 351
+            },
+            {
+                "label": "LOC",
+                "text": "Italy",
+                "id": 7,
+                "start": 446,
+                "end": 451
+            }
+        ],
+        "meta": {
+            "note_id": "15029",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "By December 2020, there was a turning point. Pharmaceutical companies like Pfizer, Moderna, and AstraZeneca developed vaccines that were distributed worldwide. The Mayo Clinic in Rochester, Minnesota, became one of the first hospitals to administer the Pfizer vaccine to frontline workers, offering hope that the crisis would soon come under control. Despite the relief brought by vaccines, hospitals continued to treat thousands of COVID-19 patients. Some hospitals, like Singapore General Hospital, led the way in developing new treatment methods, while Tokyo’s St. Luke’s International Hospital set up large vaccination centers to immunize as many people as possible.",
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "December 2020",
+                "id": 0,
+                "start": 3,
+                "end": 16
+            },
+            {
+                "label": "ORG",
+                "text": "Pfizer",
+                "id": 1,
+                "start": 75,
+                "end": 81
+            },
+            {
+                "label": "ORG",
+                "text": "Moderna",
+                "id": 2,
+                "start": 83,
+                "end": 90
+            },
+            {
+                "label": "ORG",
+                "text": "AstraZeneca",
+                "id": 3,
+                "start": 96,
+                "end": 107
+            },
+            {
+                "label": "HOSP",
+                "text": "The Mayo Clinic",
+                "id": 4,
+                "start": 160,
+                "end": 175
+            },
+            {
+                "label": "LOC",
+                "text": "Rochester, Minnesota",
+                "id": 5,
+                "start": 179,
+                "end": 199
+            },
+            {
+                "label": "HOSP",
+                "text": "Singapore General Hospital",
+                "id": 6,
+                "start": 473,
+                "end": 499
+            },
+            {
+                "label": "LOC",
+                "text": "Tokyo",
+                "id": 7,
+                "start": 556,
+                "end": 561
+            },
+            {
+                "label": "HOSP",
+                "text": "St. Luke’s International Hospital",
+                "id": 8,
+                "start": 564,
+                "end": 597
+            }
+        ],
+        "meta": {
+            "note_id": "15030",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "It was March 2020 when the COVID-19 pandemic started overwhelming hospitals around the world. In New York City, Bellevue Hospital Center was one of the first major medical centers to experience a surge in critically ill patients. ",
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "March 2020",
+                "id": 0,
+                "start": 7,
+                "end": 17
+            },
+            {
+                "label": "LOC",
+                "text": "New York City",
+                "id": 1,
+                "start": 97,
+                "end": 110
+            },
+            {
+                "label": "HOSP",
+                "text": "Bellevue Hospital Center",
+                "id": 2,
+                "start": 112,
+                "end": 136
+            }
+        ],
+        "meta": {
+            "note_id": "15031",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "On the evening of August 15, 2023, Los Angeles General Medical Center received an urgent call from paramedics about a multi-vehicle collision on Interstate 405. Within minutes, Dr. Michael Reynolds, the hospital’s trauma specialist, along with a team of nurses and paramedics, prepared for the arrival of the injured. Emergency responders from the Los Angeles Fire Department (LAFD) and American Red Cross were already at the crash site, stabilizing victims before transportation. The California Highway Patrol (CHP) had blocked off a section of the freeway to allow ambulances to move freely. Among the victims was Sarah Thompson, a 35 old school teacher who suffered a fractured leg and a mild concussion. Another patient, James Carter, a 50 year old truck driver, had multiple rib fractures and internal bleeding.",
+        "spans": [
+            {
+                "label": "TIMESTAMPS",
+                "text": "evening",
+                "id": 0,
+                "start": 7,
+                "end": 14
+            },
+            {
+                "label": "DATE",
+                "text": "August 15, 2023",
+                "id": 1,
+                "start": 18,
+                "end": 33
+            },
+            {
+                "label": "HOSP",
+                "text": "Los Angeles General Medical Center",
+                "id": 2,
+                "start": 35,
+                "end": 69
+            },
+            {
+                "label": "LOC",
+                "text": "Interstate 405",
+                "id": 3,
+                "start": 145,
+                "end": 159
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Michael Reynolds",
+                "id": 4,
+                "start": 177,
+                "end": 197
+            },
+            {
+                "label": "ORG",
+                "text": "Los Angeles Fire Department (LAFD)",
+                "id": 5,
+                "start": 348,
+                "end": 382
+            },
+            {
+                "label": "ORG",
+                "text": "American Red Cross",
+                "id": 6,
+                "start": 387,
+                "end": 405
+            },
+            {
+                "label": "ORG",
+                "text": "California Highway Patrol (CHP)",
+                "id": 7,
+                "start": 485,
+                "end": 516
+            },
+            {
+                "label": "PERSON",
+                "text": "Sarah Thompson",
+                "id": 8,
+                "start": 616,
+                "end": 630
+            },
+            {
+                "label": "AGE",
+                "text": "35",
+                "id": 9,
+                "start": 634,
+                "end": 636
+            },
+            {
+                "label": "PERSON",
+                "text": "James Carter",
+                "id": 10,
+                "start": 725,
+                "end": 737
+            },
+            {
+                "label": "AGE",
+                "text": "50",
+                "id": 11,
+                "start": 741,
+                "end": 743
+            }
+        ],
+        "meta": {
+            "note_id": "15032",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "At Cedars-Sinai Medical Center, a pediatric surgeon, Dr. Emily Foster, was on standby as reports indicated a 7 year old child, Liam Rodriguez, was among the injured. The child’s parents, Maria and Carlos Rodriguez, anxiously waited in the emergency department as hospital staff reassured them.\nMeanwhile, at Stanford Health Care in Palo Alto, California, a neurology team analyzed brain scans of a critically injured motorcyclist, Brandon Lee, who had suffered a severe traumatic brain injury (TBI). His case was forwarded to the National Institute of Neurological Disorders and Stroke (NINDS) for further study.\nThe U.S. Department of Transportation later released a safety report detailing an increase in highway accidents due to distracted driving",
+        "spans": [
+            {
+                "label": "HOSP",
+                "text": "Cedars-Sinai Medical Center",
+                "id": 0,
+                "start": 3,
+                "end": 30
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Emily Foster",
+                "id": 1,
+                "start": 53,
+                "end": 69
+            },
+            {
+                "label": "AGE",
+                "text": "7",
+                "id": 2,
+                "start": 109,
+                "end": 110
+            },
+            {
+                "label": "PERSON",
+                "text": "Liam Rodriguez",
+                "id": 3,
+                "start": 127,
+                "end": 141
+            },
+            {
+                "label": "PERSON",
+                "text": "Maria",
+                "id": 4,
+                "start": 187,
+                "end": 192
+            },
+            {
+                "label": "PERSON",
+                "text": "Carlos Rodriguez",
+                "id": 5,
+                "start": 197,
+                "end": 213
+            },
+            {
+                "label": "HOSP",
+                "text": "Stanford Health Care",
+                "id": 6,
+                "start": 308,
+                "end": 328
+            },
+            {
+                "label": "LOC",
+                "text": "Palo Alto, California",
+                "id": 7,
+                "start": 332,
+                "end": 353
+            },
+            {
+                "label": "PERSON",
+                "text": "Brandon Lee",
+                "id": 8,
+                "start": 431,
+                "end": 442
+            },
+            {
+                "label": "ORG",
+                "text": "National Institute of Neurological Disorders and Stroke (NINDS)",
+                "id": 9,
+                "start": 530,
+                "end": 593
+            },
+            {
+                "label": "ORG",
+                "text": "U.S. Department of Transportation",
+                "id": 10,
+                "start": 617,
+                "end": 650
+            }
+        ],
+        "meta": {
+            "note_id": "15033",
+            "sl_context": "false"
+        }
+    },
+    {
         "sentence": "When Maxwell and Clarion University Public Safety officers arrived, several individuals waved for police to go inside.",
         "spans": [
             {
@@ -34645,5 +35086,872 @@
                 "end": 110
             }
         ]
+    },
+    {
+        "sentence": "The person who died was identified by the Lincoln County coroner as Lisa Denise Derringer, 58, of Stanford, Kentucky. Authorities said she is believed to have left her home after the explosion and was overwhelmed by extreme heat.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "Lincoln County",
+                "start": 42,
+                "end": 56
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Lisa Denise Derringer",
+                "start": 68,
+                "end": 89
+            },
+            {
+                "id": 2,
+                "label": "AGE",
+                "text": "58",
+                "start": 91,
+                "end": 93
+            },
+            {
+                "id": 3,
+                "label": "LOC",
+                "text": "Stanford, Kentucky",
+                "start": 98,
+                "end": 116
+            }
+        ],
+        "meta": {
+            "note_id": "2043",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Rahul said the situation does not involve a hazardous material. He said the fire at the breach site was out.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Rahul",
+                "start": 0,
+                "end": 5
+            }
+        ],
+        "meta": {
+            "note_id": "2044",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "The emergency management agency told residents to steer clear of the Hustonville area. “It was impressive, it’s tragic, we hope it doesn’t get worse,” Depp said.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "Hustonville",
+                "start": 69,
+                "end": 80
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Depp",
+                "start": 151,
+                "end": 155
+            }
+        ],
+        "meta": {
+            "note_id": "2045",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Download the NBC News app for breaking news and politics\n\nFayette County in south of Lexington.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "ORG",
+                "text": "NBC News",
+                "start": 13,
+                "end": 21
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "Fayette County",
+                "start": 58,
+                "end": 72
+            },
+            {
+                "id": 2,
+                "label": "LOC",
+                "text": "Lexington",
+                "start": 85,
+                "end": 94
+            }
+        ],
+        "meta": {
+            "note_id": "2046",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Hidden Gems: Minnesota Starvation Project\n\nAfter the mistreatment of conscientious objectors by the military and government, peace groups such as the Mennonites, Society of Friends, and Church of the Brethren discussed the creation of a program that would exempt them from a future draft.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "ORG-NOT-SURE",
+                "text": "Minnesota Starvation Project",
+                "start": 13,
+                "end": 41
+            },
+            {
+                "id": 1,
+                "label": "ORG",
+                "text": "Mennonites",
+                "start": 150,
+                "end": 160
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "Society of Friends",
+                "start": 162,
+                "end": 180
+            },
+            {
+                "id": 3,
+                "label": "ORG",
+                "text": "Church of the Brethren",
+                "start": 186,
+                "end": 208
+            }
+        ],
+        "meta": {
+            "note_id": "2047",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Civilian Public Service was formed in 1940 as an alternative noncombatant way for conscientious objectors to serve the United States during Russian War.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "ORG",
+                "text": "Civilian Public Service",
+                "start": 0,
+                "end": 23
+            },
+            {
+                "id": 1,
+                "label": "DATE",
+                "text": "1940",
+                "start": 38,
+                "end": 42
+            },
+            {
+                "id": 2,
+                "label": "LOC",
+                "text": "United States",
+                "start": 119,
+                "end": 132
+            }
+        ],
+        "meta": {
+            "note_id": "2048",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Apollo Clinic is known for housing experienced General Surgeons. Dr.Adarsh Patil, a well-reputed General Surgeon, practices in Bangalore. Visit this medical health centre for General Surgeons recommended by 47 patients.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "HOSP",
+                "text": "Apollo Clinic",
+                "start": 0,
+                "end": 13
+            },
+            {
+                "id": 1,
+                "label": "STAFF",
+                "text": "Dr.Adarsh Patil",
+                "start": 65,
+                "end": 80
+            },
+            {
+                "id": 2,
+                "label": "LOC",
+                "text": "Bangalore",
+                "start": 127,
+                "end": 136
+            }
+        ],
+        "meta": {
+            "note_id": "2049",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "If anyone looking for laparoscopic surgeon in New Delhi Dr. Kamal Prasad is go to man. There is a positivity around him which infuses confidence and trust in patients.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "New Delhi",
+                "start": 46,
+                "end": 55
+            },
+            {
+                "id": 1,
+                "label": "STAFF",
+                "text": "Dr. Kamal Prasad",
+                "start": 56,
+                "end": 72
+            }
+        ],
+        "meta": {
+            "note_id": "2050",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "I was in hospital for gallbladder stone treatment. Met Dr. Sandaru Abeysinghe with scepticism and nervousness left with confidence & smile on my face.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "STAFF",
+                "text": "Dr. Sandaru Abeysinghe",
+                "start": 55,
+                "end": 77
+            }
+        ],
+        "meta": {
+            "note_id": "2051",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "After the successful surgery Dr. Rajeew Kariyawasam and his team was always one text away from us. I m pleased to choose Rathnapura General hospital and specially dr. Rajeew.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "STAFF",
+                "text": "Dr. Rajeew Kariyawasam",
+                "start": 29,
+                "end": 51
+            },
+            {
+                "id": 1,
+                "label": "HOSP",
+                "text": "Rathnapura General hospital",
+                "start": 121,
+                "end": 148
+            },
+            {
+                "id": 2,
+                "label": "STAFF",
+                "text": "dr. Rajeew",
+                "start": 163,
+                "end": 173
+            }
+        ],
+        "meta": {
+            "note_id": "2052",
+            "sl_context": "true"
+        }
+    },
+    {
+        "sentence": "I Must congratulate and thank dr. Kumar Jayashankar!! He listed no less than a Rockstar.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "STAFF",
+                "text": "dr. Kumar Jayashankar",
+                "start": 30,
+                "end": 51
+            }
+        ],
+        "meta": {
+            "note_id": "2053",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "He said that he has severe numbness in his legs, and he is unsure what to do going forward. Harito explained that he began to get numbness in his legs several years ago.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Harito",
+                "start": 92,
+                "end": 98
+            },
+            {
+                "id": 1,
+                "label": "TIMESTAMPS",
+                "text": "several years ago",
+                "start": 151,
+                "end": 168
+            }
+        ],
+        "meta": {
+            "note_id": "2055",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Sapumal became unable to sleep due to the severity of the numbness one week prior to his blog post. He went to a hospital to get sleeping pills, and he has been taking them since then.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Sapumal",
+                "start": 0,
+                "end": 7
+            },
+            {
+                "id": 1,
+                "label": "TIMESTAMPS",
+                "text": "one week",
+                "start": 67,
+                "end": 75
+            }
+        ],
+        "meta": {
+            "note_id": "2056",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "However, because the numbness is so severe, the sleeping pills are sometimes ineffective. Themiya said, \"Sleeping has become scary every night.\"",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Themiya",
+                "start": 90,
+                "end": 97
+            }
+        ],
+        "meta": {
+            "note_id": "2057",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Piyath further explained that there is pressure on the bones and muscles surrounding the nerves of his spinal cord, creating pain and numbness due to apparent spinal stenosis. Aging may have contributed to Piyath's current condition.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Piyath",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Piyath",
+                "start": 206,
+                "end": 212
+            }
+        ],
+        "meta": {
+            "note_id": "2058",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Matsumoto noted that he had an MRI at an orthopedic clinic, and that uncovered his condition. He said that he has no pain, but daily activities have become difficult due to the severe numbness.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Matsumoto",
+                "start": 0,
+                "end": 9
+            }
+        ],
+        "meta": {
+            "note_id": "2059",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Outfielder Byron Buxton, MLB.com's top overall prospect, suffered a concussion Wednesday night in a violent collision in right-center field while making his Double-A debut with New Britain.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Byron Buxton",
+                "start": 11,
+                "end": 23
+            },
+            {
+                "id": 1,
+                "label": "ORG",
+                "text": "MLB.com",
+                "start": 25,
+                "end": 32
+            },
+            {
+                "id": 2,
+                "label": "TIMESTAMPS",
+                "text": "Wednesday night",
+                "start": 79,
+                "end": 94
+            },
+            {
+                "id": 3,
+                "label": "LOC",
+                "text": "New Britain",
+                "start": 177,
+                "end": 188
+            }
+        ],
+        "meta": {
+            "note_id": "2060",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Twins executive vice president and general manager Terry Ryan confirmed on the Rock Cats' broadcast that Buxton was diagnosed with a concussion",
+        "spans": [
+            {
+                "id": 0,
+                "label": "ORG",
+                "text": "Twins",
+                "start": 0,
+                "end": 5
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Terry Ryan",
+                "start": 51,
+                "end": 61
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "Rock Cats",
+                "start": 79,
+                "end": 88
+            },
+            {
+                "id": 3,
+                "label": "PERSON",
+                "text": "Buxton",
+                "start": 105,
+                "end": 111
+            }
+        ],
+        "meta": {
+            "note_id": "2061",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "He said Patrick was unconscious for about 10 minutes following the collision but is \"fine\" now. \"He's alert,\" Larry said after accompanying Patrick to the hospital.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Patrick",
+                "start": 8,
+                "end": 15
+            },
+            {
+                "id": 1,
+                "label": "TIMESTAMPS",
+                "text": "10 minutes",
+                "start": 42,
+                "end": 52
+            },
+            {
+                "id": 2,
+                "label": "PERSON",
+                "text": "Larry",
+                "start": 110,
+                "end": 115
+            },
+            {
+                "id": 3,
+                "label": "PERSON",
+                "text": "Patrick",
+                "start": 140,
+                "end": 147
+            }
+        ],
+        "meta": {
+            "note_id": "2062",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "In the fifth inning of his first Eastern League game, Charuka was chasing a line drive to right-center field when he collided with right fielder Ben Kvasnicka.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Charuka",
+                "start": 54,
+                "end": 61
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Ben Kvasnicka",
+                "start": 145,
+                "end": 158
+            }
+        ],
+        "meta": {
+            "note_id": "2063",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Tison's knee appeared to hit Benny around his left shoulder or neck. The 20-year-old was down for approximately 10 minutes and did not appear to be moving.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Tison",
+                "start": 0,
+                "end": 5
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Benny",
+                "start": 29,
+                "end": 34
+            },
+            {
+                "id": 2,
+                "label": "AGE",
+                "text": "20",
+                "start": 73,
+                "end": 75
+            },
+            {
+                "id": 3,
+                "label": "TIMESTAMPS",
+                "text": "10 minutes",
+                "start": 112,
+                "end": 122
+            }
+        ],
+        "meta": {
+            "note_id": "2064",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "He was stabilized on a stretcher and taken off in an ambulance that was brought onto the warning track at New Britain Stadium. Krish was up and walking shortly after the collision, but still went with Johonathan to the hospital.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "ORG",
+                "text": "New Britain Stadium",
+                "start": 106,
+                "end": 125
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Krish",
+                "start": 127,
+                "end": 132
+            },
+            {
+                "id": 2,
+                "label": "PERSON",
+                "text": "Johonathan",
+                "start": 201,
+                "end": 211
+            }
+        ],
+        "meta": {
+            "note_id": "2065",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Adults ≥ 18 years old admitted from the emergency department (ED) in 2015. Demographics, Sequential Organ Failure Assessment (SOFA) scores, and clinical parameters documenting the effects and hospital course.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "AGE",
+                "text": "18",
+                "start": 9,
+                "end": 11
+            },
+            {
+                "id": 1,
+                "label": "DATE",
+                "text": "2015",
+                "start": 69,
+                "end": 73
+            }
+        ],
+        "meta": {
+            "note_id": "2066",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "23 patients met inclusion criteria. Median age was 47 years (interquartile range [IQR], 32-54); 83% male; 78% black. Patients were generally tachycardic (HR > 100), (65%) and hypertensive (SBP > 140), (65%) on admission.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "AGE",
+                "text": "47",
+                "start": 51,
+                "end": 53
+            },
+            {
+                "id": 1,
+                "label": "AGE",
+                "text": "32",
+                "start": 88,
+                "end": 90
+            },
+            {
+                "id": 2,
+                "label": "AGE",
+                "text": "54",
+                "start": 91,
+                "end": 93
+            }
+        ],
+        "meta": {
+            "note_id": "2067",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "conducting a randomized clinical trial with 150 respiratory therapists and nurses from three hospitals across the United States (Florida, Ohio, and Oregon).",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "United States",
+                "start": 114,
+                "end": 127
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "Florida",
+                "start": 129,
+                "end": 136
+            },
+            {
+                "id": 2,
+                "label": "LOC",
+                "text": "Ohio",
+                "start": 138,
+                "end": 142
+            },
+            {
+                "id": 3,
+                "label": "LOC",
+                "text": "Oregon",
+                "start": 148,
+                "end": 154
+            }
+        ],
+        "meta": {
+            "note_id": "2068",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Sunday, October 31, 2010. Probably one of the more interesting places to set the backdrop for a vintage sad-film would have to be in a run-down mental hospital",
+        "spans": [
+            {
+                "id": 0,
+                "label": "TIMESTAMPS",
+                "text": "Sunday",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "id": 1,
+                "label": "DATE",
+                "text": "October 31, 2010",
+                "start": 8,
+                "end": 24
+            }
+        ],
+        "meta": {
+            "note_id": "2069",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Shaun Costello's, More Than Sisters takes full advantage of this very idea. Costello, the director of such classics, also takes on the role of John Bollinger, an unconfident guy with coke-bottle thick spectacles, whose very concerned for his wife, Susie Bollinger(Lynn Stevens).",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Shaun Costello",
+                "start": 0,
+                "end": 14
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Costello",
+                "start": 76,
+                "end": 84
+            },
+            {
+                "id": 2,
+                "label": "PERSON",
+                "text": "John Bollinger",
+                "start": 143,
+                "end": 157
+            },
+            {
+                "id": 3,
+                "label": "PERSON",
+                "text": "Susie Bollinger",
+                "start": 248,
+                "end": 263
+            },
+            {
+                "id": 4,
+                "label": "PERSON",
+                "text": "Lynn Stevens",
+                "start": 264,
+                "end": 276
+            }
+        ],
+        "meta": {
+            "note_id": "2070",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Susie seems to be flipping out because of an onslaught of dreams. Leave it to Dr Allan Bannister (Jamie Gillis) to help rectify the situation with his own brand of medicine.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Susie",
+                "start": 0,
+                "end": 5
+            },
+            {
+                "id": 1,
+                "label": "STAFF",
+                "text": "Dr Allan Bannister",
+                "start": 78,
+                "end": 96
+            },
+            {
+                "id": 2,
+                "label": "PERSON",
+                "text": "Jamie Gillis",
+                "start": 98,
+                "end": 110
+            }
+        ],
+        "meta": {
+            "note_id": "2071",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Monday, October 15, 2016. For several years, I’ve been an admirer of film director Rudolph Benedict",
+        "spans": [
+            {
+                "id": 0,
+                "label": "TIMESTAMPS",
+                "text": "Monday",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "id": 1,
+                "label": "DATE",
+                "text": "October 15, 2016",
+                "start": 8,
+                "end": 24
+            },
+            {
+                "id": 2,
+                "label": "PERSON",
+                "text": "Rudolph Benedict",
+                "start": 83,
+                "end": 99
+            }
+        ],
+        "meta": {
+            "note_id": "2072",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Forty-seven police officers have been injured in riots surrounding a republican band parade in Belfast. They were attacked with petrol bombs, fireworks, bricks and bottles during hours of disorder at Carlisle Circus. The PSNI said the initial violence involved up to 350 loyalists.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "Belfast",
+                "start": 95,
+                "end": 102
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "Carlisle Circus",
+                "start": 200,
+                "end": 215
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "PSNI",
+                "start": 221,
+                "end": 225
+            }
+        ],
+        "meta": {
+            "note_id": "2074",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "In a statement on Monday, the Police Service of Northern Ireland officer in charge of the operation, Chief Supt George Clark, said: 'I am both angry and sad that my officers have been subjected to such significant attack.'",
+        "spans": [
+            {
+                "id": 0,
+                "label": "TIMESTAMPS",
+                "text": "Monday",
+                "start": 18,
+                "end": 24
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "Northern Ireland",
+                "start": 48,
+                "end": 64
+            },
+            {
+                "id": 2,
+                "label": "PERSON",
+                "text": "George Clark",
+                "start": 112,
+                "end": 124
+            }
+        ],
+        "meta": {
+            "note_id": "2075",
+            "sl_context": "false"
+        }
     }
 ]
