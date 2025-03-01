@@ -18127,5 +18127,367 @@
                     "end": 131
                 }
             ]
+        },
+        {
+            "sentence": "Groundbreaking research on Alzheimer's disease was recently published. Read the full study at www.cancerresearchnews.com for more details.",
+            "meta": {
+                "note_id": "4422",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "URL",
+                    "text": "www.cancerresearchnews.com",
+                    "id": 0,
+                    "start": 94,
+                    "end": 120
+                }
+            ]
+        },
+        {
+            "sentence": "Need the latest in cardiology? Visit http://hearthealthjournal.org, where Dr. Nathaniel Crowley explains it all.",
+            "meta": {
+                "note_id": "4423",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "URL",
+                    "text": "http://hearthealthjournal.org",
+                    "id": 0,
+                    "start": 37,
+                    "end": 66
+                },
+                {
+                    "label": "STAFF",
+                    "text": "Dr. Nathaniel Crowley",
+                    "id": 1,
+                    "start": 74,
+                    "end": 95
+                }
+            ]
+        },
+        {
+            "sentence": "If you're looking for COVID-19 vaccination centers, check www.healthgov.info/vaccine-locations for an updated list.",
+            "meta": {
+                "note_id": "4424",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "URL",
+                    "text": "www.healthgov.info/vaccine-locations",
+                    "id": 0,
+                    "start": 58,
+                    "end": 94
+                }
+            ]
+        },
+        {
+            "sentence": "According to medicalinsights.com, diabetes prevention strategies are evolving rapidly, offering new treatment options.",
+            "meta": {
+                "note_id": "4425",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "URL",
+                    "text": "medicalinsights.com",
+                    "id": 0,
+                    "start": 13,
+                    "end": 32
+                }
+            ]
+        },
+        {
+            "sentence": "A deep dive into robotic surgery technologies can be found at surgtechreview.net. This article provides insights into the future of medicine.",
+            "meta": {
+                "note_id": "4426",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "URL",
+                    "text": "surgtechreview.net",
+                    "id": 0,
+                    "start": 62,
+                    "end": 80
+                }
+            ]
+        },
+        {
+            "sentence": "Check out free educational resources for aspiring medical professionals at www.medicaleduportal.org.",
+            "meta": {
+                "note_id": "4427",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "URL",
+                    "text": "www.medicaleduportal.org",
+                    "id": 0,
+                    "start": 75,
+                    "end": 99
+                }
+            ]
+        },
+        {
+            "sentence": "Want to understand the latest trends in mental health? A compelling study is available—visit psychologytodayresearch.com for the full report.",
+            "meta": {
+                "note_id": "4428",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "URL",
+                    "text": "psychologytodayresearch.com",
+                    "id": 0,
+                    "start": 93,
+                    "end": 120
+                }
+            ]
+        },
+        {
+            "sentence": "The World Health Organization has revised its global health guidelines. Find them at www.who.int/health-guidelines for more information.",
+            "meta": {
+                "note_id": "4429",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "ORG",
+                    "text": "The World Health Organization",
+                    "id": 0,
+                    "start": 0,
+                    "end": 29
+                },
+                {
+                    "label": "URL",
+                    "text": "www.who.int/health-guidelines",
+                    "id": 1,
+                    "start": 85,
+                    "end": 114
+                }
+            ]
+        },
+        {
+            "sentence": "How does long COVID affect daily life? The latest findings, available at postcovidstudy.net, highlight key concerns and solutions.",
+            "meta": {
+                "note_id": "4430",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "URL",
+                    "text": "postcovidstudy.net",
+                    "id": 0,
+                    "start": 73,
+                    "end": 91
+                }
+            ]
+        },
+        {
+            "sentence": "Stay up-to-date on flu outbreaks through the CDC tracker at www.cdc.gov/flu-tracker, updated weekly.",
+            "meta": {
+                "note_id": "4431",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "URL",
+                    "text": "www.cdc.gov/flu-tracker",
+                    "id": 0,
+                    "start": 60,
+                    "end": 83
+                }
+            ]
+        },
+        {
+            "sentence": "A thought-provoking discussion by Dr. Evangeline Moore on pediatric healthcare is now live. Read more at childhealthforum.org.",
+            "meta": {
+                "note_id": "4432",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "STAFF",
+                    "text": "Dr. Evangeline Moore",
+                    "id": 0,
+                    "start": 34,
+                    "end": 54
+                },
+                {
+                    "label": "URL",
+                    "text": "childhealthforum.org",
+                    "id": 1,
+                    "start": 105,
+                    "end": 125
+                }
+            ]
+        },
+        {
+            "sentence": "For groundbreaking neuroscience discoveries, visit brainresearchupdates.com and explore the latest reports.",
+            "meta": {
+                "note_id": "4433",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "URL",
+                    "text": "brainresearchupdates.com",
+                    "id": 0,
+                    "start": 51,
+                    "end": 75
+                }
+            ]
+        },
+        {
+            "sentence": "Curious about AI's role in diagnostics? The newest applications are explained in detail at aidoctoranalytics.com.",
+            "meta": {
+                "note_id": "4434",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "URL",
+                    "text": "aidoctoranalytics.com",
+                    "id": 0,
+                    "start": 91,
+                    "end": 112
+                }
+            ]
+        },
+        {
+            "sentence": "The National Institute of Health is offering new funding opportunities. See details at nihfunding.gov and apply today.",
+            "meta": {
+                "note_id": "4435",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "ORG",
+                    "text": "The National Institute of Health",
+                    "id": 0,
+                    "start": 0,
+                    "end": 32
+                },
+                {
+                    "label": "URL",
+                    "text": "nihfunding.gov",
+                    "id": 1,
+                    "start": 87,
+                    "end": 101
+                }
+            ]
+        },
+        {
+            "sentence": "A fascinating podcast on alternative medicine is now streaming. Tune in via naturalhealthtalks.com for expert discussions.",
+            "meta": {
+                "note_id": "4436",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "URL",
+                    "text": "naturalhealthtalks.com",
+                    "id": 0,
+                    "start": 76,
+                    "end": 98
+                }
+            ]
+        },
+        {
+            "sentence": "Want to explore global health statistics for 2024? Check www.worldhealthdata.org for comprehensive data and analysis.",
+            "meta": {
+                "note_id": "4437",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "DATE",
+                    "text": "2024",
+                    "id": 0,
+                    "start": 45,
+                    "end": 49
+                },
+                {
+                    "label": "URL",
+                    "text": "www.worldhealthdata.org",
+                    "id": 1,
+                    "start": 57,
+                    "end": 80
+                }
+            ]
+        },
+        {
+            "sentence": "The FDA has updated its list of approved drugs. Browse the complete database at http://www.fda.gov/drug-approvals.",
+            "meta": {
+                "note_id": "4438",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "ORG",
+                    "text": "FDA",
+                    "id": 0,
+                    "start": 4,
+                    "end": 7
+                },
+                {
+                    "label": "URL",
+                    "text": "http://www.fda.gov/drug-approvals",
+                    "id": 1,
+                    "start": 80,
+                    "end": 113
+                }
+            ]
+        },
+        {
+            "sentence": "Don't miss the upcoming webinar on telemedicine practices! Register now at telehealthcon2024.com for expert insights.",
+            "meta": {
+                "note_id": "4439",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "URL",
+                    "text": "telehealthcon2024.com",
+                    "id": 0,
+                    "start": 75,
+                    "end": 96
+                }
+            ]
+        },
+        {
+            "sentence": "For those awaiting genetic test results, access them securely at genomereports.net with your login credentials.",
+            "meta": {
+                "note_id": "4440",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "URL",
+                    "text": "genomereports.net",
+                    "id": 0,
+                    "start": 65,
+                    "end": 82
+                }
+            ]
+        },
+        {
+            "sentence": "Nutrition experts recommend reviewing recent diet research at www.nutritionfactshealth.com for the latest updates.",
+            "meta": {
+                "note_id": "4441",
+                "sl_context": "false"
+            },
+            "spans": [
+                {
+                    "label": "URL",
+                    "text": "www.nutritionfactshealth.com",
+                    "id": 0,
+                    "start": 62,
+                    "end": 90
+                }
+            ]
         }
 ]
