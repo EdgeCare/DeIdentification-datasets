@@ -37277,5 +37277,1055 @@
                 "end": 90
             }
         ]
+    },
+    {
+        "sentence": "Johnathan T. Miller, a 58-year-old male, was rushed to Singapore General Hospital after experiencing sudden cardiac arrest at his residence on 5777 E Mayo Blvd, Phoenix, AZ 85054, USA. Dr. Jake Paw, the attending cardiologist, immediately initiated CPR and defibrillation. The emergency team, including Nurse Belly Kurt, successfully stabilized Mr. Miller, who was then transferred to the ICU for further monitoring. His wife, Margaret Miller, was contacted at (234) 234-4356 and provided updates via email at margaret.miller@email.com. The hospital’s rapid response was praised by the Phoenix Medical Group, which oversees cardiac care in the region.",
+        "spans": [
+            {
+                "text": "Johnathan T. Miller",
+                "label": "PERSON",
+                "id": 0,
+                "start": 0,
+                "end": 19
+            },
+            {
+                "text": "58",
+                "label": "AGE",
+                "id": 1,
+                "start": 23,
+                "end": 25
+            },
+            {
+                "text": "Singapore General Hospital",
+                "label": "HOSP",
+                "id": 2,
+                "start": 55,
+                "end": 81
+            },
+            {
+                "text": "5777 E Mayo Blvd, Phoenix, AZ 85054, USA",
+                "label": "LOC",
+                "id": 3,
+                "start": 143,
+                "end": 183
+            },
+            {
+                "text": "Dr. Jake Paw",
+                "label": "STAFF",
+                "id": 4,
+                "start": 185,
+                "end": 197
+            },
+            {
+                "text": "Nurse Belly Kurt",
+                "label": "STAFF",
+                "id": 5,
+                "start": 303,
+                "end": 319
+            },
+            {
+                "text": "Mr. Miller",
+                "label": "PERSON",
+                "id": 6,
+                "start": 345,
+                "end": 355
+            },
+            {
+                "text": "Margaret Miller",
+                "label": "PERSON",
+                "id": 7,
+                "start": 427,
+                "end": 442
+            },
+            {
+                "text": "(234) 234-4356",
+                "label": "PHONE",
+                "id": 8,
+                "start": 461,
+                "end": 475
+            },
+            {
+                "text": "margaret.miller@email.com",
+                "label": "EMAIL",
+                "id": 9,
+                "start": 510,
+                "end": 535
+            },
+            {
+                "text": "Phoenix Medical Group",
+                "label": "PATORG",
+                "id": 10,
+                "start": 586,
+                "end": 607
+            }
+        ],
+        "meta": {
+            "note_id": "4442",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "29 yrs old woman, Jamie R. Bennett, experienced anaphylaxis after consuming shellfish at a restaurant on 890 Coastal Highway, Seaside. She was rushed to Miracle Emergency Center, where Dr. Laura Simmons and Nurse Brian Edwards administered epinephrine and antihistamines. Her husband, Daniel Bennett, was reached at +94 789 0123 and informed of her condition. The couple resides at 321 Beachside Drive, Seaside. Miracle Emergency Center collaborated with Seaside Allergy & Immunology Specialists to develop a long-term management plan, including prescribing an EpiPen for future emergencies.",
+        "spans": [
+            {
+                "text": "29",
+                "label": "AGE",
+                "id": 0,
+                "start": 0,
+                "end": 2
+            },
+            {
+                "text": "Jamie R. Bennett",
+                "label": "PERSON",
+                "id": 1,
+                "start": 18,
+                "end": 34
+            },
+            {
+                "text": "890 Coastal Highway, Seaside",
+                "label": "LOC",
+                "id": 2,
+                "start": 105,
+                "end": 133
+            },
+            {
+                "text": "Miracle Emergency Center",
+                "label": "HOSP",
+                "id": 3,
+                "start": 153,
+                "end": 177
+            },
+            {
+                "text": "Dr. Laura Simmons",
+                "label": "STAFF",
+                "id": 4,
+                "start": 185,
+                "end": 202
+            },
+            {
+                "text": "Nurse Brian Edwards",
+                "label": "STAFF",
+                "id": 5,
+                "start": 207,
+                "end": 226
+            },
+            {
+                "text": "Daniel Bennett",
+                "label": "PERSON",
+                "id": 6,
+                "start": 285,
+                "end": 299
+            },
+            {
+                "text": "+94 789 0123",
+                "label": "PHONE",
+                "id": 7,
+                "start": 316,
+                "end": 328
+            },
+            {
+                "text": "321 Beachside Drive, Seaside",
+                "label": "LOC",
+                "id": 8,
+                "start": 382,
+                "end": 410
+            },
+            {
+                "text": "Miracle Emergency Center",
+                "label": "HOSP",
+                "id": 9,
+                "start": 412,
+                "end": 436
+            }
+        ],
+        "meta": {
+            "note_id": "4443",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "At approximately 3:15 PM, 45-year-old David K. Harper was admitted to Summit Regional Hospital after a traumatic fall from a ladder at his home on 1024 Albert Lane, CA. The emergency team, spearheaded by Dr. Jimmy Grant and assisted by Nurse Benedict Brooks, quickly assessed his injuries, which included a fractured femur and a mild concussion. David’s daughter, Jennifer Harper, was notified at (555) 321-6547 and provided with updates via email at jennifer.harper@email.com. Summit Regional’s trauma unit worked in tandem with Albert Lane Orthopedic Associates to ensure David received prompt surgical intervention and a tailored rehabilitation plan.",
+        "spans": [
+            {
+                "text": "3:15 PM",
+                "label": "TIMESTAMPS",
+                "id": 0,
+                "start": 17,
+                "end": 24
+            },
+            {
+                "text": "45",
+                "label": "AGE",
+                "id": 1,
+                "start": 26,
+                "end": 28
+            },
+            {
+                "text": "David K. Harper",
+                "label": "PATIENT",
+                "id": 2,
+                "start": 38,
+                "end": 53
+            },
+            {
+                "text": "Summit Regional Hospital",
+                "label": "HOSP",
+                "id": 3,
+                "start": 70,
+                "end": 94
+            },
+            {
+                "text": "1024 Albert Lane, CA",
+                "label": "LOC",
+                "id": 4,
+                "start": 147,
+                "end": 167
+            },
+            {
+                "text": "Dr. Jimmy Grant",
+                "label": "STAFF",
+                "id": 5,
+                "start": 204,
+                "end": 219
+            },
+            {
+                "text": "Nurse Benedict Brooks",
+                "label": "STAFF",
+                "id": 6,
+                "start": 236,
+                "end": 257
+            },
+            {
+                "text": "Jennifer Harper",
+                "label": "PATIENT",
+                "id": 7,
+                "start": 364,
+                "end": 379
+            },
+            {
+                "text": "(555) 321-6547",
+                "label": "PHONE",
+                "id": 8,
+                "start": 397,
+                "end": 411
+            },
+            {
+                "text": "jennifer.harper@email.com",
+                "label": "EMAIL",
+                "id": 9,
+                "start": 451,
+                "end": 476
+            },
+            {
+                "text": "Summit Regional’s trauma unit",
+                "label": "ORG",
+                "id": 10,
+                "start": 478,
+                "end": 507
+            },
+            {
+                "text": "Albert Lane Orthopedic Associates",
+                "label": "ORG",
+                "id": 11,
+                "start": 530,
+                "end": 563
+            }
+        ],
+        "meta": {
+            "note_id": "4444",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "During a community marathon event on 1010 Sandstone Road, Manhattan, a marathon runner Kevin R. Sharuk collapsed due to severe heatstroke. He was rushed to Apex Health Clinic, where Dr. Hannah Morales and Nurse Katie Simmons initiated rapid cooling measures and IV rehydration. Kevin’s emergency contact, his partner Melissa Carter, was reached at (398) 876-5432 and updated via email at mls.carter@email.com. Jhon Stuward Clinic worked with Aridville Sports Medicine Group to educate him on heatstroke prevention and ensure a safe recovery process.",
+        "spans": [
+            {
+                "text": "1010 Sandstone Road, Manhattan",
+                "label": "LOC",
+                "id": 0,
+                "start": 37,
+                "end": 67
+            },
+            {
+                "text": "Kevin R. Sharuk",
+                "label": "PERSON",
+                "id": 1,
+                "start": 87,
+                "end": 102
+            },
+            {
+                "text": "Apex Health Clinic",
+                "label": "HOSP",
+                "id": 2,
+                "start": 156,
+                "end": 174
+            },
+            {
+                "text": "Dr. Hannah Morales",
+                "label": "STAFF",
+                "id": 3,
+                "start": 182,
+                "end": 200
+            },
+            {
+                "text": "Nurse Katie Simmons",
+                "label": "STAFF",
+                "id": 4,
+                "start": 205,
+                "end": 224
+            },
+            {
+                "text": "Kevin",
+                "label": "PERSON",
+                "id": 5,
+                "start": 278,
+                "end": 283
+            },
+            {
+                "text": "Melissa Carter",
+                "label": "PERSON",
+                "id": 6,
+                "start": 317,
+                "end": 331
+            },
+            {
+                "text": "(398) 876-5432",
+                "label": "PHONE",
+                "id": 7,
+                "start": 348,
+                "end": 362
+            },
+            {
+                "text": "mls.carter@email.com",
+                "label": "EMAIL",
+                "id": 8,
+                "start": 388,
+                "end": 408
+            },
+            {
+                "text": "Jhon Stuward Clinic",
+                "label": "HOSP",
+                "id": 9,
+                "start": 410,
+                "end": 429
+            },
+            {
+                "text": "Aridville Sports Medicine Group",
+                "label": "ORG",
+                "id": 10,
+                "start": 442,
+                "end": 473
+            }
+        ],
+        "meta": {
+            "note_id": "4445",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Location: Platinum State Medical Center, 67 Whippoorwill Road, Armonk, NY, USA\nPatient: Jasmine Robby, 19 years old\nIncident: Jasmine experienced anaphylaxis after a bee sting while hiking near Whippoorwill park. She was transported to Platinum State Medical Center.\nMedical Team: Attending physician Dr. Kethen Nas and ER nurse Nilushi Ambani administered epinephrine and steroids to stabilize her condition.\nContact: Her father, Mr. Daniel Robby, was notified at +65 235876475 and emailed at daniel.rby@gmail.com.\nFollow-up: The hospital coordinated with Armonk Allergy & Immunology Specialists to provide the patient with an allergy action plan and an EpiPen prescription.",
+        "spans": [
+            {
+                "text": "Platinum State Medical Center",
+                "label": "HOSP",
+                "id": 0,
+                "start": 10,
+                "end": 39
+            },
+            {
+                "text": "67 Whippoorwill Road, Armonk, NY, USA",
+                "label": "LOC",
+                "id": 1,
+                "start": 41,
+                "end": 78
+            },
+            {
+                "text": "Jasmine Robby",
+                "label": "PERSON",
+                "id": 2,
+                "start": 88,
+                "end": 101
+            },
+            {
+                "text": "19",
+                "label": "AGE",
+                "id": 3,
+                "start": 103,
+                "end": 105
+            },
+            {
+                "text": "Jasmine",
+                "label": "PERSON",
+                "id": 4,
+                "start": 126,
+                "end": 133
+            },
+            {
+                "text": "Whippoorwill park",
+                "label": "LOC",
+                "id": 5,
+                "start": 194,
+                "end": 211
+            },
+            {
+                "text": "Platinum State Medical Center",
+                "label": "HOSP",
+                "id": 6,
+                "start": 236,
+                "end": 265
+            },
+            {
+                "text": "Dr. Kethen Nas",
+                "label": "STAFF",
+                "id": 7,
+                "start": 301,
+                "end": 315
+            },
+            {
+                "text": "ER nurse Nilushi Ambani",
+                "label": "STAFF",
+                "id": 8,
+                "start": 320,
+                "end": 343
+            },
+            {
+                "text": "Daniel Robby",
+                "label": "PERSON",
+                "id": 9,
+                "start": 435,
+                "end": 447
+            },
+            {
+                "text": "+65 235876475",
+                "label": "PHONE",
+                "id": 10,
+                "start": 465,
+                "end": 478
+            },
+            {
+                "text": "daniel.rby@gmail.com",
+                "label": "EMAIL",
+                "id": 11,
+                "start": 494,
+                "end": 514
+            },
+            {
+                "text": "Armonk Allergy & Immunology Specialists",
+                "label": "ORG",
+                "id": 12,
+                "start": 557,
+                "end": 596
+            }
+        ],
+        "meta": {
+            "note_id": "4446",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Medical center: Delaware Trauma Center, 1500 green Drive, Delaware, TX\nPatient: Marcus J. Alvarez, 28 years old\nCase: Marcus was involved in a multi-vehicle collision on Highway 45. He sustained multiple fractures and internal bleeding.\nAssigned team: Trauma surgeon Dr. Evelyn Carter and ICU nurse Jordan Kelie performed emergency surgery to address his injuries.\nContact: His spouse, Maria Alvarez, was reached at (713) 555-2345 and updated via email at maria.alvarez@email.com.",
+        "spans": [
+            {
+                "text": "Delaware Trauma Center",
+                "label": "HOSP",
+                "id": 0,
+                "start": 16,
+                "end": 38
+            },
+            {
+                "text": "1500 green Drive, Delaware, TX",
+                "label": "LOC",
+                "id": 1,
+                "start": 40,
+                "end": 70
+            },
+            {
+                "text": "Marcus J. Alvarez",
+                "label": "PERSON",
+                "id": 2,
+                "start": 80,
+                "end": 97
+            },
+            {
+                "text": "28",
+                "label": "AGE",
+                "id": 3,
+                "start": 99,
+                "end": 101
+            },
+            {
+                "text": "Marcus",
+                "label": "PERSON",
+                "id": 4,
+                "start": 118,
+                "end": 124
+            },
+            {
+                "text": "Highway 45",
+                "label": "LOC",
+                "id": 5,
+                "start": 170,
+                "end": 180
+            },
+            {
+                "text": "Dr. Evelyn Carter",
+                "label": "STAFF",
+                "id": 6,
+                "start": 267,
+                "end": 284
+            },
+            {
+                "text": "ICU nurse Jordan Kelie",
+                "label": "STAFF",
+                "id": 7,
+                "start": 289,
+                "end": 311
+            },
+            {
+                "text": "Maria Alvarez",
+                "label": "PERSON",
+                "id": 8,
+                "start": 386,
+                "end": 399
+            },
+            {
+                "text": "(713) 555-2345",
+                "label": "PHONE",
+                "id": 9,
+                "start": 416,
+                "end": 430
+            },
+            {
+                "text": "maria.alvarez@email.com",
+                "label": "EMAIL",
+                "id": 10,
+                "start": 456,
+                "end": 479
+            }
+        ],
+        "meta": {
+            "note_id": "4447",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Patient: A 12-year-old boy, Garry M. Sian, residing at 345 14 Quaker Lane, Hingham, MA, USA, was rushed to Hingham Community Hospital after experiencing a prolonged seizure. The attending pediatric neurologist, Dr. Reka Neelie, and Attendant Elisebeth Gardner, stabilized him using anti-seizure medication.Mrs. Tina Sian, was contacted at 223 234433468 and informed about his condition.",
+        "spans": [
+            {
+                "text": "12",
+                "label": "AGE",
+                "id": 0,
+                "start": 11,
+                "end": 13
+            },
+            {
+                "text": "Garry M. Sian",
+                "label": "PERSON",
+                "id": 1,
+                "start": 28,
+                "end": 41
+            },
+            {
+                "text": "345 14 Quaker Lane, Hingham, MA, USA",
+                "label": "LOC",
+                "id": 2,
+                "start": 55,
+                "end": 91
+            },
+            {
+                "text": "Hingham Community Hospital",
+                "label": "HOSP",
+                "id": 3,
+                "start": 107,
+                "end": 133
+            },
+            {
+                "text": "Dr. Reka Neelie",
+                "label": "STAFF",
+                "id": 4,
+                "start": 211,
+                "end": 226
+            },
+            {
+                "text": "Attendant Elisebeth Gardner",
+                "label": "STAFF",
+                "id": 5,
+                "start": 232,
+                "end": 259
+            },
+            {
+                "text": "Mrs. Tina Sian",
+                "label": "PERSON",
+                "id": 6,
+                "start": 306,
+                "end": 320
+            },
+            {
+                "text": "223 234433468",
+                "label": "PHONE",
+                "id": 7,
+                "start": 339,
+                "end": 352
+            }
+        ],
+        "meta": {
+            "note_id": "4448",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "At BrightCare Children’s Clinic, chief medical officer, Anna Neels attended to Trisha Okinawa, a six years old girl brought in by her mother, Supuni Clarkson, after experiencing recurrent seizures at their home at 78 Ridgeway Street, Newford. The child's vitals were unstable, and immediate administration of Midazolan IV was required. Attendant Jacob Linwood coordinated with the neurology department at Newford Medical Center for further evaluation. The mother was informed via karenclarkson_88@medmail.org.",
+        "spans": [
+            {
+                "text": "BrightCare Children’s Clinic",
+                "label": "HOSP",
+                "id": 0,
+                "start": 3,
+                "end": 31
+            },
+            {
+                "text": "Anna Neels",
+                "label": "STAFF",
+                "id": 1,
+                "start": 56,
+                "end": 66
+            },
+            {
+                "text": "Trisha Okinawa",
+                "label": "PATIENT",
+                "id": 2,
+                "start": 79,
+                "end": 93
+            },
+            {
+                "text": "six",
+                "label": "AGE",
+                "id": 3,
+                "start": 97,
+                "end": 100
+            },
+            {
+                "text": "Supuni Clarkson",
+                "label": "PATORG",
+                "id": 4,
+                "start": 142,
+                "end": 157
+            },
+            {
+                "text": "78 Ridgeway Street, Newford",
+                "label": "LOC",
+                "id": 5,
+                "start": 214,
+                "end": 241
+            },
+            {
+                "text": "Attendant Jacob Linwood",
+                "label": "STAFF",
+                "id": 6,
+                "start": 336,
+                "end": 359
+            },
+            {
+                "text": "Newford Medical Center",
+                "label": "HOSP",
+                "id": 7,
+                "start": 405,
+                "end": 427
+            },
+            {
+                "text": "karenclarkson_88@medmail.org",
+                "label": "EMAIL",
+                "id": 8,
+                "start": 480,
+                "end": 508
+            }
+        ],
+        "meta": {
+            "note_id": "4449",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Following a high-speed collision on Southern Highway, Ms. Jerami Asha was rushed to St. Sebastian Trauma Center with multiple fractures. the physician, Ryan Caldwell and Physiotherapist Jayanthika Premadasa stabilized her before conducting a CT scan for internal bleeding. Her employer, Global News Network, was informed. The orthopedic team prepared for surgical intervention.",
+        "spans": [
+            {
+                "text": "Southern Highway",
+                "label": "LOC",
+                "id": 0,
+                "start": 36,
+                "end": 52
+            },
+            {
+                "text": "Jerami Asha",
+                "label": "PERSON",
+                "id": 1,
+                "start": 58,
+                "end": 69
+            },
+            {
+                "text": "St. Sebastian Trauma Center",
+                "label": "HOSP",
+                "id": 2,
+                "start": 84,
+                "end": 111
+            },
+            {
+                "text": "Ryan Caldwell",
+                "label": "STAFF",
+                "id": 3,
+                "start": 152,
+                "end": 165
+            },
+            {
+                "text": "Physiotherapist Jayanthika Premadasa",
+                "label": "STAFF",
+                "id": 4,
+                "start": 170,
+                "end": 206
+            },
+            {
+                "text": "Global News Network",
+                "label": "ORG",
+                "id": 5,
+                "start": 287,
+                "end": 306
+            }
+        ],
+        "meta": {
+            "note_id": "4450",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Late at night, Alaric Rowan stumbled into the ER at Hendala Leprosy Hospital, clutching his chest and gasping for breath. Anesthesiologist, Alaric quickly assessed him, suspecting a heart attack. With his history of high cholesterol and smoking, the team wasted no time—Cardiologist, Balthazar prepped him for an urgent ECG while Dr. Alaric explained the situation to his wife, Anna Rowan, who had rushed in from their home at 223 Misty Ridge Drive, Bastrop. As the monitors beeped steadily, the doctor reassured her, \"We're doing everything we can.\"",
+        "spans": [
+            {
+                "text": "Alaric Rowan",
+                "label": "PERSON",
+                "id": 0,
+                "start": 15,
+                "end": 27
+            },
+            {
+                "text": "Hendala Leprosy Hospital",
+                "label": "HOSP",
+                "id": 1,
+                "start": 52,
+                "end": 76
+            },
+            {
+                "text": "Alaric",
+                "label": "STAFF",
+                "id": 2,
+                "start": 140,
+                "end": 146
+            },
+            {
+                "text": "Cardiologist, Balthazar",
+                "label": "STAFF",
+                "id": 3,
+                "start": 270,
+                "end": 293
+            },
+            {
+                "text": "Dr. Alaric",
+                "label": "STAFF",
+                "id": 4,
+                "start": 330,
+                "end": 340
+            },
+            {
+                "text": "Anna Rowan",
+                "label": "PERSON",
+                "id": 5,
+                "start": 378,
+                "end": 388
+            },
+            {
+                "text": "223 Misty Ridge Drive, Bastrop",
+                "label": "LOC",
+                "id": 6,
+                "start": 427,
+                "end": 457
+            }
+        ],
+        "meta": {
+            "note_id": "4451",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "A panicked mother, Alden Ray carried her 4 years young son into Kayts Urgent Care, his forehead bleeding after a fall at the park. Housekeeper Dorian Tran gently calmed the child while surgeon, Mark Lively examined the wound. It was deep enough for stitches, but nothing more serious. While preparing the sutures, the doctor distracted the boy with jokes about superheroes. Alden sighed in relief, holding her son’s hand as she quickly replied to a text from her husband, 'He’s going to be okay.'",
+        "spans": [
+            {
+                "text": "Alden Ray",
+                "label": "PERSON",
+                "id": 0,
+                "start": 19,
+                "end": 28
+            },
+            {
+                "text": "4",
+                "label": "AGE",
+                "id": 1,
+                "start": 41,
+                "end": 42
+            },
+            {
+                "text": "Kayts Urgent Care",
+                "label": "HOSP",
+                "id": 2,
+                "start": 64,
+                "end": 81
+            },
+            {
+                "text": "Housekeeper Dorian Tran",
+                "label": "STAFF",
+                "id": 3,
+                "start": 131,
+                "end": 154
+            },
+            {
+                "text": "Mark Lively",
+                "label": "STAFF",
+                "id": 4,
+                "start": 194,
+                "end": 205
+            }
+        ],
+        "meta": {
+            "note_id": "4452",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Patient Name: Mr. Thomas Reynolds Date of Admission: 01-March-2025 Hospital: Pears Medical Center Attending Physician: Dr. Dora Bell Nursing Staff: Nurse Daniel Brooks, Physiotherapist Abdul Jay Chief Complaint: Severe chest pain, radiating to the left arm History: The patient, a 58 years aged male, was brought to the ER via ambulance after experiencing acute chest pain while at home. His spouse, Bram Victory, called 911 when he collapsed. Upon arrival, the patient was diaphoretic with a BP of 170/98 mmHg. An ECG revealed ST-elevation in the anterior leads, confirming an acute myocardial infarction. Immediate intervention included aspirin 325mg, nitroglycerin, and IV heparin. The cardiology team was consulted for emergency catheterization. The patient remains under close observation in the ICU.",
+        "spans": [
+            {
+                "text": "Thomas Reynolds",
+                "label": "PERSON",
+                "id": 0,
+                "start": 18,
+                "end": 33
+            },
+            {
+                "text": "01-March-2025",
+                "label": "DATE",
+                "id": 1,
+                "start": 53,
+                "end": 66
+            },
+            {
+                "text": "Pears Medical Center",
+                "label": "HOSP",
+                "id": 2,
+                "start": 77,
+                "end": 97
+            },
+            {
+                "text": "Dr. Dora Bell",
+                "label": "STAFF",
+                "id": 3,
+                "start": 119,
+                "end": 132
+            },
+            {
+                "text": "Nurse Daniel Brooks",
+                "label": "STAFF",
+                "id": 4,
+                "start": 148,
+                "end": 167
+            },
+            {
+                "text": "Physiotherapist Abdul Jay",
+                "label": "STAFF",
+                "id": 5,
+                "start": 169,
+                "end": 194
+            },
+            {
+                "text": "58",
+                "label": "AGE",
+                "id": 6,
+                "start": 281,
+                "end": 283
+            },
+            {
+                "text": "Bram Victory",
+                "label": "PERSON",
+                "id": 7,
+                "start": 400,
+                "end": 412
+            },
+            {
+                "text": "911",
+                "label": "PHONE",
+                "id": 8,
+                "start": 421,
+                "end": 424
+            }
+        ],
+        "meta": {
+            "note_id": "4453",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Patient: Ms. Clara J. Hawthorne, 35, visited Healing Waters Clinic, located at 223 Misty Ridge Drive, Bastrop, TX, USA, for her annual physical exam. Dr. Fiona Brooks, her primary care physician, conducted a thorough evaluation, including blood pressure, cholesterol, and blood sugar tests. Clara’s results were within normal ranges, and she was advised to maintain her current lifestyle, which includes regular exercise and a balanced diet. The clinic’s nutritionist, Ms. Nicole Farley, provided additional tips on incorporating more whole grains and reducing processed foods. Clara scheduled her next check-up for the same time next year and was reminded to keep up with routine screenings, such as mammograms and skin checks, as recommended by Bastrop Preventive Health Network.",
+        "spans": [
+            {
+                "text": "Clara J. Hawthorne",
+                "label": "PERSON",
+                "id": 0,
+                "start": 13,
+                "end": 31
+            },
+            {
+                "text": "35",
+                "label": "AGE",
+                "id": 1,
+                "start": 33,
+                "end": 35
+            },
+            {
+                "text": "Healing Waters Clinic",
+                "label": "HOSP",
+                "id": 2,
+                "start": 45,
+                "end": 66
+            },
+            {
+                "text": "223 Misty Ridge Drive, Bastrop, TX, USA",
+                "label": "LOC",
+                "id": 3,
+                "start": 79,
+                "end": 118
+            },
+            {
+                "text": "Dr. Fiona Brooks",
+                "label": "STAFF",
+                "id": 4,
+                "start": 150,
+                "end": 166
+            },
+            {
+                "text": "Clara",
+                "label": "PERSON",
+                "id": 5,
+                "start": 291,
+                "end": 296
+            },
+            {
+                "text": "Ms. Nicole Farley",
+                "label": "STAFF",
+                "id": 6,
+                "start": 469,
+                "end": 486
+            },
+            {
+                "text": "Clara",
+                "label": "PERSON",
+                "id": 7,
+                "start": 578,
+                "end": 583
+            },
+            {
+                "text": "next year",
+                "label": "TIMESTAMPS",
+                "id": 8,
+                "start": 630,
+                "end": 639
+            },
+            {
+                "text": "Bastrop Preventive Health Network",
+                "label": "ORG",
+                "id": 9,
+                "start": 747,
+                "end": 780
+            }
+        ],
+        "meta": {
+            "note_id": "4454",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Routine Check-up: Dental Cleaning and Exam\nLocation: Serenity Springs Medical Center, 19 Rue de la Fonderie, Limoges, France\nPatient: Mr. Tiberius Knox, 42, visited for his biannual dental cleaning and check-up. Dental hygienist Ms. Wren Elias performed a thorough cleaning, removing plaque and tartar buildup, while Dr. Magnus Cove conducted an oral exam, checking for cavities, gum health, and signs of oral cancer. No issues were detected, and Tiberius was praised for his consistent flossing and brushing habits. Dr. Cove recommended using a fluoride mouthwash to further strengthen his enamel and scheduled his next cleaning in six months. The clinic also provided a complimentary toothbrush and sample toothpaste from Limoges Oral Health Consortium to support his ongoing dental care routine.",
+        "spans": [
+            {
+                "text": "Serenity Springs Medical Center",
+                "label": "HOSP",
+                "id": 0,
+                "start": 53,
+                "end": 84
+            },
+            {
+                "text": "19 Rue de la Fonderie, Limoges, France",
+                "label": "LOC",
+                "id": 1,
+                "start": 86,
+                "end": 124
+            },
+            {
+                "text": "Mr. Tiberius Knox",
+                "label": "PERSON",
+                "id": 2,
+                "start": 134,
+                "end": 151
+            },
+            {
+                "text": "42",
+                "label": "AGE",
+                "id": 3,
+                "start": 153,
+                "end": 155
+            },
+            {
+                "text": "Ms. Wren Elias",
+                "label": "STAFF",
+                "id": 4,
+                "start": 229,
+                "end": 243
+            },
+            {
+                "text": "Dr. Magnus Cove",
+                "label": "STAFF",
+                "id": 5,
+                "start": 317,
+                "end": 332
+            },
+            {
+                "text": "Tiberius",
+                "label": "PERSON",
+                "id": 6,
+                "start": 447,
+                "end": 455
+            },
+            {
+                "text": "Dr. Cove",
+                "label": "STAFF",
+                "id": 7,
+                "start": 517,
+                "end": 525
+            },
+            {
+                "text": "six months",
+                "label": "TIMESTAMPS",
+                "id": 8,
+                "start": 633,
+                "end": 643
+            },
+            {
+                "text": "Limoges Oral Health Consortium",
+                "label": "ORG",
+                "id": 9,
+                "start": 724,
+                "end": 754
+            }
+        ],
+        "meta": {
+            "note_id": "4455",
+            "sl_context": "false"
+        }
     }
 ]
