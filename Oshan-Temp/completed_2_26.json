@@ -80,6 +80,12 @@
         "spans": [
             {
                 "id": 0,
+                "label": "ORG",
+                "text": "NBC News",
+                "start": 58,
+                "end": 72
+            },{
+                "id": 0,
                 "label": "LOC",
                 "text": "Fayette County",
                 "start": 58,
@@ -103,7 +109,7 @@
         "spans": [
             {
                 "id": 0,
-                "label": "ORG",
+                "label": "ORG-NOT-SURE",
                 "text": "Minnesota Starvation Project",
                 "start": 13,
                 "end": 41
@@ -112,6 +118,13 @@
                 "id": 1,
                 "label": "ORG",
                 "text": "Mennonites",
+                "start": 150,
+                "end": 160
+            },
+            {
+                "id": 1,
+                "label": "ORG",
+                "text": "Society of Friends",
                 "start": 150,
                 "end": 160
             },
@@ -254,7 +267,7 @@
         ],
         "meta": {
             "note_id": "2052",
-            "sl_context": "false"
+            "sl_context": "true"
         }
     },
     {
@@ -274,42 +287,18 @@
         }
     },
     {
-        "sentence": "Manga creator Izumi Matsumoto posted on his blog on the Comic-On website on November 3 that he has spinal stenosis, an abnormal narrowing of the spinal canal that puts pressure on the spinal cord.",
-        "spans": [
-            {
-                "id": 0,
-                "label": "PERSON",
-                "text": "Izumi Matsumoto",
-                "start": 14,
-                "end": 29
-            },
-            {
-                "id": 1,
-                "label": "ORG",
-                "text": "Comic-On",
-                "start": 56,
-                "end": 64
-            },
-            {
-                "id": 2,
-                "label": "DATE",
-                "text": "November 3",
-                "start": 76,
-                "end": 86
-            }
-        ],
-        "meta": {
-            "note_id": "2054",
-            "sl_context": "false"
-        }
-    },
-    {
         "sentence": "He said that he has severe numbness in his legs, and he is unsure what to do going forward. Harito explained that he began to get numbness in his legs several years ago.",
         "spans": [
             {
                 "id": 0,
                 "label": "PERSON",
                 "text": "Harito",
+                "start": 92,
+                "end": 98
+            },{
+                "id": 0,
+                "label": "TIMESTAMPS",
+                "text": "several years ago",
                 "start": 92,
                 "end": 98
             }
@@ -326,6 +315,12 @@
                 "id": 0,
                 "label": "PERSON",
                 "text": "Sapumal",
+                "start": 0,
+                "end": 7
+            },{
+                "id": 0,
+                "label": "TIMESTAMPS",
+                "text": "one week",
                 "start": 0,
                 "end": 7
             }
@@ -408,6 +403,13 @@
                 "end": 32
             },
             {
+                "id": 1,
+                "label": "TIMESTAMPS",
+                "text": "Wednesday night",
+                "start": 25,
+                "end": 32
+            },
+            {
                 "id": 2,
                 "label": "LOC",
                 "text": "New Britain",
@@ -421,7 +423,7 @@
         }
     },
     {
-        "sentence": "Twins executive vice president and general manager Terry Ryan confirmed on the Rock Cats' broadcast that Buxton was diagnosed with a concussion.",
+        "sentence": "Twins executive vice president and general manager Terry Ryan confirmed on the Rock Cats' broadcast that Buxton was diagnosed with a concussion",
         "spans": [
             {
                 "id": 0,
@@ -464,6 +466,13 @@
                 "id": 0,
                 "label": "PERSON",
                 "text": "Patrick",
+                "start": 8,
+                "end": 15
+            },
+            {
+                "id": 0,
+                "label": "TIMESTAMPS",
+                "text": "10 minutes",
                 "start": 8,
                 "end": 15
             },
@@ -533,6 +542,13 @@
                 "text": "20",
                 "start": 73,
                 "end": 75
+            },
+            {
+                "id": 0,
+                "label": "TIMESTAMPS",
+                "text": "10 minutes",
+                "start": 8,
+                "end": 15
             }
         ],
         "meta": {
@@ -545,7 +561,7 @@
         "spans": [
             {
                 "id": 0,
-                "label": "LOC",
+                "label": "ORG",
                 "text": "New Britain Stadium",
                 "start": 106,
                 "end": 125
@@ -579,13 +595,6 @@
                 "text": "18",
                 "start": 8,
                 "end": 10
-            },
-            {
-                "id": 1,
-                "label": "HOSP",
-                "text": "emergency department (ED)",
-                "start": 39,
-                "end": 64
             },
             {
                 "id": 2,
@@ -683,13 +692,6 @@
                 "text": "October 31, 2010",
                 "start": 8,
                 "end": 24
-            },
-            {
-                "id": 2,
-                "label": "HOSP",
-                "text": "mental hospital",
-                "start": 144,
-                "end": 159
             }
         ],
         "meta": {
@@ -802,7 +804,7 @@
         }
     },
     {
-        "sentence": "Forty-seven police officers have been injured in riots surrounding a republican band parade in Belfast.",
+        "sentence": "Forty-seven police officers have been injured in riots surrounding a republican band parade in Belfast. They were attacked with petrol bombs, fireworks, bricks and bottles during hours of disorder at Carlisle Circus. The PSNI said the initial violence involved up to 350 loyalists.",
         "spans": [
             {
                 "id": 0,
@@ -810,16 +812,7 @@
                 "text": "Belfast",
                 "start": 95,
                 "end": 102
-            }
-        ],
-        "meta": {
-            "note_id": "2073",
-            "sl_context": "false"
-        }
-    },
-    {
-        "sentence": "They were attacked with petrol bombs, fireworks, bricks and bottles during hours of disorder at Carlisle Circus. The PSNI said the initial violence involved up to 350 loyalists.",
-        "spans": [
+            },
             {
                 "id": 0,
                 "label": "LOC",
@@ -878,71 +871,6 @@
         }
     },
     {
-        "sentence": "Parade Route\n\nNewlodge Road\n\nAntrim Road\n\nChurchill Street\n\nLepper Street\n\nNewlodge Road\n\nNorth Queen Street\n\nClifton Street\n\nHenry Place",
-        "spans": [
-            {
-                "id": 0,
-                "label": "LOC",
-                "text": "Newlodge Road",
-                "start": 14,
-                "end": 27
-            },
-            {
-                "id": 1,
-                "label": "LOC",
-                "text": "Antrim Road",
-                "start": 29,
-                "end": 40
-            },
-            {
-                "id": 2,
-                "label": "LOC",
-                "text": "Churchill Street",
-                "start": 42,
-                "end": 58
-            },
-            {
-                "id": 3,
-                "label": "LOC",
-                "text": "Lepper Street",
-                "start": 60,
-                "end": 73
-            },
-            {
-                "id": 4,
-                "label": "LOC",
-                "text": "Newlodge Road",
-                "start": 75,
-                "end": 88
-            },
-            {
-                "id": 5,
-                "label": "LOC",
-                "text": "North Queen Street",
-                "start": 90,
-                "end": 108
-            },
-            {
-                "id": 6,
-                "label": "LOC",
-                "text": "Clifton Street",
-                "start": 110,
-                "end": 124
-            },
-            {
-                "id": 7,
-                "label": "LOC",
-                "text": "Henry Place",
-                "start": 126,
-                "end": 137
-            }
-        ],
-        "meta": {
-            "note_id": "2076",
-            "sl_context": "false"
-        }
-    },
-    {
         "sentence": "'We had a plan in place to deal with, what we thought, might happen. We were not dealing with a situation in which we had a notified protest. We were not expecting to see protesters out onto Armor Street,' the officer said.",
         "spans": [
             {
@@ -983,10 +911,16 @@
                 "text": "November 6, 2015",
                 "start": 56,
                 "end": 72
+            },{
+                "id": 0,
+                "label": "TIMESTAMPS",
+                "text": "past several years",
+                "start": 56,
+                "end": 72
             },
             {
                 "id": 1,
-                "label": "HOSP",
+                "label": "ORG",
                 "text": "Cardinal Health Specialty Solutions",
                 "start": 103,
                 "end": 138
@@ -1081,7 +1015,7 @@
         }
     },
     {
-        "sentence": "its 11-year-old narrator introduced in the course of a three-week journey to a cast of colorful, enigmatic characters and to a glimpse of the mysteries of the adult world. \"There’s a strong sense that this story --- one with echoes of Conrad and Kipling --- is a tale Franck Lucifer someday was destined to tell.\"",
+        "sentence": "its 11 years old narrator introduced in the course of a three-week journey to a cast of colorful, enigmatic characters and to a glimpse of the mysteries of the adult world. \"There’s a strong sense that this story --- one with echoes of Conrad and Kipling --- is a tale Franck Lucifer someday was destined to tell.\"",
         "spans": [
             {
                 "id": 0,
@@ -1124,6 +1058,7 @@
             "sl_context": "false"
         }
     },
+    // checked up to here
     {
         "sentence": "Devon, nicknamed “Mynah,” is a passenger on the Oronsay, a converted World War II troop ship, on his way to reunite with his divorced mother and continue his education.",
         "spans": [

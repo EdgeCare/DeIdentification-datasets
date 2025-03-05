@@ -1,15 +1,15 @@
 {
-    "PERSON": 744,
-    "STAFF": 247,
-    "HOSP": 409,
-    "PHONE": 144,
-    "LOC": 279,
-    "DATE": 476,
-    "BIRTHDATE": 67,
-    "EMAIL": 134,
-    "ID": 190,
-    "AGE": 141,
-    "ORG": 219,
-    "TIMESTAMPS": 125,
-    "URL": 20
+    "PERSON": 861,
+    "STAFF": 314,
+    "HOSP": 486,
+    "PHONE": 167,
+    "LOC": 393,
+    "DATE": 549,
+    "BIRTHDATE": 87,
+    "EMAIL": 155,
+    "ID": 208,
+    "AGE": 175,
+    "ORG": 287,
+    "TIMESTAMPS": 172,
+    "URL": 53
 }

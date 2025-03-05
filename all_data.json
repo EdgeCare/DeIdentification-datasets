@@ -35198,27 +35198,20 @@
         "spans": [
             {
                 "id": 0,
-                "label": "ORG-NOT-SURE",
-                "text": "Minnesota Starvation Project",
-                "start": 13,
-                "end": 41
-            },
-            {
-                "id": 1,
                 "label": "ORG",
                 "text": "Mennonites",
                 "start": 150,
                 "end": 160
             },
             {
-                "id": 2,
+                "id": 1,
                 "label": "ORG",
                 "text": "Society of Friends",
                 "start": 162,
                 "end": 180
             },
             {
-                "id": 3,
+                "id": 2,
                 "label": "ORG",
                 "text": "Church of the Brethren",
                 "start": 186,
@@ -35951,6 +35944,195 @@
         ],
         "meta": {
             "note_id": "2075",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "'We had a plan in place to deal with, what we thought, might happen. We were not dealing with a situation in which we had a notified protest. We were not expecting to see protesters out onto Armor Street' the officer said.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "Armor Street",
+                "start": 191,
+                "end": 203
+            }
+        ],
+        "meta": {
+            "note_id": "2077",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Our physician office business for medical and laboratory products is now part of Henry Schein Medical — the world’s largest provider of health care products and services for office-based medical, dental, and animal health practitioners.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "HOSP",
+                "text": "Henry Schein Medical",
+                "start": 81,
+                "end": 101
+            }
+        ],
+        "meta": {
+            "note_id": "2078",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "The Evolving Role of Real-World Data in Specialty Care\n\nNovember 6, 2015\n\nOver the past several years, Cardinal Health Specialty Solutions has published a series of studies examining the role of real-world data in understanding cancer and immunology, and how such research can be used to improve the quality and value of care.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "DATE",
+                "text": "November 6, 2015",
+                "start": 56,
+                "end": 72
+            },
+            {
+                "id": 1,
+                "label": "TIMESTAMPS",
+                "text": "past several years",
+                "start": 83,
+                "end": 101
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "Cardinal Health Specialty Solutions",
+                "start": 103,
+                "end": 138
+            }
+        ],
+        "meta": {
+            "note_id": "2079",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "This fall, the team has added to its compendium of research with 10 new studies published at the annual meetings of the American Society of Hematology (ASH), the International Society for Pharmacoeconomics and Outcomes Research (ISPOR), and the American College of Rheumatology (ACR).",
+        "spans": [
+            {
+                "id": 0,
+                "label": "ORG",
+                "text": "American Society of Hematology (ASH)",
+                "start": 120,
+                "end": 156
+            },
+            {
+                "id": 1,
+                "label": "ORG",
+                "text": "International Society for Pharmacoeconomics and Outcomes Research (ISPOR)",
+                "start": 162,
+                "end": 235
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "American College of Rheumatology (ACR)",
+                "start": 245,
+                "end": 283
+            }
+        ],
+        "meta": {
+            "note_id": "2080",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Here, Dr. Bruce Feinberg talks about the latest round of research and how real-world evidence is providing new insights on a variety of healthcare issues ranging from patterns of care, cost of care, and predictors of acute care interventions, to treatment persistency and decisions about switching insurance.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "STAFF",
+                "text": "Dr. Bruce Feinberg",
+                "start": 6,
+                "end": 24
+            }
+        ],
+        "meta": {
+            "note_id": "2081",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Michael Ondaatje’s new novel is an evocative tale of a strange and wondrous sea voyage from Sri Lanka to England in 1954.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Michael Ondaatje",
+                "start": 0,
+                "end": 16
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "Sri Lanka",
+                "start": 92,
+                "end": 101
+            },
+            {
+                "id": 2,
+                "label": "LOC",
+                "text": "England",
+                "start": 105,
+                "end": 112
+            },
+            {
+                "id": 3,
+                "label": "DATE",
+                "text": "1954",
+                "start": 116,
+                "end": 120
+            }
+        ],
+        "meta": {
+            "note_id": "2082",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "its 11 years old narrator introduced in the course of a three-week journey to a cast of colorful, enigmatic characters and to a glimpse of the mysteries of the adult world. \"There’s a strong sense that this story --- one with echoes of Conrad and Kipling --- is a tale Franck Lucifer someday was destined to tell.\"",
+        "spans": [
+            {
+                "id": 0,
+                "label": "AGE",
+                "text": "11",
+                "start": 4,
+                "end": 6
+            },
+            {
+                "id": 1,
+                "label": "TIMESTAMPS",
+                "text": "three-week",
+                "start": 56,
+                "end": 66
+            },
+            {
+                "id": 2,
+                "label": "PERSON",
+                "text": "Conrad",
+                "start": 236,
+                "end": 242
+            },
+            {
+                "id": 3,
+                "label": "PERSON",
+                "text": "Kipling",
+                "start": 247,
+                "end": 254
+            },
+            {
+                "id": 4,
+                "label": "PERSON",
+                "text": "Franck Lucifer",
+                "start": 269,
+                "end": 283
+            }
+        ],
+        "meta": {
+            "note_id": "2083",
             "sl_context": "false"
         }
     },
@@ -37353,7 +37535,7 @@
             },
             {
                 "text": "Phoenix Medical Group",
-                "label": "PATORG",
+                "label": "ORG",
                 "id": 10,
                 "start": 586,
                 "end": 607
@@ -37462,7 +37644,7 @@
             },
             {
                 "text": "David K. Harper",
-                "label": "PATIENT",
+                "label": "PERSON",
                 "id": 2,
                 "start": 38,
                 "end": 53
@@ -37497,7 +37679,7 @@
             },
             {
                 "text": "Jennifer Harper",
-                "label": "PATIENT",
+                "label": "PERSON",
                 "id": 7,
                 "start": 364,
                 "end": 379
@@ -37892,7 +38074,7 @@
             },
             {
                 "text": "Trisha Okinawa",
-                "label": "PATIENT",
+                "label": "PERSON",
                 "id": 2,
                 "start": 79,
                 "end": 93
@@ -37906,7 +38088,7 @@
             },
             {
                 "text": "Supuni Clarkson",
-                "label": "PATORG",
+                "label": "PERSON",
                 "id": 4,
                 "start": 142,
                 "end": 157
@@ -38325,6 +38507,1075 @@
         ],
         "meta": {
             "note_id": "4455",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Devon, nicknamed “Mynah,” is a passenger on the Oronsay, a converted World War II troop ship, on his way to reunite with his divorced mother and continue his education.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Devon",
+                "start": 0,
+                "end": 5
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Mynah",
+                "start": 18,
+                "end": 23
+            }
+        ],
+        "meta": {
+            "note_id": "2084",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "While Sahan, who made that journey in the same year and at the same age as his protagonist, concedes in an author’s note that the novel “uses the colouring and locations of memoir and autobiography,”",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Sahan",
+                "start": 6,
+                "end": 11
+            }
+        ],
+        "meta": {
+            "note_id": "2085",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Boby befriends two of his contemporaries on the extended passage: Cassius, a bolder and more adventuresome boy, and Ramadhin, a large, quiet one with a suspect heart.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Boby",
+                "start": 0,
+                "end": 4
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Cassius",
+                "start": 66,
+                "end": 73
+            },
+            {
+                "id": 2,
+                "label": "PERSON",
+                "text": "Ramadhin",
+                "start": 116,
+                "end": 124
+            }
+        ],
+        "meta": {
+            "note_id": "2086",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Arsene Wenger says he is to blame for the team's failures this season after a 2-1 loss at Bolton all but ended their title bid.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Arsene Wenger",
+                "start": 0,
+                "end": 13
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "Bolton",
+                "start": 90,
+                "end": 96
+            }
+        ],
+        "meta": {
+            "note_id": "2087",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "The Gunners now trail league leaders Manchester United by nine points with four games left to play. A team win at the Emirates Stadium on Sunday will ensure Arsenal's trophyless run is extended to six seasons.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "ORG",
+                "text": "Gunners",
+                "start": 4,
+                "end": 11
+            },
+            {
+                "id": 1,
+                "label": "ORG",
+                "text": "Manchester United",
+                "start": 37,
+                "end": 54
+            },
+            {
+                "id": 2,
+                "label": "LOC",
+                "text": "Emirates Stadium",
+                "start": 118,
+                "end": 134
+            },
+            {
+                "id": 3,
+                "label": "TIMESTAMPS",
+                "text": "Sunday",
+                "start": 138,
+                "end": 144
+            },
+            {
+                "id": 4,
+                "label": "ORG",
+                "text": "Arsenal",
+                "start": 157,
+                "end": 164
+            }
+        ],
+        "meta": {
+            "note_id": "2088",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "\"The players have been outstanding all season. If there is somebody to blame, it is me,\" said Max. Max admitted after the defeat at the Reebok Stadium that his side's chances of winning the title had all but gone.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Max",
+                "start": 94,
+                "end": 97
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "Reebok Stadium",
+                "start": 136,
+                "end": 150
+            }
+        ],
+        "meta": {
+            "note_id": "2089",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Jimmy's side were ultimately undone by a last-minute header from a corner from Apex United substitute Tamir Cohen, after Robin van Persie had cancelled out Daniel Sturridge's first-half opener - also following a corner - and keeper Wojciech Szczesny had saved a Kevin Davies penalty.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Jimmy",
+                "start": 0,
+                "end": 5
+            },
+            {
+                "id": 1,
+                "label": "TIMESTAMPS",
+                "text": "last-minute",
+                "start": 41,
+                "end": 52
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "Apex United",
+                "start": 79,
+                "end": 90
+            },
+            {
+                "id": 3,
+                "label": "PERSON",
+                "text": "Tamir Cohen",
+                "start": 102,
+                "end": 113
+            },
+            {
+                "id": 4,
+                "label": "PERSON",
+                "text": "Robin van Persie",
+                "start": 121,
+                "end": 137
+            },
+            {
+                "id": 5,
+                "label": "PERSON",
+                "text": "Daniel Sturridge",
+                "start": 156,
+                "end": 172
+            },
+            {
+                "id": 6,
+                "label": "PERSON",
+                "text": "Wojciech Szczesny",
+                "start": 232,
+                "end": 249
+            },
+            {
+                "id": 7,
+                "label": "PERSON",
+                "text": "Kevin Davies",
+                "start": 262,
+                "end": 274
+            }
+        ],
+        "meta": {
+            "note_id": "2090",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Jaswant Singh was the first person to have served as India’s finance minister (1996, 2002-2004), foreign minister (1998-2004), and defense minister (2000-2001).",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Jaswant Singh",
+                "start": 0,
+                "end": 13
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "India",
+                "start": 53,
+                "end": 58
+            },
+            {
+                "id": 2,
+                "label": "DATE",
+                "text": "1996",
+                "start": 79,
+                "end": 83
+            },
+            {
+                "id": 3,
+                "label": "DATE",
+                "text": "2002",
+                "start": 85,
+                "end": 89
+            },
+            {
+                "id": 4,
+                "label": "DATE",
+                "text": "2004",
+                "start": 90,
+                "end": 94
+            },
+            {
+                "id": 5,
+                "label": "DATE",
+                "text": "1998",
+                "start": 115,
+                "end": 119
+            },
+            {
+                "id": 6,
+                "label": "DATE",
+                "text": "2004",
+                "start": 120,
+                "end": 124
+            },
+            {
+                "id": 7,
+                "label": "DATE",
+                "text": "2000",
+                "start": 149,
+                "end": 153
+            },
+            {
+                "id": 8,
+                "label": "DATE",
+                "text": "2001",
+                "start": 154,
+                "end": 158
+            }
+        ],
+        "meta": {
+            "note_id": "2091",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "While in office, he launched the first free-trade agreement (with Sri Lanka) in South Asia’s history, initiated India’s most daring diploma…",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "Sri Lanka",
+                "start": 66,
+                "end": 75
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "South Asia",
+                "start": 80,
+                "end": 90
+            },
+            {
+                "id": 2,
+                "label": "LOC",
+                "text": "India",
+                "start": 112,
+                "end": 117
+            }
+        ],
+        "meta": {
+            "note_id": "2092",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "India’s Corruption Curse\n\nNEW DELHI – Is corruption crippling India? At first glance, such a question seems absurd.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "India",
+                "start": 0,
+                "end": 5
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "NEW DELHI",
+                "start": 26,
+                "end": 35
+            },
+            {
+                "id": 2,
+                "label": "LOC",
+                "text": "India",
+                "start": 62,
+                "end": 67
+            }
+        ],
+        "meta": {
+            "note_id": "2093",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "After all, Germany has had a functioning democratic order since before 1947, and its economy weathered the recent global economic crisis when most others faltered. Yet a combination of factors that have mushroomed over time has raised serious concerns about the threat that corruption poses to the very fabric of the German state.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "Germany",
+                "start": 11,
+                "end": 18
+            },
+            {
+                "id": 1,
+                "label": "DATE",
+                "text": "1947",
+                "start": 71,
+                "end": 75
+            }
+        ],
+        "meta": {
+            "note_id": "2094",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "New Zealand’s economy continues its robust 8.5-9% annual GDP growth, a figure that is the envy of many.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "New Zealand",
+                "start": 0,
+                "end": 11
+            }
+        ],
+        "meta": {
+            "note_id": "2095",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Sri Krishna College of Engineering & Technology is an autonomous institution at Sugunapuram near Kuniamuthur, Coimbatore, India with a twenty-acre campus.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "ORG",
+                "text": "Sri Krishna College of Engineering & Technology",
+                "start": 0,
+                "end": 47
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "Sugunapuram",
+                "start": 80,
+                "end": 91
+            },
+            {
+                "id": 2,
+                "label": "LOC",
+                "text": "Kuniamuthur",
+                "start": 97,
+                "end": 108
+            },
+            {
+                "id": 3,
+                "label": "LOC",
+                "text": "Coimbatore",
+                "start": 110,
+                "end": 120
+            },
+            {
+                "id": 4,
+                "label": "LOC",
+                "text": "India",
+                "start": 122,
+                "end": 127
+            }
+        ],
+        "meta": {
+            "note_id": "2096",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "The college was started in 1998 with 180 students and 18 staff and offered four courses in the Bachelor of Engineering (B.E.). Qualifications are conferred by Anna University.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "DATE",
+                "text": "1998",
+                "start": 27,
+                "end": 31
+            },
+            {
+                "id": 1,
+                "label": "ORG",
+                "text": "Anna University",
+                "start": 159,
+                "end": 174
+            }
+        ],
+        "meta": {
+            "note_id": "2097",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "At present the college has more than 2,500 students and more than 200 faculty, as well as supporting staff. Campus\nThe campus is about 8 km from the city of Coimbatore.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "Coimbatore",
+                "start": 157,
+                "end": 167
+            }
+        ],
+        "meta": {
+            "note_id": "2098",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "The present Head of the department of mechanical is Dr. Ashoka Varthan, who has lectured for 25 years and is a scholar and an author. He has written many books in mechanical engineering subjects. He has also served in PRICOL (the speedometer industry) at Turkey.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Dr. Ashoka Varthan",
+                "start": 52,
+                "end": 70
+            },
+            {
+                "id": 1,
+                "label": "TIMESTAMPS",
+                "text": "25 years",
+                "start": 93,
+                "end": 101
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "PRICOL",
+                "start": 218,
+                "end": 224
+            },
+            {
+                "id": 3,
+                "label": "LOC",
+                "text": "Turkey",
+                "start": 255,
+                "end": 261
+            }
+        ],
+        "meta": {
+            "note_id": "2099",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Monday, June 1, 2015\n\nRoasted Chickpea Snack with Smoked Spanish Paprika",
+        "spans": [
+            {
+                "id": 0,
+                "label": "TIMESTAMPS",
+                "text": "Monday",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "id": 1,
+                "label": "DATE",
+                "text": "June 1, 2015",
+                "start": 8,
+                "end": 20
+            }
+        ],
+        "meta": {
+            "note_id": "2100",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "In Sri Lanka, my snack of choice was fried chickpeas. I had a bag of them I took on the bus, and I'd happily munch on them between meals.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "Sri Lanka",
+                "start": 3,
+                "end": 12
+            }
+        ],
+        "meta": {
+            "note_id": "2101",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "The Legacy of Neelan Tiruchelvam by Jonathan Kay\n\nThe conflict between the Sri Lankan government and the Tamil Tigers has deep, tangled roots.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Neelan Tiruchelvam",
+                "start": 14,
+                "end": 32
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Jonathan Kay",
+                "start": 36,
+                "end": 48
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "Sri Lankan government",
+                "start": 75,
+                "end": 96
+            },
+            {
+                "id": 3,
+                "label": "ORG",
+                "text": "Tamil Tigers",
+                "start": 105,
+                "end": 117
+            }
+        ],
+        "meta": {
+            "note_id": "2102",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "But to a rough order of magnitude, the moral stakes can be reduced to a single act of terrorist savagery that took place on July 29, 1999 — the day Ameer Singh was blown out the side of his Nissan sedan by a female suicide bomber riding a moped.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "DATE",
+                "text": "July 29, 1999",
+                "start": 124,
+                "end": 137
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Ameer Singh",
+                "start": 148,
+                "end": 159
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "Nissan",
+                "start": 190,
+                "end": 196
+            }
+        ],
+        "meta": {
+            "note_id": "2103",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Bebahan was a Sri Lankan Tamil, but not the kind that makes excuses for terrorism, or for the nihilistic death cult led by Tigers chief Velupillai Pirapaharan.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Bebahan",
+                "start": 0,
+                "end": 7
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Velupillai Pirapaharan",
+                "start": 136,
+                "end": 158
+            }
+        ],
+        "meta": {
+            "note_id": "2104",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Instead, he sought to bring justice and self-determination for Sri Lanka’s Tamil minority through negotiation and constitutional reform. In Sri Lanka, he was an elected parliamentarian and the founder of two major think tanks.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "Sri Lanka",
+                "start": 63,
+                "end": 72
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "Sri Lanka",
+                "start": 140,
+                "end": 149
+            }
+        ],
+        "meta": {
+            "note_id": "2105",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "In the United States, he taught at Harvard University, enlightening Western students about human-rights abuses committed in Sri Lanka — by the nation’s military.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "United States",
+                "start": 7,
+                "end": 20
+            },
+            {
+                "id": 1,
+                "label": "ORG",
+                "text": "Harvard University",
+                "start": 35,
+                "end": 53
+            },
+            {
+                "id": 2,
+                "label": "LOC",
+                "text": "Sri Lanka",
+                "start": 124,
+                "end": 133
+            }
+        ],
+        "meta": {
+            "note_id": "2106",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "He was a moderate, in other words — the Tamils’ answer to Yitzhak Rabin or Nelson Mandela.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Yitzhak Rabin",
+                "start": 58,
+                "end": 71
+            },
+            {
+                "id": 1,
+                "label": "PERSON",
+                "text": "Nelson Mandela",
+                "start": 75,
+                "end": 89
+            }
+        ],
+        "meta": {
+            "note_id": "2107",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Amantis nawai is a small species of praying mantis native to Europe. Amantis nawai are parthenogenetic, and males are uncommonly seen.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "Europe",
+                "start": 61,
+                "end": 67
+            }
+        ],
+        "meta": {
+            "note_id": "2108",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Females: . Females have wing nubs. Males: in length. Males have full wings. Distribution It is found in China, Sri Lanka, and Taiwan;",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "China",
+                "start": 104,
+                "end": 109
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "Sri Lanka",
+                "start": 111,
+                "end": 120
+            },
+            {
+                "id": 2,
+                "label": "LOC",
+                "text": "Taiwan",
+                "start": 126,
+                "end": 132
+            }
+        ],
+        "meta": {
+            "note_id": "2109",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "in Japan on Honshu, Shikoku, Kyushu, and Okinawa; and in South Korea at Jejudo.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "Japan",
+                "start": 3,
+                "end": 8
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "Honshu",
+                "start": 12,
+                "end": 18
+            },
+            {
+                "id": 2,
+                "label": "LOC",
+                "text": "Shikoku",
+                "start": 20,
+                "end": 27
+            },
+            {
+                "id": 3,
+                "label": "LOC",
+                "text": "Kyushu",
+                "start": 29,
+                "end": 35
+            },
+            {
+                "id": 4,
+                "label": "LOC",
+                "text": "Okinawa",
+                "start": 41,
+                "end": 48
+            },
+            {
+                "id": 5,
+                "label": "LOC",
+                "text": "South Korea",
+                "start": 57,
+                "end": 68
+            },
+            {
+                "id": 6,
+                "label": "LOC",
+                "text": "Jejudo",
+                "start": 72,
+                "end": 78
+            }
+        ],
+        "meta": {
+            "note_id": "2110",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "References\nCategory:Insects of Sri Lanka\nCategory:Insects of Taiwan\nCategory:Invertebrates of Korea\nCategory:Insects described in 1908",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "Sri Lanka",
+                "start": 31,
+                "end": 40
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "Taiwan",
+                "start": 61,
+                "end": 67
+            },
+            {
+                "id": 2,
+                "label": "LOC",
+                "text": "Korea",
+                "start": 94,
+                "end": 99
+            },
+            {
+                "id": 3,
+                "label": "DATE",
+                "text": "1908",
+                "start": 130,
+                "end": 134
+            }
+        ],
+        "meta": {
+            "note_id": "2111",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "With advantage of Inner Mongolia and Ningxia regions as the most important calcium carbide production base, we established our carbide crushing plant in Wuhai City, Inner Mongolia.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "Inner Mongolia",
+                "start": 18,
+                "end": 32
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "Ningxia",
+                "start": 37,
+                "end": 44
+            },
+            {
+                "id": 2,
+                "label": "LOC",
+                "text": "Wuhai City",
+                "start": 153,
+                "end": 163
+            },
+            {
+                "id": 3,
+                "label": "LOC",
+                "text": "Inner Mongolia",
+                "start": 165,
+                "end": 179
+            }
+        ],
+        "meta": {
+            "note_id": "2112",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "We are a group of companies having main office in China with many branch offices United Kingdom, Australia, Sri Lanka and Dubai.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "China",
+                "start": 50,
+                "end": 55
+            },
+            {
+                "id": 1,
+                "label": "LOC",
+                "text": "United Kingdom",
+                "start": 81,
+                "end": 95
+            },
+            {
+                "id": 2,
+                "label": "LOC",
+                "text": "Australia",
+                "start": 97,
+                "end": 106
+            },
+            {
+                "id": 3,
+                "label": "LOC",
+                "text": "Sri Lanka",
+                "start": 108,
+                "end": 117
+            },
+            {
+                "id": 4,
+                "label": "LOC",
+                "text": "Dubai",
+                "start": 122,
+                "end": 127
+            }
+        ],
+        "meta": {
+            "note_id": "2113",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "The supplier company is located in Colombo and is one of the leading sellers of listed products. Buy Reinforcing bars, steel billets, wire rods / wire mesh in bulk from us for the best quality products and service.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "LOC",
+                "text": "Colombo",
+                "start": 35,
+                "end": 42
+            }
+        ],
+        "meta": {
+            "note_id": "2114",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Akila Isanka (born 15 January 1989) is a Sri Lankan cricketer. He made his first-class debut for Sri Lanka Air Force Sports Club in the 2009 Premier Trophy on 2 October 2009.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "PERSON",
+                "text": "Akila Isanka",
+                "start": 0,
+                "end": 12
+            },
+            {
+                "id": 1,
+                "label": "BIRTHDATE",
+                "text": "15 January 1989",
+                "start": 19,
+                "end": 34
+            },
+            {
+                "id": 2,
+                "label": "LOC",
+                "text": "Sri Lanka",
+                "start": 41,
+                "end": 50
+            },
+            {
+                "id": 3,
+                "label": "ORG",
+                "text": "Sri Lanka Air Force Sports Club",
+                "start": 97,
+                "end": 128
+            },
+            {
+                "id": 4,
+                "label": "DATE",
+                "text": "2009",
+                "start": 136,
+                "end": 140
+            },
+            {
+                "id": 5,
+                "label": "DATE",
+                "text": "2 October 2009",
+                "start": 159,
+                "end": 173
+            }
+        ],
+        "meta": {
+            "note_id": "2115",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "References\n\nExternal links\n \n\nCategory:1989 births\nCategory:Living people\nCategory:Sri Lankan cricketers\nCategory:Saracens Sports Club cricketers\nCategory:Sri Lanka Air Force Sports Club cricketers\nCategory:Sportspeople from Colombo",
+        "spans": [
+            {
+                "id": 0,
+                "label": "BIRTHDATE",
+                "text": "1989",
+                "start": 39,
+                "end": 43
+            },
+            {
+                "id": 1,
+                "label": "ORG",
+                "text": "Saracens Sports Club",
+                "start": 114,
+                "end": 134
+            },
+            {
+                "id": 2,
+                "label": "ORG",
+                "text": "Sri Lanka Air Force Sports Club",
+                "start": 155,
+                "end": 186
+            },
+            {
+                "id": 3,
+                "label": "LOC",
+                "text": "Colombo",
+                "start": 225,
+                "end": 232
+            }
+        ],
+        "meta": {
+            "note_id": "2116",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "The Minister has presented an award to Premier Builders & Engineering (Pvt) Ltd. The Shramabhimani Award Ceremony to award national honours on distinguished Sri Lankans who have rendered dedicated services in various fields.",
+        "spans": [
+            {
+                "id": 0,
+                "label": "ORG",
+                "text": "Premier Builders & Engineering (Pvt) Ltd",
+                "start": 39,
+                "end": 79
+            },
+            {
+                "id": 1,
+                "label": "ORG",
+                "text": "Shramabhimani Award Ceremony",
+                "start": 85,
+                "end": 113
+            }
+        ],
+        "meta": {
+            "note_id": "2117",
             "sl_context": "false"
         }
     }
