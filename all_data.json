@@ -39578,5 +39578,453 @@
             "note_id": "2117",
             "sl_context": "false"
         }
+    },
+    {
+        "sentence": "Patient: Ms. Icarus Vale, a 36 year old marketing executive, visited Dewon Medical Center in 9 Oak Tree Court, Derby, UK, for her routine annual check-up. Dr. Victor Hale, a general physician, conducted a thorough assessment, including blood pressure monitoring, cholesterol screening, and a complete blood panel. With a history of mild hypertension, Icarus was advised to maintain a balanced diet and engage in regular physical activity. Before leaving, Nurse Wren Elias scheduled her next appointment and reminded her to monitor her blood pressure at home.",
+        "spans": [
+            {
+                "text": "Ms. Icarus Vale",
+                "label": "PERSON",
+                "id": 0,
+                "start": 9,
+                "end": 24
+            },
+            {
+                "text": "36",
+                "label": "AGE",
+                "id": 1,
+                "start": 28,
+                "end": 30
+            },
+            {
+                "text": "Dewon Medical Center",
+                "label": "HOSP",
+                "id": 2,
+                "start": 69,
+                "end": 89
+            },
+            {
+                "text": "9 Oak Tree Court, Derby, UK",
+                "label": "LOC",
+                "id": 3,
+                "start": 93,
+                "end": 120
+            },
+            {
+                "text": "Dr. Victor Hale",
+                "label": "STAFF",
+                "id": 4,
+                "start": 155,
+                "end": 170
+            },
+            {
+                "text": "Icarus",
+                "label": "PERSON",
+                "id": 5,
+                "start": 351,
+                "end": 357
+            },
+            {
+                "text": "Nurse Wren Elias",
+                "label": "STAFF",
+                "id": 6,
+                "start": 455,
+                "end": 471
+            }
+        ],
+        "meta": {
+            "note_id": "2118",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Mrs. Zephyr Blaise, 47 y Date: 01-Mar-2025 Clinic: CureD Horizon Medical Center, 29 Palm Grove, Edmonton, AB, Can. Attending Physician: Dr. Nolan Creed (Internal Medicine) Therapist: Sylas Thorn",
+        "spans": [
+            {
+                "text": "Mrs. Zephyr Blaise",
+                "label": "PERSON",
+                "id": 0,
+                "start": 0,
+                "end": 18
+            },
+            {
+                "text": "47",
+                "label": "AGE",
+                "id": 1,
+                "start": 20,
+                "end": 22
+            },
+            {
+                "text": "01-Mar-2025",
+                "label": "DATE",
+                "id": 2,
+                "start": 31,
+                "end": 42
+            },
+            {
+                "text": "CureD Horizon Medical Center",
+                "label": "HOSP",
+                "id": 3,
+                "start": 51,
+                "end": 79
+            },
+            {
+                "text": "29 Palm Grove, Edmonton, AB, Can",
+                "label": "LOC",
+                "id": 4,
+                "start": 81,
+                "end": 113
+            },
+            {
+                "text": "Dr. Nolan Creed",
+                "label": "STAFF",
+                "id": 5,
+                "start": 136,
+                "end": 151
+            },
+            {
+                "text": "Sylas Thorn",
+                "label": "STAFF",
+                "id": 6,
+                "start": 183,
+                "end": 194
+            }
+        ],
+        "meta": {
+            "note_id": "2119",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "convalescent: Mrs. Halston Reid visited Golden Path Clinic, 7 Jam Hollow Drive, Huntsville, AL, USA, for her scheduled routine check-up. She reported no major complaints but mentioned occasional fatigue. A full physical examination was conducted, including blood pressure monitoring (120/78 mmHg), BMI assessment (24.1), and a lipid profile test. Dr. Phineas Vail noted a slight increase in cholesterol levels and recommended dietary adjustments. Nurse Quentin Fox provided lifestyle counseling, emphasizing the importance of physical activity. Halston was advised to return in six months for follow-up testing.",
+        "spans": [
+            {
+                "text": "Mrs. Halston Reid",
+                "label": "PERSON",
+                "id": 0,
+                "start": 14,
+                "end": 31
+            },
+            {
+                "text": "Golden Path Clinic",
+                "label": "HOSP",
+                "id": 1,
+                "start": 40,
+                "end": 58
+            },
+            {
+                "text": "7 Jam Hollow Drive, Huntsville, AL, USA",
+                "label": "LOC",
+                "id": 2,
+                "start": 60,
+                "end": 99
+            },
+            {
+                "text": "Dr. Phineas Vail",
+                "label": "STAFF",
+                "id": 3,
+                "start": 347,
+                "end": 363
+            },
+            {
+                "text": "Nurse Quentin Fox",
+                "label": "STAFF",
+                "id": 4,
+                "start": 447,
+                "end": 464
+            },
+            {
+                "text": "Halston",
+                "label": "PERSON",
+                "id": 5,
+                "start": 545,
+                "end": 552
+            },
+            {
+                "text": "six months",
+                "label": "TIMESTAMPS",
+                "id": 6,
+                "start": 578,
+                "end": 588
+            }
+        ],
+        "meta": {
+            "note_id": "2120",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Healing Touch Medical Center\n12 Lilac View, Burlington, VT, USA\nMarch 1, 2025\n\nTo: Mr. Tiberius Knox\n61 Waterway Road, Cairns, Australia\n\nSubject: Routine Health Check-up Results & Follow-Up Advice\n\nDear Mr. Knox,\n\nI hope this letter finds you well. Following your recent routine check-up at Healing Touch Medical Center on February 27, 2025, I am pleased to inform you that your overall health indicators are within normal ranges. Your blood pressure (118/76 mmHg) and cholesterol levels are stable, and your BMI remains within a healthy range.\n\nHowever, your fasting blood glucose was slightly elevated at 5.9 mmol/L, which may indicate early signs of insulin resistance. While this is not an immediate concern, I recommend maintaining a balanced diet, engaging in regular exercise, and reducing refined sugar intake. I have also scheduled a follow-up appointment in three months to monitor any changes.\n\nIf you have any questions or would like to discuss your results further, please feel free to contact our office at 011 2 555 3124 or email us at health@healingtouchmed.com.\n\nLooking forward to your continued good health.\n\nBest regards,\nDr. Oberon Drake\nGeneral Practitioner\nHealing Touch Medical Center",
+        "spans": [
+            {
+                "text": "Healing Touch Medical Center",
+                "label": "HOSP",
+                "id": 0,
+                "start": 0,
+                "end": 28
+            },
+            {
+                "text": "12 Lilac View, Burlington, VT, USA",
+                "label": "LOC",
+                "id": 1,
+                "start": 29,
+                "end": 63
+            },
+            {
+                "text": "March 1, 2025",
+                "label": "DATE",
+                "id": 2,
+                "start": 64,
+                "end": 77
+            },
+            {
+                "text": "Tiberius Knox",
+                "label": "PERSON",
+                "id": 3,
+                "start": 87,
+                "end": 100
+            },
+            {
+                "text": "61 Waterway Road, Cairns, Australia",
+                "label": "LOC",
+                "id": 4,
+                "start": 101,
+                "end": 136
+            },
+            {
+                "text": "Mr. Knox",
+                "label": "PERSON",
+                "id": 5,
+                "start": 204,
+                "end": 212
+            },
+            {
+                "text": "Healing Touch Medical Center",
+                "label": "HOSP",
+                "id": 6,
+                "start": 292,
+                "end": 320
+            },
+            {
+                "text": "February 27, 2025",
+                "label": "DATE",
+                "id": 7,
+                "start": 324,
+                "end": 341
+            },
+            {
+                "text": "011 2 555 3124",
+                "label": "PHONE",
+                "id": 8,
+                "start": 1022,
+                "end": 1036
+            },
+            {
+                "text": "health@healingtouchmed.com",
+                "label": "EMAIL",
+                "id": 9,
+                "start": 1052,
+                "end": 1078
+            },
+            {
+                "text": "Dr. Oberon Drake",
+                "label": "STAFF",
+                "id": 10,
+                "start": 1143,
+                "end": 1159
+            },
+            {
+                "text": "Healing Touch Medical Center",
+                "label": "HOSP",
+                "id": 11,
+                "start": 1181,
+                "end": 1209
+            }
+        ],
+        "meta": {
+            "note_id": "2121",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "NOTICE\nSilverLeaf Health Center\n45 Chestnut Vale, Auckland, New Zealand\nDate: March 1, 2025\n\nSubject: Annual Health Check-up Reminder\n\nDear Patients,\n\nThis is a reminder that SilverLeaf Health Center encourages all patients to schedule their annual health check-ups to ensure early detection and prevention of potential health issues. Regular screenings help monitor blood pressure, cholesterol, blood sugar levels, and overall well-being.\n\nIf you have not yet scheduled your check-up for this year, please contact our reception at (415) 672-9981 or email us at appointments@silverleafhealth.com. Our medical staff, including Dr. Lucian Frost and Nurse Wren Elias, are available to assist you with your health concerns.\n\nPrioritize your health—book your check-up today!\n\nSilverLeaf Administration",
+        "spans": [
+            {
+                "text": "SilverLeaf Health Center",
+                "label": "HOSP",
+                "id": 0,
+                "start": 7,
+                "end": 31
+            },
+            {
+                "text": "45 Chestnut Vale, Auckland, New Zealand",
+                "label": "LOC",
+                "id": 1,
+                "start": 32,
+                "end": 71
+            },
+            {
+                "text": "March 1, 2025",
+                "label": "DATE",
+                "id": 2,
+                "start": 78,
+                "end": 91
+            },
+            {
+                "text": "SilverLeaf Health Center",
+                "label": "HOSP",
+                "id": 3,
+                "start": 175,
+                "end": 199
+            },
+            {
+                "text": "(415) 672-9981",
+                "label": "PHONE",
+                "id": 4,
+                "start": 532,
+                "end": 546
+            },
+            {
+                "text": "appointments@silverleafhealth.com",
+                "label": "EMAIL",
+                "id": 5,
+                "start": 562,
+                "end": 595
+            },
+            {
+                "text": "Dr. Lucian Frost",
+                "label": "STAFF",
+                "id": 6,
+                "start": 626,
+                "end": 642
+            },
+            {
+                "text": "Nurse Wren Elias",
+                "label": "STAFF",
+                "id": 7,
+                "start": 647,
+                "end": 663
+            },
+            {
+                "text": "SilverLeaf Administration",
+                "label": "ORG",
+                "id": 8,
+                "start": 771,
+                "end": 796
+            }
+        ],
+        "meta": {
+            "note_id": "2122",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Dear Ms. Sylas Thorn,\n\nFollowing your recent check-up at Blue Horizon Medical on March 1, 2025, I am happy to report that your vital signs, cholesterol levels, and BMI are within a healthy range. However, your vitamin D levels were slightly low, so I recommend incorporating more sunlight exposure and dietary sources like fish and dairy. A follow-up test in six months will help monitor improvements. Please reach out at 206 555 2345 or care@bluehorizonmed.com if you have any concerns.\n\nBest regards,\nDr. Lucian Frost",
+        "spans": [
+            {
+                "text": "Ms. Sylas Thorn",
+                "label": "PERSON",
+                "id": 0,
+                "start": 5,
+                "end": 20
+            },
+            {
+                "text": "Blue Horizon Medical",
+                "label": "HOSP",
+                "id": 1,
+                "start": 57,
+                "end": 77
+            },
+            {
+                "text": "March 1, 2025",
+                "label": "DATE",
+                "id": 2,
+                "start": 81,
+                "end": 94
+            },
+            {
+                "text": "six months",
+                "label": "TIMESTAMPS",
+                "id": 3,
+                "start": 359,
+                "end": 369
+            },
+            {
+                "text": "206 555 2345",
+                "label": "PHONE",
+                "id": 4,
+                "start": 422,
+                "end": 434
+            },
+            {
+                "text": "care@bluehorizonmed.com",
+                "label": "EMAIL",
+                "id": 5,
+                "start": 438,
+                "end": 461
+            },
+            {
+                "text": "Dr. Lucian Frost",
+                "label": "STAFF",
+                "id": 6,
+                "start": 503,
+                "end": 519
+            }
+        ],
+        "meta": {
+            "note_id": "2123",
+            "sl_context": "false"
+        }
+    },
+    {
+        "sentence": "Prioritize Your Health with a Routine Check-up!\n\nYour health is your greatest asset! Regular check-ups help detect potential health issues early, ensuring a healthier and longer life. Whether it's monitoring blood pressure, checking cholesterol, or discussing lifestyle improvements, a simple visit can make a big difference.\n\nBook your appointment today at Riverstone Health Center! Our expert team, including Dr. Amelia Chen and Nurse Liam Carter, is here to guide you on your wellness journey.\n\nLocation: 120 Yellow Avenue, Chicago, IL\nCall us: (312) 555-7890\nEmail: care@riverstonehealth.com",
+        "spans": [
+            {
+                "text": "Riverstone Health Center",
+                "label": "HOSP",
+                "id": 0,
+                "start": 358,
+                "end": 382
+            },
+            {
+                "text": "Dr. Amelia Chen",
+                "label": "STAFF",
+                "id": 1,
+                "start": 411,
+                "end": 426
+            },
+            {
+                "text": "Nurse Liam Carter",
+                "label": "STAFF",
+                "id": 2,
+                "start": 431,
+                "end": 448
+            },
+            {
+                "text": "120 Yellow Avenue, Chicago, IL",
+                "label": "LOC",
+                "id": 3,
+                "start": 508,
+                "end": 538
+            },
+            {
+                "text": "(312) 555-7890",
+                "label": "PHONE",
+                "id": 4,
+                "start": 548,
+                "end": 562
+            },
+            {
+                "text": "care@riverstonehealth.com",
+                "label": "EMAIL",
+                "id": 5,
+                "start": 570,
+                "end": 595
+            }
+        ],
+        "meta": {
+            "note_id": "2124",
+            "sl_context": "false"
+        }
     }
 ]
