@@ -378,7 +378,7 @@
         ]
     },
     {
-        "sentence": "The hospital's charity drive collected \u20ac20,000 from European donors, $10,000 from the US, and \u00a52,000,000 from Japanese contributors.",
+        "sentence": "The hospital's charity drive collected €20,000 from European donors, $10,000 from the US, and ¥2,000,000 from Japanese contributors.",
         "meta": {
             "note_id": 11
         },
@@ -1040,7 +1040,7 @@
         ]
     },
     {
-        "sentence": "Our physician office business for medical and laboratory products is now part of Henry Schein Medical \u2014 the world\u2019s largest provider of health care products and services for office-based medical, dental, and animal health practitioners.",
+        "sentence": "Our physician office business for medical and laboratory products is now part of Henry Schein Medical — the world’s largest provider of health care products and services for office-based medical, dental, and animal health practitioners.",
         "spans": [
             {
                 "id": 0,
@@ -1144,7 +1144,7 @@
         ]
     },
     {
-        "sentence": "While Sahan, who made that journey in the same year and at the same age as his protagonist, concedes in an author\u2019s note that the novel \u201cuses the colouring and locations of memoir and autobiography,\u201d",
+        "sentence": "While Sahan, who made that journey in the same year and at the same age as his protagonist, concedes in an author’s note that the novel “uses the colouring and locations of memoir and autobiography,”",
         "spans": [
             {
                 "id": 0,
@@ -1396,7 +1396,7 @@
         ]
     },
     {
-        "sentence": "India\u2019s Corruption Curse\n\nNEW DELHI \u2013 Is corruption crippling India? At first glance, such a question seems absurd.",
+        "sentence": "India’s Corruption Curse\n\nNEW DELHI – Is corruption crippling India? At first glance, such a question seems absurd.",
         "spans": [
             {
                 "id": 0,
@@ -1874,7 +1874,7 @@
         ]
     },
     {
-        "sentence": "Devon, nicknamed \u201cMynah,\u201d is a passenger on the Oronsay, a converted World War II troop ship, on his way to reunite with his divorced mother and continue his education.",
+        "sentence": "Devon, nicknamed “Mynah,” is a passenger on the Oronsay, a converted World War II troop ship, on his way to reunite with his divorced mother and continue his education.",
         "spans": [
             {
                 "id": 0,
@@ -2794,7 +2794,7 @@
         ]
     },
     {
-        "sentence": "At Cedars-Sinai Medical Center in Los Angeles, nurse Robert Chen spent his 40th birthday on July 22, 2021, treating COVID-19 patients. His wife and children had planned a surprise party, but instead, they sent him a video message, knowing he wouldn't be able to come home due to the risk of infection. Meanwhile, in Milan, Italy, San Raffaele Hospital, one of the country\u2019s leading medical centers, was struggling with a massive influx of cases. Italy was among the hardest-hit countries in the early months of the pandemic, and doctors there had to make difficult decisions about which patients would receive ventilators due to limited resources.",
+        "sentence": "At Cedars-Sinai Medical Center in Los Angeles, nurse Robert Chen spent his 40th birthday on July 22, 2021, treating COVID-19 patients. His wife and children had planned a surprise party, but instead, they sent him a video message, knowing he wouldn't be able to come home due to the risk of infection. Meanwhile, in Milan, Italy, San Raffaele Hospital, one of the country’s leading medical centers, was struggling with a massive influx of cases. Italy was among the hardest-hit countries in the early months of the pandemic, and doctors there had to make difficult decisions about which patients would receive ventilators due to limited resources.",
         "spans": [
             {
                 "label": "HOSP",
@@ -3192,7 +3192,7 @@
         ]
     },
     {
-        "sentence": "Innovation has always been the driving force behind technological advancements. FutureTech Corp, founded by Jonathan Reynolds on April 12, 1995, has become one of the leading tech companies in the AI and robotics industry. This explores the company's growth, key figures, and its impact on modern technology.\n\nThe Foundation of FutureTech Corp\n\nJonathan Reynolds, born on September 7, 1970, in San Francisco, had a vision of integrating AI into daily life. After graduating from Stanford University in 1992 with a degree in Computer Science, he founded FutureTech Corp (www.futuretechcorp.com) at the age of 25. His co-founder, Emily Carter (born March 15, 1973), an MIT-educated engineer, played a crucial role in shaping the company\u2019s product line.\n\nMajor Milestones and Achievements\n\n1. 1997 - First AI Prototype\n   - The company released its first AI-powered assistant, SmartCore, on June 10, 1997.\n   - The technology was showcased at the International Tech Expo in New York City.\n\n2. 2005 - Expansion to Robotics\n   - FutureTech launched RoboHelper, a home assistant robot, on February 20, 2005.\n   - By the end of the year, over 100,000 units were sold worldwide.\n\n3. 2015 - Breakthrough in Autonomous Vehicles\n   - Partnered with AutoDrive Inc. to develop AI-based self-driving technology.\n   - On August 8, 2015, FutureTech\u2019s first autonomous vehicle completed a test drive across California.\n\n4. 2023 - AI Integration in Healthcare\n   - Introduced MedBot, an AI-driven healthcare assistant, on October 5, 2023.\n   - Used in over 200 hospitals across the U.S. within the first six months.",
+        "sentence": "Innovation has always been the driving force behind technological advancements. FutureTech Corp, founded by Jonathan Reynolds on April 12, 1995, has become one of the leading tech companies in the AI and robotics industry. This explores the company's growth, key figures, and its impact on modern technology.\n\nThe Foundation of FutureTech Corp\n\nJonathan Reynolds, born on September 7, 1970, in San Francisco, had a vision of integrating AI into daily life. After graduating from Stanford University in 1992 with a degree in Computer Science, he founded FutureTech Corp (www.futuretechcorp.com) at the age of 25. His co-founder, Emily Carter (born March 15, 1973), an MIT-educated engineer, played a crucial role in shaping the company’s product line.\n\nMajor Milestones and Achievements\n\n1. 1997 - First AI Prototype\n   - The company released its first AI-powered assistant, SmartCore, on June 10, 1997.\n   - The technology was showcased at the International Tech Expo in New York City.\n\n2. 2005 - Expansion to Robotics\n   - FutureTech launched RoboHelper, a home assistant robot, on February 20, 2005.\n   - By the end of the year, over 100,000 units were sold worldwide.\n\n3. 2015 - Breakthrough in Autonomous Vehicles\n   - Partnered with AutoDrive Inc. to develop AI-based self-driving technology.\n   - On August 8, 2015, FutureTech’s first autonomous vehicle completed a test drive across California.\n\n4. 2023 - AI Integration in Healthcare\n   - Introduced MedBot, an AI-driven healthcare assistant, on October 5, 2023.\n   - Used in over 200 hospitals across the U.S. within the first six months.",
         "spans": [
             {
                 "label": "ORG",
@@ -3849,7 +3849,7 @@
         ]
     },
     {
-        "sentence": "The global health research project received funding of \u00a32,000,000 from the UK government and an additional \u00a5300,000,000 from Japan.",
+        "sentence": "The global health research project received funding of £2,000,000 from the UK government and an additional ¥300,000,000 from Japan.",
         "meta": {
             "note_id": 136
         },
@@ -5047,7 +5047,7 @@
         ]
     },
     {
-        "sentence": "Instead, he sought to bring justice and self-determination for Sri Lanka\u2019s Tamil minority through negotiation and constitutional reform. In Sri Lanka, he was an elected parliamentarian and the founder of two major think tanks.",
+        "sentence": "Instead, he sought to bring justice and self-determination for Sri Lanka’s Tamil minority through negotiation and constitutional reform. In Sri Lanka, he was an elected parliamentarian and the founder of two major think tanks.",
         "spans": [
             {
                 "id": 0,
@@ -5424,7 +5424,7 @@
         ]
     },
     {
-        "sentence": "But to a rough order of magnitude, the moral stakes can be reduced to a single act of terrorist savagery that took place on July 29, 1999 \u2014 the day Ameer Singh was blown out the side of his Nissan sedan by a female suicide bomber riding a moped.",
+        "sentence": "But to a rough order of magnitude, the moral stakes can be reduced to a single act of terrorist savagery that took place on July 29, 1999 — the day Ameer Singh was blown out the side of his Nissan sedan by a female suicide bomber riding a moped.",
         "spans": [
             {
                 "id": 0,
@@ -5454,7 +5454,7 @@
         }
     },
     {
-        "sentence": "A research article on Alzheimer\u2019s treatment breakthroughs was published by Harvard Medical School at https://www.harvard.edu/alzheimers-research on January 8, 2024.",
+        "sentence": "A research article on Alzheimer’s treatment breakthroughs was published by Harvard Medical School at https://www.harvard.edu/alzheimers-research on January 8, 2024.",
         "meta": {
             "note_id": 194,
             "sl_context": "false"
@@ -6130,7 +6130,7 @@
         ]
     },
     {
-        "sentence": "I\u2019ve been having a really bad headache since this morning.It started about six hours ago, and I\u2019ve had migraines before, but this one feels worse. I didn\u2019t sleep well last night, so maybe that triggered it.",
+        "sentence": "I’ve been having a really bad headache since this morning.It started about six hours ago, and I’ve had migraines before, but this one feels worse. I didn’t sleep well last night, so maybe that triggered it.",
         "spans": [
             {
                 "id": 0,
@@ -6160,7 +6160,7 @@
         }
     },
     {
-        "sentence": "While in office, he launched the first free-trade agreement (with Sri Lanka) in South Asia\u2019s history, initiated India\u2019s most daring diploma\u2026",
+        "sentence": "While in office, he launched the first free-trade agreement (with Sri Lanka) in South Asia’s history, initiated India’s most daring diploma…",
         "spans": [
             {
                 "id": 0,
@@ -6307,7 +6307,7 @@
         ]
     },
     {
-        "sentence": "Leadership and Workforce\n\nAs of 2025, FutureTech Corp employs over 5,000 professionals worldwide. CEO Jonathan Reynolds (email: jonathan.reynolds@futuretechcorp.com) continues to lead the company, with CTO Emily Carter (email: emily.carter@futuretechcorp.com) spearheading technological developments.\n\nThe Future of FutureTech Corp\n\nWith continued investment in AI and robotics, FutureTech Corp aims to revolutionize industries such as transportation, healthcare, and education. The company\u2019s next major event is scheduled for September 15, 2025, at the Global AI Summit in London.\n\nFor more information, visit www.futuretechcorp.com or contact press@futuretechcorp.com.",
+        "sentence": "Leadership and Workforce\n\nAs of 2025, FutureTech Corp employs over 5,000 professionals worldwide. CEO Jonathan Reynolds (email: jonathan.reynolds@futuretechcorp.com) continues to lead the company, with CTO Emily Carter (email: emily.carter@futuretechcorp.com) spearheading technological developments.\n\nThe Future of FutureTech Corp\n\nWith continued investment in AI and robotics, FutureTech Corp aims to revolutionize industries such as transportation, healthcare, and education. The company’s next major event is scheduled for September 15, 2025, at the Global AI Summit in London.\n\nFor more information, visit www.futuretechcorp.com or contact press@futuretechcorp.com.",
         "spans": [
             {
                 "label": "DATE",
@@ -6766,7 +6766,7 @@
         ]
     },
     {
-        "sentence": "When police spoke to Meena at his residence, he allegedly said he let his cousin borrow his bicycle and cell phone 20 minutes prior to police arriving. Meena\u2019s cousin was not home when police attempted to talk to him but found out he works at Country Fair in Paint Township.",
+        "sentence": "When police spoke to Meena at his residence, he allegedly said he let his cousin borrow his bicycle and cell phone 20 minutes prior to police arriving. Meena’s cousin was not home when police attempted to talk to him but found out he works at Country Fair in Paint Township.",
         "spans": [
             {
                 "id": 0,
@@ -7485,7 +7485,7 @@
         ]
     },
     {
-        "sentence": "A panicked mother, Alden Ray carried her 4 years young son into Kayts Urgent Care, his forehead bleeding after a fall at the park. Housekeeper Dorian Tran gently calmed the child while surgeon, Mark Lively examined the wound. It was deep enough for stitches, but nothing more serious. While preparing the sutures, the doctor distracted the boy with jokes about superheroes. Alden sighed in relief, holding her son\u2019s hand as she quickly replied to a text from her husband, 'He\u2019s going to be okay.'",
+        "sentence": "A panicked mother, Alden Ray carried her 4 years young son into Kayts Urgent Care, his forehead bleeding after a fall at the park. Housekeeper Dorian Tran gently calmed the child while surgeon, Mark Lively examined the wound. It was deep enough for stitches, but nothing more serious. While preparing the sutures, the doctor distracted the boy with jokes about superheroes. Alden sighed in relief, holding her son’s hand as she quickly replied to a text from her husband, 'He’s going to be okay.'",
         "spans": [
             {
                 "text": "Alden Ray",
@@ -8117,7 +8117,7 @@
         ]
     },
     {
-        "sentence": "NOTICE\nSilverLeaf Health Center\n45 Chestnut Vale, Auckland, New Zealand\nDate: March 1, 2025\n\nSubject: Annual Health Check-up Reminder\n\nDear Patients,\n\nThis is a reminder that SilverLeaf Health Center encourages all patients to schedule their annual health check-ups to ensure early detection and prevention of potential health issues. Regular screenings help monitor blood pressure, cholesterol, blood sugar levels, and overall well-being.\n\nIf you have not yet scheduled your check-up for this year, please contact our reception at (415) 672-9981 or email us at appointments@silverleafhealth.com. Our medical staff, including Dr. Lucian Frost and Nurse Wren Elias, are available to assist you with your health concerns.\n\nPrioritize your health\u2014book your check-up today!\n\nSilverLeaf Administration",
+        "sentence": "NOTICE\nSilverLeaf Health Center\n45 Chestnut Vale, Auckland, New Zealand\nDate: March 1, 2025\n\nSubject: Annual Health Check-up Reminder\n\nDear Patients,\n\nThis is a reminder that SilverLeaf Health Center encourages all patients to schedule their annual health check-ups to ensure early detection and prevention of potential health issues. Regular screenings help monitor blood pressure, cholesterol, blood sugar levels, and overall well-being.\n\nIf you have not yet scheduled your check-up for this year, please contact our reception at (415) 672-9981 or email us at appointments@silverleafhealth.com. Our medical staff, including Dr. Lucian Frost and Nurse Wren Elias, are available to assist you with your health concerns.\n\nPrioritize your health—book your check-up today!\n\nSilverLeaf Administration",
         "spans": [
             {
                 "text": "SilverLeaf Health Center",
@@ -8319,7 +8319,7 @@
         }
     },
     {
-        "sentence": "In the United States, he taught at Harvard University, enlightening Western students about human-rights abuses committed in Sri Lanka \u2014 by the nation\u2019s military.",
+        "sentence": "In the United States, he taught at Harvard University, enlightening Western students about human-rights abuses committed in Sri Lanka — by the nation’s military.",
         "spans": [
             {
                 "id": 0,
@@ -8626,7 +8626,7 @@
         ]
     },
     {
-        "sentence": "Last Friday, Bellevue Hospital in New York City successfully performed its first xenotransplantation surgery, transplanting a genetically modified pig kidney into 45-year-old Thomas Reynolds, who had end-stage renal failure. The procedure, led by Dr. Priya Mehta, marks a significant milestone in transplant medicine. Reynolds, who had been on dialysis for six years, is recovering well. Bellevue\u2019s transplant unit can be reached at transplant@bellevuehosp.org or (212) 562-4141. The case ID for this pioneering surgery is BX-2024-7631.",
+        "sentence": "Last Friday, Bellevue Hospital in New York City successfully performed its first xenotransplantation surgery, transplanting a genetically modified pig kidney into 45-year-old Thomas Reynolds, who had end-stage renal failure. The procedure, led by Dr. Priya Mehta, marks a significant milestone in transplant medicine. Reynolds, who had been on dialysis for six years, is recovering well. Bellevue’s transplant unit can be reached at transplant@bellevuehosp.org or (212) 562-4141. The case ID for this pioneering surgery is BX-2024-7631.",
         "meta": {
             "note_id": 304
         },
@@ -8924,7 +8924,7 @@
         ]
     },
     {
-        "sentence": "To calculate BMI for a person weighing 70 kg and standing 1.75 meters tall, use the formula: BMI = Weight \u00f7 (Height * Height). Here, BMI = 70 \u00f7 (1.75 * 1.75) = 22.86.",
+        "sentence": "To calculate BMI for a person weighing 70 kg and standing 1.75 meters tall, use the formula: BMI = Weight ÷ (Height * Height). Here, BMI = 70 ÷ (1.75 * 1.75) = 22.86.",
         "meta": {
             "note_id": 314
         },
@@ -9145,7 +9145,7 @@
         ]
     },
     {
-        "sentence": "At Cedars-Sinai Medical Center, a pediatric surgeon, Dr. Emily Foster, was on standby as reports indicated a 7 year old child, Liam Rodriguez, was among the injured. The child\u2019s parents, Maria and Carlos Rodriguez, anxiously waited in the emergency department as hospital staff reassured them.\nMeanwhile, at Stanford Health Care in Palo Alto, California, a neurology team analyzed brain scans of a critically injured motorcyclist, Brandon Lee, who had suffered a severe traumatic brain injury (TBI). His case was forwarded to the National Institute of Neurological Disorders and Stroke (NINDS) for further study.\nThe U.S. Department of Transportation later released a safety report detailing an increase in highway accidents due to distracted driving",
+        "sentence": "At Cedars-Sinai Medical Center, a pediatric surgeon, Dr. Emily Foster, was on standby as reports indicated a 7 year old child, Liam Rodriguez, was among the injured. The child’s parents, Maria and Carlos Rodriguez, anxiously waited in the emergency department as hospital staff reassured them.\nMeanwhile, at Stanford Health Care in Palo Alto, California, a neurology team analyzed brain scans of a critically injured motorcyclist, Brandon Lee, who had suffered a severe traumatic brain injury (TBI). His case was forwarded to the National Institute of Neurological Disorders and Stroke (NINDS) for further study.\nThe U.S. Department of Transportation later released a safety report detailing an increase in highway accidents due to distracted driving",
         "spans": [
             {
                 "label": "HOSP",
@@ -9923,7 +9923,7 @@
         ]
     },
     {
-        "sentence": "Late at night, Alaric Rowan stumbled into the ER at Hendala Leprosy Hospital, clutching his chest and gasping for breath. Anesthesiologist, Alaric quickly assessed him, suspecting a heart attack. With his history of high cholesterol and smoking, the team wasted no time\u2014Cardiologist, Balthazar prepped him for an urgent ECG while Dr. Alaric explained the situation to his wife, Anna Rowan, who had rushed in from their home at 223 Misty Ridge Drive, Bastrop. As the monitors beeped steadily, the doctor reassured her, \"We're doing everything we can.\"",
+        "sentence": "Late at night, Alaric Rowan stumbled into the ER at Hendala Leprosy Hospital, clutching his chest and gasping for breath. Anesthesiologist, Alaric quickly assessed him, suspecting a heart attack. With his history of high cholesterol and smoking, the team wasted no time—Cardiologist, Balthazar prepped him for an urgent ECG while Dr. Alaric explained the situation to his wife, Anna Rowan, who had rushed in from their home at 223 Misty Ridge Drive, Bastrop. As the monitors beeped steadily, the doctor reassured her, \"We're doing everything we can.\"",
         "spans": [
             {
                 "text": "Alaric Rowan",
@@ -10256,7 +10256,7 @@
         ]
     },
     {
-        "sentence": "New Zealand\u2019s economy continues its robust 8.5-9% annual GDP growth, a figure that is the envy of many.",
+        "sentence": "New Zealand’s economy continues its robust 8.5-9% annual GDP growth, a figure that is the envy of many.",
         "spans": [
             {
                 "id": 0,
@@ -10559,7 +10559,7 @@
         ]
     },
     {
-        "sentence": "its 11 years old narrator introduced in the course of a three-week journey to a cast of colorful, enigmatic characters and to a glimpse of the mysteries of the adult world. \"There\u2019s a strong sense that this story --- one with echoes of Conrad and Kipling --- is a tale Franck Lucifer someday was destined to tell.\"",
+        "sentence": "its 11 years old narrator introduced in the course of a three-week journey to a cast of colorful, enigmatic characters and to a glimpse of the mysteries of the adult world. \"There’s a strong sense that this story --- one with echoes of Conrad and Kipling --- is a tale Franck Lucifer someday was destined to tell.\"",
         "spans": [
             {
                 "id": 0,
@@ -10603,7 +10603,7 @@
         }
     },
     {
-        "sentence": "At approximately 3:15 PM, 45-year-old David K. Harper was admitted to Summit Regional Hospital after a traumatic fall from a ladder at his home on 1024 Albert Lane, CA. The emergency team, spearheaded by Dr. Jimmy Grant and assisted by Nurse Benedict Brooks, quickly assessed his injuries, which included a fractured femur and a mild concussion. David\u2019s daughter, Jennifer Harper, was notified at (555) 321-6547 and provided with updates via email at jennifer.harper@email.com. Summit Regional\u2019s trauma unit worked in tandem with Albert Lane Orthopedic Associates to ensure David received prompt surgical intervention and a tailored rehabilitation plan.",
+        "sentence": "At approximately 3:15 PM, 45-year-old David K. Harper was admitted to Summit Regional Hospital after a traumatic fall from a ladder at his home on 1024 Albert Lane, CA. The emergency team, spearheaded by Dr. Jimmy Grant and assisted by Nurse Benedict Brooks, quickly assessed his injuries, which included a fractured femur and a mild concussion. David’s daughter, Jennifer Harper, was notified at (555) 321-6547 and provided with updates via email at jennifer.harper@email.com. Summit Regional’s trauma unit worked in tandem with Albert Lane Orthopedic Associates to ensure David received prompt surgical intervention and a tailored rehabilitation plan.",
         "spans": [
             {
                 "text": "3:15 PM",
@@ -10676,7 +10676,7 @@
                 "end": 476
             },
             {
-                "text": "Summit Regional\u2019s trauma unit",
+                "text": "Summit Regional’s trauma unit",
                 "label": "ORG",
                 "id": 10,
                 "start": 478,
@@ -10887,7 +10887,7 @@
         ]
     },
     {
-        "sentence": "My daughter, Isabella Chase, is running a high fever of 102 \u00c2\u00b0F.",
+        "sentence": "My daughter, Isabella Chase, is running a high fever of 102 Â°F.",
         "meta": {
             "note_id": 388
         },
@@ -11285,7 +11285,7 @@
         ]
     },
     {
-        "sentence": "Want to understand the latest trends in mental health? A compelling study is available\u2014visit psychologytodayresearch.com for the full report.",
+        "sentence": "Want to understand the latest trends in mental health? A compelling study is available—visit psychologytodayresearch.com for the full report.",
         "meta": {
             "note_id": 400,
             "sl_context": "false"
@@ -11490,7 +11490,7 @@
         ]
     },
     {
-        "sentence": "During a community marathon event on 1010 Sandstone Road, Manhattan, a marathon runner Kevin R. Sharuk collapsed due to severe heatstroke. He was rushed to Apex Health Clinic, where Dr. Hannah Morales and Nurse Katie Simmons initiated rapid cooling measures and IV rehydration. Kevin\u2019s emergency contact, his partner Melissa Carter, was reached at (398) 876-5432 and updated via email at mls.carter@email.com. Jhon Stuward Clinic worked with Aridville Sports Medicine Group to educate him on heatstroke prevention and ensure a safe recovery process.",
+        "sentence": "During a community marathon event on 1010 Sandstone Road, Manhattan, a marathon runner Kevin R. Sharuk collapsed due to severe heatstroke. He was rushed to Apex Health Clinic, where Dr. Hannah Morales and Nurse Katie Simmons initiated rapid cooling measures and IV rehydration. Kevin’s emergency contact, his partner Melissa Carter, was reached at (398) 876-5432 and updated via email at mls.carter@email.com. Jhon Stuward Clinic worked with Aridville Sports Medicine Group to educate him on heatstroke prevention and ensure a safe recovery process.",
         "spans": [
             {
                 "text": "1010 Sandstone Road, Manhattan",
@@ -12113,7 +12113,7 @@
         ]
     },
     {
-        "sentence": "On February 20, 2024, Sarah Thompson received a billing statement from National Health Insurance. The document, identified by reference number 302451, outlines a total charge of $3,500 for services provided at St. Mary\u2019s Medical Center. Sarah can contact the billing department at 1-800-555-3344 for more information.",
+        "sentence": "On February 20, 2024, Sarah Thompson received a billing statement from National Health Insurance. The document, identified by reference number 302451, outlines a total charge of $3,500 for services provided at St. Mary’s Medical Center. Sarah can contact the billing department at 1-800-555-3344 for more information.",
         "meta": {
             "note_id": 425
         },
@@ -12148,7 +12148,7 @@
             },
             {
                 "label": "HOSP",
-                "text": "St. Mary\u2019s Medical Center",
+                "text": "St. Mary’s Medical Center",
                 "id": 4,
                 "start": 210,
                 "end": 235
@@ -12967,7 +12967,7 @@
         ]
     },
     {
-        "sentence": "A number of vitamins have distinct vitamers of distinct biological potencies. Like the biological international unit, the IU for vitamins is also an arbitrary number that cannot be interconverted among different types of activities. By 1934, the World Health Organization had already defined the international units for vitamins A, B1, C, and D.\n\nUnlike biologic preparations, small molecules like vitamins can be very easily purified to yield products that are equivalent in potency. As a result, a simple mass conversion (as opposed to an assay) suffices to obtain the IU:\n\n1 IU Vitamin A = 0.3 \u03bcg retinol (~0.1 nmol) = 0.6 \u03bcg beta-carotene\n1 IU Vitamin D = 0.025 \u03bcg D2/D3 \u2248 0.65 pmol\n1 IU Vitamin E = 2\u20443 mg d-alpha-tocopherol = 0.90 mg of dl-alpha-tocopherol",
+        "sentence": "A number of vitamins have distinct vitamers of distinct biological potencies. Like the biological international unit, the IU for vitamins is also an arbitrary number that cannot be interconverted among different types of activities. By 1934, the World Health Organization had already defined the international units for vitamins A, B1, C, and D.\n\nUnlike biologic preparations, small molecules like vitamins can be very easily purified to yield products that are equivalent in potency. As a result, a simple mass conversion (as opposed to an assay) suffices to obtain the IU:\n\n1 IU Vitamin A = 0.3 μg retinol (~0.1 nmol) = 0.6 μg beta-carotene\n1 IU Vitamin D = 0.025 μg D2/D3 ≈ 0.65 pmol\n1 IU Vitamin E = 2⁄3 mg d-alpha-tocopherol = 0.90 mg of dl-alpha-tocopherol",
         "meta": {
             "note_id": 453
         },
@@ -13790,7 +13790,7 @@
         }
     },
     {
-        "sentence": "Nurse Megan Jenkins contacted the patient\u2019s family at +1-415-832-5678 to provide updates about the recovery process at St. Mary\u2019s Hospital.",
+        "sentence": "Nurse Megan Jenkins contacted the patient’s family at +1-415-832-5678 to provide updates about the recovery process at St. Mary’s Hospital.",
         "meta": {
             "note_id": 480,
             "sl_context": "false"
@@ -13812,7 +13812,7 @@
             },
             {
                 "label": "HOSP",
-                "text": "St. Mary\u2019s Hospital",
+                "text": "St. Mary’s Hospital",
                 "id": 2,
                 "start": 119,
                 "end": 138
@@ -14706,7 +14706,7 @@
         "spans": []
     },
     {
-        "sentence": "Fasting blood sugar\nA level below 5.6 mmol/L (100 mg/dL) 10\u201316 hours without eating is normal. 5.6\u20136 mmol/L (100\u2013109 mg/dL) may indicate prediabetes and oral glucose tolerance test (OGTT) should be offered to high-risk individuals (old people, those with high blood pressure etc.). 6.1\u20136.9 mmol/L (110\u2013125 mg/dL) means OGTT should be offered even if other indicators of diabetes are not present. 7 mmol/L (126 mg/dL) and above indicates diabetes and the fasting test should be repeated.",
+        "sentence": "Fasting blood sugar\nA level below 5.6 mmol/L (100 mg/dL) 10–16 hours without eating is normal. 5.6–6 mmol/L (100–109 mg/dL) may indicate prediabetes and oral glucose tolerance test (OGTT) should be offered to high-risk individuals (old people, those with high blood pressure etc.). 6.1–6.9 mmol/L (110–125 mg/dL) means OGTT should be offered even if other indicators of diabetes are not present. 7 mmol/L (126 mg/dL) and above indicates diabetes and the fasting test should be repeated.",
         "meta": {
             "note_id": 512
         },
@@ -16511,7 +16511,7 @@
         ]
     },
     {
-        "sentence": "Dr. Karen Mitchell prescribed new medication for patient Olivia Parker at Harmony Family Clinic on June 5, 2023. Olivia\u2019s prescription details were sent via email to oparker@harmonyclinic.com for future reference and record-keeping.",
+        "sentence": "Dr. Karen Mitchell prescribed new medication for patient Olivia Parker at Harmony Family Clinic on June 5, 2023. Olivia’s prescription details were sent via email to oparker@harmonyclinic.com for future reference and record-keeping.",
         "meta": {
             "note_id": 573
         },
@@ -17414,10 +17414,10 @@
         }
     },
     {
-        "sentence": "At BrightCare Children\u2019s Clinic, chief medical officer, Anna Neels attended to Trisha Okinawa, a six years old girl brought in by her mother, Supuni Clarkson, after experiencing recurrent seizures at their home at 78 Ridgeway Street, Newford. The child's vitals were unstable, and immediate administration of Midazolan IV was required. Attendant Jacob Linwood coordinated with the neurology department at Newford Medical Center for further evaluation. The mother was informed via karenclarkson_88@medmail.org.",
+        "sentence": "At BrightCare Children’s Clinic, chief medical officer, Anna Neels attended to Trisha Okinawa, a six years old girl brought in by her mother, Supuni Clarkson, after experiencing recurrent seizures at their home at 78 Ridgeway Street, Newford. The child's vitals were unstable, and immediate administration of Midazolan IV was required. Attendant Jacob Linwood coordinated with the neurology department at Newford Medical Center for further evaluation. The mother was informed via karenclarkson_88@medmail.org.",
         "spans": [
             {
-                "text": "BrightCare Children\u2019s Clinic",
+                "text": "BrightCare Children’s Clinic",
                 "label": "HOSP",
                 "id": 0,
                 "start": 3,
@@ -17839,7 +17839,7 @@
         ]
     },
     {
-        "sentence": "According to official hospital records, the last recorded case of smallpox was treated on 1995-07-04, marking the disease\u2019s near eradication.",
+        "sentence": "According to official hospital records, the last recorded case of smallpox was treated on 1995-07-04, marking the disease’s near eradication.",
         "meta": {
             "note_id": 626,
             "sl_context": "false"
@@ -18597,7 +18597,7 @@
         ]
     },
     {
-        "sentence": "On the evening of August 15, 2023, Los Angeles General Medical Center received an urgent call from paramedics about a multi-vehicle collision on Interstate 405. Within minutes, Dr. Michael Reynolds, the hospital\u2019s trauma specialist, along with a team of nurses and paramedics, prepared for the arrival of the injured. Emergency responders from the Los Angeles Fire Department (LAFD) and American Red Cross were already at the crash site, stabilizing victims before transportation. The California Highway Patrol (CHP) had blocked off a section of the freeway to allow ambulances to move freely. Among the victims was Sarah Thompson, a 35 old school teacher who suffered a fractured leg and a mild concussion. Another patient, James Carter, a 50 year old truck driver, had multiple rib fractures and internal bleeding.",
+        "sentence": "On the evening of August 15, 2023, Los Angeles General Medical Center received an urgent call from paramedics about a multi-vehicle collision on Interstate 405. Within minutes, Dr. Michael Reynolds, the hospital’s trauma specialist, along with a team of nurses and paramedics, prepared for the arrival of the injured. Emergency responders from the Los Angeles Fire Department (LAFD) and American Red Cross were already at the crash site, stabilizing victims before transportation. The California Highway Patrol (CHP) had blocked off a section of the freeway to allow ambulances to move freely. Among the victims was Sarah Thompson, a 35 old school teacher who suffered a fractured leg and a mild concussion. Another patient, James Carter, a 50 year old truck driver, had multiple rib fractures and internal bleeding.",
         "spans": [
             {
                 "label": "TIMESTAMPS",
@@ -19555,7 +19555,7 @@
         ]
     },
     {
-        "sentence": "Adults \u2265 18 years old admitted from the emergency department (ED) in 2015. Demographics, Sequential Organ Failure Assessment (SOFA) scores, and clinical parameters documenting the effects and hospital course.",
+        "sentence": "Adults ≥ 18 years old admitted from the emergency department (ED) in 2015. Demographics, Sequential Organ Failure Assessment (SOFA) scores, and clinical parameters documenting the effects and hospital course.",
         "spans": [
             {
                 "id": 0,
@@ -21901,7 +21901,7 @@
         ]
     },
     {
-        "sentence": "Michael Ondaatje\u2019s new novel is an evocative tale of a strange and wondrous sea voyage from Sri Lanka to England in 1954.",
+        "sentence": "Michael Ondaatje’s new novel is an evocative tale of a strange and wondrous sea voyage from Sri Lanka to England in 1954.",
         "spans": [
             {
                 "id": 0,
@@ -22266,7 +22266,7 @@
         ]
     },
     {
-        "sentence": "Physical Examination\nVital Signs:\n\nBlood Pressure: 150/90 mmHg\nHeart Rate: 92 bpm\nRespiratory Rate: 20/min\nTemperature: 98.6\u00b0F\nGeneral Appearance:\n\nAlert, cooperative, mildly obese\nCardiovascular:\n\nRegular rhythm, no murmurs, S1 and S2 audible\nPeripheral pulses intact\nRespiratory:\n\nClear breath sounds bilaterally, no wheezes or crackles\nAbdomen:\n\nSoft, non-tender, no masses\nNeurological:\n\nCranial nerves intact, normal reflexes",
+        "sentence": "Physical Examination\nVital Signs:\n\nBlood Pressure: 150/90 mmHg\nHeart Rate: 92 bpm\nRespiratory Rate: 20/min\nTemperature: 98.6°F\nGeneral Appearance:\n\nAlert, cooperative, mildly obese\nCardiovascular:\n\nRegular rhythm, no murmurs, S1 and S2 audible\nPeripheral pulses intact\nRespiratory:\n\nClear breath sounds bilaterally, no wheezes or crackles\nAbdomen:\n\nSoft, non-tender, no masses\nNeurological:\n\nCranial nerves intact, normal reflexes",
         "meta": {
             "note_id": 992
         },
@@ -23277,7 +23277,7 @@
         ]
     },
     {
-        "sentence": "B. S. Perera Balasuriyage Steven Perera (born 31 March 1924 \u2013 died 24 June 1982) [Sinhala]), popularly as B. S. Perera, was an award-winning actor in Sri Lankan cinema and theater as well as a director and singer.",
+        "sentence": "B. S. Perera Balasuriyage Steven Perera (born 31 March 1924 – died 24 June 1982) [Sinhala]), popularly as B. S. Perera, was an award-winning actor in Sri Lankan cinema and theater as well as a director and singer.",
         "spans": [
             {
                 "id": 0,
@@ -23314,7 +23314,7 @@
         }
     },
     {
-        "sentence": "In 2010, my friend Kari Francis was invited to perform with Imogen Heap at Humphrey's by the Bay in San Diego for her \"Earth\" project. She had entered a contest via YouTube and when given the news, she invited me to come along as her personal photographer for the event. This was quite the privilege [\u2026]",
+        "sentence": "In 2010, my friend Kari Francis was invited to perform with Imogen Heap at Humphrey's by the Bay in San Diego for her \"Earth\" project. She had entered a contest via YouTube and when given the news, she invited me to come along as her personal photographer for the event. This was quite the privilege […]",
         "meta": {
             "note_id": 1038
         },
@@ -24010,7 +24010,7 @@
         ]
     },
     {
-        "sentence": "Monday, October 15, 2016. For several years, I\u2019ve been an admirer of film director Rudolph Benedict",
+        "sentence": "Monday, October 15, 2016. For several years, I’ve been an admirer of film director Rudolph Benedict",
         "spans": [
             {
                 "id": 0,
@@ -24246,7 +24246,7 @@
         ]
     },
     {
-        "sentence": "In a study of 500 participants, 200 were vaccinated, and 300 were not. If 60 vaccinated individuals fell ill and 150 unvaccinated individuals did, the illness rate is (60 \u00f7 200) * 100 = 30% for vaccinated and (150 \u00f7 300) * 100 = 50% for unvaccinated.",
+        "sentence": "In a study of 500 participants, 200 were vaccinated, and 300 were not. If 60 vaccinated individuals fell ill and 150 unvaccinated individuals did, the illness rate is (60 ÷ 200) * 100 = 30% for vaccinated and (150 ÷ 300) * 100 = 50% for unvaccinated.",
         "meta": {
             "note_id": 1071
         },
@@ -24486,7 +24486,7 @@
         }
     },
     {
-        "sentence": "The new MRI machine costs \u20ac1,200,000 in Germany, but importing it to Sri Lanka adds an additional $150,000 in shipping and taxes.",
+        "sentence": "The new MRI machine costs €1,200,000 in Germany, but importing it to Sri Lanka adds an additional $150,000 in shipping and taxes.",
         "meta": {
             "note_id": 1081
         },
@@ -24683,7 +24683,7 @@
         ]
     },
     {
-        "sentence": "At 09:45 AM on June 30, 2023, Dr. Olivia Parker performed surgery on patient William Smith at St. Joseph\u2019s Hospital. The procedure ID was OP-456123.",
+        "sentence": "At 09:45 AM on June 30, 2023, Dr. Olivia Parker performed surgery on patient William Smith at St. Joseph’s Hospital. The procedure ID was OP-456123.",
         "meta": {
             "note_id": 1087
         },
@@ -24718,7 +24718,7 @@
             },
             {
                 "label": "HOSP",
-                "text": "St. Joseph\u2019s Hospital",
+                "text": "St. Joseph’s Hospital",
                 "id": 4,
                 "start": 94,
                 "end": 115
@@ -25117,7 +25117,7 @@
         ]
     },
     {
-        "sentence": "If a pharmacy receives 1,200 pills and distributes them equally among 300 patients, each receives 1,200 \u00f7 300 = 4 pills. If 50 pills are reserved for emergencies, the remaining stock is 1,200 - 50 = 1,150 pills",
+        "sentence": "If a pharmacy receives 1,200 pills and distributes them equally among 300 patients, each receives 1,200 ÷ 300 = 4 pills. If 50 pills are reserved for emergencies, the remaining stock is 1,200 - 50 = 1,150 pills",
         "meta": {
             "note_id": 1104
         },
@@ -26575,7 +26575,7 @@
         ]
     },
     {
-        "sentence": "Kate allegedly had two long kitchen knives and displayed them in a threatening manner. Liala allegedly held a trash bag over the county and said, \u201cMoney and cigarettes.\u201d",
+        "sentence": "Kate allegedly had two long kitchen knives and displayed them in a threatening manner. Liala allegedly held a trash bag over the county and said, “Money and cigarettes.”",
         "spans": [
             {
                 "id": 0,
@@ -26598,7 +26598,7 @@
         }
     },
     {
-        "sentence": "The smooth new-look exterior is inspired by the 2012 Toyota Track\u2019ster concept and introduces a thoroughly fresh, more grown-up appearance without losing its individualistic edge.",
+        "sentence": "The smooth new-look exterior is inspired by the 2012 Toyota Track’ster concept and introduces a thoroughly fresh, more grown-up appearance without losing its individualistic edge.",
         "spans": [
             {
                 "id": 0,
@@ -28820,7 +28820,7 @@
         ]
     },
     {
-        "sentence": "Johnathan T. Miller, a 58-year-old male, was rushed to Singapore General Hospital after experiencing sudden cardiac arrest at his residence on 5777 E Mayo Blvd, Phoenix, AZ 85054, USA. Dr. Jake Paw, the attending cardiologist, immediately initiated CPR and defibrillation. The emergency team, including Nurse Belly Kurt, successfully stabilized Mr. Miller, who was then transferred to the ICU for further monitoring. His wife, Margaret Miller, was contacted at (234) 234-4356 and provided updates via email at margaret.miller@email.com. The hospital\u2019s rapid response was praised by the Phoenix Medical Group, which oversees cardiac care in the region.",
+        "sentence": "Johnathan T. Miller, a 58-year-old male, was rushed to Singapore General Hospital after experiencing sudden cardiac arrest at his residence on 5777 E Mayo Blvd, Phoenix, AZ 85054, USA. Dr. Jake Paw, the attending cardiologist, immediately initiated CPR and defibrillation. The emergency team, including Nurse Belly Kurt, successfully stabilized Mr. Miller, who was then transferred to the ICU for further monitoring. His wife, Margaret Miller, was contacted at (234) 234-4356 and provided updates via email at margaret.miller@email.com. The hospital’s rapid response was praised by the Phoenix Medical Group, which oversees cardiac care in the region.",
         "spans": [
             {
                 "text": "Johnathan T. Miller",
@@ -30772,7 +30772,7 @@
         ]
     },
     {
-        "sentence": "The emergency management agency told residents to steer clear of the Hustonville area. \u201cIt was impressive, it\u2019s tragic, we hope it doesn\u2019t get worse,\u201d Depp said.",
+        "sentence": "The emergency management agency told residents to steer clear of the Hustonville area. “It was impressive, it’s tragic, we hope it doesn’t get worse,” Depp said.",
         "spans": [
             {
                 "id": 0,
@@ -32046,7 +32046,7 @@
         ]
     },
     {
-        "sentence": "Sophia Anderson\u2019s birthdate is 1992-08-14. She was admitted to Mercy Hospital on December 1, 2023.",
+        "sentence": "Sophia Anderson’s birthdate is 1992-08-14. She was admitted to Mercy Hospital on December 1, 2023.",
         "meta": {
             "note_id": 1356
         },
@@ -32082,7 +32082,7 @@
         ]
     },
     {
-        "sentence": "SEOUL \u2013 Sept 9, 2013: An all-new version of the Kia Soul makes its European debut today at the 65th Internationale Automobil-Ausstellung (IAA) in Frankfurt.",
+        "sentence": "SEOUL – Sept 9, 2013: An all-new version of the Kia Soul makes its European debut today at the 65th Internationale Automobil-Ausstellung (IAA) in Frankfurt.",
         "spans": [
             {
                 "id": 0,
@@ -32253,7 +32253,7 @@
         ]
     },
     {
-        "sentence": "On March 8, 2024, Anthony Russell\u2019s medical case was reviewed by the specialists at Horizon Health Center. The consultation details, recorded under file ID HH-334455, were updated in his electronic medical record for accurate tracking and further examination.",
+        "sentence": "On March 8, 2024, Anthony Russell’s medical case was reviewed by the specialists at Horizon Health Center. The consultation details, recorded under file ID HH-334455, were updated in his electronic medical record for accurate tracking and further examination.",
         "meta": {
             "note_id": 1364
         },
@@ -33162,6 +33162,567 @@
         ]
     },
     {
+        "sentence": "During the consultation at 9:15 AM, Aisling O'Malley, aged 58, mentioned her upcoming appointment with Dr. Caoimhe Flanagan at St. Brigid's Hospital, located in Ballynahown. Her birthdate is 1967-03-12.",
+        "meta": {
+            "note_id": 1401
+        },
+        "spans": [
+            {
+                "label": "TIMESTAMPS",
+                "text": "9:15 AM",
+                "id": 0,
+                "start": 27,
+                "end": 34
+            },
+            {
+                "label": "PERSON",
+                "text": "Aisling O'Malley",
+                "id": 1,
+                "start": 36,
+                "end": 52
+            },
+            {
+                "label": "AGE",
+                "text": "58",
+                "id": 2,
+                "start": 59,
+                "end": 61
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Caoimhe Flanagan",
+                "id": 3,
+                "start": 103,
+                "end": 123
+            },
+            {
+                "label": "HOSP",
+                "text": "St. Brigid's Hospital",
+                "id": 4,
+                "start": 127,
+                "end": 148
+            },
+            {
+                "label": "LOC",
+                "text": "Ballynahown",
+                "id": 5,
+                "start": 161,
+                "end": 172
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "1967-03-12",
+                "id": 6,
+                "start": 191,
+                "end": 201
+            }
+        ]
+    },
+    {
+        "sentence": "The email address eamon51@gmail.com belongs to Eamon Thornton, an employee of OmniTech Solutions. You can reach him at +353 91 77 88 99. His staff ID at the company is OT-472.",
+        "meta": {
+            "note_id": 1402
+        },
+        "spans": [
+            {
+                "label": "EMAIL",
+                "text": "eamon51@gmail.com",
+                "id": 0,
+                "start": 18,
+                "end": 35
+            },
+            {
+                "label": "PERSON",
+                "text": "Eamon Thornton",
+                "id": 1,
+                "start": 47,
+                "end": 61
+            },
+            {
+                "label": "ORG",
+                "text": "OmniTech Solutions",
+                "id": 2,
+                "start": 78,
+                "end": 96
+            },
+            {
+                "label": "PHONE",
+                "text": "+353 91 77 88 99",
+                "id": 3,
+                "start": 119,
+                "end": 135
+            },
+            {
+                "label": "ID",
+                "text": "OT-472",
+                "id": 4,
+                "start": 168,
+                "end": 174
+            }
+        ]
+    },
+    {
+        "sentence": "On November 17th, 2024, a follow-up was scheduled for Bronwyn MacLeod, who resides in Tobermory. The details were sent to bronwynck@ck.ac.us.",
+        "meta": {
+            "note_id": 1403
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "November 17th, 2024",
+                "id": 0,
+                "start": 3,
+                "end": 22
+            },
+            {
+                "label": "PERSON",
+                "text": "Bronwyn MacLeod",
+                "id": 1,
+                "start": 54,
+                "end": 69
+            },
+            {
+                "label": "LOC",
+                "text": "Tobermory",
+                "id": 2,
+                "start": 86,
+                "end": 95
+            },
+            {
+                "label": "EMAIL",
+                "text": "bronwynck@ck.ac.us",
+                "id": 3,
+                "start": 122,
+                "end": 140
+            }
+        ]
+    },
+    {
+        "sentence": "The research paper cited www.genomicsireland.ie, which is affiliated with Genomics Ireland. The lead researcher mentioned in the paper was Fionnuala Ni Ghallchoir.",
+        "meta": {
+            "note_id": 1404
+        },
+        "spans": [
+            {
+                "label": "URL",
+                "text": "www.genomicsireland.ie",
+                "id": 0,
+                "start": 25,
+                "end": 47
+            },
+            {
+                "label": "ORG",
+                "text": "Genomics Ireland",
+                "id": 1,
+                "start": 74,
+                "end": 90
+            },
+            {
+                "label": "PERSON",
+                "text": "Fionnuala Ni Ghallchoir",
+                "id": 2,
+                "start": 139,
+                "end": 162
+            }
+        ]
+    },
+    {
+        "sentence": "The patient, Ruadhan O'Connell, presented with a history dating back to 2023-06-01. His medical record number is RH-7892, and he was last seen at Mater Misercordiae University Hospital.",
+        "meta": {
+            "note_id": 1405
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Ruadhan O'Connell",
+                "id": 0,
+                "start": 13,
+                "end": 30
+            },
+            {
+                "label": "DATE",
+                "text": "2023-06-01",
+                "id": 1,
+                "start": 72,
+                "end": 82
+            },
+            {
+                "label": "ID",
+                "text": "RH-7892",
+                "id": 2,
+                "start": 113,
+                "end": 120
+            },
+            {
+                "label": "HOSP",
+                "text": "Mater Misercordiae University Hospital",
+                "id": 3,
+                "start": 146,
+                "end": 184
+            }
+        ]
+    },
+    {
+        "sentence": "As the end of April approached in 2025, a gentle reminder was dispatched at precisely 2:30 PM to Sorcha Kavanagh concerning an upcoming medical engagement. The message detailed her scheduled time with Nurse Niamh Doherty, and for any immediate queries, she could be reached at 087 654 3210.",
+        "meta": {
+            "note_id": 1406
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "April",
+                "id": 0,
+                "start": 14,
+                "end": 19
+            },
+            {
+                "label": "DATE",
+                "text": "2025",
+                "id": 1,
+                "start": 34,
+                "end": 38
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "2:30 PM",
+                "id": 2,
+                "start": 86,
+                "end": 93
+            },
+            {
+                "label": "PERSON",
+                "text": "Sorcha Kavanagh",
+                "id": 3,
+                "start": 97,
+                "end": 112
+            },
+            {
+                "label": "STAFF",
+                "text": "Nurse Niamh Doherty",
+                "id": 4,
+                "start": 201,
+                "end": 220
+            },
+            {
+                "label": "PHONE",
+                "text": "087 654 3210",
+                "id": 5,
+                "start": 277,
+                "end": 289
+            }
+        ]
+    },
+    {
+        "sentence": "On the first day of May in 2025, Gaeltec Utilities, a prominent organization in the energy sector, publicly announced a significant new alliance through their online platform, accessible at www.gaeltecutilities.com. The official statement included remarks from their Chief Executive Officer, Tadhg O'Sullivan, emphasizing the strategic importance of this collaboration.",
+        "meta": {
+            "note_id": 1407
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "May in 2025",
+                "id": 0,
+                "start": 20,
+                "end": 31
+            },
+            {
+                "label": "ORG",
+                "text": "Gaeltec Utilities",
+                "id": 1,
+                "start": 33,
+                "end": 50
+            },
+            {
+                "label": "URL",
+                "text": "www.gaeltecutilities.com",
+                "id": 2,
+                "start": 190,
+                "end": 214
+            },
+            {
+                "label": "PERSON",
+                "text": "Tadhg O'Sullivan",
+                "id": 3,
+                "start": 292,
+                "end": 308
+            }
+        ]
+    },
+    {
+        "sentence": "The final analysis of biological samples for Cliona Molloy, who celebrated her birth on the twenty-second of November in 1989, was completed and documented at 11:00 AM. At the time of these tests, Ms. Molloy was in her thirty-fifth year, a detail often relevant in interpreting certain medical indicators.",
+        "meta": {
+            "note_id": 1408
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Cliona Molloy",
+                "id": 0,
+                "start": 45,
+                "end": 58
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "twenty-second of November in 1989",
+                "id": 1,
+                "start": 92,
+                "end": 125
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "11:00 AM",
+                "id": 2,
+                "start": 159,
+                "end": 167
+            },
+            {
+                "label": "AGE",
+                "text": "thirty-fifth",
+                "id": 3,
+                "start": 219,
+                "end": 231
+            }
+        ]
+    },
+    {
+        "sentence": "For any clarifications or further information regarding patient care, inquiries were directed to the professional line of Dr. Grainne O'Shea at Cork University Hospital. Her dedicated contact number is 021 490 1234, and she is readily available during working hours.",
+        "meta": {
+            "note_id": 1409
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Grainne O'Shea",
+                "id": 0,
+                "start": 122,
+                "end": 140
+            },
+            {
+                "label": "HOSP",
+                "text": "Cork University Hospital",
+                "id": 1,
+                "start": 144,
+                "end": 168
+            },
+            {
+                "label": "PHONE",
+                "text": "021 490 1234",
+                "id": 2,
+                "start": 202,
+                "end": 214
+            }
+        ]
+    },
+    {
+        "sentence": "An automated alert was triggered within the system, flagging an unusual access event recorded at 16:45 on the twenty-ninth of April in 2025. This activity was traced back to a user identified by the alphanumeric code AX-555, known within the network as Lorcan Fitzpatrick.",
+        "meta": {
+            "note_id": 1410
+        },
+        "spans": [
+            {
+                "label": "TIMESTAMPS",
+                "text": "16:45",
+                "id": 0,
+                "start": 97,
+                "end": 102
+            },
+            {
+                "label": "DATE",
+                "text": "twenty-ninth of April in 2025",
+                "id": 1,
+                "start": 110,
+                "end": 139
+            },
+            {
+                "label": "ID",
+                "text": "AX-555",
+                "id": 2,
+                "start": 217,
+                "end": 223
+            },
+            {
+                "label": "PERSON",
+                "text": "Lorcan Fitzpatrick",
+                "id": 3,
+                "start": 253,
+                "end": 271
+            }
+        ]
+    },
+    {
+        "sentence": "Elara Vance, born on 1992-07-15, consulted Dr. Kaelan Murphy at Bethesda Clinic regarding a follow-up scheduled for 2025-05-10.",
+        "meta": {
+            "note_id": 1411
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Elara Vance",
+                "id": 0,
+                "start": 0,
+                "end": 11
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "1992-07-15",
+                "id": 1,
+                "start": 21,
+                "end": 31
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Kaelan Murphy",
+                "id": 2,
+                "start": 43,
+                "end": 60
+            },
+            {
+                "label": "HOSP",
+                "text": "Bethesda Clinic",
+                "id": 3,
+                "start": 64,
+                "end": 79
+            },
+            {
+                "label": "DATE",
+                "text": "2025-05-10",
+                "id": 4,
+                "start": 116,
+                "end": 126
+            }
+        ]
+    },
+    {
+        "sentence": "Contact inquiries for the Aethelred Group can be directed to info@aethelred.com or by calling +44 20 7946 0832.",
+        "meta": {
+            "note_id": 1412
+        },
+        "spans": [
+            {
+                "label": "ORG",
+                "text": "Aethelred Group",
+                "id": 0,
+                "start": 26,
+                "end": 41
+            },
+            {
+                "label": "EMAIL",
+                "text": "info@aethelred.com",
+                "id": 1,
+                "start": 61,
+                "end": 79
+            },
+            {
+                "label": "PHONE",
+                "text": "+44 20 7946 0832",
+                "id": 2,
+                "start": 94,
+                "end": 110
+            }
+        ]
+    },
+    {
+        "sentence": "At precisely 14:30, security logs indicated a login attempt by user ID ZX-811, identified as Isolde Dubois, from the Dublin office.",
+        "meta": {
+            "note_id": 1413
+        },
+        "spans": [
+            {
+                "label": "TIMESTAMPS",
+                "text": "14:30",
+                "id": 0,
+                "start": 13,
+                "end": 18
+            },
+            {
+                "label": "ID",
+                "text": "ZX-811",
+                "id": 1,
+                "start": 71,
+                "end": 77
+            },
+            {
+                "label": "PERSON",
+                "text": "Isolde Dubois",
+                "id": 2,
+                "start": 93,
+                "end": 106
+            },
+            {
+                "label": "LOC",
+                "text": "Dublin",
+                "id": 3,
+                "start": 117,
+                "end": 123
+            }
+        ]
+    },
+    {
+        "sentence": "The research findings, detailed at www.biotechinnovations.org/report-alpha, were led by Professor Lysandra Finch.",
+        "meta": {
+            "note_id": 1414
+        },
+        "spans": [
+            {
+                "label": "URL",
+                "text": "www.biotechinnovations.org/report-alpha",
+                "id": 0,
+                "start": 35,
+                "end": 74
+            },
+            {
+                "label": "PERSON",
+                "text": "Professor Lysandra Finch",
+                "id": 1,
+                "start": 88,
+                "end": 112
+            }
+        ]
+    },
+    {
+        "sentence": "Patient Caius Thorne, aged 62, was admitted to St. Mungo's Hospital on 2025-04-28 and is scheduled for discharge on 2025-05-05.",
+        "meta": {
+            "note_id": 1415
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Caius Thorne",
+                "id": 0,
+                "start": 8,
+                "end": 20
+            },
+            {
+                "label": "AGE",
+                "text": "62",
+                "id": 1,
+                "start": 27,
+                "end": 29
+            },
+            {
+                "label": "HOSP",
+                "text": "St. Mungo's Hospital",
+                "id": 2,
+                "start": 47,
+                "end": 67
+            },
+            {
+                "label": "DATE",
+                "text": "2025-04-28",
+                "id": 3,
+                "start": 71,
+                "end": 81
+            },
+            {
+                "label": "DATE",
+                "text": "2025-05-05",
+                "id": 4,
+                "start": 116,
+                "end": 126
+            }
+        ]
+    },
+    {
         "sentence": "Doctor: Clara's vaccination schedule includes follow-ups next month.",
         "meta": {
             "note_id": 1601
@@ -33869,7 +34430,7 @@
         ]
     },
     {
-        "sentence": "By December 2020, there was a turning point. Pharmaceutical companies like Pfizer, Moderna, and AstraZeneca developed vaccines that were distributed worldwide. The Mayo Clinic in Rochester, Minnesota, became one of the first hospitals to administer the Pfizer vaccine to frontline workers, offering hope that the crisis would soon come under control. Despite the relief brought by vaccines, hospitals continued to treat thousands of COVID-19 patients. Some hospitals, like Singapore General Hospital, led the way in developing new treatment methods, while Tokyo\u2019s St. Luke\u2019s International Hospital set up large vaccination centers to immunize as many people as possible.",
+        "sentence": "By December 2020, there was a turning point. Pharmaceutical companies like Pfizer, Moderna, and AstraZeneca developed vaccines that were distributed worldwide. The Mayo Clinic in Rochester, Minnesota, became one of the first hospitals to administer the Pfizer vaccine to frontline workers, offering hope that the crisis would soon come under control. Despite the relief brought by vaccines, hospitals continued to treat thousands of COVID-19 patients. Some hospitals, like Singapore General Hospital, led the way in developing new treatment methods, while Tokyo’s St. Luke’s International Hospital set up large vaccination centers to immunize as many people as possible.",
         "spans": [
             {
                 "label": "DATE",
@@ -33929,7 +34490,7 @@
             },
             {
                 "label": "HOSP",
-                "text": "St. Luke\u2019s International Hospital",
+                "text": "St. Luke’s International Hospital",
                 "id": 8,
                 "start": 564,
                 "end": 597
@@ -35162,7 +35723,7 @@
         ]
     },
     {
-        "sentence": "Hospital construction records show that the intensive care wing was inaugurated on 1992.03.06, increasing the hospital\u2019s capacity for critical cases.",
+        "sentence": "Hospital construction records show that the intensive care wing was inaugurated on 1992.03.06, increasing the hospital’s capacity for critical cases.",
         "meta": {
             "note_id": 1668,
             "sl_context": "false"
@@ -35292,7 +35853,7 @@
         ]
     },
     {
-        "sentence": "Jaswant Singh was the first person to have served as India\u2019s finance minister (1996, 2002-2004), foreign minister (1998-2004), and defense minister (2000-2001).",
+        "sentence": "Jaswant Singh was the first person to have served as India’s finance minister (1996, 2002-2004), foreign minister (1998-2004), and defense minister (2000-2001).",
         "spans": [
             {
                 "id": 0,
@@ -36478,7 +37039,7 @@
         ]
     },
     {
-        "sentence": "As the virus spread across continents, organizations like the World Health Organization (WHO) and the Centers for Disease Control and Prevention (CDC) worked tirelessly to provide guidelines and medical supplies to hospitals. In London, England, St. Thomas\u2019 Hospital became a focal point when British Prime Minister Boris Johnson was admitted after testing positive for COVID-19. His condition worsened, and he had to be placed in intensive care before finally recovering.In Mumbai, India, Kokilaben Dhirubhai Ambani Hospital transformed an entire wing into a COVID-19 ward, treating thousands of patients daily. The hospital faced oxygen shortages, but international relief organizations like Doctors Without Borders stepped in to provide emergency support.",
+        "sentence": "As the virus spread across continents, organizations like the World Health Organization (WHO) and the Centers for Disease Control and Prevention (CDC) worked tirelessly to provide guidelines and medical supplies to hospitals. In London, England, St. Thomas’ Hospital became a focal point when British Prime Minister Boris Johnson was admitted after testing positive for COVID-19. His condition worsened, and he had to be placed in intensive care before finally recovering.In Mumbai, India, Kokilaben Dhirubhai Ambani Hospital transformed an entire wing into a COVID-19 ward, treating thousands of patients daily. The hospital faced oxygen shortages, but international relief organizations like Doctors Without Borders stepped in to provide emergency support.",
         "spans": [
             {
                 "label": "ORG",
@@ -36503,7 +37064,7 @@
             },
             {
                 "label": "HOSP",
-                "text": "St. Thomas\u2019 Hospital",
+                "text": "St. Thomas’ Hospital",
                 "id": 3,
                 "start": 246,
                 "end": 266
@@ -36830,7 +37391,7 @@
         ]
     },
     {
-        "sentence": "Benjamin Harris, aged 47, underwent a complex surgical procedure at St. Luke\u2019s Medical Center on March 20, 2024. His medical record, identified as ID SL-883921, was updated accordingly to reflect post-surgical progress and recovery details.",
+        "sentence": "Benjamin Harris, aged 47, underwent a complex surgical procedure at St. Luke’s Medical Center on March 20, 2024. His medical record, identified as ID SL-883921, was updated accordingly to reflect post-surgical progress and recovery details.",
         "meta": {
             "note_id": 1722
         },
@@ -36851,7 +37412,7 @@
             },
             {
                 "label": "HOSP",
-                "text": "St. Luke\u2019s Medical Center",
+                "text": "St. Luke’s Medical Center",
                 "id": 2,
                 "start": 68,
                 "end": 93
@@ -37649,7 +38210,7 @@
         ]
     },
     {
-        "sentence": "He was a moderate, in other words \u2014 the Tamils\u2019 answer to Yitzhak Rabin or Nelson Mandela.",
+        "sentence": "He was a moderate, in other words — the Tamils’ answer to Yitzhak Rabin or Nelson Mandela.",
         "spans": [
             {
                 "id": 0,
@@ -38428,7 +38989,7 @@
         ]
     },
     {
-        "sentence": "Patient: Ms. Clara J. Hawthorne, 35, visited Healing Waters Clinic, located at 223 Misty Ridge Drive, Bastrop, TX, USA, for her annual physical exam. Dr. Fiona Brooks, her primary care physician, conducted a thorough evaluation, including blood pressure, cholesterol, and blood sugar tests. Clara\u2019s results were within normal ranges, and she was advised to maintain her current lifestyle, which includes regular exercise and a balanced diet. The clinic\u2019s nutritionist, Ms. Nicole Farley, provided additional tips on incorporating more whole grains and reducing processed foods. Clara scheduled her next check-up for the same time next year and was reminded to keep up with routine screenings, such as mammograms and skin checks, as recommended by Bastrop Preventive Health Network.",
+        "sentence": "Patient: Ms. Clara J. Hawthorne, 35, visited Healing Waters Clinic, located at 223 Misty Ridge Drive, Bastrop, TX, USA, for her annual physical exam. Dr. Fiona Brooks, her primary care physician, conducted a thorough evaluation, including blood pressure, cholesterol, and blood sugar tests. Clara’s results were within normal ranges, and she was advised to maintain her current lifestyle, which includes regular exercise and a balanced diet. The clinic’s nutritionist, Ms. Nicole Farley, provided additional tips on incorporating more whole grains and reducing processed foods. Clara scheduled her next check-up for the same time next year and was reminded to keep up with routine screenings, such as mammograms and skin checks, as recommended by Bastrop Preventive Health Network.",
         "spans": [
             {
                 "text": "Clara J. Hawthorne",
