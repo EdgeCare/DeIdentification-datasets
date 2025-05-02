@@ -19740,6 +19740,2344 @@
         ]
     },
     {
+        "sentence": "Yesterday, Dr. Sable Maren performed a successful surgery on 62-year-old Elowen Pryce at Ironcrest Medical Lodge, Los Angeles. Info at https://ironcrestmed.org/surgeries and https://surgicalnews.net.",
+        "meta": {
+            "note_id": 701
+        },
+        "spans": [
+            {
+                "label": "TIMESTAMPS",
+                "text": "Yesterday",
+                "id": 0,
+                "start": 0,
+                "end": 9
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Sable Maren",
+                "id": 1,
+                "start": 11,
+                "end": 26
+            },
+            {
+                "label": "AGE",
+                "text": "62",
+                "id": 2,
+                "start": 61,
+                "end": 63
+            },
+            {
+                "label": "PERSON",
+                "text": "Elowen Pryce",
+                "id": 3,
+                "start": 73,
+                "end": 85
+            },
+            {
+                "label": "HOSP",
+                "text": "Ironcrest Medical Lodge",
+                "id": 4,
+                "start": 89,
+                "end": 112
+            },
+            {
+                "label": "LOC",
+                "text": "Los Angeles",
+                "id": 5,
+                "start": 114,
+                "end": 125
+            },
+            {
+                "label": "URL",
+                "text": "https://ironcrestmed.org/surgeries",
+                "id": 6,
+                "start": 135,
+                "end": 169
+            },
+            {
+                "label": "URL",
+                "text": "https://surgicalnews.net",
+                "id": 7,
+                "start": 174,
+                "end": 198
+            }
+        ]
+    },
+    {
+        "sentence": "Yesterday, Calla Fen reported her symptoms through the patient portal of Onyxspire Health Dome. Data: https://onyxspire.org and https://symptomcheck.com.",
+        "meta": {
+            "note_id": 702
+        },
+        "spans": [
+            {
+                "label": "TIMESTAMPS",
+                "text": "Yesterday",
+                "id": 0,
+                "start": 0,
+                "end": 9
+            },
+            {
+                "label": "PERSON",
+                "text": "Calla Fen",
+                "id": 1,
+                "start": 11,
+                "end": 20
+            },
+            {
+                "label": "HOSP",
+                "text": "Onyxspire Health Dome",
+                "id": 2,
+                "start": 73,
+                "end": 94
+            },
+            {
+                "label": "URL",
+                "text": "https://onyxspire.org",
+                "id": 3,
+                "start": 102,
+                "end": 123
+            },
+            {
+                "label": "URL",
+                "text": "https://symptomcheck.com",
+                "id": 4,
+                "start": 128,
+                "end": 152
+            }
+        ]
+    },
+    {
+        "sentence": "Patient ID PAT-334789, known as Elric Thorn, was last seen at Starshade Wellness Center for his immunotherapy session. Visit https://starshade.org/info and https://healthtracker.io.",
+        "meta": {
+            "note_id": 703
+        },
+        "spans": [
+            {
+                "label": "ID",
+                "text": "PAT-334789",
+                "id": 0,
+                "start": 11,
+                "end": 21
+            },
+            {
+                "label": "PERSON",
+                "text": "Elric Thorn",
+                "id": 1,
+                "start": 32,
+                "end": 43
+            },
+            {
+                "label": "HOSP",
+                "text": "Starshade Wellness Center",
+                "id": 2,
+                "start": 62,
+                "end": 87
+            },
+            {
+                "label": "URL",
+                "text": "https://starshade.org/info",
+                "id": 3,
+                "start": 125,
+                "end": 151
+            },
+            {
+                "label": "URL",
+                "text": "https://healthtracker.io",
+                "id": 4,
+                "start": 156,
+                "end": 180
+            }
+        ]
+    },
+    {
+        "sentence": "On June 23, 2024, Dr. Mariana Vicenti admitted patient Dante Alarcon, aged 37, to Clinica Santa Rosa in Puerto Varas, Chile, following an acute asthma attack.",
+        "meta": {
+            "note_id": 704
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "June 23, 2024",
+                "id": 0,
+                "start": 3,
+                "end": 16
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Mariana Vicenti",
+                "id": 1,
+                "start": 18,
+                "end": 37
+            },
+            {
+                "label": "PERSON",
+                "text": "Dante Alarcon",
+                "id": 2,
+                "start": 55,
+                "end": 68
+            },
+            {
+                "label": "AGE",
+                "text": "37",
+                "id": 3,
+                "start": 75,
+                "end": 77
+            },
+            {
+                "label": "HOSP",
+                "text": "Clinica Santa Rosa",
+                "id": 4,
+                "start": 82,
+                "end": 100
+            },
+            {
+                "label": "LOC",
+                "text": "Puerto Varas, Chile",
+                "id": 5,
+                "start": 104,
+                "end": 123
+            }
+        ]
+    },
+    {
+        "sentence": "Researcher Dr. Carla Mastroianni from Universita Vita-Salute San Raffaele shared preliminary results via email (carla.mastro@univita.it) concerning a new Alzheimer's therapy on February 18, 2025.",
+        "meta": {
+            "note_id": 705
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Carla Mastroianni",
+                "id": 0,
+                "start": 11,
+                "end": 32
+            },
+            {
+                "label": "ORG",
+                "text": "Universita Vita-Salute San Raffaele",
+                "id": 1,
+                "start": 38,
+                "end": 73
+            },
+            {
+                "label": "EMAIL",
+                "text": "carla.mastro@univita.it",
+                "id": 2,
+                "start": 112,
+                "end": 135
+            },
+            {
+                "label": "DATE",
+                "text": "February 18, 2025",
+                "id": 3,
+                "start": 177,
+                "end": 194
+            }
+        ]
+    },
+    {
+        "sentence": "An urgent report from Ironcrest Medical Lodge in Eldoria dated April 10, 2025 mentioned Liora Duskwind. Visit https://lunarisboard.org/news and https://obscurahealth.org/updates.",
+        "meta": {
+            "note_id": 706
+        },
+        "spans": [
+            {
+                "label": "HOSP",
+                "text": "Ironcrest Medical Lodge",
+                "id": 0,
+                "start": 22,
+                "end": 45
+            },
+            {
+                "label": "LOC",
+                "text": "Eldoria",
+                "id": 1,
+                "start": 49,
+                "end": 56
+            },
+            {
+                "label": "DATE",
+                "text": "April 10, 2025",
+                "id": 2,
+                "start": 63,
+                "end": 77
+            },
+            {
+                "label": "PERSON",
+                "text": "Liora Duskwind",
+                "id": 3,
+                "start": 88,
+                "end": 102
+            },
+            {
+                "label": "URL",
+                "text": "https://lunarisboard.org/news",
+                "id": 4,
+                "start": 110,
+                "end": 139
+            },
+            {
+                "label": "URL",
+                "text": "https://obscurahealth.org/updates",
+                "id": 5,
+                "start": 144,
+                "end": 177
+            }
+        ]
+    },
+    {
+        "sentence": "Jarek Draven, aged 33-year-old, was diagnosed three months ago at Shadowfen Clinic by Dr. Thaddeus Quill. Data available on https://sylvanwellness.org/news, https://nytheriahealth.org/updates.",
+        "meta": {
+            "note_id": 707
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Jarek Draven",
+                "id": 0,
+                "start": 0,
+                "end": 12
+            },
+            {
+                "label": "AGE",
+                "text": "33",
+                "id": 1,
+                "start": 19,
+                "end": 21
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "three months ago",
+                "id": 2,
+                "start": 46,
+                "end": 62
+            },
+            {
+                "label": "HOSP",
+                "text": "Shadowfen Clinic",
+                "id": 3,
+                "start": 66,
+                "end": 82
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Thaddeus Quill",
+                "id": 4,
+                "start": 86,
+                "end": 104
+            },
+            {
+                "label": "URL",
+                "text": "https://sylvanwellness.org/news",
+                "id": 5,
+                "start": 124,
+                "end": 155
+            },
+            {
+                "label": "URL",
+                "text": "https://nytheriahealth.org/updates",
+                "id": 6,
+                "start": 157,
+                "end": 191
+            }
+        ]
+    },
+    {
+        "sentence": "At exactly 14:32 on April 15, 2025, emergency services transferred 29-year-old patient Ismael Quintanilla, suffering from severe dehydration, to Clinica Santa Maria, located in Antigua, Guatemala.",
+        "meta": {
+            "note_id": 708
+        },
+        "spans": [
+            {
+                "label": "TIMESTAMPS",
+                "text": "14:32",
+                "id": 0,
+                "start": 11,
+                "end": 16
+            },
+            {
+                "label": "DATE",
+                "text": "April 15, 2025",
+                "id": 1,
+                "start": 20,
+                "end": 34
+            },
+            {
+                "label": "AGE",
+                "text": "29",
+                "id": 2,
+                "start": 67,
+                "end": 69
+            },
+            {
+                "label": "PERSON",
+                "text": "Ismael Quintanilla",
+                "id": 3,
+                "start": 87,
+                "end": 105
+            },
+            {
+                "label": "HOSP",
+                "text": "Clinica Santa Maria",
+                "id": 4,
+                "start": 145,
+                "end": 164
+            },
+            {
+                "label": "LOC",
+                "text": "Antigua, Guatemala",
+                "id": 5,
+                "start": 177,
+                "end": 195
+            }
+        ]
+    },
+    {
+        "sentence": "Email ysara.starwyn@mistvale.org received an update regarding the condition of Ysara Starwyn, admitted to Mistvale Clinic. Check https://sylvanwellness.org/news and https://lunarisboard.org/updates.",
+        "meta": {
+            "note_id": 709
+        },
+        "spans": [
+            {
+                "label": "EMAIL",
+                "text": "ysara.starwyn@mistvale.org",
+                "id": 0,
+                "start": 6,
+                "end": 32
+            },
+            {
+                "label": "PERSON",
+                "text": "Ysara Starwyn",
+                "id": 1,
+                "start": 79,
+                "end": 92
+            },
+            {
+                "label": "HOSP",
+                "text": "Mistvale Clinic",
+                "id": 2,
+                "start": 106,
+                "end": 121
+            },
+            {
+                "label": "URL",
+                "text": "https://sylvanwellness.org/news",
+                "id": 3,
+                "start": 129,
+                "end": 160
+            },
+            {
+                "label": "URL",
+                "text": "https://lunarisboard.org/updates",
+                "id": 4,
+                "start": 165,
+                "end": 197
+            }
+        ]
+    },
+    {
+        "sentence": "At 08:45 on January 20, 2025, patient Sarah Patel, aged 29, was brought to City Health Hospital in Pretoria, South Africa, after a road accident.",
+        "meta": {
+            "note_id": 710
+        },
+        "spans": [
+            {
+                "label": "TIMESTAMPS",
+                "text": "08:45",
+                "id": 0,
+                "start": 3,
+                "end": 8
+            },
+            {
+                "label": "DATE",
+                "text": "January 20, 2025",
+                "id": 1,
+                "start": 12,
+                "end": 28
+            },
+            {
+                "label": "PERSON",
+                "text": "Sarah Patel",
+                "id": 2,
+                "start": 38,
+                "end": 49
+            },
+            {
+                "label": "AGE",
+                "text": "29",
+                "id": 3,
+                "start": 56,
+                "end": 58
+            },
+            {
+                "label": "HOSP",
+                "text": "City Health Hospital",
+                "id": 4,
+                "start": 75,
+                "end": 95
+            },
+            {
+                "label": "LOC",
+                "text": "Pretoria, South Africa",
+                "id": 5,
+                "start": 99,
+                "end": 121
+            }
+        ]
+    },
+    {
+        "sentence": "Araleth Wynn, born November 23, 1985, has joined a trial conducted by the Global Institute for Metabolic Research. See https://gimr.org/trials and https://clinicalwatch.org.",
+        "meta": {
+            "note_id": 711
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Araleth Wynn",
+                "id": 0,
+                "start": 0,
+                "end": 12
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "November 23, 1985",
+                "id": 1,
+                "start": 19,
+                "end": 36
+            },
+            {
+                "label": "ORG",
+                "text": "Global Institute for Metabolic Research",
+                "id": 2,
+                "start": 74,
+                "end": 113
+            },
+            {
+                "label": "URL",
+                "text": "https://gimr.org/trials",
+                "id": 3,
+                "start": 119,
+                "end": 142
+            },
+            {
+                "label": "URL",
+                "text": "https://clinicalwatch.org",
+                "id": 4,
+                "start": 147,
+                "end": 172
+            }
+        ]
+    },
+    {
+        "sentence": "Research coordinator Dr. Emily Walker from Global Health Institute shared vaccine trial updates via email (e.walker@ghi.org) on September 5, 2023.",
+        "meta": {
+            "note_id": 712
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Emily Walker",
+                "id": 0,
+                "start": 21,
+                "end": 37
+            },
+            {
+                "label": "ORG",
+                "text": "Global Health Institute",
+                "id": 1,
+                "start": 43,
+                "end": 66
+            },
+            {
+                "label": "EMAIL",
+                "text": "e.walker@ghi.org",
+                "id": 2,
+                "start": 107,
+                "end": 123
+            },
+            {
+                "label": "DATE",
+                "text": "September 5, 2023",
+                "id": 3,
+                "start": 128,
+                "end": 145
+            }
+        ]
+    },
+    {
+        "sentence": "Instituto Oswaldo Cruz published a public health report on January 30, 2024, detailing an outbreak of dengue fever affecting primarily the residents of Cuiaba, Mato Grosso, including patient Jose Miguel Flores.",
+        "meta": {
+            "note_id": 713
+        },
+        "spans": [
+            {
+                "label": "ORG",
+                "text": "Instituto Oswaldo Cruz",
+                "id": 0,
+                "start": 0,
+                "end": 22
+            },
+            {
+                "label": "DATE",
+                "text": "January 30, 2024",
+                "id": 1,
+                "start": 59,
+                "end": 75
+            },
+            {
+                "label": "LOC",
+                "text": "Cuiaba, Mato Grosso",
+                "id": 2,
+                "start": 152,
+                "end": 171
+            },
+            {
+                "label": "PERSON",
+                "text": "Jose Miguel Flores",
+                "id": 3,
+                "start": 191,
+                "end": 209
+            }
+        ]
+    },
+    {
+        "sentence": "Patient Anais Benoit (born December 12, 1982) attended a cardiology consultation conducted by Dr. Eugene Laurent at Polyclinique Cote Basque in Bayonne, France.",
+        "meta": {
+            "note_id": 714
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Anais Benoit",
+                "id": 0,
+                "start": 8,
+                "end": 20
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "December 12, 1982",
+                "id": 1,
+                "start": 27,
+                "end": 44
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Eugene Laurent",
+                "id": 2,
+                "start": 94,
+                "end": 112
+            },
+            {
+                "label": "HOSP",
+                "text": "Polyclinique Cote Basque",
+                "id": 3,
+                "start": 116,
+                "end": 140
+            },
+            {
+                "label": "LOC",
+                "text": "Bayonne, France",
+                "id": 4,
+                "start": 144,
+                "end": 159
+            }
+        ]
+    },
+    {
+        "sentence": "On September 12, 2023, after an orthopedic surgery at Hospital de la Misericordia in Pereira, Colombia, patient Luciana Rojas (phone: +57 321 4567892) was discharged by Dr. Alvaro Murillo.",
+        "meta": {
+            "note_id": 715
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "September 12, 2023",
+                "id": 0,
+                "start": 3,
+                "end": 21
+            },
+            {
+                "label": "HOSP",
+                "text": "Hospital de la Misericordia",
+                "id": 1,
+                "start": 54,
+                "end": 81
+            },
+            {
+                "label": "LOC",
+                "text": "Pereira, Colombia",
+                "id": 2,
+                "start": 85,
+                "end": 102
+            },
+            {
+                "label": "PERSON",
+                "text": "Luciana Rojas",
+                "id": 3,
+                "start": 112,
+                "end": 125
+            },
+            {
+                "label": "PHONE",
+                "text": "+57 321 4567892",
+                "id": 4,
+                "start": 134,
+                "end": 149
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Alvaro Murillo",
+                "id": 5,
+                "start": 169,
+                "end": 187
+            }
+        ]
+    },
+    {
+        "sentence": "A contact attempt to the patient's family was made using +1-458-721-3489 post-discharge from Meridian Hollow Clinic. Visit https://nytheriahealth.org/news, https://sylvanwellness.org/updates.",
+        "meta": {
+            "note_id": 716
+        },
+        "spans": [
+            {
+                "label": "PHONE",
+                "text": "+1-458-721-3489",
+                "id": 0,
+                "start": 57,
+                "end": 72
+            },
+            {
+                "label": "HOSP",
+                "text": "Meridian Hollow Clinic",
+                "id": 1,
+                "start": 93,
+                "end": 115
+            },
+            {
+                "label": "URL",
+                "text": "https://nytheriahealth.org/news",
+                "id": 2,
+                "start": 123,
+                "end": 154
+            },
+            {
+                "label": "URL",
+                "text": "https://sylvanwellness.org/updates",
+                "id": 3,
+                "start": 156,
+                "end": 190
+            }
+        ]
+    },
+    {
+        "sentence": "Clinica Alemana, in Santiago, Chile, admitted patient Andres Gaete, born April 1, 1990, at 03:20 on November 20, 2025, following a motor vehicle accident reported by paramedic Franco Diaz.",
+        "meta": {
+            "note_id": 717
+        },
+        "spans": [
+            {
+                "label": "HOSP",
+                "text": "Clinica Alemana",
+                "id": 0,
+                "start": 0,
+                "end": 15
+            },
+            {
+                "label": "LOC",
+                "text": "Santiago, Chile",
+                "id": 1,
+                "start": 20,
+                "end": 35
+            },
+            {
+                "label": "PERSON",
+                "text": "Andres Gaete",
+                "id": 2,
+                "start": 54,
+                "end": 66
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "April 1, 1990",
+                "id": 3,
+                "start": 73,
+                "end": 86
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "03:20",
+                "id": 4,
+                "start": 91,
+                "end": 96
+            },
+            {
+                "label": "DATE",
+                "text": "November 20, 2025",
+                "id": 5,
+                "start": 100,
+                "end": 117
+            },
+            {
+                "label": "STAFF",
+                "text": "Franco Diaz",
+                "id": 6,
+                "start": 176,
+                "end": 187
+            }
+        ]
+    },
+    {
+        "sentence": "Odhran Virelli, born on March 12, 1978, participated in a research study by the World Health Organization last Friday. Visit https://www.who.int/studies and https://researchhub.org/study-2025.",
+        "meta": {
+            "note_id": 718
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Odhran Virelli",
+                "id": 0,
+                "start": 0,
+                "end": 14
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "March 12, 1978",
+                "id": 1,
+                "start": 24,
+                "end": 38
+            },
+            {
+                "label": "ORG",
+                "text": "World Health Organization",
+                "id": 2,
+                "start": 80,
+                "end": 105
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "last Friday",
+                "id": 3,
+                "start": 106,
+                "end": 117
+            },
+            {
+                "label": "URL",
+                "text": "https://www.who.int/studies",
+                "id": 4,
+                "start": 125,
+                "end": 152
+            },
+            {
+                "label": "URL",
+                "text": "https://researchhub.org/study-2025",
+                "id": 5,
+                "start": 157,
+                "end": 191
+            }
+        ]
+    },
+    {
+        "sentence": "Dr. Lyra Morrigan reached out to the patient's guardian via +1-213-555-0987 after a follow-up at Elderglen Health Enclave. Refer to https://elderglen.org/patientcare and https://followuphealth.com.",
+        "meta": {
+            "note_id": 719
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Lyra Morrigan",
+                "id": 0,
+                "start": 0,
+                "end": 17
+            },
+            {
+                "label": "PHONE",
+                "text": "+1-213-555-0987",
+                "id": 1,
+                "start": 60,
+                "end": 75
+            },
+            {
+                "label": "HOSP",
+                "text": "Elderglen Health Enclave",
+                "id": 2,
+                "start": 97,
+                "end": 121
+            },
+            {
+                "label": "URL",
+                "text": "https://elderglen.org/patientcare",
+                "id": 3,
+                "start": 132,
+                "end": 165
+            },
+            {
+                "label": "URL",
+                "text": "https://followuphealth.com",
+                "id": 4,
+                "start": 170,
+                "end": 196
+            }
+        ]
+    },
+    {
+        "sentence": "According to an April 1, 2025 update, Caelum Knox, ID PAT-889911, visited Thornebrook General for a cardiology consultation. Reference: https://thornebrook.org/patients and https://cardiologynews.com.",
+        "meta": {
+            "note_id": 720
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "April 1, 2025",
+                "id": 0,
+                "start": 16,
+                "end": 29
+            },
+            {
+                "label": "PERSON",
+                "text": "Caelum Knox",
+                "id": 1,
+                "start": 38,
+                "end": 49
+            },
+            {
+                "label": "ID",
+                "text": "PAT-889911",
+                "id": 2,
+                "start": 54,
+                "end": 64
+            },
+            {
+                "label": "HOSP",
+                "text": "Thornebrook General",
+                "id": 3,
+                "start": 74,
+                "end": 93
+            },
+            {
+                "label": "URL",
+                "text": "https://thornebrook.org/patients",
+                "id": 4,
+                "start": 136,
+                "end": 168
+            },
+            {
+                "label": "URL",
+                "text": "https://cardiologynews.com",
+                "id": 5,
+                "start": 173,
+                "end": 199
+            }
+        ]
+    },
+    {
+        "sentence": "During a routine check-up on October 10, 2023, patient Lorena Huerta (ID: LH4738291) reported mild abdominal discomfort to nurse Sebastian Covarrubias at the Hospital Mater Dei in Belo Horizonte.",
+        "meta": {
+            "note_id": 721
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "October 10, 2023",
+                "id": 0,
+                "start": 29,
+                "end": 45
+            },
+            {
+                "label": "PERSON",
+                "text": "Lorena Huerta",
+                "id": 1,
+                "start": 55,
+                "end": 68
+            },
+            {
+                "label": "ID",
+                "text": "LH4738291",
+                "id": 2,
+                "start": 74,
+                "end": 83
+            },
+            {
+                "label": "STAFF",
+                "text": "nurse Sebastian Covarrubias",
+                "id": 3,
+                "start": 123,
+                "end": 150
+            },
+            {
+                "label": "HOSP",
+                "text": "Hospital Mater Dei",
+                "id": 4,
+                "start": 158,
+                "end": 176
+            },
+            {
+                "label": "LOC",
+                "text": "Belo Horizonte",
+                "id": 5,
+                "start": 180,
+                "end": 194
+            }
+        ]
+    },
+    {
+        "sentence": "Born on March 6, 1963, Elara Quenvale was admitted to Verdant Reach Hospital last week. Refer to https://lunarisboard.org/news and https://sylvanwellness.org/updates.",
+        "meta": {
+            "note_id": 722
+        },
+        "spans": [
+            {
+                "label": "BIRTHDATE",
+                "text": "March 6, 1963",
+                "id": 0,
+                "start": 8,
+                "end": 21
+            },
+            {
+                "label": "PERSON",
+                "text": "Elara Quenvale",
+                "id": 1,
+                "start": 23,
+                "end": 37
+            },
+            {
+                "label": "HOSP",
+                "text": "Verdant Reach Hospital",
+                "id": 2,
+                "start": 54,
+                "end": 76
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "last week",
+                "id": 3,
+                "start": 77,
+                "end": 86
+            },
+            {
+                "label": "URL",
+                "text": "https://lunarisboard.org/news",
+                "id": 4,
+                "start": 97,
+                "end": 126
+            },
+            {
+                "label": "URL",
+                "text": "https://sylvanwellness.org/updates",
+                "id": 5,
+                "start": 131,
+                "end": 165
+            }
+        ]
+    },
+    {
+        "sentence": "On April 10, 2024, Nurse Zephyra Nyx contacted the family of PAT-564321 to inform them about the routine discharge at Meridian Hollow Clinic in Colombo, Sri Lanka. See https://meridianhollow.org/reports and https://healthdata.com/discharge-info.",
+        "meta": {
+            "note_id": 723
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "April 10, 2024",
+                "id": 0,
+                "start": 3,
+                "end": 17
+            },
+            {
+                "label": "STAFF",
+                "text": "Nurse Zephyra Nyx",
+                "id": 1,
+                "start": 19,
+                "end": 36
+            },
+            {
+                "label": "ID",
+                "text": "PAT-564321",
+                "id": 2,
+                "start": 61,
+                "end": 71
+            },
+            {
+                "label": "HOSP",
+                "text": "Meridian Hollow Clinic",
+                "id": 3,
+                "start": 118,
+                "end": 140
+            },
+            {
+                "label": "LOC",
+                "text": "Colombo, Sri Lanka",
+                "id": 4,
+                "start": 144,
+                "end": 162
+            },
+            {
+                "label": "URL",
+                "text": "https://meridianhollow.org/reports",
+                "id": 5,
+                "start": 168,
+                "end": 202
+            },
+            {
+                "label": "URL",
+                "text": "https://healthdata.com/discharge-info",
+                "id": 6,
+                "start": 207,
+                "end": 244
+            }
+        ]
+    },
+    {
+        "sentence": "Patient Emma Wilson, age 52, was discharged by Dr. Paul Reynolds after cardiac surgery at Metro Heart Center, Melbourne, Australia, on March 18, 2024.",
+        "meta": {
+            "note_id": 724
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Emma Wilson",
+                "id": 0,
+                "start": 8,
+                "end": 19
+            },
+            {
+                "label": "AGE",
+                "text": "52",
+                "id": 1,
+                "start": 25,
+                "end": 27
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Paul Reynolds",
+                "id": 2,
+                "start": 47,
+                "end": 64
+            },
+            {
+                "label": "HOSP",
+                "text": "Metro Heart Center",
+                "id": 3,
+                "start": 90,
+                "end": 108
+            },
+            {
+                "label": "LOC",
+                "text": "Melbourne, Australia",
+                "id": 4,
+                "start": 110,
+                "end": 130
+            },
+            {
+                "label": "DATE",
+                "text": "March 18, 2024",
+                "id": 5,
+                "start": 135,
+                "end": 149
+            }
+        ]
+    },
+    {
+        "sentence": "On July 23, 2025, nurse Jessica Lee provided follow-up care to patient Brian Mills (ID: BM2025078) at Harmony Medical Group in Phoenix, USA.",
+        "meta": {
+            "note_id": 725
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "July 23, 2025",
+                "id": 0,
+                "start": 3,
+                "end": 16
+            },
+            {
+                "label": "STAFF",
+                "text": "nurse Jessica Lee",
+                "id": 1,
+                "start": 18,
+                "end": 35
+            },
+            {
+                "label": "PERSON",
+                "text": "Brian Mills",
+                "id": 2,
+                "start": 71,
+                "end": 82
+            },
+            {
+                "label": "ID",
+                "text": "BM2025078",
+                "id": 3,
+                "start": 88,
+                "end": 97
+            },
+            {
+                "label": "HOSP",
+                "text": "Harmony Medical Group",
+                "id": 4,
+                "start": 102,
+                "end": 123
+            },
+            {
+                "label": "LOC",
+                "text": "Phoenix, USA",
+                "id": 5,
+                "start": 127,
+                "end": 139
+            }
+        ]
+    },
+    {
+        "sentence": "Patient Lucas Brown, contact number +44 123 456789, visited Sunshine Pediatric Clinic in Bristol, UK, for a regular health screening on November 30, 2024.",
+        "meta": {
+            "note_id": 726
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Lucas Brown",
+                "id": 0,
+                "start": 8,
+                "end": 19
+            },
+            {
+                "label": "PHONE",
+                "text": "+44 123 456789",
+                "id": 1,
+                "start": 36,
+                "end": 50
+            },
+            {
+                "label": "HOSP",
+                "text": "Sunshine Pediatric Clinic",
+                "id": 2,
+                "start": 60,
+                "end": 85
+            },
+            {
+                "label": "LOC",
+                "text": "Bristol, UK",
+                "id": 3,
+                "start": 89,
+                "end": 100
+            },
+            {
+                "label": "DATE",
+                "text": "November 30, 2024",
+                "id": 4,
+                "start": 136,
+                "end": 153
+            }
+        ]
+    },
+    {
+        "sentence": "On October 14, 2024, Zephyr Rune visited Seraphelle Clinic for allergy testing. Visit https://seraphelle.org and https://allergycentral.com.",
+        "meta": {
+            "note_id": 727
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "October 14, 2024",
+                "id": 0,
+                "start": 3,
+                "end": 19
+            },
+            {
+                "label": "PERSON",
+                "text": "Zephyr Rune",
+                "id": 1,
+                "start": 21,
+                "end": 32
+            },
+            {
+                "label": "HOSP",
+                "text": "Seraphelle Clinic",
+                "id": 2,
+                "start": 41,
+                "end": 58
+            },
+            {
+                "label": "URL",
+                "text": "https://seraphelle.org",
+                "id": 3,
+                "start": 86,
+                "end": 108
+            },
+            {
+                "label": "URL",
+                "text": "https://allergycentral.com",
+                "id": 4,
+                "start": 113,
+                "end": 139
+            }
+        ]
+    },
+    {
+        "sentence": "SURG-450821 was recorded during an emergency procedure handled by Dr. Vesper Thorne at Wyrmwood Medical Institute on March 5, 2025. Learn more at https://wyrmwoodmed.org and https://surgicalrecords.info.",
+        "meta": {
+            "note_id": 728
+        },
+        "spans": [
+            {
+                "label": "ID",
+                "text": "SURG-450821",
+                "id": 0,
+                "start": 0,
+                "end": 11
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Vesper Thorne",
+                "id": 1,
+                "start": 66,
+                "end": 83
+            },
+            {
+                "label": "HOSP",
+                "text": "Wyrmwood Medical Institute",
+                "id": 2,
+                "start": 87,
+                "end": 113
+            },
+            {
+                "label": "DATE",
+                "text": "March 5, 2025",
+                "id": 3,
+                "start": 117,
+                "end": 130
+            },
+            {
+                "label": "URL",
+                "text": "https://wyrmwoodmed.org",
+                "id": 4,
+                "start": 146,
+                "end": 169
+            },
+            {
+                "label": "URL",
+                "text": "https://surgicalrecords.info",
+                "id": 5,
+                "start": 174,
+                "end": 202
+            }
+        ]
+    },
+    {
+        "sentence": "ID PAT-128743 belonging to Everen Sol was updated on the registry following a check-in at Halcyon Reach Hospital. Reference: https://halcyonreach.org/logs and https://patienttrack.io.",
+        "meta": {
+            "note_id": 729
+        },
+        "spans": [
+            {
+                "label": "ID",
+                "text": "PAT-128743",
+                "id": 0,
+                "start": 3,
+                "end": 13
+            },
+            {
+                "label": "PERSON",
+                "text": "Everen Sol",
+                "id": 1,
+                "start": 27,
+                "end": 37
+            },
+            {
+                "label": "HOSP",
+                "text": "Halcyon Reach Hospital",
+                "id": 2,
+                "start": 90,
+                "end": 112
+            },
+            {
+                "label": "URL",
+                "text": "https://halcyonreach.org/logs",
+                "id": 3,
+                "start": 125,
+                "end": 154
+            },
+            {
+                "label": "URL",
+                "text": "https://patienttrack.io",
+                "id": 4,
+                "start": 159,
+                "end": 182
+            }
+        ]
+    },
+    {
+        "sentence": "Valeria Snowe's prenatal check-up at Emberlight Medical Center occurred on March 29, 2025. Additional material is available at https://emberlight.org/prenatal and https://mothershealth.info.",
+        "meta": {
+            "note_id": 730
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Valeria Snowe",
+                "id": 0,
+                "start": 0,
+                "end": 13
+            },
+            {
+                "label": "HOSP",
+                "text": "Emberlight Medical Center",
+                "id": 1,
+                "start": 37,
+                "end": 62
+            },
+            {
+                "label": "DATE",
+                "text": "March 29, 2025",
+                "id": 2,
+                "start": 75,
+                "end": 89
+            },
+            {
+                "label": "URL",
+                "text": "https://emberlight.org/prenatal",
+                "id": 3,
+                "start": 127,
+                "end": 158
+            },
+            {
+                "label": "URL",
+                "text": "https://mothershealth.info",
+                "id": 4,
+                "start": 163,
+                "end": 189
+            }
+        ]
+    },
+    {
+        "sentence": "Dr. Oswin Duskwind conducted a follow-up for 57-year-old Kaelen Ironmere at Crescent Hearth Medical Center in Nexora, Valecross on April 19, 2025. Sources: https://sylvanwellness.org/news, https://obscurahealth.org/updates.",
+        "meta": {
+            "note_id": 731
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Oswin Duskwind",
+                "id": 0,
+                "start": 0,
+                "end": 18
+            },
+            {
+                "label": "AGE",
+                "text": "57",
+                "id": 1,
+                "start": 45,
+                "end": 47
+            },
+            {
+                "label": "PERSON",
+                "text": "Kaelen Ironmere",
+                "id": 2,
+                "start": 57,
+                "end": 72
+            },
+            {
+                "label": "HOSP",
+                "text": "Crescent Hearth Medical Center",
+                "id": 3,
+                "start": 76,
+                "end": 106
+            },
+            {
+                "label": "LOC",
+                "text": "Nexora, Valecross",
+                "id": 4,
+                "start": 110,
+                "end": 127
+            },
+            {
+                "label": "DATE",
+                "text": "April 19, 2025",
+                "id": 5,
+                "start": 131,
+                "end": 145
+            },
+            {
+                "label": "URL",
+                "text": "https://sylvanwellness.org/news",
+                "id": 6,
+                "start": 156,
+                "end": 187
+            },
+            {
+                "label": "URL",
+                "text": "https://obscurahealth.org/updates",
+                "id": 7,
+                "start": 189,
+                "end": 222
+            }
+        ]
+    },
+    {
+        "sentence": "Dr. Thaddeus Quill from Obsidian Vale Infirmary admitted 45-year-old Lysandra Corvin on June 20, 2023, after she experienced chest pain in New York, USA. Further details can be found at https://www.medicalupdates.com and https://obsidianvale.org/cardiology.",
+        "meta": {
+            "note_id": 732
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Thaddeus Quill",
+                "id": 0,
+                "start": 0,
+                "end": 18
+            },
+            {
+                "label": "HOSP",
+                "text": "Obsidian Vale Infirmary",
+                "id": 1,
+                "start": 24,
+                "end": 47
+            },
+            {
+                "label": "AGE",
+                "text": "45",
+                "id": 2,
+                "start": 57,
+                "end": 59
+            },
+            {
+                "label": "PERSON",
+                "text": "Lysandra Corvin",
+                "id": 3,
+                "start": 69,
+                "end": 84
+            },
+            {
+                "label": "DATE",
+                "text": "June 20, 2023",
+                "id": 4,
+                "start": 88,
+                "end": 101
+            },
+            {
+                "label": "LOC",
+                "text": "New York, USA",
+                "id": 5,
+                "start": 139,
+                "end": 152
+            },
+            {
+                "label": "URL",
+                "text": "https://www.medicalupdates.com",
+                "id": 6,
+                "start": 186,
+                "end": 216
+            },
+            {
+                "label": "URL",
+                "text": "https://obsidianvale.org/cardiology",
+                "id": 7,
+                "start": 221,
+                "end": 256
+            }
+        ]
+    },
+    {
+        "sentence": "Saint Mary's Hospital, located in Dublin, Ireland, admitted patient Olivia Clarke, born August 22, 1988, on April 12, 2025, due to severe food poisoning.",
+        "meta": {
+            "note_id": 733
+        },
+        "spans": [
+            {
+                "label": "HOSP",
+                "text": "Saint Mary's Hospital",
+                "id": 0,
+                "start": 0,
+                "end": 21
+            },
+            {
+                "label": "LOC",
+                "text": "Dublin, Ireland",
+                "id": 1,
+                "start": 34,
+                "end": 49
+            },
+            {
+                "label": "PERSON",
+                "text": "Olivia Clarke",
+                "id": 2,
+                "start": 68,
+                "end": 81
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "August 22, 1988",
+                "id": 3,
+                "start": 88,
+                "end": 103
+            },
+            {
+                "label": "DATE",
+                "text": "April 12, 2025",
+                "id": 4,
+                "start": 108,
+                "end": 122
+            }
+        ]
+    },
+    {
+        "sentence": "On October 16, 2023, Dr. Samuel Green examined patient Noah Edwards, age 61, at Horizon Clinic in Denver, USA, for suspected diabetes.",
+        "meta": {
+            "note_id": 734
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "October 16, 2023",
+                "id": 0,
+                "start": 3,
+                "end": 19
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Samuel Green",
+                "id": 1,
+                "start": 21,
+                "end": 37
+            },
+            {
+                "label": "PERSON",
+                "text": "Noah Edwards",
+                "id": 2,
+                "start": 55,
+                "end": 67
+            },
+            {
+                "label": "AGE",
+                "text": "61",
+                "id": 3,
+                "start": 73,
+                "end": 75
+            },
+            {
+                "label": "HOSP",
+                "text": "Horizon Clinic",
+                "id": 4,
+                "start": 80,
+                "end": 94
+            },
+            {
+                "label": "LOC",
+                "text": "Denver, USA",
+                "id": 5,
+                "start": 98,
+                "end": 109
+            }
+        ]
+    },
+    {
+        "sentence": "Patient Baptiste Laroche, ID BL2023109, age 44, participated in a COVID-19 vaccination trial coordinated by Pasteur Institute and detailed at www.pasteur.fr/covidtrial on July 14, 2024.",
+        "meta": {
+            "note_id": 735
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Baptiste Laroche",
+                "id": 0,
+                "start": 8,
+                "end": 24
+            },
+            {
+                "label": "ID",
+                "text": "BL2023109",
+                "id": 1,
+                "start": 29,
+                "end": 38
+            },
+            {
+                "label": "AGE",
+                "text": "44",
+                "id": 2,
+                "start": 44,
+                "end": 46
+            },
+            {
+                "label": "ORG",
+                "text": "Pasteur Institute",
+                "id": 3,
+                "start": 108,
+                "end": 125
+            },
+            {
+                "label": "URL",
+                "text": "www.pasteur.fr/covidtrial",
+                "id": 4,
+                "start": 142,
+                "end": 167
+            },
+            {
+                "label": "DATE",
+                "text": "July 14, 2024",
+                "id": 5,
+                "start": 171,
+                "end": 184
+            }
+        ]
+    },
+    {
+        "sentence": "Emergency services were provided to Nimue Thorne, aged 48-year-old, at Wyrmwood Medical Institute, Duskwatch. Learn more at https://nytheriahealth.org/news and https://lunarisboard.org/updates.",
+        "meta": {
+            "note_id": 736
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Nimue Thorne",
+                "id": 0,
+                "start": 36,
+                "end": 48
+            },
+            {
+                "label": "AGE",
+                "text": "48",
+                "id": 1,
+                "start": 55,
+                "end": 57
+            },
+            {
+                "label": "HOSP",
+                "text": "Wyrmwood Medical Institute",
+                "id": 2,
+                "start": 71,
+                "end": 97
+            },
+            {
+                "label": "LOC",
+                "text": "Duskwatch",
+                "id": 3,
+                "start": 99,
+                "end": 108
+            },
+            {
+                "label": "URL",
+                "text": "https://nytheriahealth.org/news",
+                "id": 4,
+                "start": 124,
+                "end": 155
+            },
+            {
+                "label": "URL",
+                "text": "https://lunarisboard.org/updates",
+                "id": 5,
+                "start": 160,
+                "end": 192
+            }
+        ]
+    },
+    {
+        "sentence": "Dr. Thorne Halewell filed the case for ID SURG-700982 regarding a transplant performed last Monday at Nova Crescent Institute. For records, visit https://novacrescent.org and https://transplantdocs.net.",
+        "meta": {
+            "note_id": 737
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Dr. Thorne Halewell",
+                "id": 0,
+                "start": 0,
+                "end": 19
+            },
+            {
+                "label": "ID",
+                "text": "SURG-700982",
+                "id": 1,
+                "start": 42,
+                "end": 53
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "last Monday",
+                "id": 2,
+                "start": 87,
+                "end": 98
+            },
+            {
+                "label": "HOSP",
+                "text": "Nova Crescent Institute",
+                "id": 3,
+                "start": 102,
+                "end": 125
+            },
+            {
+                "label": "URL",
+                "text": "https://novacrescent.org",
+                "id": 4,
+                "start": 146,
+                "end": 170
+            },
+            {
+                "label": "URL",
+                "text": "https://transplantdocs.net",
+                "id": 5,
+                "start": 175,
+                "end": 201
+            }
+        ]
+    },
+    {
+        "sentence": "Following a recent outbreak, the Obscura Health Alliance published guidelines on https://obscurahealth.org/alerts and https://epidemics.org/news for hospitals across Dallas, Texas.",
+        "meta": {
+            "note_id": 738
+        },
+        "spans": [
+            {
+                "label": "ORG",
+                "text": "Obscura Health Alliance",
+                "id": 0,
+                "start": 33,
+                "end": 56
+            },
+            {
+                "label": "URL",
+                "text": "https://obscurahealth.org/alerts",
+                "id": 1,
+                "start": 81,
+                "end": 113
+            },
+            {
+                "label": "URL",
+                "text": "https://epidemics.org/news",
+                "id": 2,
+                "start": 118,
+                "end": 144
+            },
+            {
+                "label": "LOC",
+                "text": "Dallas, Texas",
+                "id": 3,
+                "start": 166,
+                "end": 179
+            }
+        ]
+    },
+    {
+        "sentence": "At Duskspire Medical Pavilion, 28-year-old Talwyn Reed underwent a neurological scan supervised by Dr. Ignatius Ferros on February 17, 2025. Research: https://neurodusk.org and https://duskspire.org/scans.",
+        "meta": {
+            "note_id": 739
+        },
+        "spans": [
+            {
+                "label": "HOSP",
+                "text": "Duskspire Medical Pavilion",
+                "id": 0,
+                "start": 3,
+                "end": 29
+            },
+            {
+                "label": "AGE",
+                "text": "28",
+                "id": 1,
+                "start": 31,
+                "end": 33
+            },
+            {
+                "label": "PERSON",
+                "text": "Talwyn Reed",
+                "id": 2,
+                "start": 43,
+                "end": 54
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Ignatius Ferros",
+                "id": 3,
+                "start": 99,
+                "end": 118
+            },
+            {
+                "label": "DATE",
+                "text": "February 17, 2025",
+                "id": 4,
+                "start": 122,
+                "end": 139
+            },
+            {
+                "label": "URL",
+                "text": "https://neurodusk.org",
+                "id": 5,
+                "start": 151,
+                "end": 172
+            },
+            {
+                "label": "URL",
+                "text": "https://duskspire.org/scans",
+                "id": 6,
+                "start": 177,
+                "end": 204
+            }
+        ]
+    },
+    {
+        "sentence": "Nurse Isolde Fenwick sent a report via email isolde.fenwick@mistvaleclinic.org after attending to 30-year-old Quinlan Frost at Mistvale Clinic. Check https://mistvaleclinic.org and https://patientalerts.org.",
+        "meta": {
+            "note_id": 740
+        },
+        "spans": [
+            {
+                "label": "STAFF",
+                "text": "Nurse Isolde Fenwick",
+                "id": 0,
+                "start": 0,
+                "end": 20
+            },
+            {
+                "label": "EMAIL",
+                "text": "isolde.fenwick@mistvaleclinic.org",
+                "id": 1,
+                "start": 45,
+                "end": 78
+            },
+            {
+                "label": "AGE",
+                "text": "30",
+                "id": 2,
+                "start": 98,
+                "end": 100
+            },
+            {
+                "label": "PERSON",
+                "text": "Quinlan Frost",
+                "id": 3,
+                "start": 110,
+                "end": 123
+            },
+            {
+                "label": "HOSP",
+                "text": "Mistvale Clinic",
+                "id": 4,
+                "start": 127,
+                "end": 142
+            },
+            {
+                "label": "URL",
+                "text": "https://mistvaleclinic.org",
+                "id": 5,
+                "start": 150,
+                "end": 176
+            },
+            {
+                "label": "URL",
+                "text": "https://patientalerts.org",
+                "id": 6,
+                "start": 181,
+                "end": 206
+            }
+        ]
+    },
+    {
+        "sentence": "Wyrmwood Medical Institute published findings on Auren Cindral under ID PAT-392847. Read the full report at https://obscurahealth.org/news and https://lunarisboard.org/updates.",
+        "meta": {
+            "note_id": 741
+        },
+        "spans": [
+            {
+                "label": "HOSP",
+                "text": "Wyrmwood Medical Institute",
+                "id": 0,
+                "start": 0,
+                "end": 26
+            },
+            {
+                "label": "PERSON",
+                "text": "Auren Cindral",
+                "id": 1,
+                "start": 49,
+                "end": 62
+            },
+            {
+                "label": "ID",
+                "text": "PAT-392847",
+                "id": 2,
+                "start": 72,
+                "end": 82
+            },
+            {
+                "label": "URL",
+                "text": "https://obscurahealth.org/news",
+                "id": 3,
+                "start": 108,
+                "end": 138
+            },
+            {
+                "label": "URL",
+                "text": "https://lunarisboard.org/updates",
+                "id": 4,
+                "start": 143,
+                "end": 175
+            }
+        ]
+    },
+    {
+        "sentence": "On March 5, 2024, patient Elena Ordonez, aged 52, underwent successful laparoscopic surgery at Clinica de Especialidades Medicas San Lucas in Cochabamba, Bolivia, performed by surgeon Dr. Mauricio Antelo.",
+        "meta": {
+            "note_id": 742
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "March 5, 2024",
+                "id": 0,
+                "start": 3,
+                "end": 16
+            },
+            {
+                "label": "PERSON",
+                "text": "Elena Ordonez",
+                "id": 1,
+                "start": 26,
+                "end": 39
+            },
+            {
+                "label": "AGE",
+                "text": "52",
+                "id": 2,
+                "start": 46,
+                "end": 48
+            },
+            {
+                "label": "HOSP",
+                "text": "Clinica de Especialidades Medicas San Lucas",
+                "id": 3,
+                "start": 95,
+                "end": 138
+            },
+            {
+                "label": "LOC",
+                "text": "Cochabamba, Bolivia",
+                "id": 4,
+                "start": 142,
+                "end": 161
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Mauricio Antelo",
+                "id": 5,
+                "start": 184,
+                "end": 203
+            }
+        ]
+    },
+    {
+        "sentence": "Medical ID PAT-284910 was assigned to Ysara Starwyn who visited Mistvale Clinic on April 14, 2025. Visit https://obscurahealth.org/news or https://lunarisboard.org/updates.",
+        "meta": {
+            "note_id": 743
+        },
+        "spans": [
+            {
+                "label": "ID",
+                "text": "PAT-284910",
+                "id": 0,
+                "start": 11,
+                "end": 21
+            },
+            {
+                "label": "PERSON",
+                "text": "Ysara Starwyn",
+                "id": 1,
+                "start": 38,
+                "end": 51
+            },
+            {
+                "label": "HOSP",
+                "text": "Mistvale Clinic",
+                "id": 2,
+                "start": 64,
+                "end": 79
+            },
+            {
+                "label": "DATE",
+                "text": "April 14, 2025",
+                "id": 3,
+                "start": 83,
+                "end": 97
+            },
+            {
+                "label": "URL",
+                "text": "https://obscurahealth.org/news",
+                "id": 4,
+                "start": 105,
+                "end": 135
+            },
+            {
+                "label": "URL",
+                "text": "https://lunarisboard.org/updates",
+                "id": 5,
+                "start": 139,
+                "end": 171
+            }
+        ]
+    },
+    {
+        "sentence": "The patient Seraphine Dax (born July 8, 1990) was examined three months ago by Dr. Osric Vale at Crescent Hearth Medical Center. Visit https://crescenthearth.org and https://medicalarchives.com.",
+        "meta": {
+            "note_id": 744
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Seraphine Dax",
+                "id": 0,
+                "start": 12,
+                "end": 25
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "July 8, 1990",
+                "id": 1,
+                "start": 32,
+                "end": 44
+            },
+            {
+                "label": "TIMESTAMPS",
+                "text": "three months ago",
+                "id": 2,
+                "start": 59,
+                "end": 75
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Osric Vale",
+                "id": 3,
+                "start": 79,
+                "end": 93
+            },
+            {
+                "label": "HOSP",
+                "text": "Crescent Hearth Medical Center",
+                "id": 4,
+                "start": 97,
+                "end": 127
+            },
+            {
+                "label": "URL",
+                "text": "https://crescenthearth.org",
+                "id": 5,
+                "start": 135,
+                "end": 161
+            },
+            {
+                "label": "URL",
+                "text": "https://medicalarchives.com",
+                "id": 6,
+                "start": 166,
+                "end": 193
+            }
+        ]
+    },
+    {
+        "sentence": "The World Health Organization released a report on February 9, 2024, highlighting the increased cases of influenza in Oslo, Norway, including patient Erik Hansen.",
+        "meta": {
+            "note_id": 745
+        },
+        "spans": [
+            {
+                "label": "ORG",
+                "text": "World Health Organization",
+                "id": 0,
+                "start": 4,
+                "end": 29
+            },
+            {
+                "label": "DATE",
+                "text": "February 9, 2024",
+                "id": 1,
+                "start": 51,
+                "end": 67
+            },
+            {
+                "label": "LOC",
+                "text": "Oslo, Norway",
+                "id": 2,
+                "start": 118,
+                "end": 130
+            },
+            {
+                "label": "PERSON",
+                "text": "Erik Hansen",
+                "id": 3,
+                "start": 150,
+                "end": 161
+            }
+        ]
+    },
+    {
+        "sentence": "The email lyra.knox@ashenvalemed.org confirmed that 52-year-old Orion Vale was discharged successfully. Check https://ashenvalemed.org/discharges and https://recoverynotices.org.",
+        "meta": {
+            "note_id": 746
+        },
+        "spans": [
+            {
+                "label": "EMAIL",
+                "text": "lyra.knox@ashenvalemed.org",
+                "id": 0,
+                "start": 10,
+                "end": 36
+            },
+            {
+                "label": "AGE",
+                "text": "52",
+                "id": 1,
+                "start": 52,
+                "end": 54
+            },
+            {
+                "label": "PERSON",
+                "text": "Orion Vale",
+                "id": 2,
+                "start": 64,
+                "end": 74
+            },
+            {
+                "label": "URL",
+                "text": "https://ashenvalemed.org/discharges",
+                "id": 3,
+                "start": 110,
+                "end": 145
+            },
+            {
+                "label": "URL",
+                "text": "https://recoverynotices.org",
+                "id": 4,
+                "start": 150,
+                "end": 177
+            }
+        ]
+    },
+    {
+        "sentence": "On May 3, 2024, Dr. Robert Ames admitted patient Clara Johnson, age 45, to Sunshine Medical Center in Auckland, New Zealand, due to acute migraine symptoms.",
+        "meta": {
+            "note_id": 747
+        },
+        "spans": [
+            {
+                "label": "DATE",
+                "text": "May 3, 2024",
+                "id": 0,
+                "start": 3,
+                "end": 14
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Robert Ames",
+                "id": 1,
+                "start": 16,
+                "end": 31
+            },
+            {
+                "label": "PERSON",
+                "text": "Clara Johnson",
+                "id": 2,
+                "start": 49,
+                "end": 62
+            },
+            {
+                "label": "AGE",
+                "text": "45",
+                "id": 3,
+                "start": 68,
+                "end": 70
+            },
+            {
+                "label": "HOSP",
+                "text": "Sunshine Medical Center",
+                "id": 4,
+                "start": 75,
+                "end": 98
+            },
+            {
+                "label": "LOC",
+                "text": "Auckland, New Zealand",
+                "id": 5,
+                "start": 102,
+                "end": 123
+            }
+        ]
+    },
+    {
+        "sentence": "Patient Miguel Torres (born July 15, 1976) underwent routine dental surgery performed by Dr. Susan Hartley at Grace Clinic in Hamilton, Canada.",
+        "meta": {
+            "note_id": 748
+        },
+        "spans": [
+            {
+                "label": "PERSON",
+                "text": "Miguel Torres",
+                "id": 0,
+                "start": 8,
+                "end": 21
+            },
+            {
+                "label": "BIRTHDATE",
+                "text": "July 15, 1976",
+                "id": 1,
+                "start": 28,
+                "end": 41
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Susan Hartley",
+                "id": 2,
+                "start": 89,
+                "end": 106
+            },
+            {
+                "label": "HOSP",
+                "text": "Grace Clinic",
+                "id": 3,
+                "start": 110,
+                "end": 122
+            },
+            {
+                "label": "LOC",
+                "text": "Hamilton, Canada",
+                "id": 4,
+                "start": 126,
+                "end": 142
+            }
+        ]
+    },
+    {
+        "sentence": "As of three weeks ago, Dr. Seraphion Lorne had already conducted two surgeries at the Solstice Haven Hospital in Cape Town, South Africa.",
+        "meta": {
+            "note_id": 749
+        },
+        "spans": [
+            {
+                "label": "TIMESTAMPS",
+                "text": "three weeks ago",
+                "id": 0,
+                "start": 6,
+                "end": 21
+            },
+            {
+                "label": "STAFF",
+                "text": "Dr. Seraphion Lorne",
+                "id": 1,
+                "start": 23,
+                "end": 42
+            },
+            {
+                "label": "HOSP",
+                "text": "Solstice Haven Hospital",
+                "id": 2,
+                "start": 86,
+                "end": 109
+            },
+            {
+                "label": "LOC",
+                "text": "Cape Town, South Africa",
+                "id": 3,
+                "start": 113,
+                "end": 136
+            }
+        ]
+    },
+    {
         "sentence": "In the sterile light of the operating room, hands work with precision, crafting miracles unseen yet deeply felt.",
         "meta": {
             "note_id": 901
