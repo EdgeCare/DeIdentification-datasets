@@ -33722,6 +33722,534 @@
             }
         ]
     },
+        {
+          "sentence": "At precisely 10:17 AM on May 2nd, 2025, a critical alert originating from the telemetry unit at Asklepion Medical Center in Nicosia indicated a sudden drop in blood pressure for patient ID XM-729, identified as Isolde Dubois, age 78. Nurse Bronwyn Flanagan immediately initiated established emergency protocols, documenting the event with a timestamp of 10:18 AM and contacting attending physician Dr. Alaric O'Connell via the hospital's internal communication system. The patient's birthdate was recorded as 1947-03-10, and her primary contact phone number is +357 22 55 66 77. Preliminary assessment suggested a possible adverse reaction to a newly administered medication, the details of which were logged in the electronic health record accessible at asklepionmedical.uk.",
+          "meta": {
+            "note_id": 1416
+          },
+          "spans": [
+            {
+              "label": "TIMESTAMPS",
+              "text": "10:17 AM"
+            },
+            {
+              "label": "DATE",
+              "text": "May 2nd, 2025"
+            },
+            {
+              "label": "HOSP",
+              "text": "Asklepion Medical Center"
+            },
+            {
+              "label": "LOC",
+              "text": "Nicosia"
+            },
+            {
+              "label": "ID",
+              "text": "XM-729"
+            },
+            {
+              "label": "PERSON",
+              "text": "Isolde Dubois"
+            },
+            {
+              "label": "AGE",
+              "text": "78"
+            },
+            {
+              "label": "STAFF",
+              "text": "Nurse Bronwyn Flanagan"
+            },
+            {
+              "label": "TIMESTAMPS",
+              "text": "10:18 AM"
+            },
+            {
+              "label": "STAFF",
+              "text": "Dr. Alaric O'Connell"
+            },
+            {
+              "label": "BIRTHDATE",
+              "text": "1947-03-10"
+            },
+            {
+              "label": "PHONE",
+              "text": "+357 22 55 66 77"
+            },
+            {
+              "label": "URL",
+              "text": "asklepionmedical.uk"
+            }
+          ]
+        },
+        {
+          "sentence": "A follow-up appointment was scheduled for patient Caius Blackwood, aged 32, who was recently seen at St. Jude's Children's Hospital in Memphis. The appointment is set for June 15th, 2025, at 2:45 PM with pediatric specialist Dr. Seraphina Mallory. Mr. Blackwood's date of birth is 1993-08-22, and all correspondence regarding this appointment will be sent to his registered email address, blackwoodc611@testmail.com. His patient identification number within the hospital system is SJCH-884.",
+          "meta": {
+            "note_id": 1417
+          },
+          "spans": [
+            {
+              "label": "PERSON",
+              "text": "Caius Blackwood"
+            },
+            {
+              "label": "AGE",
+              "text": "32"
+            },
+            {
+              "label": "HOSP",
+              "text": "St. Jude's Children's Hospital"
+            },
+            {
+              "label": "LOC",
+              "text": "Memphis"
+            },
+            {
+              "label": "DATE",
+              "text": "June 15th, 2025"
+            },
+            {
+              "label": "TIMESTAMPS",
+              "text": "2:45 PM"
+            },
+            {
+              "label": "STAFF",
+              "text": "Dr. Seraphina Mallory"
+            },
+            {
+                "label": "PERSON",
+                "text": "Mr. Blackwood"
+              },
+            {
+              "label": "BIRTHDATE",
+              "text": "1993-08-22"
+            },
+            {
+              "label": "EMAIL",
+              "text": "blackwoodc611@testmail.com"
+            },
+            {
+              "label": "ID",
+              "text": "SJCH-884"
+            }
+          ]
+        },
+        {
+            "sentence": "A request for medical records pertaining to patient Elara Finch, born on 1970-11-03, was received by the records department of Oakhaven General Hospital at 9:00 AM on April 29th, 2025. The request, submitted by the legal firm of Thornton & Vance (www.thorntonvance.com), specified records related to her admission between March 1st, 2025, and March 15th, 2025. The patient's identification number is OGH-551, and the contact email for the legal request is legal@thorntonvance.com.",
+            "meta": {
+              "note_id": 1418
+            },
+            "spans": [
+              {
+                "label": "PERSON",
+                "text": "Elara Finch"
+              },
+              {
+                "label": "BIRTHDATE",
+                "text": "1970-11-03"
+              },
+              {
+                "label": "HOSP",
+                "text": "Oakhaven General Hospital"
+              },
+              {
+                "label": "TIMESTAMPS",
+                "text": "9:00 AM"
+              },
+              {
+                "label": "DATE",
+                "text": "April 29th, 2025"
+              },
+              {
+                "label": "ORG",
+                "text": "Thornton & Vance"
+              },
+              {
+                "label": "URL",
+                "text": "www.thorntonvance.com"
+              },
+              {
+                "label": "DATE",
+                "text": "March 1st, 2025"
+              },
+              {
+                "label": "DATE",
+                "text": "March 15th, 2025"
+              },
+              {
+                "label": "ID",
+                "text": "OGH-551"
+              },
+              {
+                "label": "EMAIL",
+                "text": "legal@thorntonvance.com"
+              }
+            ]
+          },
+          {
+            "sentence": "During a routine check-up at 11:45 AM, patient Ruadhan Mallory, age 45, informed Nurse Isolde Vance at Columba's Clinic in Galway about a persistent issue. He mentioned his last visit was on February 10th, 2025. His birthdate is 1980 01 20, and his preferred contact number is 086 623 6567. Nurse Vance made a note to consult with Dr. Caius Thornton regarding these concerns.",
+            "meta": {
+              "note_id": 1419
+            },
+            "spans": [
+              {
+                "label": "TIMESTAMPS",
+                "text": "11:45 AM"
+              },
+              {
+                "label": "PERSON",
+                "text": "Ruadhan Mallory"
+              },
+              {
+                "label": "AGE",
+                "text": "45"
+              },
+              {
+                "label": "STAFF",
+                "text": "Nurse Isolde Vance"
+              },
+              {
+                "label": "HOSP",
+                "text": "Columba's Clinic"
+              },
+              {
+                "label": "LOC",
+                "text": "Galway"
+              },
+              {
+                "label": "DATE",
+                "text": "February 10th, 2025"
+              },
+              {
+                "label": "BIRTHDATE",
+                "text": "1980 01 20"
+              },
+              {
+                "label": "PHONE",
+                "text": "086 623 6567"
+              },
+              {
+                "label": "STAFF",
+                "text": "Nurse Vance"
+              },
+              {
+                "label": "STAFF",
+                "text": "Dr. Caius Thornton"
+              }
+            ]
+          },
+          {
+            "sentence": "The quarterly report from Veritas Pharmaceuticals (www.veritaspharma.org) indicated promising results for their new drug trial. The lead researcher, Dr. Bronwyn Malley, presented the findings at a conference held on April 25th, 2025. Interested parties can request further information via email at research-inquiries@veritaspharma.org.",
+            "meta": {
+              "note_id": 1420
+            },
+            "spans": [
+              {
+                "label": "ORG",
+                "text": "Veritas Pharmaceuticals"
+              },
+              {
+                "label": "URL",
+                "text": "www.veritaspharma.org"
+              },
+              {
+                "label": "STAFF",
+                "text": "Dr. Bronwyn Malley"
+              },
+              {
+                "label": "DATE",
+                "text": "April 25th, 2025"
+              },
+              {
+                "label": "EMAIL",
+                "text": "research-inquiries@veritaspharma.org"
+              }
+            ]
+          },
+          {
+            "sentence": "Security footage timestamped at 08:30 AM showed an unauthorized individual accessing the restricted wing of Anthony's Hospital. The individual was later identified as a former staff member, Eamon Gallagher, employee ID SAH-901 (terminated on 2024-12-15). Local authorities were contacted at +353 1 800 9000.",
+            "meta": {
+              "note_id": 1421
+            },
+            "spans": [
+              {
+                "label": "TIMESTAMPS",
+                "text": "08:30 AM"
+              },
+              {
+                "label": "HOSP",
+                "text": "Anthony's Hospital"
+              },
+              {
+                "label": "STAFF",
+                "text": "Eamon Gallagher"
+              },
+              {
+                "label": "ID",
+                "text": "SAH-901"
+              },
+              {
+                "label": "DATE",
+                "text": "2024-12-15"
+              },
+              {
+                "label": "PHONE",
+                "text": "+353 1 800 9000"
+              }
+            ]
+          },{
+            "sentence": "Patient: Sorcha MacTiernan, Age: 61, DOB: 1964-03-22. Admitted to University General Hospital, Galway on 2025-05-01 at 14:00 for observation following a fall. Attending Physician: Dr. Fionnuala (contact via hospital pager #789). Primary complaint: suspected fractured left radius. Initial X-ray performed at 15:30 confirmed a complete fracture. Medication administered: Morphine 5mg IV at 16:00 for pain management. Allergies: Penicillin (documented in EHR - www.galwayhospital.org/ehr/id-273/report). Next scheduled assessment: 08:00 on 2025-05-02.",
+            "meta": {
+              "note_id": 1422,
+              "report_type": "medical_report"
+            },
+            "spans": [
+              {
+                "label": "PERSON",
+                "text": "Sorcha MacTiernan"
+              },
+              {
+                "label": "AGE",
+                "text": "61"
+              },
+              {
+                "label": "BIRTHDATE",
+                "text": "1964-03-22"
+              },
+              {
+                "label": "HOSP",
+                "text": "University General Hospital"
+              },
+              {
+                "label": "LOC",
+                "text": "Galway"
+              },
+              {
+                "label": "DATE",
+                "text": "2025-05-01"
+              },
+              {
+                "label": "TIMESTAMPS",
+                "text": "14:00"
+              },
+              {
+                "label": "STAFF",
+                "text": "Dr. Fionnuala"
+              },
+              {
+                "label": "ID",
+                "text": "#789"
+              },
+              {
+                "label": "TIMESTAMPS",
+                "text": "15:30"
+              },
+              {
+                "label": "TIMESTAMPS",
+                "text": "16:00"
+              },
+              {
+                "label": "URL",
+                "text": "www.galwayhospital.org/ehr/id-273/report"
+              },
+              {
+                "label": "TIMESTAMPS",
+                "text": "08:00"
+              },
+              {
+                "label": "DATE",
+                "text": "2025-05-02"
+              }
+            ]
+          }, {
+            "sentence": "Patient: Aisling Connell, Age: 29, DOB: 1996-07-18. Admitted to Brendan's Medical Centre, Dingle on 2025-05-02 at 09:10 due to acute abdominal pain. Attending Physician: Dr. Lorcan Fitzpatrick. Chief complaint: severe lower abdominal cramping. Ultrasound performed at 10:30 revealed a possible ovarian cyst. Prescribed Buscopan 20mg PO at 11:00. No known allergies. Follow-up ultrasound scheduled for 2025-05-03 at 14:00.",
+            "meta": {
+              "note_id": 1423,
+              "report_type": "medical"
+            },
+            "spans": [
+              {
+                "label": "PERSON",
+                "text": "Aisling Connell"
+              },
+              {
+                "label": "AGE",
+                "text": "29"
+              },
+              {
+                "label": "BIRTHDATE",
+                "text": "1996-07-18"
+              },
+              {
+                "label": "HOSP",
+                "text": "Brendan's Medical Centre"
+              },
+              {
+                "label": "LOC",
+                "text": "Dingle"
+              },
+              {
+                "label": "DATE",
+                "text": "2025-05-02"
+              },
+              {
+                "label": "TIMESTAMPS",
+                "text": "09:10"
+              },
+              {
+                "label": "STAFF",
+                "text": "Dr. Lorcan Fitzpatrick"
+              },
+              {
+                "label": "TIMESTAMPS",
+                "text": "10:30"
+              },
+              {
+                "label": "TIMESTAMPS",
+                "text": "11:00"
+              },
+              {
+                "label": "DATE",
+                "text": "2025-05-03"
+              },
+              {
+                "label": "TIMESTAMPS",
+                "text": "14:00"
+              }
+            ]
+          },
+          {
+            "sentence": "ECG performed showed signs of possible cardiac ischemia. Administered Aspirin 300mg PO stat. Allergy: Codeine (noted in patient file #MIH-4567). Cardiology consult requested at 11:30.",
+            "meta": {
+              "note_id": 1424,
+              "report_type": "medical"
+            },
+            "spans": [
+              {
+                "label": "ID",
+                "text": "#MIH-4567"
+              },
+              {
+                "label": "TIMESTAMPS",
+                "text": "11:30"
+              }
+            ]
+          },
+
+          {
+            "sentence": "Urgent notification: At 03:12 AM, telemetry monitoring at Finian's Hospital, detected a critical arrhythmia in patient ID LF-601, Bronwyn Abernathy (DOB: 1958-11-29). On-call cardiologist, Dr. Alaric Kinsella (pager #227), was immediately alerted. Initial response involved administration of Amiodarone IV push at 03:18 AM, as per standing orders",
+            "meta": {
+              "note_id": 1425,
+              "report_type": "critical_event"
+            },
+            "spans": [
+              {
+                "label": "TIMESTAMPS",
+                "text": "03:12 AM"
+              },
+              {
+                "label": "HOSP",
+                "text": "Finian's Hospital"
+              },
+              {
+                "label": "ID",
+                "text": "LF-601"
+              },
+              {
+                "label": "PERSON",
+                "text": "Bronwyn Abernathy"
+              },
+              {
+                "label": "BIRTHDATE",
+                "text": "1958-11-29"
+              },
+              {
+                "label": "STAFF",
+                "text": "Dr. Alaric Kinsella"
+              },
+              {
+                "label": "ID",
+                "text": "#227"
+              },
+              {
+                "label": "TIMESTAMPS",
+                "text": "03:18 AM"
+              }
+            ]
+          },
+          {
+            "sentence": "Regarding the incident on Ward 3B, a debriefing session is scheduled for 15:00 today, May 2nd, 2025, in the conference room. All involved personnel, including attending neurologist Dr. Isolde Shea, charge nurse Ruadhan Fitzpatrick, and respiratory therapist Grainne MacLeod, are required to attend. The preliminary incident report concerning patient Caius Flanagan (admitted 2025-04-30) is available via email distribution.",
+            "meta": {
+              "note_id": 1426,
+              "report_type": "incident_debrief"
+            },
+            "spans": [
+              {
+                "label": "TIMESTAMPS",
+                "text": "15:00 today"
+              },
+              {
+                "label": "DATE",
+                "text": "May 2nd, 2025"
+              },
+              {
+                "label": "STAFF",
+                "text": "Dr. Isolde Shea"
+              },
+              {
+                "label": "STAFF",
+                "text": "nurse Ruadhan Fitzpatrick"
+              }, 
+              {
+                "label": "STAFF",
+                "text": "Grainne MacLeod"
+              },
+              {
+                "label": "PERSON",
+                "text": "Caius Flanagan"
+              },
+              {
+                "label": "DATE",
+                "text": "2025-04-30"
+              }
+            ]
+          },
+          {
+            "sentence": "Pharmacy update: A shortage of Levothyroxine 100mcg (batch #PHARM-2025-A7) is currently affecting dispensing at Patrick Hospital, Limerick. Physicians are advised to consider alternative medications where clinically appropriate. Expected resupply date is May 5th, 2025. For urgent inquiries, contact pharmacy supervisor Eamon Kinsella at eamon.kinsella@email.com or call 061 414 222",
+            "meta": {
+              "note_id": 1427,
+              "report_type": "pharmacy_update"
+            },
+            "spans": [
+                {"label": "ID",
+                "text": "#PHARM-2025-A7"},
+              {
+                "label": "HOSP",
+                "text": "Patrick Hospital"
+              },
+              {
+                "label": "LOC",
+                "text": "Limerick"
+              },
+              {
+                "label": "DATE",
+                "text": "May 5th, 2025"
+              },
+              {
+                "label": "STAFF",
+                "text": "Eamon Kinsella"
+              },
+              {
+                "label": "EMAIL",
+                "text": "eamon.kinsella@email.com"
+              },
+              {
+                "label": "PHONE",
+                "text": "061 414 222"
+              }
+            ]
+          },
+          
     {
         "sentence": "Doctor: Clara's vaccination schedule includes follow-ups next month.",
         "meta": {
